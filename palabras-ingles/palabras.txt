@@ -82,6 +82,9 @@ chair = silla
 basement = sótano
 bedroom = dormitorio
 beds = camas
+Belive = creyendo
+Jog = trotar
+
 
 
 
