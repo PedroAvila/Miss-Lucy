@@ -82,17 +82,7 @@ chair = silla
 basement = sótano
 bedroom = dormitorio
 beds = camas
-/* Curso ingles Fransico Ochoa *
 
-Livingroom =
-Diningroom = Comedor
-Kitchen = Cocina
-Bedroom = Habitación
-Bathroom = Baño
-Attic = Ático
-Basement = Sótano
-Backyard = Patio trasero
-Yard = Patio
-Garden = Jardín
-Garage = Garage
+
+
  
