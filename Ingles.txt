@@ -3,7 +3,8 @@ Affirmative verbo ser
 I am a man
 You are a teacher
 He is my friend
-She is my girlfriend She is my daugther
+She is my girlfriend
+She is my daugther
 It is a horse
 
 
@@ -54,6 +55,7 @@ GranMother abuela
 GranFather abuelo
 
 Plural
+=======
 Mothers
 Parents
 Grandparents abuelos
@@ -124,7 +126,8 @@ Numbers
 100 One Hundred A Hundred
 1000 One Thousand
 
-HREE THOUSAND FOUR HUNDRED FIFTY
+3,450
+THREE THOUSAND FOUR HUNDRED FIFTY
 278
 TWO HUNDRED SEVENTY EIGHT
 
@@ -132,7 +135,7 @@ ONE THOUSAND EIGHTY-NINE
 566
 FIVE HUNDRED SIXTY-SIX
 7499
-SEVN THOUSAND FOUR HUNDRED NINETY-NINE
+SEVEN THOUSAND FOUR HUNDRED NINETY-NINE
 
 Vocabulary for sentences
 Adjetives
@@ -140,35 +143,35 @@ Big = grande
 Small = pequeño
 Fat = Gordo
 Thin = Delgado
-Pretty bonito
-Beautiful - hermoso
-Ugly feo
+Pretty = bonito
+Beautiful = hermoso
+Ugly = feo
 Clean = limpio
-Dirty sucio
-Up arriba
-Down abajo
-Tall alto
-Old viejo
-Young nuevo
-Friendly amigable
-Funny Gracioso
-Exited emocionado
-Tired cansado
-Jealous celoso
-Bored aburrido
-Difficult dificil
-Easy facil
-Hard duro
-Soft suave
+Dirty = sucio
+Up = arriba
+Down = abajo
+Tall = alto
+Old = viejo
+Young = nuevo
+Friendly = amigable
+Funny = Gracioso
+Exited = emocionado
+Tired = cansado
+Jealous = celoso
+Bored = aburrido
+Difficult = dificil
+Easy = facil
+Hard = duro
+Soft = suave
 Sick ill(britanico) Enfermo
-Busy ocupado
-Many muchos
-Brother hemano
-Sister hermana
-Cousing primo
-Uncle tio
-aunt tia
-Very muy
+Busy = ocupado
+Many = muchos
+Brother = hemano
+Sister = hermana
+Cousing = primo
+Uncle = tio
+aunt = tia
+Very = muy
 
 
 
@@ -218,11 +221,11 @@ My favourite colour is blue
 I'm interested in learning English
 
 
-they`are cold
-He's hot
-She's afraid
-They're hungry
-She's angry
+they`are cold => Son fríos
+He's hot => Esta bueno
+She's afraid => Tiene miedo
+They're hungry => Tienen hambre
+She's angry => Esta enfadada
 
 It isnt windy today
 My hands  arend could

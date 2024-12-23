@@ -1,0 +1,42 @@
+
+/* To be forma Corta / Negativa */
+
+To be - Afirmativo
+------------------
+
+I am - I'm
+You are - You're
+He is - He's
+She is - She's
+It is - It's
+We are - We're 
+They are - They're
+
+To be - Negativo
+----------------
+
+I am - not     => I am not 
+You are - not  => You aren't
+He is - not    => He isn't
+She is - not   => She isn't
+It is - not    => It isn't
+We are - not   => We aren't
+They are - not => They aren't
+
+-------------------------------
+
+He is in the house
+He's
+
+Juan is in the house
+Juan's in the house
+Carlos is
+
+The car is in the garage
+the car's in the garage
+
+He is not in the house
+    isn't
+
+
+

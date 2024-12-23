@@ -2,7 +2,7 @@
 /* Partes de la casa y preposiciones IN-ON-AT */
 
 
-Livingroom =
+Livingroom = Salón
 Diningroom = Comedor
 Kitchen = Cocina
 Bedroom = Habitación

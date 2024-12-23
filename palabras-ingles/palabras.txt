@@ -84,6 +84,7 @@ bedroom = dormitorio
 beds = camas
 Belive = creyendo
 Jog = trotar
+today = hoy
 
 
 
