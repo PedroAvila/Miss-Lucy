@@ -1,0 +1,63 @@
+
+/* A - AN / There is There are */
+
+A - AN => Articulos indefinidos
+======
+
+un - una
+
+A: Siguiente palabra con sonido consonante
+A car
+
+AN: Siguiente palabra con sonido de vocal
+AN apple
+
+Examples
+========
+
+1. a dog
+2. an elevator
+3. an hour
+4. an orange
+5. a hospital
+6. an university
+
+Singular <= There is/There are => Plural 
+            ==================
+                    Hay
+
++ There is a dog / There are 2 dogs
+  There's
+
+- There is not a dog / There are not 2 dogs
+        isn't                aren't
+
+
+? Is there a dog? / Are there 2 dogs?
+  Yes, there is   / Yes, there are
+  No, there isn't / No, there aren't
+
+
+Practice
+========
+
+1. En mi casa, sobre la mesa, hay dos manzanas.
+   In my house, on the table, there are 2 apples
+
+2. En el parque hay 3 gatos y hay un perro. Ellos están corriendo.
+   In the park there are 3 cats and there's a dog, They are running
+
+3. Hay 4 baños en tu casa? No, no hay 4 baños
+   Are there 4 bathrooms in your house?
+   No, there are not 4 bathrooms
+
+
+
+
+
+
+
+
+
+
+

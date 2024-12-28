@@ -1,0 +1,27 @@
+
+A = ei
+B = bi
+C = ci
+D = di
+E = i
+F = ef
+G = yi
+H = eich
+I = ai
+J = yei
+K = kei
+L = el
+M = em
+N = en
+O = ou
+P = pi
+Q = kiu
+R = arr
+S = es
+T = ti
+U = iu
+V = vi
+W = dabliu
+X = ex
+Y = uai
+Z = set
