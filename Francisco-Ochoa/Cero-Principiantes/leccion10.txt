@@ -1,0 +1,38 @@
+
+
+        Cuántos? <= /* How many */ => Cuántas?
+
+
+1. Cuantas sillas hay?
+How many chairs are there?
+
+2. Cuantas sillas azules hay en la cocina?
+How many blue chairs are there in the kitchen?
+there's one blue chair in the kitchen?
+
+Practice
+========
+
+1. Cuántos libros viejos hay sobre la mesa?
+How many old books are there on the table?
+- There are five old books on the table
+
+2. Cuántas flores hay en el jardín?
+How many flowers are there in the garden?
+- In the garden there are three flowers but there's one orange flower and there are two pink flowers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,32 +1,32 @@
 Affirmative verbo ser
 
-I am a man
-You are a teacher
-He is my friend
-She is my girlfriend
-She is my daugther
-It is a horse
+I am a man => Soy un hombre
+You are a teacher => Usteded es profesor 
+He is my friend => Es mi amigo 
+She is my girlfriend => Ella es mi novia 
+She is my daugther => Ella es mi hija 
+It is a horse => Es un caballo 
 
 
 Plural:
-We are students
-You are teachers
-They are women
+We are students => Somos estudiantes
+You are teachers => Ustedes son profesores 
+They are women => Son mujeres 
 
 Negative
 -------
 
-I am not a man
-You are not a teacher
+I am not a man => No soy un hombre 
+You are not a teacher => Usted no es profesor 
 
-He is not my friend
-She is not my girlfriend
-It is not a horse
+He is not my friend => No es mi amigo 
+She is not my girlfriend => Ella no es mi novia 
+It is not a horse => No es un caballo 
 
 plural:
-We are not men
-You are not teacher
-They are not women
+We are not men       => No somos hombres 
+You are not teacher  => Usted no es profesor 
+They are not women   => No son mujeres 
 
 Questions
 ========
@@ -39,9 +39,9 @@ Is it a horse? Yes, it is. no, it is not
 Plural:
 ======
 
-Are we man? Yes, we are. No, we are not
-Are you teachers? Yes, we are. No, we are not
-Are they dogs? Yes, they are. No, they are not
+Are we man? Yes, we are. No, we are not   => Somos hombres?
+Are you teachers? Yes, we are. No, we are not => Sois profesor?
+Are they dogs? Yes, they are. No, they are not => Son perros? 
 
 Vocabulary family
 ================
@@ -66,28 +66,28 @@ Contractions of verb to be
 
 I am => I`m
 You are => You`re
-He is He`s
-She is She`s
-It is It`s
-We are We`re
-You are you`re
-They are they`re
+He is => He`s
+She is => She`s
+It is => It`s
+We are => We`re
+You are => you`re
+They are => they`re
 
 Negative
 ========
-I am not I`m not
-You are not You aren`t you`re not
-He is not He`s not He isn`t
-She is not She isn`t She`s not
+I am not => I`m not
+You are not => You aren`t, you`re not
+He is not => He`s not, He isn`t
+She is not => She isn`t, She`s not
 
 It is not It isn`t It`s not
 
 Plural
 ======
 
-We are not We aren`t We`re not
+We are not => We aren`t, We`re not
 You
-They are not They arent`t They`re not
+They are not => They arent`t They`re not
 
 Vocubalary
 ==========
@@ -123,7 +123,7 @@ Numbers
 70 Seventy
 80 Eighty
 90 Ninety
-100 One Hundred A Hundred
+100 One Hundred, A Hundred
 1000 One Thousand
 
 3,450
@@ -185,7 +185,7 @@ Spring Primavera
 Ver to be (And is are)
 ======================
 
-She es 
+She is 
 They`are
 Is not or Itn`t
 That`s 
@@ -227,8 +227,8 @@ She's afraid => Tiene miedo
 They're hungry => Tienen hambre
 She's angry => Esta enfadada
 
-It isnt windy today
-My hands  arend could
+It isn't windy today => Hoy no hace viento
+My hands  are could => Mis manos prodría 
 Brazil is a very big country
 Diamonds There not cheap
 It isn't in the US

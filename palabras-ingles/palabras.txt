@@ -85,6 +85,10 @@ beds = camas
 Belive = creyendo
 Jog = trotar
 today = hoy
+hired = contratado
+busy = ocupado
+low = bajo
+high = alta
 
 ----------------------
 the => el/la/los/las
