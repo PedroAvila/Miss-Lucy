@@ -1,0 +1,53 @@
+
+/* Preguntar y negar con adjetivos demostrativos */
+
+
++ This is a police officer 
+- Is this a police officer?
+
+- No, this is not a police officer
+No, because this a gardener
+
+Who is that?
+That is a gardener
+
+Where is that man?
+That man is in the garden
+
++ These are you friends
+? Are these your friends?
+Yes, they are 
+
+- No, these are not my friends
+No, because these are my uncles
+
+Who are those?
+Where are those men?
+
+Practice
+========
+
+1. Is that an apple?
+No, that is not an apple
+
+2. What's that?
+That's a tomato
+
+3. Are the newspapers?
+No, these are not newspapers 
+
+4. What are these?
+These are books 
+
+5. Are those your friends?
+No, those are not my friends 
+
+6. Who are those?
+Those are my granma and my sister
+
+
+
+
+
+
+

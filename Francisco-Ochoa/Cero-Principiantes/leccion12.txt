@@ -1,0 +1,30 @@
+
+/*  Adjetivos Demostrativos */
+
+Near => Cerca  Singular => This(este, esta, esto) is * Plural => These(estas, estos) are
+
+Far => Lejos   Singular => That(eso, esa, ese)    is * Plural => Those(esos, esas)   are 
+
+1. this is a blue car 
+- that is a blue car 
+
+2. This is an apple 
+- That is an apple 
+
+3. This is my friend Jhon
+- That is my friend Jhon
+
+
+1. These are two new cars
+- Those are two new cars
+
+2. These are red apples
+- Those are red apples 
+
+3. These are my friends
+- Those are my friends
+
+
+
+
+
