@@ -64,14 +64,14 @@ Children hijos niños
 Contractions of verb to be
 ==========================
 
-I am => I`m
-You are => You`re
-He is => He`s
-She is => She`s
-It is => It`s
-We are => We`re
+I am => I`m = Yo soy
+You are => You`re = Usted es. tu, ustedes
+He is => He`s = Él es
+She is => She`s = Ella es
+It is => It`s = Es
+We are => We`re = Somos, Nosotros
 You are => you`re
-They are => they`re
+They are => they`re = Son, Ellos son
 
 Negative
 ========
