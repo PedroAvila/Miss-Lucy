@@ -171,14 +171,14 @@ most => más
 may => podría
 time => tiempo
 many => muchos
-make = hacer
+make => hacer
 then => entonces
 well => bueno/bien
 first => primero
 very => muy
 over => terminado
 now => ahora
-could => prodría
+could => podría
 should => debería
 even => incluso
 because => porque
@@ -220,7 +220,7 @@ he/she wants => él/ella quiere
 really? => de verdad
 think => pensar
 best => mejor
-life => vide
+life => vida
 each => cada
 made => hecho
 right => correcto
@@ -366,7 +366,7 @@ food => comida
 study => estudiar 
 students => estudiantes 
 woman => mujer 
-full => completo/
+full => completo
 
 
 
