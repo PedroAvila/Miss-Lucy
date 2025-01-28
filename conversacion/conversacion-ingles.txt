@@ -1,0 +1,312 @@
+
+
+1. Hello, Can I help you?
+- Hola puedo ayudarte?
+
+2. Sure, I need something to drink
+- Claro, necesito algo de beber
+
+3. There you go
+- Ahí lo tienes
+
+4. How much is it?
+- Cuánto cuesta?
+
+5. It's only $2
+- Son solo $2
+
+6. Do you need something else?
+- Necesitas algo más?
+
+7. Not at the moment, thanks
+- No por el momento, gracias
+
+8. Do you speak Spanish?
+- Hablas español?
+
+9. Yes I do speak Spanish
+- Si hablo español
+
+10. What's happening?
+- Qué esta pasando?
+
+11. I don't really know
+- Realmente no se
+
+12. Who do you like?
+- Quién te gusta?
+
+13. None
+- Ninguno
+
+14. Can you believe that?
+/ Ken iu biliv dat /
+- Puedes creerlo
+
+15. What are you doing?
+- Qué estás haciendo?
+
+16. Are you busy now?
+/ ar_iu bizi nao /
+- Estás ocupado ahora?
+
+17. Yes I'm busy now
+- Si, estoy ocupado ahora
+
+18. When will you be free?
+/ uen uil iu bi frui /
+- Cuándo serás libre?
+
+19. Maybe later
+/ meibi leiter / 
+- Quizas mas tarde
+
+20. No, I will not be free
+/ nou ae uil nat bi frui /
+- No, no seré libre
+
+21. Please sit down
+- Por favor siéntate
+
+22. Wow can I help you?
+- Cómo puedo ayudarte?
+
+23. Do you speak German?
+/ du iu spik germen /
+- Hablas Alemán?
+
+24. Yes a little bit
+/ ies e litol bit / 
+- Si un poco
+
+25. Can you spell your name?
+/ Ken iu spel ior neim / 
+- Puedes deletrear tu nombre?
+
+26. I sure can 
+/ ae shur ken /
+- Claro que puedo
+
+27. It's a beautiful name, isn't it?
+- Es un nombre bonito, no?
+
+28. Yes it is
+/ ies et ez /
+- Sí, lo es
+
+29. Please come in
+/ pliz kam in /
+- Por favor entra 
+
+30. It's raining
+/ etz renning /
+- Está lloviendo
+
+31. Don't stay out
+/ dount stei aut / 
+- No te quedes afuera
+
+32. Do you want something to eat?
+/ du iu uant sometheng tu it /
+- Quieres algo para comer?
+
+33. Yes, I do want something to eat
+- Sí, quiero algo de comer
+
+34. What type of food do you like?
+/ uat taip ov fud du iu laik / 
+- Qué tipo de comida te gusta?
+
+35. I like rice with beans
+- Me gusta el arroz con frijoles
+
+36. What will you do later?
+/ uat uil iu du leiter /
+- Que harás más tarde
+
+37. Can I call you later?
+/ ken ae kal iu leiter /
+- Puedo llamarte más tarde
+
+38. Yes, you can call me 
+/ ies iu ken kal mi /
+- Sí, puedes llamarme
+
+39. How do you see my English?
+/ jao du iu si mae inglish /
+- Cómo ves mi inglés?
+
+40. Your English is good
+/ ior inglish ez gud /
+- Su inglés es bueno
+
+41. I want to go now
+/ ae uant te gou nau /
+- Yo quiero ir ahora
+
+42. It's about to rain
+/ ets abaut tu ren  /
+- Está por llover
+
+43. You can not go now
+/ iu kennat gou now /
+- No puedes ir ahora
+
+44. You will get wet
+/ iu uil guet uet /
+- Te vas a mojar
+
+45. Take an umbrella
+/ teik an ombrela /
+- Toma un paraguas
+
+46. Don't get wet
+/ dount guet uet /
+- No te mojes
+
+47. What time is it?
+/ uat taim iz_et /
+- Que hora es?
+
+48. It's almost three
+/ ets almost thrui /
+- Son casi las tres
+
+49. It's time to go 
+/ ets taim te gou /
+- Es hora de ir
+
+50. It's her wedding
+/ ets jer uedin /
+- Es su boda
+
+51. You can't miss it
+/ iu kent miss et /
+- No te lo puedes perder
+
+52. Not this time
+/ nat dis taim /
+- No esta vez
+
+53. Shame on you!
+/ sheim on iu /
+- Que verguenza para ti!
+
+54. There is no way
+/ thers nou wei /
+- No hay forma
+
+55. You've got to go now
+/ iuv guot te gou nao /
+- Tienes que ir ahora
+
+56. Can you handle it?
+/ ken iu jendel et /
+- Puedes manejarlo?
+
+57. I can handle it 
+/ ae ken jendel et /
+- Yo puedo manejarlo
+
+58. Do it by yourself   
+/ du et bae iuorself /
+- Hazlo tu mismo
+
+59. I have to find it
+/ ae jev te faind et /
+- Tengo que encontrarlo
+
+60. Try it once more
+/ trae_et uans morr /
+- Inténtalo una vez más
+
+61. I don't believe it!
+/ ae dount biliv et /
+- Yo no lo creo!
+
+62. That's unacceptable!
+/ dats onakseptebl /
+- Eso es inaceptable!
+
+63. What do you mean?
+/ wat du iu minn /
+- Qué quieres decir?
+
+64. What a pain she has!
+/ wat e pen shi jes /
+- Qué dolor tiene!
+
+65. She's suffering
+/ shiz souferin /
+- Ella está sufriendo
+
+66. Is it possible now?
+/ ez et posibol nau /
+- Es posible ahora?
+
+67. Hang on for a while
+/ jeng_on fer e uail /
+- Espera un rato
+
+68. You have to wait!
+/ iu jev tu ueit /
+- Tienes que esperar
+
+69. It's an old watch
+/ ets an old uach /
+- Es un reloj antiguo
+
+70. It's too bright
+/ ets tu brait /
+- Es demasiado brillante
+
+71. Get out of my way!
+/ guet aut ov mae wei /
+- Fuera de mi camino!
+
+72. I didn't like it
+/ ae dident laik et /
+- No me gustó
+
+73. I'm going to my house
+- Me voy a mi casa
+
+74. I can give you a ride 
+/ ae ken guev_iu a raed /
+- Puedo darte un aventón
+
+75. That's very kind of you
+/ dats veri kaind of_iu / 
+- Es muy amable de tu parte
+
+76. I'll take a bus to go 
+/ ail teik a bos tu gou /
+- Tomaré un autobús para irme
+
+77. I appreciate your help
+/ ae aprishiet ior jelp /
+- Aprecio tu ayuda
+
+78. Maybe next time 
+/ meibi nex taem /
+- Tal vez la próxima vez
+
+79. Whenever you want
+/ uenever iu uant /
+- Cuando quieras
+
+80. I'm here to serve you
+/ am jir tu serv iu /
+- Estoy aquí para servirle
+
+81. I know that
+/ ae nou /
+- Eso lo se
+
+82. I'm grateful for That
+/ am greitful for dat /
+- Estoy agradecido por eso
+
+83. Hope to see you again 
+/ jop tu si iu eguen /
+- Espero verte de nuevo
