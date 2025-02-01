@@ -1,0 +1,40 @@
+
+/* Días de la semana y adverbios frecuendia */
+
+Day of the week
+===============
+
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Sunday
+
+Frequency adverbs
+=================
+
+- Always: Siempre               => I always work on Mondays
+- Usually: Usualmente           => We usually go to the supermarket on Tuesday
+- Frequently: Frecuentemente    => On Wednesday, we frequently study English
+- Never: Nunca                  => She never goes to the gym
+- Somtimes: Algunas veces       => He sometimes goes to the movies
+- Seldom: Pocas veces           => On Saturday, We seldom watch TV
+- Hardly ever: Casi nunca       => On Sunday, I hardly ever ride my bycicle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

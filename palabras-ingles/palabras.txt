@@ -367,6 +367,31 @@ study => estudiar
 students => estudiantes 
 woman => mujer 
 full => completo
+second => segundo
+data => dato
+goverment => gobierno
+says => dice 
+others => otros 
+ever => siempre 
+yet => todavía 
+case => caso 
+development => desarrollo 
+left => izquierda 
+far => lejos 
+large => grande 
+called => llamado 
+already => ya 
+came => vino/venía 
+social => social 
+open => abierto 
+possible => posible 
+side => lado 
+play => jugar 
+needs => necesidades 
+try -> tratar 
+done => hecho 
+
+
 
 
 
