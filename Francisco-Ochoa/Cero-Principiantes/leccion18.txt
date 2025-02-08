@@ -1,0 +1,36 @@
+
+/* Preguntas con advervios de frecuencia */
+
+1- Tu comes siempre pizza los sábados?
++ You always eat pizza on saturdays
+- You do not always eat pizza on saturdays 
+? Do you always eat pizza on saturdays
+
+2- Cada cuanto comes pizza?
+How often do you eat pizza?
++ You eat pizza
+- Do you not eat pizza
+? Do you eat pizza?
+
+Practice
+========
+
+1- Va ella a trabajar los fines de semana?
++ She goes to work on weekends
+- She does not go to work on weekends
+? Does she go to work on weekends?
+
+2- Cada cuanto viajan ellos a Miami?
+How often do they travel to Miami
++ They travel to Miami
+- They don't travel to Miami
+? Do they travel to Miami?
+
+
+
+
+
+
+
+
+
