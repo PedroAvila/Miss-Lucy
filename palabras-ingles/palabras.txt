@@ -104,7 +104,7 @@ you => tú/ustedes
 he => él
 she => ella
 it => eso
-whe => nosotros/nosotras
+we => nosotros/nosotras
 they => ellos/ellas
 them => ellas
 I am => yo soy/estoy
@@ -390,6 +390,11 @@ play => jugar
 needs => necesidades 
 try -> tratar 
 done => hecho 
+
+ 
+
+
+
 
 
 
