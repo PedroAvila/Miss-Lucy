@@ -390,17 +390,38 @@ play => jugar
 needs => necesidades 
 try -> tratar 
 done => hecho 
-
- 
-
-
-
-
-
-
-
-
-
-
-
+going => progreso
+then => entonces
+them => ellos/ellas, los/las
+so => tan
+act => comportarse
+how => como
+who => quién
+trying => duro
+thing => cosa
+some => algo de, algunos
+actually => en realidad
+well => bien
+set => ambientar
+guidelines => pauta
+when => cuando
+inside => entrañas
+give => dar
+but => pero
+delve => hurgar, escarbar
+more => más
+deep => profundo
+driving => conducción
+that => ese/esa
+said => susodicho
+whether => si
+inventory => inventario
+say => decir
+until => hasta
+able => inteligente, capaz, hábil
+which => que
+quick => rápido
+gonna => ir a
+drive => conducir
+allow => permitir
 
