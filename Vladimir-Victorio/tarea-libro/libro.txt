@@ -1,0 +1,11 @@
+
+Going forward, when introducing software engineering we will mean the larger
+ subject of “software development + engineering,” implicitly understood without
+ specifically separating out the two parts. This will be so even if in many cases the
+ discussion is moreaboutthedevelopmentaspect, becausetheapproachwetakeis
+ chosentofacilitate the other aspect—engineering. Whenwesometimestalkabout
+ software development we want to be specific and refer to the work: the activities
+ or the practices we use. We will not further try to distinguish these terms, so the
+ reader can in many cases see them as synonyms.
+
+

@@ -475,4 +475,25 @@ purpose => fin/finalidad
 let => dejar/permitir
 provide => suministrar/proveer
 wonder => preguntarse
+keep => guardar/qudarse con
+track => via
+Alrigth => muy bien/de acuerdo/esta bien
+mate => compañero/colega/amigo/tío
+just => ya, inmediatamente
+yeah => si
 
+===================== palabras del libro Modern Software Engineering ======================
+forward => hacia delante
+mean => significar/querer decir
+larger => mas grande
+subject => asignatura, materia
+understood => entendido/comprendido
+even => hasta/ni siquiera
+further => mas lejos
+distinguish  => distinguir
+like => como/por ejemplo
+whether => si
+knew => sabía
+There were => había
+was => era/fue
+through => a travez de/durante
