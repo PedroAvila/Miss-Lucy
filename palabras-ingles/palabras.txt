@@ -502,7 +502,7 @@ tarnish => empañar/manchar
 at least => al menos
 grind => moler
 grow => crecer
-hang => colgar
+hang => colgar/espera 
 hear => oír
 heave => levantar/mover
 hew => extraer/tallar/labrar
@@ -546,6 +546,31 @@ brownie => bizcocho de chocolate
 croissant => media luna
 listen => escuchar
 fine => bien
+theater => cine
+fun => diversión
+trip => viaje/excursión/salida
+spell => deletrear
+third => tercero
+floor => suelo/piso
+lift => levantar 
+quite => completamente
+means => medio/manera
+complex => complejo
+square => cuadrado
+faced => de cara 
+vision => imagen 
+street => calle 
+leg => pierna 
+torch => linterna/antorcha 
+relay => transmitir/retransmitir 
+load => cargar 
+camera => cámara 
+cheering => animado 
+bit => poco 
+wild => desenfrenado/salvaje 
+dinner => cena/comida 
+tonight => esta noche 
+
 
 
 ===================== palabras del libro Modern Software Engineering ======================
