@@ -348,7 +348,7 @@ several => varios
 man => hombre 
 lees => menos 
 process => proceso 
-become => volverse 
+become => llegar a ser/convertirse en/volverse 
 actually => realmente 
 local => local 
 together => juntos 
@@ -570,6 +570,15 @@ bit => poco
 wild => desenfrenado/salvaje 
 dinner => cena/comida 
 tonight => esta noche 
+gonna => ir a 
+luck => suerte 
+amazing => asombroso/increíble
+believe => creer 
+daily => diario 
+receipt => recibo 
+pay => pagar 
+chance => oportunidad
+departure => salida/partida 
 
 
 
