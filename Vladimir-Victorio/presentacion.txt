@@ -1,0 +1,19 @@
+
+
+My name is Pedro Avila, I'm a software developer with more than 10 old of experience, 
+my specialty is backend, also language program .NET(C#).
+I also know Java and NodeJs. 
+
+The database managers that I know are, SQL Server, MySQL, PostgreSQL, Oracle, MongoDB.
+I have worked with Azure and AWS 
+
+I have worked with the following architectures DDD, Hexagonal, CQRS.
+
+I have implemented API RestFull and Microservices.
+
+I'd 
+
+
+
+
+
