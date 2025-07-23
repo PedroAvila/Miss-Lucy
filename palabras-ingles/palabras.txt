@@ -657,6 +657,8 @@ shadow => sombra
 shadowing => siguiendo 
 chaos => caos 
 average => promedio 
+sick => enfermo
+lawyer => abogado/abogada
 
 
 ===================== palabras del libro Modern Software Engineering ======================
