@@ -16,6 +16,9 @@ Estructura: (Question Word) + Auxiliary + Subject + Verb + Complement?
 Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (verb) + ?
 =========================================================================================
 
+- Gracias por agregarme a tu red
+Thanks for added to you network
+
 - Que vas hacer hoy?
 What are you going to do day?
 
@@ -61,6 +64,178 @@ What chores do you need to take care of at home?
 - ¿Cómo sueles moverte por tu ciudad o pueblo?
 How do you usually get around your city or town?
 
+- Ya termine, de tomar desayuno
+I've finished having breakfast.
+
+- Como va tu día?
+How is your day going?
+
+- Te suena?
+Does it sound familiar?
+
+- Dónde quedamos?
+Where are we meeting?
+
+- A que hora quedamos?
+What time are we meeting?
+
+- Que quieres?
+What do you prefer?
+
+- Cualquier día me viene bien
+Any day would be all right with me
+
+- Te parece bien?
+Is that okay with you?
+
+- Hablas inglés?
+Do you speak english?
+
+- Habla más despacio, por favor
+Speak more slowly, please 
+
+- Cómo se dice eso?
+How do you say that?
+
+- Cómo se dice eso en inglés?
+How do you say that in english?
+
+- Eso que quiere decir?
+What does that mean?
+
+- Te lo agradezco de veras
+I really appreciate it 
+
+- A qué hora podemos hablar?
+Is there a good time to chat? 
+
+- Te pillo en un mal momento?
+Did I catch you at a bad time?
+
+- No estoy seguro de la fecha
+I'm not sure about the date
+
+- Muchas gracias 
+Thank you very much
+
+- Así parece 
+It seems so 
+
+- Así creo 
+I think so 
+
+- No me importa 
+I don't care
+
+- La fiesta se ha acabado 
+The party's over 
+
+- Quién soy yo para decir eso?
+Who am I to say?
+
+- Por que no?
+It never hurts
+
+- No es tan fácil como parece 
+Easier said than done 
+
+- Vengo enseguida 
+I'll be right back 
+
+- Perdón por el retraso 
+Sorry for being late 
+
+- He vuelto
+I'm back 
+
+- Te dejo con tus cosas 
+I'll let you get on with your things 
+
+- No le des demasiadas vueltas 
+Don't overthink it 
+
+- Vamos 
+Should we go 
+
+- Tenemos todo el sitio para nosotros 
+We have the place to ourselves 
+
+- Que hay de nuevo?
+What's new? 
+
+- Así suficiente 
+That will do 
+
+- Es un mal momento? 
+Is this a bad time? 
+
+- No tiene sentido 
+It doesn't make sense 
+
+- Pasarlo bien 
+Have a great time 
+
+- Sin duda 
+No doubt about it
+
+- Me parece bien 
+That sounds good to me
+
+- Que tal?
+What's up?/How's it going?
+
+- Estás ocupado? 
+Are you busy? 
+
+- Me parece bien 
+That sounds good to me
+
+- Me da igual 
+I don't mind either way 
+
+- Hasta luego 
+See you later 
+
+- Ya era hora 
+It's about time!
+
+- A qué te dedicas? 
+What do you do? 
+
+- What do you like to do for fun? 
+Qué te gusta hacer? 
+
+- Vienes a menudo? 
+Do you come here often? 
+
+- Estoy aquí de vacaciones 
+I'm here on vacation 
+
+- Tu trabajo suena interesante 
+Your work sounds interesting 
+
+- Eres guay 
+You're so funny 
+
+- Eres encantador 
+You're really cute 
+
+- Estas solo?
+Are you here alone?
+
+- Me alegro de haberte conocido 
+I'm so lucky to have met you 
+
+- Me gustas mucho 
+I like you a lot 
+
+- Me encanta tu sonrisa 
+I love your smile 
+
+
+
+
+
 - Hablame sobre un proyecto desafiante.
 Tell me about a challenging project.
 
@@ -76,7 +251,8 @@ The which can reding the gestures corporal for sensors red-eyed and reproduce th
 Translation in voice and one message write.
 It was a challenge, my I have to investigate and translation the documentation that it was in English and never had done this type of project.
 
-
+Pedro, ¿en qué jardín preferirías pasar el tiempo?
+Pedro, which garden would your prefer to spend time in?
 
 
 
