@@ -16,6 +16,15 @@ Estructura: (Question Word) + Auxiliary + Subject + Verb + Complement?
 Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (verb) + ?
 =========================================================================================
 
+- Déjame prepararte la cena.
+Lemme make you dinner.
+
+- Ayer debería haber trabajado más duro.
+I should've worked harder yesterday.
+
+- Entonces podría haber terminado antes hoy.
+Then I could've finished earlier today.
+
 - Gracias por agregarme a tu red
 Thanks for added to you network
 
@@ -64,6 +73,18 @@ What chores do you need to take care of at home?
 - ¿Cómo sueles moverte por tu ciudad o pueblo?
 How do you usually get around your city or town?
 
+- ¿Qué quieres hacer este fin de semana?
+What do you wanna do this weekend?
+
+- Tengo que ir a trabajar mañana.
+I gotta go to work tomorrow
+
+- Últimamente he estado muy cansado.
+I've been so tired lately.
+
+- Me gustaría hacer un pedido, por favor.
+I'd like to order, please.
+
 - Ya termine, de tomar desayuno
 I've finished having breakfast.
 
@@ -78,6 +99,12 @@ Where are we meeting?
 
 - A que hora quedamos?
 What time are we meeting?
+
+- Qué estudias?
+What are you studying? 
+
+- Entiendo pocas palabras cuando escucho 
+I understand few words when I listen. 
 
 - Que quieres?
 What do you prefer?
@@ -231,6 +258,30 @@ I like you a lot
 
 - Me encanta tu sonrisa 
 I love your smile 
+
+- Puedo invitarte a tomar algo?
+Can I buy you a drink?
+
+- Qué quieres tomar?
+What would you like to have?
+
+- Déjame invitar a esta ronda 
+Let me get this round 
+
+- Bailas?
+Do you dance?
+
+- Quieres que nos volvamos a ver? 
+Can I see you again? 
+
+- Te gustaría salir a cenar un día de éstos?
+Would you like to go out for dinner some time? 
+
+- Quedamos para tomar un café?
+Would you like to meet me for coffee?
+
+- Gracias por esta agradable charla 
+Thanks for a great conversation 
 
 
 
