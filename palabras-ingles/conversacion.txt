@@ -16,6 +16,12 @@ Estructura: (Question Word) + Auxiliary + Subject + Verb + Complement?
 Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (verb) + ?
 =========================================================================================
 
+- ¡Es mi canción favorita!
+It's my favorite song!
+
+- Dame unas horas. Te llamaré más tarde.
+Gimme a few hours. I'll get back to you.
+
 - Déjame prepararte la cena.
 Lemme make you dinner.
 
