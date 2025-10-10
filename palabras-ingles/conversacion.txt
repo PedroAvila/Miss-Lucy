@@ -43,6 +43,9 @@ Where in England do you live?
 - A que te dedicas?
 What do you do? / What do you do for a living?
 
+- Estudiaré inglés, iré al gimnasio y visitaré a mi familia.
+I will study English, go to the gym, and visit my family
+
 - ¿Algún plan para el fin de semana?
 Any plans for the weekend?
 
@@ -156,6 +159,9 @@ It seems so
 
 - Así creo 
 I think so 
+
+- ¿De qué se trata?
+What is it about?
 
 - No me importa 
 I don't care
