@@ -19,6 +19,9 @@ Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (v
 - ¡Es mi canción favorita!
 It's my favorite song!
 
+- Yo creo que cualquier hombre se puede sentir atraido por la belleza de Dorsa
+I believe that any man can be attracted to Dorsa's beauty.
+
 - Dame unas horas. Te llamaré más tarde.
 Gimme a few hours. I'll get back to you.
 
@@ -297,6 +300,9 @@ Thanks for a great conversation
 
 - Estaba tan asustado
 I was so sketched out 
+
+- Me has pillado bien
+You got me good 
 
 
 
