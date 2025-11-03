@@ -16,6 +16,24 @@ Estructura: (Question Word) + Auxiliary + Subject + Verb + Complement?
 Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (verb) + ?
 =========================================================================================
 
+- Yo llevo estudiando 8 meses ingles
+I have been studying English for eight months
+
+- Tienes un nombre muy bonito
+You have a very pretty name.
+
+- Que tengas un maravilloso día
+You will have a wonderful day.
+
+- En que ciudad de Inglaterra vives?
+In which city in England do you live?
+
+- Que tal?
+What's up?/How's it going?
+
+- ¿Tienes algún pasatiempo?
+Do you have any hobbies?
+
 - ¡Es mi canción favorita!
 It's my favorite song!
 
@@ -40,9 +58,6 @@ Thanks for added to you network
 - Que vas hacer hoy?
 What are you going to do day?
 
-- En que ciudad de Inglaterra vives?
-Where in England do you live?
-
 - A que te dedicas?
 What do you do? / What do you do for a living?
 
@@ -64,8 +79,8 @@ Why do you like that?
 - ¿En serio? ¡Qué interesante! Cuéntame más.
 Really? That's interesting! Tell me more.
 
-- Yo llevo estudiando 5 meses ingles
-I have been studying English for 5 months
+- ¿Qué te cuentas?
+What have you been up to?
 
 - Myles, te queda bien ese avatar
 Myles, that avatar looks good on you
@@ -223,8 +238,7 @@ No doubt about it
 - Me parece bien 
 That sounds good to me
 
-- Que tal?
-What's up?/How's it going?
+
 
 - Estás ocupado? 
 Are you busy? 
@@ -317,7 +331,7 @@ El cual puede leer los gestos corporales por sensores inflarojos y reproducirlos
 Traducia en voz y un mensaje escrito.
 Fue un reto, me toco investigar y traducir la documentación que estaba en inglés y nunca había hecho este tipo de proyectos.
 
-I had a proyect defiant, which consisted in have a application for person with capabilities special(deaf and dumb) 
+I had a project defiant, which consisted in have a application for person with capabilities special(deaf and dumb) 
 the proyect consisted in to inform of these persons for a lenguage gestures corporal which the played a device called Kicnet 
 The which can reding the gestures corporal for sensors red-eyed and reproduce them for means of a application of desk to develop with WPF(Windows Presentetation Fundation) wich these gesture the
 Translation in voice and one message write.
