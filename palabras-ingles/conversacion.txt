@@ -22,6 +22,9 @@ I have been studying English for eight months
 - Tienes un nombre muy bonito
 You have a very pretty name.
 
+- Cual es tu canción favorita?
+What is your favorite song?
+
 - Que tengas un maravilloso día
 You will have a wonderful day.
 
@@ -34,8 +37,23 @@ What's up?/How's it going?
 - ¿Tienes algún pasatiempo?
 Do you have any hobbies?
 
+- ¿Algún plan para el fin de semana?
+Any plans for the weekend?
+
+- Que vas hacer hoy?
+What are you going to do day?
+
+- A que te dedicas?
+What do you do? / What do you do for a living?
+
+- Como va tu día?
+How is your day going?
+
 - ¡Es mi canción favorita!
 It's my favorite song!
+
+- ¿Qué te gusta hacer en tu tiempo libre? 
+What do you like to do in your free time?
 
 - Yo creo que cualquier hombre se puede sentir atraido por la belleza de Dorsa
 I believe that any man can be attracted to Dorsa's beauty.
@@ -55,17 +73,10 @@ Then I could've finished earlier today.
 - Gracias por agregarme a tu red
 Thanks for added to you network
 
-- Que vas hacer hoy?
-What are you going to do day?
 
-- A que te dedicas?
-What do you do? / What do you do for a living?
 
 - Estudiaré inglés, iré al gimnasio y visitaré a mi familia.
 I will study English, go to the gym, and visit my family
-
-- ¿Algún plan para el fin de semana?
-Any plans for the weekend?
 
 - ¿Qué hiciste el fin de semana pasado?
 What did you do last weekend?
@@ -115,8 +126,7 @@ I'd like to order, please.
 - Ya termine, de tomar desayuno
 I've finished having breakfast.
 
-- Como va tu día?
-How is your day going?
+
 
 - Te suena?
 Does it sound familiar?
