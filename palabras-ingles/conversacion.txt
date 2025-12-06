@@ -18,8 +18,14 @@ Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (v
 - ¿Cómo has estado?
 How have you been?
 
+- ¿Cómo están chicos?
+How are you guys?
+
 - Como estuvo tu dia?
 How was your day?
+
+- Cual es tu idioma nativo?
+What is your native language?
 
 - Mi día fue tranquilo, estoy trabajando, cuando el trabajo es tranquilo, practico inglés
 My day was calm, I'm working, when the work is calm, practice English
@@ -375,6 +381,21 @@ You got me good
 
 - Igualmente, gracias
 Likewise, thanks/thank you.
+
+- Estas bien?
+You alright?
+
+- ¿Estás bien, amigo? Te ves agotado.
+Y' alright, mate? You look knackered.
+
+- ¿Cómo estás?
+How's it going?
+
+- Como estas?
+How are you getting on?
+
+- Todo bien?
+Everything alright?
 
 
 
