@@ -15,6 +15,13 @@ Estructura: (Question Word) + Auxiliary + Subject + Verb + Complement?
 
 Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (verb) + ?
 =========================================================================================
+
+- ¿Puedes describir tu rutina diaria?
+Can you describe your daily routine?
+
+- ¿Prefieres el verano o el invierno?
+Do you prefer summer or winter?
+
 - ¿Cómo has estado?
 How have you been?
 
@@ -23,6 +30,9 @@ How are you guys?
 
 - Como estuvo tu dia?
 How was your day?
+
+- Soy de Lima la capital de Perú, Lima es una hermosa ciudad, me gustan sus playas
+I am from Lima, the capital of Peru. Lima is a beautiful city, I love its beaches
 
 - Cual es tu idioma nativo?
 What is your native language?
@@ -33,11 +43,8 @@ My day was calm, I'm working, when the work is calm, practice English
 - Por que estudias ingles
 Why are you studying English?
 
-- Como estan todos?
-How is everyone?
-
-- Yo llevo estudiando 8 meses ingles
-I have been studying English for eight months
+- Yo llevo estudiando 9 meses ingles
+I have been studying English for nine months
 
 - Hace que tiempo estudias ingles?
 How long have you been studying English?
@@ -47,15 +54,11 @@ You have a very pretty name.
 
 - Estudio ingles porque deseo trabajar en Europa
 I am studying English because I want to work in Europe
-
-- Cual es tu canción favorita?
-What is your favorite song?
-
-- Que tengas un maravilloso día
-You will have a wonderful day.
+I study English because I want to visit other countries
 
 - En que ciudad de Inglaterra vives?
 In which city in England do you live?
+
 
 ¿Cuáles son los lugares famosos para visitar en tu país?
 What are the famous places to visit in your country?
@@ -72,26 +75,29 @@ Any plans for the weekend?
 - Que vas hacer hoy?
 What are you going to do day?
 
-- A que te dedicas?
-What do you do? / What do you do for a living?
-
-- Como va tu día?
-How is your day going?
-
-- Entro a trabajar a las 9 de la mañana.
-I go into work at 9 AM 
-
-- ¿Qué crees que hace que trabajar en Europa sea diferente a trabajar en otros lugares?
-What’s one thing you think makes working in Europe different from working in other places?
-
 - ¿Has viajado alguna vez fuera del Reino Unido? ¿Cuál fue tu lugar favorito? ¿Y qué te sorprendió más?
 Have you ever traveled outside the UK? Where was your favorite place — and what surprised you the most?
 
 - ¿Hay algún plato británico que te encante?
 Is there a British food you love?
 
-- Estudio inglés porque quiero trabajar en Europa
-I study English because I want to work in Europe
+- A que te dedicas?
+What do you do? / What do you do for a living?
+
+- Como va tu día?
+How is your day going?
+
+- Que tengas un maravilloso día
+You will have a wonderful day.
+
+- Cual es tu canción favorita?
+What is your favorite song?
+
+- Entro a trabajar a las 9 de la mañana.
+I go into work at 9 AM 
+
+- ¿Qué crees que hace que trabajar en Europa sea diferente a trabajar en otros lugares?
+What’s one thing you think makes working in Europe different from working in other places?
 
 - Me encanta cómo la gente valora allí el equilibrio entre la vida laboral y personal.
 I love how people value work-life balance there
