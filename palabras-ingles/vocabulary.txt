@@ -84,7 +84,10 @@ beginning => principio/comienzo
 thin = delgado
 moment => momento 
 patient => paciente 
+<<<<<<< HEAD
 society => sociedad 
+=======
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 has = tiene
 wife = esposa
 adjust => adaptarse/acomodar 
@@ -206,7 +209,10 @@ flight => vuelo
 need = necesitar
 skirt = falda
 play = jugar
+<<<<<<< HEAD
 ancient => antiguo 
+=======
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 supportive => favorable 
 those = esos
 fireplace = chimenea
@@ -344,7 +350,11 @@ snap => romper/romperse/quebrar/quebrarse
 rising => en aumento 
 make => hacer
 terms => terminos 
+<<<<<<< HEAD
 then => entonces/después 
+=======
+then => entonces
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 mortgage => hipoteca 
 first => primero
 candle => vela 
@@ -791,9 +801,13 @@ needs => necesidades
 protect => proteger/amparar 
 influence => influencia/influir en/influenciar
 tagline => eslogan 
+<<<<<<< HEAD
 charitable  => benéfico/caritativo/de caridad/de beneficencia
 try -> intentar/probar 
 parent => madre/padre
+=======
+try -> intentar/probar 
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 done => hecho 
 donate => donar 
 going => progreso
@@ -818,12 +832,19 @@ well => bien
 set => ambientar
 phrase => frase/locución 
 guidelines => pauta
+<<<<<<< HEAD
 guide => guía 
 autumn => otoño 
 when => cuando
 hen => gallina
 inside => a/hacia dentro/dentro (de)/entrañas
 tower => torre 
+=======
+autumn => otoño 
+when => cuando
+hen => gallina
+inside => entrañas
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 huge => enorme 
 northern => del norte/norteño
 north => norte 
@@ -1086,8 +1107,11 @@ listen => escuchar
 reasoning => razonamiento/lógica 
 fine => bien
 theater => cine
+<<<<<<< HEAD
 opposing  => contrario/enemigo
 freezing => muy frío/congelado/ada
+=======
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 heater => calentador 
 pipeline => conducto 
 heating => calentamiento 
@@ -1137,7 +1161,10 @@ vibe => ambiente/vibraciones
 enable => permitir 
 camera => cámara 
 cheering => animado 
+<<<<<<< HEAD
 cheers => ¡salud!
+=======
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 cheerful => alegre 
 hardworking => trabajador 
 incredible => increible 
@@ -1188,7 +1215,10 @@ dreadful => espantoso/terrible/atroz
 curly => rizado 
 surprise => sorpresa 
 rise => elevarse/subir
+<<<<<<< HEAD
 smoke => humo 
+=======
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 bonus => bonificación 
 chimney => chimney
 tip => truco/consejo
@@ -1262,9 +1292,13 @@ sell => vender
 strong => fuerte 
 stronger => mas fuerte 
 friendly => simpático/amable 
+<<<<<<< HEAD
 neighborhood => vecindario/barrio 
 sparklers => vengalas 
 democracy => democracia 
+=======
+sparklers => vengalas 
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 west => oeste 
 crazy => loco 
 weird => muy raro 
@@ -1345,10 +1379,14 @@ half => mitad
 went => fue 
 took(pasado simple de take) => tomo
 soft => blando
+<<<<<<< HEAD
 land => pescar/sacar
 dummy => maniquí/muñeco 
 deprecating => despectivo/depreciando
 tend => tender/tender a hacer algo/soler hacer algo
+=======
+dummy => maniquí/muñeco 
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante

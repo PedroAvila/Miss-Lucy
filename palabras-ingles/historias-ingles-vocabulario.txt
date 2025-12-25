@@ -1,4 +1,5 @@
 bonfire => hoguera 
+<<<<<<< HEAD
  - We stood around the bonfire to keep warm on Bonfire Night
 
 
@@ -55,8 +56,6 @@ blur => empañar/difuminar/hacer borroso/hacerse borroso
  - Without my glasses, everything is a complete blur
  - Tears began to blur her vision
 
-
-
 inequality => desigualdad 
  - Some parts of the UK are wealthier, and there is still inequality in society
  - Economic inequality is a major concern in many developing nations
@@ -79,6 +78,7 @@ fairness => justicia/equidad
  - People in Britain believe in fairness, for example by taking turns in a queue
  - The judge emphasized the importance of fairness in all legal proceedings
  - Many people are calling for greater fairness in the distribution of resources
+<<<<<<< HEAD
  - She always strives for fairness when dividing tasks among her team members
 
 deprecating => despectivo/depreciando
@@ -164,3 +164,6 @@ rise => elevarse/subir
 
 
 
+=======
+ - She always strives for fairness when dividing tasks among her team members
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d

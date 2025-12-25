@@ -68,6 +68,7 @@ I go to the gym on Tuesdays
 
 I can't run when I'm eating 
 
+<<<<<<< HEAD
 María si quiere comer
 María does want to eat 
 
@@ -87,6 +88,8 @@ Carolina no quiere hamburguesa, pero Juan sí, a Juan le encantan las hamburgues
 Carolina is not want hamburger, but Juan do, to Juan the like the hamburgers
 
 
+=======
+>>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 
 
 
