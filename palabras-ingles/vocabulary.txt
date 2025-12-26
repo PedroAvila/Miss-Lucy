@@ -162,6 +162,7 @@ sketch => boceto
 express => expresar 
 respect => admiración 
 skill => habilidad/destreza 
+kick => patear
 advocate => recomendar/defender/abogar por
 risk => riesgo/peligro 
 highly recommend => recomendar mucho 
@@ -206,10 +207,7 @@ flight => vuelo
 need = necesitar
 skirt = falda
 play = jugar
-<<<<<<< HEAD
 ancient => antiguo 
-=======
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 supportive => favorable 
 those = esos
 fireplace = chimenea
@@ -347,11 +345,7 @@ snap => romper/romperse/quebrar/quebrarse
 rising => en aumento 
 make => hacer
 terms => terminos 
-<<<<<<< HEAD
 then => entonces/después 
-=======
-then => entonces
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 mortgage => hipoteca 
 first => primero
 candle => vela 
@@ -829,19 +823,12 @@ well => bien
 set => ambientar
 phrase => frase/locución 
 guidelines => pauta
-<<<<<<< HEAD
 guide => guía 
 autumn => otoño 
 when => cuando
 hen => gallina
 inside => a/hacia dentro/dentro (de)/entrañas
 tower => torre 
-=======
-autumn => otoño 
-when => cuando
-hen => gallina
-inside => entrañas
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 huge => enorme 
 northern => del norte/norteño
 north => norte 
@@ -1104,11 +1091,8 @@ listen => escuchar
 reasoning => razonamiento/lógica 
 fine => bien
 theater => cine
-<<<<<<< HEAD
 opposing  => contrario/enemigo
 freezing => muy frío/congelado/ada
-=======
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 heater => calentador 
 pipeline => conducto 
 heating => calentamiento 
@@ -1158,10 +1142,7 @@ vibe => ambiente/vibraciones
 enable => permitir 
 camera => cámara 
 cheering => animado 
-<<<<<<< HEAD
 cheers => ¡salud!
-=======
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 cheerful => alegre 
 hardworking => trabajador 
 incredible => increible 
@@ -1286,13 +1267,9 @@ sell => vender
 strong => fuerte 
 stronger => mas fuerte 
 friendly => simpático/amable 
-<<<<<<< HEAD
 neighborhood => vecindario/barrio 
 sparklers => vengalas 
 democracy => democracia 
-=======
-sparklers => vengalas 
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 west => oeste 
 crazy => loco 
 weird => muy raro 
@@ -1373,14 +1350,10 @@ half => mitad
 went => fue 
 took(pasado simple de take) => tomo
 soft => blando
-<<<<<<< HEAD
 land => pescar/sacar
 dummy => maniquí/muñeco 
 deprecating => despectivo/depreciando
 tend => tender/tender a hacer algo/soler hacer algo
-=======
-dummy => maniquí/muñeco 
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante
