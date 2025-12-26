@@ -54,10 +54,6 @@ You have a very pretty name.
 
 - Estudio ingles porque deseo trabajar en Europa
 I am studying English because I want to work in Europe
-<<<<<<< HEAD
-I study English because I want to visit other countries
-=======
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 
 - En que ciudad de Inglaterra vives?
 In which city in England do you live?

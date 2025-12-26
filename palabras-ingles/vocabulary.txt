@@ -1215,10 +1215,7 @@ dreadful => espantoso/terrible/atroz
 curly => rizado 
 surprise => sorpresa 
 rise => elevarse/subir
-<<<<<<< HEAD
 smoke => humo 
-=======
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 bonus => bonificación 
 chimney => chimney
 tip => truco/consejo
