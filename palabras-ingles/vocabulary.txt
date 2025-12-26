@@ -84,10 +84,7 @@ beginning => principio/comienzo
 thin = delgado
 moment => momento 
 patient => paciente 
-<<<<<<< HEAD
 society => sociedad 
-=======
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 has = tiene
 wife = esposa
 adjust => adaptarse/acomodar 
