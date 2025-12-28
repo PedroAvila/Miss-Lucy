@@ -9,6 +9,10 @@ crunchy => crujiente
 fairy => hada
  - The child dressend as a fairy
 
+boot => patear/dar una patada/bota
+ - I bought a new pair of leather boots for the winter
+ - Please take off your muddy boots before coming inside
+ - She likes to wear tall boots with her favorite dress
 
 damp => húmedo 
  - The walls in the old house are damp in winter
