@@ -1,5 +1,4 @@
 bonfire => hoguera 
-<<<<<<< HEAD
  - We stood around the bonfire to keep warm on Bonfire Night
 
 
@@ -56,6 +55,16 @@ blur => empañar/difuminar/hacer borroso/hacerse borroso
  - Without my glasses, everything is a complete blur
  - Tears began to blur her vision
 
+nest => anidar/nido 
+
+underwear => ropa interior
+
+
+however => sin embargo
+ - I really wanted to go to the beach; however, it started to rain
+ - The exam was very difficult. However, she managed to get a perfect score
+ - He studied hard for the presentation; however, he was still very nervous 
+
 inequality => desigualdad 
  - Some parts of the UK are wealthier, and there is still inequality in society
  - Economic inequality is a major concern in many developing nations
@@ -78,8 +87,6 @@ fairness => justicia/equidad
  - People in Britain believe in fairness, for example by taking turns in a queue
  - The judge emphasized the importance of fairness in all legal proceedings
  - Many people are calling for greater fairness in the distribution of resources
-<<<<<<< HEAD
- - She always strives for fairness when dividing tasks among her team members
 
 deprecating => despectivo/depreciando
  - British humour can be self-deprecating 
@@ -158,12 +165,3 @@ rise => elevarse/subir
  - The sun will rise at 6:00 AM tomorrow
  - Prices continue to rise because of inflation 
  - She watched the smoke rise from the chimney
-
- 
-
-
-
-
-=======
- - She always strives for fairness when dividing tasks among her team members
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
