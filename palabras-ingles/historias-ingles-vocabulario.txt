@@ -59,6 +59,11 @@ nest => anidar/nido
 
 underwear => ropa interior
 
+chilly => frío
+ - It’s a bit chilly outside, so you should bring a jacket
+ - The water was too chilly for a swim
+ - I woke up feeling chilly because I left the window open 
+
 
 however => sin embargo
  - I really wanted to go to the beach; however, it started to rain

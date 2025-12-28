@@ -793,13 +793,10 @@ needs => necesidades
 protect => proteger/amparar 
 influence => influencia/influir en/influenciar
 tagline => eslogan 
-<<<<<<< HEAD
 charitable  => benéfico/caritativo/de caridad/de beneficencia
 try -> intentar/probar 
 parent => madre/padre
-=======
 try -> intentar/probar 
->>>>>>> 28dcdc1dcd87ee2c48bb6491704aa222ae885e1d
 done => hecho 
 donate => donar 
 going => progreso
