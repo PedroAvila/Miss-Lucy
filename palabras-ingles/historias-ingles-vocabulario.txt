@@ -9,6 +9,80 @@ crunchy => crujiente
 fairy => hada
  - The child dressend as a fairy
 
+which => cual
+ - Which color do you prefer for the living room?
+ - I bought a new phone, which has an amazing camera
+ - I don't know which path to take
+
+anyway => de todos modos
+ - I forgot my umbrella, but it's not raining anyway
+ - Anyway, as I was saying, we need to finish the report by Friday
+ - It was a long journey, but I'm glad I went anyway
+
+hat => sombrero/gorro
+ - It is very cold today, so don't forget to wear your hat
+ - She bought a beautiful straw hat for her beach vacation
+ - He took off his hat when he entered the room
+
+backpack => mochila
+ - My backpack is very heavy because I have many books inside
+ - I need to buy a waterproof backpack for my hiking trip
+ - She left her backpack on the chair in the classroom
+
+wrist => muñeca
+ - I fell while skating and hurt my left wrist
+ - She wears a beautiful gold watch on her wrist
+ - You need to flick your wrist to throw the ball correctly
+
+art => arte
+ - She decided to study fine art at the university
+ - The museum is full of modern art from around the world
+ - To me, cooking is a form of art
+
+afraid => asustado
+ - I am afraid of spiders
+ - Don't be afraid to ask for help if you need it
+ - I'm afraid I can't come to the party tonight
+
+waiter => camarero
+
+populated => poblado
+
+pasties => empanadas
+
+commute => viajar diariamente al lugar de trabajo
+
+citizen => ciudadano/ciudadana
+
+everywhere => por doquier/por todas partes/en todos lados
+
+fee => honorario/cuota/tasa
+
+upset => disgustar/afligir
+
+blaze => arder
+
+flame => llama
+
+wood => madera/leña
+
+straw => paja
+
+fire brigade => cuerpo de bomberos
+
+extinguish => extinguir/apagar
+
+burn => quemar
+
+abroad => en el extranjero
+
+mine => mío 
+
+guess => adivinar
+
+beat => ganar
+
+
 boot => patear/dar una patada/bota
  - I bought a new pair of leather boots for the winter
  - Please take off your muddy boots before coming inside
@@ -63,11 +137,23 @@ nest => anidar/nido
 
 underwear => ropa interior
 
+abroad => en el extranjero
+ - She wants to study abroad next year to improve her English
+ - My brother has been living abroad for over five years
+ - They usually go abroad for their summer holidays  
+
 chilly => frío
  - It’s a bit chilly outside, so you should bring a jacket
  - The water was too chilly for a swim
  - I woke up feeling chilly because I left the window open 
 
+ground => suelo 
+ - The children were sitting on the ground playing with their toys
+ - The ground was still wet after the heavy rain
+ - We found common ground during our discussion
+
+forecast => pronosticar
+ - 
 
 however => sin embargo
  - I really wanted to go to the beach; however, it started to rain
