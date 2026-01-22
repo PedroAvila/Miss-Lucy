@@ -1,13 +1,18 @@
 bonfire => hoguera 
  - We stood around the bonfire to keep warm on Bonfire Night
+ - We gathered around the bonfire to roast marshmallows and tell scary stories
+ - The students built a huge bonfire on the beach to celebrate the end of the school year
 
 
 crunchy => crujiente 
  - The leaves were  crunchy
-
+ - I love eating crunchy apples for a healthy snack
+ - The fallen leaves were dry and crunchy under our feet
 
 fairy => hada
  - The child dressend as a fairy
+ - The little girl believes that a fairy lives in the old oak tree
+ - In the story, the fairy used her magic wand to turn the pumpkin into a carriage
 
 which => cual
  - Which color do you prefer for the living room?
@@ -45,6 +50,9 @@ afraid => asustado
  - I'm afraid I can't come to the party tonight
 
 waiter => camarero
+ - The waiter brought us the menu
+ - I asked the waiter for a glass of water
+ - We should leave a tip for the waiter
 
 populated => poblado
 
@@ -73,8 +81,6 @@ fire brigade => cuerpo de bomberos
 extinguish => extinguir/apagar
 
 burn => quemar
-
-abroad => en el extranjero
 
 mine => mío 
 
@@ -260,3 +266,123 @@ rise => elevarse/subir
  - The sun will rise at 6:00 AM tomorrow
  - Prices continue to rise because of inflation 
  - She watched the smoke rise from the chimney
+
+inside => a/hacia dentro/dentro (de)/entrañas
+were => estuvieron/fueron/eran/estaban
+give => dar
+weird => muy raro 
+said => dijo
+even => hasta/ni siquiera/incluso 
+blow => soplar
+bubble => burbuja
+some => algunos
+proper => adecuado/en condiciones
+everybody => todos
+sat => sentado (es pasado del sit) 
+useful => útil
+
+just => solo/solamente/acabar de/justo/simplemente/recién
+ - I have just finished my dinner
+ - It is not just a hobby, it is my passion
+ - The judge made a just decision
+
+so => tan/muy/así que/tanto/así
+ - I was tired, so I went to bed early
+ - The movie was so good that I want to see it again
+ - He studied hard so he could pass the exam
+
+let => dejar/permitir
+ - My parents let me go to the party last night
+ - Let's go to the beach this weekend
+ - Let me help you with those heavy bags
+
+yourself => tu mismo/usted mismo
+ - You should take care of yourself during the winter
+ - You can fix the computer yourself without calling a technician
+ - Please, come in and make yourself at home
+
+already => ya
+
+could => podría
+
+seen => visto
+
+some = algunos
+
+quite => completamente
+
+these => estas
+
+those => esos/aquellos
+
+spelling => ortografía
+
+silly => tonto/bobo
+
+also => además
+ - She is a talented singer, and she also plays the piano
+ - I have a meeting at noon, I also need to finish this report
+ - The hotel was very clean, and it was also quite affordable
+
+beech => haya 
+ - The park is filled with ancient beech trees that turn golden in the fall
+ - We sat on a bench made of solid beech wood
+ - A single beech leaf fell slowly to the ground
+
+sheep => oveja
+ - The farmer has a large flock of sheep
+ - I saw a white sheep grazing in the field
+ - Wool is made from the hair of sheep
+
+safe => seguro
+ - Keep your passport in a safe place
+ - I hope you have a safe trip home
+ - The money is locked inside the iron safe
+
+noisy => ruidoso
+ - The restaurant was so noisy that I couldn't hear what she was saying
+ - My neighbors have a very noisy dog that barks all night
+ - That old air conditioner is getting very noisy, we should fix it
+
+dirty => sucio/cochino
+ - Don't put your dirty shoes on the clean carpet
+ - After working in the garden, his hands were very dirty
+ - The city has a problem with dirty air due to all the traffic
+
+sink => hundir/hundirse
+ - Please, put the dirty dishes in the kitchen sink
+ - If the boat has a hole, it will sink to the bottom of the ocean
+ - The sun began to sink below the horizon as evening approached
+ 
+dishwasher => lavavajillas
+ - I need to load the dishwasher before we go to bed
+ - Our new dishwasher is very quiet and energy-efficient
+ - He started his career working as a dishwasher in a small Italian restaurant
+
+shower => ducha
+ - I usually take a quick shower in the morning to wake up
+ - The master bathroom has a large walk-in shower with glass doors
+ - Don't forget to bring an umbrella; the weather report says there might be a light shower
+
+clothes => ropa
+ - I need to wash my dirty clothes this weekend
+ - She bought some new clothes for her job interview
+ - Please fold your clothes and put them away in the closet
+ 
+awfully => muy/extremadamente/excesivamente
+ - I’m awfully sorry for being so late to the meeting
+ - It’s awfully cold outside, so make sure to wear a heavy coat
+ - The movie was awfully long and quite boring
+
+inconvenience => molestia
+ - I apologize for any inconvenience this delay may have caused you
+ - Is it a big inconvenience for you to pick me up at the airport?
+ - I don’t want to inconvenience you, but could we reschedule our meeting?
+
+apologize => disculparse
+
+hectic => ajetreado/agitado
+
+topic => temas
+
+hang => colgar/espera
