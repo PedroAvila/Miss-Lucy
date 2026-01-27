@@ -268,11 +268,35 @@ rise => elevarse/subir
  - She watched the smoke rise from the chimney
 
 inside => a/hacia dentro/dentro (de)/entrañas
+ - The keys are inside my bag
+ - It’s raining, so let’s go inside
+ - He felt a lot of joy inside when he heard the news
+
 were => estuvieron/fueron/eran/estaban
+ - They were very happy at the party last night
+ - We were waiting for the bus for twenty minutes
+ - You were the best student in the class
+ 
 give => dar
+ - Can you give me a hand with this box?
+ - I always give my best effort at work
+ - Please give her the message when she arrives
+
 weird => muy raro 
+ - That’s a weird noise coming from the engine
+ - I had a really weird dream last night
+ - It’s a bit weird that he didn’t call me back
+
 said => dijo
+ - She said she would be late for the meeting
+ - I'm so hungry, he said while looking at the menu
+ - They said it was going to rain today
+
 even => hasta/ni siquiera/incluso 
+ - He didn't even say goodbye before leaving
+ - The floor is not even; we need to fix it
+ - Even if it rains, the game will continue
+ 
 blow => soplar
 bubble => burbuja
 some => algunos
@@ -280,6 +304,9 @@ proper => adecuado/en condiciones
 everybody => todos
 sat => sentado (es pasado del sit) 
 useful => útil
+everything => todo/todas las cosas
+buddy => amigo
+alrigth => muy bien/de acuerdo/esta bien
 
 just => solo/solamente/acabar de/justo/simplemente/recién
  - I have just finished my dinner
@@ -380,9 +407,18 @@ inconvenience => molestia
  - I don’t want to inconvenience you, but could we reschedule our meeting?
 
 apologize => disculparse
+ - I would like to apologize for being late to the meeting
+ - You don’t need to apologize, it was just a small mistake
+ - He finally decided to apologize to his sister for what he said
 
 hectic => ajetreado/agitado
+ - I’ve had a very hectic day at the office
+ - The city gets really hectic during the holiday season
+ - Life has been so hectic lately that I haven't had time to exercise
 
 topic => temas
+ - What is the main topic of today's presentation?
+ - We should stay on topic and avoid distractions
+ - Global warming is a very controversial topic
 
 hang => colgar/espera
