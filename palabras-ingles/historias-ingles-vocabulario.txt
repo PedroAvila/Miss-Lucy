@@ -1,60 +1,60 @@
-bonfire => hoguera 
+bonfire(ˈbɒnfaɪə) => hoguera 
  - We stood around the bonfire to keep warm on Bonfire Night
  - We gathered around the bonfire to roast marshmallows and tell scary stories
  - The students built a huge bonfire on the beach to celebrate the end of the school year
 
 
-crunchy => crujiente 
+crunchy(ˈkrʌnʧi) => crujiente 
  - The leaves were  crunchy
  - I love eating crunchy apples for a healthy snack
  - The fallen leaves were dry and crunchy under our feet
 
-fairy => hada
+fairy(ˈfeəri) => hada
  - The child dressend as a fairy
  - The little girl believes that a fairy lives in the old oak tree
  - In the story, the fairy used her magic wand to turn the pumpkin into a carriage
 
-which => cual
+which(wɪʧ) => cual
  - Which color do you prefer for the living room?
  - I bought a new phone, which has an amazing camera
  - I don't know which path to take
 
-anyway => de todos modos
+anyway(ˈɛniweɪ) => de todos modos
  - I forgot my umbrella, but it's not raining anyway
  - Anyway, as I was saying, we need to finish the report by Friday
  - It was a long journey, but I'm glad I went anyway
 
-hat => sombrero/gorro
+hat(hæt) => sombrero/gorro
  - It is very cold today, so don't forget to wear your hat
  - She bought a beautiful straw hat for her beach vacation
  - He took off his hat when he entered the room
 
-backpack => mochila
+backpack(ˈbækˌpæk) => mochila
  - My backpack is very heavy because I have many books inside
  - I need to buy a waterproof backpack for my hiking trip
  - She left her backpack on the chair in the classroom
 
-wrist => muñeca
+wrist(rɪst) => muñeca
  - I fell while skating and hurt my left wrist
  - She wears a beautiful gold watch on her wrist
  - You need to flick your wrist to throw the ball correctly
 
-art => arte
+art(ɑːt) => arte
  - She decided to study fine art at the university
  - The museum is full of modern art from around the world
  - To me, cooking is a form of art
 
-afraid => asustado
+afraid(əˈfreɪd) => asustado
  - I am afraid of spiders
  - Don't be afraid to ask for help if you need it
  - I'm afraid I can't come to the party tonight
 
-waiter => camarero
+waiter(ˈweɪtə) => camarero
  - The waiter brought us the menu
  - I asked the waiter for a glass of water
  - We should leave a tip for the waiter
 
-populated => poblado
+populated(ˈpɒpjəleɪtɪd) => poblado
 
 pasties => empanadas
 
@@ -89,52 +89,52 @@ guess => adivinar
 beat => ganar
 
 
-boot => patear/dar una patada/bota
+boot(buːt) => patear/dar una patada/bota
  - I bought a new pair of leather boots for the winter
  - Please take off your muddy boots before coming inside
  - She likes to wear tall boots with her favorite dress
 
-damp => húmedo 
+damp(dæmp) => húmedo 
  - The walls in the old house are damp in winter
  - The grass was still damp with dew early in the morning
  - You should wipe the table with a damp cloth to remove the dust 
 
-candles => velas 
+candles(ˈkændᵊlz) => velas 
  - People put candles in windows in winter 
  - She lit some scented candles to make the living room feel cozy
  - Don't forget to blow out the candles before you go to bed
 
-coast => costa 
+coast(kəʊst) => costa 
  - Big waves hit the coast during storms
  - We took a beautiful drive along the Pacific coast
  - Many lighthouse towers are built along the rocky coast to guide ships
 
-cosy => cálido/acogedor
+cosy(ˈkəʊzi) => cálido/acogedor
  - The living room is cosy with blankets and a heater
  - I love reading a book in this cosy corner of the living room
  - The cabin was small but very cosy, especially with the fireplace on
  
-heaters => calentadores
+heaters(ˈhiːtəz) => calentadores
  - We need to turn on the heaters because it's freezing inside
  - The outdoor heaters at the restaurant kept us warm all night
  - Many people use electric heaters to save on gas during the winter
 
-want => quiero
+want(wɒnt) => quiero
  - I want to travel to Europe next summer
  - She wants a cup of coffee before the meeting starts
  - They want to buy a new house in a quiet neighborhood 
 
-tend => tender/tender a hacer algo/soler hacer algo
+tend(tɛnd) => tender/tender a hacer algo/soler hacer algo
  - I tend to drink tea instead of coffee in the morning
  - Prices tend to go up during the holiday season
  - He tends to get nervous before speaking in public
 
-stress => subrayar la importancia/remarcar/recalcar
+stress(strɛs) => subrayar la importancia/remarcar/recalcar
  - Exercise is a great way to reduce stress after a long day
  - I need to stress the importance of arriving on time for the meeting
  - She is under a lot of stress because of her upcoming exams
 
-blur => empañar/difuminar/hacer borroso/hacerse borroso
+blur(blɜː) => empañar/difuminar/hacer borroso/hacerse borroso
  - The landscape was just a blur as the train sped past
  - Without my glasses, everything is a complete blur
  - Tears began to blur her vision
@@ -143,17 +143,17 @@ nest => anidar/nido
 
 underwear => ropa interior
 
-abroad => en el extranjero
+abroad(əˈbrɔːd) => en el extranjero
  - She wants to study abroad next year to improve her English
  - My brother has been living abroad for over five years
  - They usually go abroad for their summer holidays  
 
-chilly => frío
+chilly(ˈʧɪli) => frío
  - It’s a bit chilly outside, so you should bring a jacket
  - The water was too chilly for a swim
  - I woke up feeling chilly because I left the window open 
 
-ground => suelo 
+ground(ɡraʊnd) => suelo 
  - The children were sitting on the ground playing with their toys
  - The ground was still wet after the heavy rain
  - We found common ground during our discussion
@@ -161,169 +161,189 @@ ground => suelo
 forecast => pronosticar
  - 
 
-however => sin embargo
+however(haʊˈɛvə) => sin embargo
  - I really wanted to go to the beach; however, it started to rain
  - The exam was very difficult. However, she managed to get a perfect score
  - He studied hard for the presentation; however, he was still very nervous 
 
-inequality => desigualdad 
+inequality(ɪnɪˈkwɒləti) => desigualdad 
  - Some parts of the UK are wealthier, and there is still inequality in society
  - Economic inequality is a major concern in many developing nations
  - The goal of the new policy is to reduce social inequality within the city 
  - There is still a lot of gender inequality in the workplace, specially in terms of pay 
 
-sarcastic => sarcástico
+sarcastic(sɑːˈkæstɪk) => sarcástico
  - British humour is often sarcastic 
  - His reply was so sarcastic that I couldn't tell if he was being genuine or making fun of me 
  - She often uses a sarcastic tone when talking about her boss, but only in private
  - I appreciate witty humor, but sometimes his incredibly sarcastic remarks can be quite hurtful
 
-diversity => diversidad
+diversity(daɪˈvɜːsəti) => diversidad
  - People from many different backgrounds live together, showing the UK's diversity
  - The company is committed to promoting diversity and inclusion in the workplace
  - Biological diversity is essential for a healthy ecosystem
  - We need a greater diversity of opinions to solve this complex problem
 
-fairness => justicia/equidad 
+fairness(ˈfeənəs) => justicia/equidad 
  - People in Britain believe in fairness, for example by taking turns in a queue
  - The judge emphasized the importance of fairness in all legal proceedings
  - Many people are calling for greater fairness in the distribution of resources
 
-deprecating => despectivo/depreciando
+deprecating(ˈdɛprɪkeɪtɪŋ) => despectivo/depreciando
  - British humour can be self-deprecating 
  - She used a self-deprecating humor to ease the tension in the room
  - Despite his success, his comments often had a deprecating tone, minimizing his own achievements
 
-respectful => respetuoso 
+respectful(rɪˈspɛktfᵊl) => respetuoso 
  - Even when people disagree, they try to be respectful 
  - Even during a heated debate, it is important to remain respectful of opposing views
  - The students were taught to be respectful towards their elders and teachers
 
-tolerance => tolerancia
+tolerance(ˈtɒlᵊrᵊns) => tolerancia
  - British people value tolerance, specially in a multicultural society
  - Tolerance is essential for a peaceful society, allowing diverse groups to coexist respectfully
  - Practicing tolerance means accepting differences in beliefs, cultures, and opinions without judgment
 
-adjust => adaptarse/acomodar
+adjust(əˈʤʌst) => adaptarse/acomodar
  - Some people find it difficult to adjust to cultural differences
  - She had to quickly adjust her spending habits after starting her new budget
  - Please adjust the volume so that everyone in the room can hear the presentation comfortably
 
-beliefs => creencia 
+beliefs(bɪˈliːfs) => creencia 
  - People in the UK are free to follow their own beliefs
  - It is important to stay true to your beliefs, even when others disagree with you
  - The festival is a celebration of the diverse cultural beliefs found within the community
 
-causes => causa/motivo
+causes(ˈkɔːzɪz) => causa/motivo
  - People volunteer to support local causes 
  - Many people donate money to charitable causes that help protect the environment
  - Heavy rain often causes traffic delays in the city during rush hour
 
-community => comunidad
+community(kəˈmjuːnəti) => comunidad
  - The village has a strong community where people support each other. 
  - Our local community organized a cleanup event at the beach
  - Living in this neighborhood gives me a real sense of community
 
-democracy => democracia
+democracy(dɪˈmɒkrəsi) => democracia
  - Most people in the UK believe in democracy 
  - Voting is one of the most important rights in a democracy
  - A healthy democracy requires freedom of speech and an informed public
 
-freedom => libertad 
+freedom(ˈfriːdəm) => libertad 
  - People in Britain value freedom and can choose how to live their lives
  - Education gives people the freedom to follow their dreams
  - Freedom of speech is a fundamental right in many countries
 
-influence => influencia/influir en/influenciar
+influence(ˈɪnfluəns) => influencia/influir en/influenciar
  - Brithis values influence how people behave 
  - Her parents have a positive influence on her career choices
  - Social media can easily influence how young people see the world
 
-kindness => amabilidad/bondad
+kindness(ˈkaɪndnəs) => amabilidad/bondad
  - Acts of kindness, like helping neighbours, are important in British life 
  - She showed great kindness by offering to drive her elderly neighbor to the doctor
  - A small act of kindness can make a huge difference in someone's day
  
-privacy => intimidad 
+privacy(ˈprɪvəsi) => intimidad 
  - British people like privacy and do not share private details with strangers.
 
-wash => lavar/limpiar
+wash(wɒʃ) => lavar/limpiar
  - I need to wash my hands before dinner
  - Can you help me wash the car this weekend?
  - She washes her hair every morning 
 
-bags => bolsas
+bags(bæɡz) => bolsas
  - I have two heavy bags to carry
  - She always forgets her reusable bags at home
  - The airport lost my bags during the flight
 
-walls => muro/pared
+walls(wɔːlz) => muro/pared
  - The walls of the living room are painted light blue
  - The ancient city was protected by high stone walls
  - He hung several beautiful paintings on his office walls
 
-rise => elevarse/subir
+rise(raɪz) => elevarse/subir
  - The sun will rise at 6:00 AM tomorrow
  - Prices continue to rise because of inflation 
  - She watched the smoke rise from the chimney
 
-inside => a/hacia dentro/dentro (de)/entrañas
+inside(ɪnˈsaɪd) => a/hacia dentro/dentro (de)/entrañas
  - The keys are inside my bag
  - It’s raining, so let’s go inside
  - He felt a lot of joy inside when he heard the news
 
-were => estuvieron/fueron/eran/estaban
+were(wɜː) => estuvieron/fueron/eran/estaban
  - They were very happy at the party last night
  - We were waiting for the bus for twenty minutes
  - You were the best student in the class
  
-give => dar
+give(ɡɪv) => dar
  - Can you give me a hand with this box?
  - I always give my best effort at work
  - Please give her the message when she arrives
 
-weird => muy raro 
+weird(wɪəd) => muy raro 
  - That’s a weird noise coming from the engine
  - I had a really weird dream last night
  - It’s a bit weird that he didn’t call me back
 
-said => dijo
+said(sɛd) => dijo
  - She said she would be late for the meeting
  - I'm so hungry, he said while looking at the menu
  - They said it was going to rain today
 
-even => hasta/ni siquiera/incluso 
+even(ˈiːvᵊn) => hasta/ni siquiera/incluso/uniforme/nivelado 
  - He didn't even say goodbye before leaving
- - The floor is not even; we need to fix it
+ - The floor is not even, we need to fix it
  - Even if it rains, the game will continue
- 
-blow => soplar
+
+blow(bləʊ) => soplar
+
 bubble => burbuja
+
 some => algunos
+ - I have some ideas for our next project
+ - Would you like some coffee?
+ - There are some books on the table
+
 proper => adecuado/en condiciones
+ - You need to wear the proper safety gear in the lab
+ - Please make sure the documents are in the proper order
+ - He didn't have a proper breakfast this morning
+
 everybody => todos
+ - Everybody loves a good surprise
+ - Is everybody ready to start the meeting?
+ - Everybody has a different point of view
+ 
 sat => sentado (es pasado del sit) 
+
 useful => útil
+
 everything => todo/todas las cosas
 buddy => amigo
-alrigth => muy bien/de acuerdo/esta bien
 
-just => solo/solamente/acabar de/justo/simplemente/recién
+alright(ɔːlˈraɪt) => muy bien/de acuerdo/esta bien
+ - Are you feeling alright after the long trip?
+ - Alright, I'll meet you at the cafe in ten minutes
+ - The movie was alright, but the book was much better
+
+just(ʤʌst) => solo/solamente/acabar de/justo/simplemente/recién
  - I have just finished my dinner
  - It is not just a hobby, it is my passion
  - The judge made a just decision
 
-so => tan/muy/así que/tanto/así
+so(səʊ) => tan/muy/así que/tanto/así
  - I was tired, so I went to bed early
  - The movie was so good that I want to see it again
  - He studied hard so he could pass the exam
 
-let => dejar/permitir
+let(lɛt) => dejar/permitir
  - My parents let me go to the party last night
  - Let's go to the beach this weekend
  - Let me help you with those heavy bags
 
-yourself => tu mismo/usted mismo
+yourself(jɔːˈsɛlf) => tu mismo/usted mismo
  - You should take care of yourself during the winter
  - You can fix the computer yourself without calling a technician
  - Please, come in and make yourself at home
@@ -346,79 +366,79 @@ spelling => ortografía
 
 silly => tonto/bobo
 
-also => además
+also(ˈɔːlsəʊ) => además
  - She is a talented singer, and she also plays the piano
  - I have a meeting at noon, I also need to finish this report
  - The hotel was very clean, and it was also quite affordable
 
-beech => haya 
+beech(biːʧ) => haya 
  - The park is filled with ancient beech trees that turn golden in the fall
  - We sat on a bench made of solid beech wood
  - A single beech leaf fell slowly to the ground
 
-sheep => oveja
+sheep(ʃiːp) => oveja
  - The farmer has a large flock of sheep
  - I saw a white sheep grazing in the field
  - Wool is made from the hair of sheep
 
-safe => seguro
+safe(seɪf) => seguro
  - Keep your passport in a safe place
  - I hope you have a safe trip home
  - The money is locked inside the iron safe
 
-noisy => ruidoso
+noisy(ˈnɔɪzi) => ruidoso
  - The restaurant was so noisy that I couldn't hear what she was saying
  - My neighbors have a very noisy dog that barks all night
  - That old air conditioner is getting very noisy, we should fix it
 
-dirty => sucio/cochino
+dirty(ˈdɜːti) => sucio/cochino
  - Don't put your dirty shoes on the clean carpet
  - After working in the garden, his hands were very dirty
  - The city has a problem with dirty air due to all the traffic
 
-sink => hundir/hundirse
+sink(sɪŋk) => hundir/hundirse
  - Please, put the dirty dishes in the kitchen sink
  - If the boat has a hole, it will sink to the bottom of the ocean
  - The sun began to sink below the horizon as evening approached
  
-dishwasher => lavavajillas
+dishwasher(ˈdɪʃˌwɒʃə) => lavavajillas
  - I need to load the dishwasher before we go to bed
  - Our new dishwasher is very quiet and energy-efficient
  - He started his career working as a dishwasher in a small Italian restaurant
 
-shower => ducha
+shower(ˈʃaʊə) => ducha
  - I usually take a quick shower in the morning to wake up
  - The master bathroom has a large walk-in shower with glass doors
  - Don't forget to bring an umbrella; the weather report says there might be a light shower
 
-clothes => ropa
+clothes(kləʊðz) => ropa
  - I need to wash my dirty clothes this weekend
  - She bought some new clothes for her job interview
  - Please fold your clothes and put them away in the closet
  
-awfully => muy/extremadamente/excesivamente
+awfully(ˈɔːfᵊli) => muy/extremadamente/excesivamente
  - I’m awfully sorry for being so late to the meeting
  - It’s awfully cold outside, so make sure to wear a heavy coat
  - The movie was awfully long and quite boring
 
-inconvenience => molestia
+inconvenience(ˌɪnkənˈviːniəns) => molestia
  - I apologize for any inconvenience this delay may have caused you
  - Is it a big inconvenience for you to pick me up at the airport?
  - I don’t want to inconvenience you, but could we reschedule our meeting?
 
-apologize => disculparse
+apologize(əˈpɒləʤaɪz) => disculparse
  - I would like to apologize for being late to the meeting
  - You don’t need to apologize, it was just a small mistake
  - He finally decided to apologize to his sister for what he said
 
-hectic => ajetreado/agitado
+hectic(ˈhɛktɪk) => ajetreado/agitado
  - I’ve had a very hectic day at the office
  - The city gets really hectic during the holiday season
  - Life has been so hectic lately that I haven't had time to exercise
 
-topic => temas
+topic(ˈtɒpɪk) => temas
  - What is the main topic of today's presentation?
  - We should stay on topic and avoid distractions
  - Global warming is a very controversial topic
 
-hang => colgar/espera
+hang(hæŋ) => colgar/espera
