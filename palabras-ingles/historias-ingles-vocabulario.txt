@@ -55,16 +55,34 @@ waiter(ˈweɪtə) => camarero
  - We should leave a tip for the waiter
 
 populated(ˈpɒpjəleɪtɪd) => poblado
+ - The coastal areas are more densely populated than the mountainous regions
+ - The scientist discovered a remote island populated by unique species of birds
+ - The city center is heavily populated with tourists during the summer months
 
-pasties => empanadas
+pasties(ˈpæstiz) => empanadas/parches
+ - We bought two hot beef pasties from the local bakery for lunch
+ - The performer wore a dazzling costume decorated with sequins and glittery pasties
+ - After staying indoors all winter, his skin looked quite pasty and pale
 
-commute => viajar diariamente al lugar de trabajo
+commute(kəˈmjuːt) => viajar diariamente al lugar de trabajo/trayecto
+ - I have a long commute, so I listen to podcasts in the car
+ - How long is your daily commute to the office?
+ - Many people prefer to commute by train to avoid traffic
 
-citizen => ciudadano/ciudadana
+citizen(ˈsɪtɪzᵊn) => ciudadano/ciudadana
+ - She is a Spanish citizen but lives in New York
+ - Every citizen has the right to vote in the elections
+ - The mayor asked every citizen to help keep the city clean
 
-everywhere => por doquier/por todas partes/en todos lados
+everywhere(ˈɛvriweə) => por doquier/por todas partes/en todos lados
+ - I’ve looked everywhere for my keys, but I still can't find them
+ - In the spring, there are beautiful flowers everywhere
+ - Smartphones are everywhere these days
 
-fee => honorario/cuota/tasa
+fee(fiː) => honorario/cuota/tasa
+ - The lawyer’s consultation fee was higher than I expected
+ - Most banks charge a small fee for international transfers
+ - The entrance fee for the national park is $20 per vehicle
 
 upset => disgustar/afligir
 
@@ -87,6 +105,13 @@ mine => mío
 guess => adivinar
 
 beat => ganar
+
+couple(ˈkʌpᵊl) => par/pareja
+ - The young couple just bought their first house together
+ - I only need a couple of minutes to finish this report
+ - A couple of friends are coming over for dinner tonight
+
+fried => frito 
 
 
 boot(buːt) => patear/dar una patada/bota
@@ -160,6 +185,11 @@ ground(ɡraʊnd) => suelo
 
 forecast => pronosticar
  - 
+
+ often(ˈɒfᵊn) => a menudo
+  - I often go to the gym after work
+  - We often visit our grandparents on weekends
+  - Does it often rain here in the summer?
 
 however(haʊˈɛvə) => sin embargo
  - I really wanted to go to the beach; however, it started to rain
@@ -297,30 +327,45 @@ even(ˈiːvᵊn) => hasta/ni siquiera/incluso/uniforme/nivelado
  - The floor is not even, we need to fix it
  - Even if it rains, the game will continue
 
-blow(bləʊ) => soplar
+blow(bləʊ) => soplar/golpe
+ - The wind started to blow hard as the storm approached the coast
+ - The boxer delivered a powerful blow to his opponent's jaw
+ - Losing his job was a devastating blow to his confidence
 
-bubble => burbuja
+bubble(ˈbʌbᵊl) => burbuja
+ - The child blew a giant bubble with his soap wand
+ - I love to relax in a hot bath full of bubbles after a long day
+ - Be careful not to burst her bubble, she is very excited about the news
 
-some => algunos
+some(sʌm) => algunos
  - I have some ideas for our next project
  - Would you like some coffee?
  - There are some books on the table
 
-proper => adecuado/en condiciones
+proper(ˈprɒpə) => adecuado/en condiciones
  - You need to wear the proper safety gear in the lab
  - Please make sure the documents are in the proper order
  - He didn't have a proper breakfast this morning
 
-everybody => todos
+everybody(ˈɛvribɒdi) => todos
  - Everybody loves a good surprise
  - Is everybody ready to start the meeting?
  - Everybody has a different point of view
  
-sat => sentado (es pasado del sit) 
+sat(sæt) => sentado (es pasado del sit) 
+ - We sat by the fireplace to stay warm during the storm
+ - The cat sat quietly on the windowsill, watching the birds outside
+ - She sat through the entire meeting without saying a single word
 
-useful => útil
+useful(ˈjuːsfᵊl) => útil
+ - This app is very useful for learning new languages
+ - I found some useful information in that book
+ - It’s always useful to carry a portable charger
 
-everything => todo/todas las cosas
+everything(ˈɛvriθɪŋ) => todo/todas las cosas
+
+laugh => reírse
+
 buddy => amigo
 
 alright(ɔːlˈraɪt) => muy bien/de acuerdo/esta bien
@@ -348,23 +393,52 @@ yourself(jɔːˈsɛlf) => tu mismo/usted mismo
  - You can fix the computer yourself without calling a technician
  - Please, come in and make yourself at home
 
-already => ya
+already(ɔːlˈrɛdi) => ya
+ - I have already finished my homework
+ - She has already left for the airport
+ - Are you hungry? No, I already ate
 
-could => podría
+could(kʊd) => podría
+ - When I was a child, I could swim very well
+ - Could you help me with this box, please?
+ - It could rain later, so take an umbrella
 
-seen => visto
+seen(siːn) => visto
+ - I have seen that movie three times already
+ - She hasn't been seen since yesterday morning
+ - Have you seen my keys anywhere?
 
-some = algunos
+some(sʌm) = algunos
+ - I have some friends in New York
+ - Would you like some coffee?
+ - There is some milk in the fridge
 
-quite => completamente
+quite(kwaɪt) => completamente/bastante
+ - I am quite tired after work today
+ - The movie was quite good, but the book is better
+ - It is quite a beautiful day, isn't it?
 
-these => estas
+these(ðiːz) => estos/estas
+ - These shoes are very comfortable
+ - I bought these flowers for your birthday
+ - Do you think these photos look good?
 
-those => esos/aquellos
+those(ðəʊz) => esos/aquellos
+ - Those stars are beautiful tonight
+ - Who are those people over there?
+ - I really like those shoes in the window
 
 spelling => ortografía
 
-silly => tonto/bobo
+silly(ˈsɪli) => tonto/bobo
+ - Don't be silly, of course I will help you!
+ - The kids were making silly faces at the camera
+ - It was a silly mistake, but we fixed it quickly
+
+far(fɑː) => lejos
+ - How far is the train station from here?
+ - The beach is too far to go walking
+ - She has traveled far to achieve her dreams
 
 also(ˈɔːlsəʊ) => además
  - She is a talented singer, and she also plays the piano
@@ -442,3 +516,5 @@ topic(ˈtɒpɪk) => temas
  - Global warming is a very controversial topic
 
 hang(hæŋ) => colgar/espera
+
+

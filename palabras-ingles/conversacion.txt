@@ -16,6 +16,15 @@ Estructura: (Question Word) + Auxiliary + Subject + Verb + Complement?
 Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (verb) + ?
 =========================================================================================
 
+¿Qué te viene a la mente cuando escuchas “latinos”?
+What comes to mind when you hear Latinos?
+
+- ¿Me perdí de algo?
+Did I miss something?
+
+- Que estación del año es en tu pais
+What season is it in your country?
+
 - ¿Puedes describir tu rutina diaria?
 Can you describe your daily routine?
 
@@ -70,6 +79,9 @@ Do you have any hobbies?
 
 - ¿Algún plan para el fin de semana?
 Any plans for the weekend?
+
+- Que hiciste el fin de semana 
+What did you do at the weekend?
 
 - Que vas hacer hoy?
 What are you going to do day?
@@ -181,8 +193,6 @@ I'd like to order, please.
 
 - Ya termine, de tomar desayuno
 I've finished having breakfast.
-
-
 
 - Te suena?
 Does it sound familiar?
