@@ -183,8 +183,35 @@ ground(ɡraʊnd) => suelo
  - The ground was still wet after the heavy rain
  - We found common ground during our discussion
 
-forecast => pronosticar
- - 
+forecast(ˈfɔːkɑːst) => pronosticar
+ - The weather forecast says it will rain tomorrow, so don't forget your umbrella
+ - Economists forecast a significant growth in the tech sector over the next year
+ - Our sales forecast for this quarter was very accurate
+
+concern(kənˈsɜːn) => preocupar
+ - The growing pollution in the city is a major concern for the local government
+ - This new policy doesn't concern you, so don't worry about it
+ - It is a matter of great concern to everyone involved in the project
+
+major(ˈmeɪʤə) => importante/de envergadura
+ - The city is facing a major traffic problem due to the new construction
+ - What is your major? I’m studying Computer Science
+ - She decided to major in Psychology because she wants to help people
+
+hand(hænd) => mano
+ - He held the delicate vase carefully in his hand
+ - Could you give me a hand with these heavy boxes?
+ - Please hand me the remote control, I want to change the channel
+
+facing(ˈfeɪsɪŋ) => enfrentado
+ - Our new apartment is facing the ocean, so we have a great view
+ - The company is facing some serious financial challenges this year
+ - She stood there, facing her fears for the first time
+
+growing(ˈɡrəʊɪŋ) => creciente
+ - The children are growing so fast that they need new clothes every few months
+ - There is a growing interest in renewable energy across the world
+ - Our small startup is growing into a successful international company
 
  often(ˈɒfᵊn) => a menudo
   - I often go to the gym after work
