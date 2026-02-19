@@ -314,8 +314,6 @@ No doubt about it
 - Me parece bien 
 That sounds good to me
 
-
-
 - Estás ocupado? 
 Are you busy? 
 
@@ -412,8 +410,44 @@ How are you getting on?
 - Todo bien?
 Everything alright?
 
+- Que esta pasando?
+What's going on?
 
+- Que has estado haciendo?
+What have you been up to?
 
+- Es bueno verte 
+It's good to see you
+
+- Has visto una buana pelicula ultimamente?
+Have you seen any good movies lately?
+
+- El tiempo vuela 
+Time flies 
+
+- El trafico estuvo terrible hoy
+The traffic was terrible today 
+
+- Que hay para almorzar?
+What’s for lunch?
+
+- Estoy esperando con ganas que llegue el fin de semana 
+I'm looking forward to the weekend
+
+- A sido un día largo 
+It's been a long day 
+
+- El clima esta agradable 
+The weather is nice 
+
+- Tienes alguna mascota?
+Do you have any pets?
+
+- Que estas leyendo ultimamente?
+What are you reading these days?
+
+- Cual es tu postre favorito?
+What’s your favorite dessert?
 
 
 - Hablame sobre un proyecto desafiante.

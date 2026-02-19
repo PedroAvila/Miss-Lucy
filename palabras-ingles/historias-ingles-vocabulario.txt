@@ -2,8 +2,7 @@ bonfire(ˈbɒnfaɪə) => hoguera
  - We stood around the bonfire to keep warm on Bonfire Night
  - We gathered around the bonfire to roast marshmallows and tell scary stories
  - The students built a huge bonfire on the beach to celebrate the end of the school year
-
-
+ 
 crunchy(ˈkrʌnʧi) => crujiente 
  - The leaves were  crunchy
  - I love eating crunchy apples for a healthy snack
@@ -435,11 +434,6 @@ seen(siːn) => visto
  - She hasn't been seen since yesterday morning
  - Have you seen my keys anywhere?
 
-some(sʌm) = algunos
- - I have some friends in New York
- - Would you like some coffee?
- - There is some milk in the fridge
-
 quite(kwaɪt) => completamente/bastante
  - I am quite tired after work today
  - The movie was quite good, but the book is better
@@ -543,5 +537,124 @@ topic(ˈtɒpɪk) => temas
  - Global warming is a very controversial topic
 
 hang(hæŋ) => colgar/espera
+ - Please hang your coat in the closet
+ - I want to hang out with my friends this weekend
+ - I know things are tough right now, but hang in there
+
+rehearsal(rəˈhɜːsᵊl) => ensayo
+ - The band is having a final rehearsal before their big concert tonight
+ - We are going to the rehearsal dinner on Friday evening
+ - She did a quick rehearsal of her speech in front of the mirror
+
+impossible(ɪmˈpɒsəbᵊl) => imposible
+ - It is impossible to drive through the city center during rush hour
+ - With enough hard work, nothing is impossible
+ - My boss is being completely impossible today, he keeps changing his mind
+
+bring(brɪŋ) => traer
+ - Can you bring me a glass of water, please?
+ - Don't forget to bring your swimsuit to the pool party
+ - The new job will bring many opportunities for her career
+
+tough(tʌf) => resistente/fuerte/difícil/duro
+ - It was a tough decision, but I think I made the right choice
+ - This steak is a bit tough; it’s quite hard to chew
+ - She had a tough childhood, but it made her a stronger person
+
+challenge(ˈʧælɪnʤ) => reto/desfio
+ - Learning a new language is a big challenge, but it is very rewarding
+ - I challenge you to finish this project before the deadline
+ - Our team is ready to take on any challenge that comes our way
+
+absolutely(ˈæbsəluːtli) => absolutamente
+ - You are absolutely right about that decision
+ - Do you want to go to the beach tomorrow?
+ - The view from the top of the mountain was absolutely breathtaking
+
+pretty(ˈprɪti) => bastante/bonito/lindo
+ - I’m pretty sure we have met before
+ - That is a pretty dress you are wearing today
+ - The exam was pretty difficult, but I think I passed
+
+neighborhood(ˈneɪbəhʊd) => vecindario/barrio
+ - This is a very quiet and safe neighborhood for families
+ - There are many great coffee shops in my neighborhood
+ - The whole neighborhood came together to organize the block party 
+
+a lot(ə lɒt) => mucho
+ - I travel a lot for work, so I'm rarely at home during the week
+ - She has a lot of friends from all over the world
+ - I like this song a lot; it reminds me of my childhood
+
+discover(dɪˈskʌvə) => descubrir
+ - Scientists hope to discover liquid water on other planets soon
+ - I'm taking a painting class to discover my creative side
+ - He was shocked to discover that he had a long-lost cousin in Italy
+
+any(ˈɛni) => ninguno
+ - Do you have any questions about the project?
+ - I don't have any money in my wallet right now
+ - You can choose any color you like for your new room
+
+excited(ɪkˈsaɪtɪd) => emocionado/entusiasmado
+ - I am so excited about our trip to Japan next month!
+ - The kids are very excited to open their birthday presents
+ - She is excited to start her new job on Monday
+
+outdoor(ˈaʊtˌdɔː) => exterior/descubierto/al aire libre/descubierto
+ - Hiking and cycling are my favorite outdoor activities
+ - They are planning an outdoor wedding in a beautiful garden
+ - We need to buy some new outdoor furniture for the patio
+
+awesome => increíble/asombroso
+
+suggesttions => sugerencias
+
+stifling => sofocante
+
+mean => significa/querer decir
+
+lately => ultimamente/recientemente
+
+become => llegar a ser/convertirse en/volverse 
+
+mistake => equivocación/fallo/error
+
+explain => explicar
+
+approach => acercarse
+
+knowledge => conocimiento
+
+sometimes = a veces/en ocasiones
+
+coat => abrigo
+
+enough = suficiente
+
+advice => consejo
+
+pristine => inmaculado/impecable 
+
+whenever => siempre que/cuando
+
+wearing => fatigoso/agotador/llevar puesto
+though => aunque
+almost => casi 
+scientist => científico/científica
+tear => rasgar/romper
+maintain => mantener/insistir/sostener
+otherwise => si no
+themselves => ellos mismos
+damaging => dañino/nocivo
+bombing => bombardeo
+operate => operar/funcionar/manejar/intervenir
+
+
+
+
+
+
+
 
 
