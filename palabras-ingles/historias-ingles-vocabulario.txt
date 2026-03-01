@@ -390,7 +390,10 @@ useful(ˈjuːsfᵊl) => útil
 
 everything(ˈɛvriθɪŋ) => todo/todas las cosas
 
-laugh => reírse
+laugh(lɑːf) => reírse
+- She has a very loud and infectious laugh
+- The joke was so funny that I couldn't stop laughing
+- It’s important to laugh every day to stay happy
 
 buddy => amigo
 
@@ -561,7 +564,7 @@ tough(tʌf) => resistente/fuerte/difícil/duro
  - This steak is a bit tough; it’s quite hard to chew
  - She had a tough childhood, but it made her a stronger person
 
-challenge(ˈʧælɪnʤ) => reto/desfio
+challenge(ˈʧælɪnʤ) => reto/desafio
  - Learning a new language is a big challenge, but it is very rewarding
  - I challenge you to finish this project before the deadline
  - Our team is ready to take on any challenge that comes our way
@@ -606,33 +609,80 @@ outdoor(ˈaʊtˌdɔː) => exterior/descubierto/al aire libre/descubierto
  - They are planning an outdoor wedding in a beautiful garden
  - We need to buy some new outdoor furniture for the patio
 
-awesome => increíble/asombroso
+awesome(ˈɔːsəm) => increíble/asombroso
+ - That movie we saw last night was absolutely awesome
+ - You did an awesome job on your presentation today
+ - The view from the top of the mountain is truly awesome
 
 suggesttions => sugerencias
+ - Do you have any suggestions for a good restaurant nearby?
+ - The manager is open to hearing your suggestions for the project
+ - I followed your suggestions, and everything worked out perfectly
 
-stifling => sofocante
+stifling(ˈstaɪflɪŋ) => sofocante/asfixiando 
+ - The heat in the city was stifling, making it almost impossible to breathe comfortably
+ - She felt that the office's strict rules were stifling her creativity
+ - There was a stifling silence in the room after they argued
 
-mean => significa/querer decir
+mean(miːn) => significa/querer decir
+- I don’t understand what you mean, could you explain it again?
+- Don't be so mean to your little brother, share your toys with him
+- To find the arithmetic mean, you need to add all the numbers and divide by the total
 
-lately => ultimamente/recientemente
+lately(ˈleɪtli) => ultimamente/recientemente
+- I haven't seen her lately
+- Have you been working out lately?
+- Everything has been so busy lately
 
-become => llegar a ser/convertirse en/volverse 
+become(bɪˈkʌm) => llegar a ser/convertirse en/volverse 
+- It has become very cold this evening
+- She wants to become a doctor in the future
+- He became famous after his first movie
 
-mistake => equivocación/fallo/error
+mistake(mɪˈsteɪk) => equivocación/fallo/error
+- I made a mistake on the final exam
+- Don't worry, everyone makes mistakes sometimes
+- I realized my mistake as soon as I sent the email
 
-explain => explicar
+explain(ɪkˈspleɪn) => explicar
+- Can you explain this math problem to me?
+- The teacher will explain the rules of the game
+- It is difficult to explain how I feel right now
 
-approach => acercarse
+approach(əˈprəʊʧ) => acercarse/abordar/enfoque
+- We need a new approach to solve this marketing problem
+- The deer ran away as soon as it saw the hunter approach
+- I'm going to approach my boss about a salary increase tomorrow
 
-knowledge => conocimiento
+knowledge(ˈnɒlɪʤ) => conocimiento
+- Technical knowledge is essential for this engineering position
+- She has extensive knowledge of ancient Egyptian history
+- They say that knowledge is power
 
-sometimes = a veces/en ocasiones
+edge(ɛʤ) => borde/ventaja/nervioso   
+- Don't put your glass so close to the edge of the table, it might fall
+- The new software gives our company a competitive edge over the rivals
+- He has been on edge all day waiting for the exam results
 
-coat => abrigo
+sometimes(ˈsʌmtaɪmz) = a veces/en ocasiones
+- I sometimes listen to podcasts while I'm cooking dinner
+- Sometimes it's better to stay quiet and listen to others
+- We go out for a walk in the park sometimes
 
-enough = suficiente
+coat(kəʊt) => abrigo
+- It’s very cold outside, so don’t forget to wear your heavy coat
+- She bought a beautiful red coat for the winter season
+- I need to hang my coat in the closet before the meeting starts
 
-advice => consejo
+enough(ɪˈnʌf) = suficiente/bastante
+- I have enough money to buy those shoes
+- Is the water warm enough for you to swim?
+- We’ve practiced enough for today; let’s take a break
+
+advice(ədˈvaɪs) => consejo
+- My father always gives me good advice when I have a problem
+- I really need some professional advice on my bank loan
+- Thank you for your advice; it helped me make a better decision
 
 pristine => inmaculado/impecable 
 
@@ -649,8 +699,40 @@ themselves => ellos mismos
 damaging => dañino/nocivo
 bombing => bombardeo
 operate => operar/funcionar/manejar/intervenir
+polite => educado/atento/correcto
+trail => sendero/rastro
+shame => una lástima/verguenza 
+told => dijo
+half => mitad 
+outside => exterior/de afuera
+probably => probablemente
+spend => gastar
+must => deber
+delighted => encantado/contento 
+hardly => apenas
+contain => contener
+unfair => injusto
+sadness => tristeza 
+effort  => trabajo/esfuerzo
+fear => miedo
+seat => culo/trasero/sentar
+chills => escalofrío
+spine => columna vertebral/espina dorsal
+surprise => sorpresa
+stunned => estupefacto, estupefacta, aturdido, aturdida, atónito, atónita
+beyond => más allá de
+chunks => trozos/pedazo
+thought => pensamiento
 
+confident(ˈkɒnfɪdᵊnt) => seguro de sí mismo
+- She is very confident about her presentation tomorrow
+- The team feels confident that they will win the game
+- You need to be more confident in your own abilities
 
+ever => alguna vez
+forward => hacia delante
+purpose => fin/finalidad
+spin => girar/dar vueltas
 
 
 
