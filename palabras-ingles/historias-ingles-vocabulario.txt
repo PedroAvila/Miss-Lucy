@@ -604,7 +604,7 @@ excited(ɪkˈsaɪtɪd) => emocionado/entusiasmado
  - The kids are very excited to open their birthday presents
  - She is excited to start her new job on Monday
 
-outdoor(ˈaʊtˌdɔː) => exterior/descubierto/al aire libre/descubierto
+outdoor(ˈaʊtˌdɔː) => exterior/descubierto/al aire libre
  - Hiking and cycling are my favorite outdoor activities
  - They are planning an outdoor wedding in a beautiful garden
  - We need to buy some new outdoor furniture for the patio
@@ -684,13 +684,31 @@ advice(ədˈvaɪs) => consejo
 - I really need some professional advice on my bank loan
 - Thank you for your advice; it helped me make a better decision
 
-pristine => inmaculado/impecable 
+pristine(ˈprɪstiːn) => inmaculado/impecable 
+- The snowy mountains looked pristine in the morning light
+- He keeps his vintage car in pristine condition
+- We hiked to a pristine lake far away from the city
 
-whenever => siempre que/cuando
+whenever(wɛˈnɛvə) => siempre que/cuando
+- You can call me whenever you need help
+- Whenever I hear that song, I think of my childhood
+- Feel free to start the meeting whenever you are ready
 
-wearing => fatigoso/agotador/llevar puesto
-though => aunque
-almost => casi 
+wearing(ˈweərɪŋ) => fatigoso/agotador/llevar puesto
+- She is wearing a beautiful red dress for the party
+- Why are you wearing sunglasses inside the house?
+- I enjoy wearing comfortable clothes when I work from home
+
+though(ðəʊ) => aunque/sin embargo
+- The food was expensive. It was delicious, though
+- Though it was raining, they decided to go for a walk
+- He said he would help me, though I don't think he has the time
+
+almost(ˈɔːlməʊst) => casi 
+- I'm almost ready; just give me five more minutes
+- I almost missed the bus this morning because I overslept
+- It's almost midnight, so we should probably head home
+
 scientist => científico/científica
 tear => rasgar/romper
 maintain => mantener/insistir/sostener
@@ -715,7 +733,12 @@ unfair => injusto
 sadness => tristeza 
 effort  => trabajo/esfuerzo
 fear => miedo
-seat => culo/trasero/sentar
+
+seat(siːt) => culo/trasero/sentar
+- Is this seat taken, or can I sit here?
+- Please fasten your seat belt before the plane takes off
+- The host will seat us as soon as a table is ready
+
 chills => escalofrío
 spine => columna vertebral/espina dorsal
 surprise => sorpresa
@@ -730,11 +753,24 @@ confident(ˈkɒnfɪdᵊnt) => seguro de sí mismo
 - You need to be more confident in your own abilities
 
 ever => alguna vez
+
 forward => hacia delante
+
 purpose => fin/finalidad
+
 spin => girar/dar vueltas
 
+great(ɡreɪt) => genial/excelente
 
+again(əˈɡɛn) => de nuevo
+- Could you say that again, please? I didn't hear you
+- It's raining again; I should have brought my umbrella
+- If you fail the first time, you can always try again
+
+either => además/tampoco/cualquiera
+- We can either go to the cinema or stay at home
+- You can take either road, both lead to the city center
+- I don't like broccoli, and I don't like spinach either
 
 
 
