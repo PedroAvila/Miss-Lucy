@@ -709,16 +709,56 @@ almost(ˈɔːlməʊst) => casi
 - I almost missed the bus this morning because I overslept
 - It's almost midnight, so we should probably head home
 
-scientist => científico/científica
-tear => rasgar/romper
-maintain => mantener/insistir/sostener
-otherwise => si no
-themselves => ellos mismos
-damaging => dañino/nocivo
-bombing => bombardeo
-operate => operar/funcionar/manejar/intervenir
-polite => educado/atento/correcto
-trail => sendero/rastro
+scientist(ˈsaɪəntɪst) => científico/científica
+- The scientist discovered a new species of butterfly in the rainforest
+- She wants to be a research scientist when she grows up
+- Every scientist in the lab must wear safety goggles
+
+tear(teə) => rasgar/romper
+- A single tear rolled down her cheek during the movie
+- Be careful not to tear the wrapping paper
+- There is a small tear in the sleeve of my favorite jacket
+
+maintain(meɪnˈteɪn) => mantener/insistir/sostener
+- It is important to maintain a balanced diet and exercise regularly to stay healthy
+- They have managed to maintain a close friendship despite living in different countries
+- The company works hard to maintain its equipment in top condition
+
+otherwise(ˈʌðəwaɪz) => si no
+- You should leave now; otherwise, you'll miss your train
+- The rent is a bit high, but otherwise the apartment is perfect
+- Eat your vegetables, otherwise you won't get any dessert
+
+themselves(ðəmˈsɛlvz) => ellos mismos
+- They bought themselves a new car for their anniversary
+- The children finished the entire puzzle by themselves
+- They need to take better care of themselves during the winter
+
+damaging(ˈdæmɪʤɪŋ) => dañino/nocivo
+- Excessive sun exposure can be very damaging to your skin
+- The scandal was incredibly damaging to the politician's career
+- Staying in a toxic environment is damaging to your mental health
+
+bombing(ˈbɒmɪŋ) => bombardeo
+- The city was heavily rebuilt after the bombing during the war
+- The planes were bombing strategic targets throughout the night
+- The comedian was bombing so hard that the audience stayed silent
+
+operate(ˈɒpᵊreɪt) => operar/funcionar/manejar/intervenir
+- You need to learn how to operate this heavy machinery safely
+- Our company operates in more than twenty different countries
+- The surgeons had to operate on his knee after the football accident
+
+polite(pəˈlaɪt) => educado/atento/correcto
+- He is always very polite to his teachers
+- It is considered polite to say 'please' and 'thank you'
+- She gave a polite smile and left the room
+
+trail(treɪl) => sendero/rastro/seguir
+- We spent the whole afternoon hiking along the mountain trail
+- The robbers left a trail of muddy footprints leading to the back door
+- The detective decided to trail the suspect to see where he lived
+
 shame => una lástima/verguenza 
 told => dijo
 half => mitad 
@@ -739,35 +779,71 @@ seat(siːt) => culo/trasero/sentar
 - Please fasten your seat belt before the plane takes off
 - The host will seat us as soon as a table is ready
 
-chills => escalofrío
-spine => columna vertebral/espina dorsal
-surprise => sorpresa
-stunned => estupefacto, estupefacta, aturdido, aturdida, atónito, atónita
-beyond => más allá de
-chunks => trozos/pedazo
-thought => pensamiento
+chills(ʧɪlz) => escalofrío
+- The beautiful melody of the violin gave me chills
+- He stayed in bed all day because he had a high fever and chills
+- That horror movie was so scary it sent chills down my spine
+
+spine(spaɪn) => columna vertebral/espina dorsal
+- The doctor explained that the spine consists of 33 individual vertebrae
+- I can't read the title of that book because the spine is damaged
+- The sound of the wind howling through the trees sent a shiver down my spine
+
+surprise(səˈpraɪz) => sorpresa
+- We are planning a big surprise party for my best friend's birthday
+- I wanted to surprise my parents by coming home a week early
+- To my great surprise, the exam was much easier than I expected
+
+stunned(stʌnd) => estupefacto/aturdido/atónito/maravillado
+- The crowd was stunned into silence when the underdog won the match
+- I was absolutely stunned by the beauty of the sunrise over the mountains
+- She looked stunned after hearing the unexpected news
+
+beyond(bɪˈjɒnd) => más allá de
+- The mountains are visible just beyond the horizon
+- The beauty of the sunset was beyond words
+- Don't stay out beyond midnight, it's getting cold
+
+chunks(ʧʌŋks) => trozos/pedazo
+- I like my ice cream with large chunks of chocolate
+- After the storm, huge chunks of ice were scattered across the road
+- To learn a new language, it's easier to memorize sentences in small chunks
+
+thought(θɔːt) => pensamiento/consideración
+- I thought you were coming to the party tonight
+- Suddenly, a scary thought crossed my mind
+- Thanks for the flowers! It's the thought that counts
 
 confident(ˈkɒnfɪdᵊnt) => seguro de sí mismo
 - She is very confident about her presentation tomorrow
 - The team feels confident that they will win the game
 - You need to be more confident in your own abilities
 
-ever => alguna vez
+ever(ˈɛvə) => alguna vez
+- Have you ever traveled to Japan?
+- This is the best meal I have ever eaten
+- Don't ever do that again
 
-forward => hacia delante
+forward(ˈfɔːwəd) => hacia delante
+- She took a step forward to see the painting better
+- I am looking forward to meeting you next week
+- Could you please forward that email to the manager?
 
 purpose => fin/finalidad
 
 spin => girar/dar vueltas
 
 great(ɡreɪt) => genial/excelente
+- We had a great time at the party last night
+- The Great Wall of China is visible from some satellite images
+- He is a great leader who inspires everyone
 
 again(əˈɡɛn) => de nuevo
 - Could you say that again, please? I didn't hear you
 - It's raining again; I should have brought my umbrella
 - If you fail the first time, you can always try again
 
-either => además/tampoco/cualquiera
+either(ˈaɪðə) => además/tampoco/cualquiera
 - We can either go to the cinema or stay at home
 - You can take either road, both lead to the city center
 - I don't like broccoli, and I don't like spinach either
