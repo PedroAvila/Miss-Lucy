@@ -16,6 +16,8 @@ Estructura: (Question Word) + Auxiliary + Subject + Verb + Complement?
 Ejemplo: What city (question word) + do (auxiliary) + you (subject) + live in (verb) + ?
 =========================================================================================
 
+asleep => dormido
+
 ¿Qué te viene a la mente cuando escuchas “latinos”?
 What comes to mind when you hear Latinos?
 
@@ -521,6 +523,19 @@ It was a challenge, my I have to investigate and translation the documentation t
 
 Pedro, ¿en qué jardín preferirías pasar el tiempo?
 Pedro, which garden would your prefer to spend time in?
+
+Do/Does
+=======
+
+Saira doesn't work on Sunday
+They don't sell fish
+Do you like English?
+Do they play soccer tomorrow?
+Does Jhon work in a company?
+Michael and Carmen don't like to eat pizza
+Where do they live?
+Do you practice English every day?
+
 
 
 

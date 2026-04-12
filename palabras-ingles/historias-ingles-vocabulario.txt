@@ -614,7 +614,7 @@ awesome(ˈɔːsəm) => increíble/asombroso
  - You did an awesome job on your presentation today
  - The view from the top of the mountain is truly awesome
 
-suggesttions => sugerencias
+suggestions(səˈʤɛsʧᵊnz) => sugerencias
  - Do you have any suggestions for a good restaurant nearby?
  - The manager is open to hearing your suggestions for the project
  - I followed your suggestions, and everything worked out perfectly
@@ -767,12 +767,48 @@ probably => probablemente
 spend => gastar
 must => deber
 delighted => encantado/contento 
-hardly => apenas
+
+hardly(ˈhɑːdli) => apenas/casi no
+- I hardly know him, we only met once
+- It was so noisy that I could hardly hear what she was saying
+- He hardly ever goes to the gym anymore
+
 contain => contener
+
 unfair => injusto
+
 sadness => tristeza 
+
 effort  => trabajo/esfuerzo
+
 fear => miedo
+
+sharp => afilado/puntiagudo
+pocket => bolsillo/embolsar
+hall => vestíbulo/pasillo/corredor/sala/auditorio/recibidor
+
+blood => sangre
+
+lonely => solo/solitario
+
+suddenly => de repente
+
+terrified => aterrado/aterrorizado
+
+soul => alma 
+
+bend => doblar/doblarse/torcer/torcerse
+
+countryside => campo/campiña
+
+settle => resolver/liquidar/saldar/llegar a un acuerdo
+sell => vender 
+indeed => efectivamente
+
+easter(ˈiːstə) => semana santa
+- We always visit my grandparents for Easter dinner
+- The children are excited to go on an Easter egg hunt tomorrow
+- Easter is a holiday that is celebrated in many countries around the world
 
 seat(siːt) => culo/trasero/sentar
 - Is this seat taken, or can I sit here?
@@ -829,9 +865,15 @@ forward(ˈfɔːwəd) => hacia delante
 - I am looking forward to meeting you next week
 - Could you please forward that email to the manager?
 
-purpose => fin/finalidad
+purpose(ˈpɜːpəs) => fin/finalidad/propósito
+- Everyone has a unique purpose in life
+- I did not do it on purpose; it was just an accident
+- The main purpose of this meeting is to discuss the new project
 
-spin => girar/dar vueltas
+spin(spɪn) => girar/dar vueltas
+- The earth takes twenty-four hours to spin once on its axis
+- The ice skater started to spin faster and faster
+- The car went into a spin after hitting a patch of ice
 
 great(ɡreɪt) => genial/excelente
 - We had a great time at the party last night
@@ -848,7 +890,15 @@ either(ˈaɪðə) => además/tampoco/cualquiera
 - You can take either road, both lead to the city center
 - I don't like broccoli, and I don't like spinach either
 
+dumplings => albóndigas
 
+soon(suːn) => pronto
+- I will see you soon
+- The movie is starting soon
+- Get well soon!
+
+bring => traer
+wish => desear/querer
 
 
 
