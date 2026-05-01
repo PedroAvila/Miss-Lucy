@@ -84,26 +84,59 @@ fee(fiː) => honorario/cuota/tasa
  - The entrance fee for the national park is $20 per vehicle
 
 upset => disgustar/afligir
+ - I was upset when I found out that the game was cancelled
+ - Don't be upset about the small mistake, we can fix it
+ - She got upset with her friend because of a misunderstanding
 
 blaze => arder
+ - The fire started to blaze out of control within minutes
+ - The sun was blazing hot during the summer afternoon
+ - The bonfire began to blaze as we threw more wood on it
 
 flame => llama
+ - A single flame danced in the darkness of the room
+ - The flames from the candle flickered gently
+ - We watched as the flames consumed the burning logs
 
 wood => madera/leña
+ - The cabin was built from strong wooden wood
+ - I bought wood for the winter to keep the fireplace burning
+ - The bridge is made of wood and stone
 
 straw => paja
+ - The farmer uses straw to feed the horses during winter
+ - I drank my orange juice through a plastic straw
+ - The scarecrow in the field is filled with straw
 
 fire brigade => cuerpo de bomberos
+ - The fire brigade arrived quickly to put out the fire
+ - My father is a member of the local fire brigade
+ - The fire brigade training is very demanding and rigorous
 
 extinguish => extinguir/apagar
+ - We need to extinguish the candles before we leave the room
+ - The firefighters worked hard to extinguish the building fire
+ - It is important to extinguish cigarettes completely before throwing them away
 
 burn => quemar
+ - I got a bad burn on my hand while cooking dinner
+ - Be careful not to burn yourself on the hot stove
+ - The forest fire will burn for several days before it's completely extinguished
 
 mine => mío 
+ - This book is mine, so please don't lose it
+ - The keys are mine; I found them first
+ - The blue car in the driveway is mine
 
 guess => adivinar
+ - I guess we should leave now before it gets dark
+ - Can you guess what's inside this box?
+ - I would guess that tomorrow will be a sunny day
 
 beat => ganar
+ - Our team will beat them in the championship game
+ - She beat all her competitors to win the prize
+ - I can hear the beat of the music from outside
 
 couple(ˈkʌpᵊl) => par/pareja
  - The young couple just bought their first house together
@@ -111,7 +144,9 @@ couple(ˈkʌpᵊl) => par/pareja
  - A couple of friends are coming over for dinner tonight
 
 fried => frito 
-
+ - I like fried chicken for dinner
+ - The fried potatoes were crispy and delicious
+ - She cooked fried eggs for breakfast this morning
 
 boot(buːt) => patear/dar una patada/bota
  - I bought a new pair of leather boots for the winter
@@ -164,8 +199,14 @@ blur(blɜː) => empañar/difuminar/hacer borroso/hacerse borroso
  - Tears began to blur her vision
 
 nest => anidar/nido 
+ - The bird built its nest high in the tree
+ - We found a nest full of eggs in the garden
+ - The eagles make their nest on top of the mountain
 
 underwear => ropa interior
+ - I need to buy new underwear for my trip
+ - She packed her underwear in the suitcase
+ - Clean underwear should be changed every day
 
 abroad(əˈbrɔːd) => en el extranjero
  - She wants to study abroad next year to improve her English
@@ -302,6 +343,8 @@ kindness(ˈkaɪndnəs) => amabilidad/bondad
  
 privacy(ˈprɪvəsi) => intimidad 
  - British people like privacy and do not share private details with strangers.
+ - Everyone deserves some privacy in their own home
+ - I value my privacy and don't like people asking personal questions
 
 wash(wɒʃ) => lavar/limpiar
  - I need to wash my hands before dinner
@@ -389,6 +432,9 @@ useful(ˈjuːsfᵊl) => útil
  - It’s always useful to carry a portable charger
 
 everything(ˈɛvriθɪŋ) => todo/todas las cosas
+ - Everything is ready for the party tomorrow
+ - She lost everything when her house caught fire
+ - I want to learn everything about this new subject
 
 laugh(lɑːf) => reírse
 - She has a very loud and infectious laugh
@@ -396,6 +442,9 @@ laugh(lɑːf) => reírse
 - It’s important to laugh every day to stay happy
 
 buddy => amigo
+ - He is my best buddy and we do everything together
+ - My buddy helped me move to my new apartment
+ - We were buddies since kindergarten
 
 alright(ɔːlˈraɪt) => muy bien/de acuerdo/esta bien
  - Are you feeling alright after the long trip?
@@ -453,6 +502,9 @@ those(ðəʊz) => esos/aquellos
  - I really like those shoes in the window
 
 spelling => ortografía
+ - Her spelling is excellent because she reads a lot
+ - The spelling of that word is quite difficult
+ - I need to improve my English spelling
 
 silly(ˈsɪli) => tonto/bobo
  - Don't be silly, of course I will help you!
@@ -770,11 +822,34 @@ told(təʊld) => dijo/conto
 - She told the truth even though she was scared
 
 half => mitad 
+ - I ate half of the pizza and my friend ate the other half
+ - The water reached half the height of the container
+ - Half the time I don't know what's happening
+
 outside => exterior/de afuera
+ - The weather outside is very nice today
+ - She is playing outside with her friends
+ - Let's go outside and enjoy the fresh air
+
 probably => probablemente
+ - We will probably go to the beach tomorrow
+ - She probably forgot about our meeting
+ - It will probably rain later this afternoon
+
 spend => gastar
+ - I spend too much money on clothes
+ - She spends her free time reading books
+ - We spend our vacation together every year
+
 must => deber
+ - You must finish your homework before dinner
+ - We must arrive on time for the meeting
+ - Everyone must follow the rules
+
 delighted => encantado/contento 
+ - I was delighted to receive such a wonderful gift
+ - She was delighted with the surprise birthday party
+ - They seemed delighted by the good news 
 
 hardly(ˈhɑːdli) => apenas/casi no
 - I hardly know him, we only met once
@@ -782,18 +857,44 @@ hardly(ˈhɑːdli) => apenas/casi no
 - He hardly ever goes to the gym anymore
 
 contain => contener
+ - This box can contain up to 50 books.
+ - The bottle contains water.
+ - The report contains important information.
 
 unfair => injusto
+ - It's unfair to blame him for something he didn't do.
+ - The rules are unfair to small businesses.
+ - She felt the punishment was unfair.
 
 sadness => tristeza 
+ - The movie filled me with sadness.
+ - He expressed his sadness at the loss.
+ - Sadness overwhelmed her after the breakup.
 
 effort  => trabajo/esfuerzo
+- She put a lot of effort into her project.
+- It takes effort to learn a new language.
+- His effort paid off with good grades.
 
 fear => miedo
+- I have a fear of heights.
+- The fear of failure stopped him.
+- She screamed in fear when she saw the spider.
 
 sharp => afilado/puntiagudo
+- Be careful with that sharp knife.
+- The pencil has a sharp point.
+- She has a sharp mind for solving puzzles.
+
 pocket => bolsillo/embolsar
+ - I have some coins in my pocket
+ - She put her hands in her pockets
+ - He found a handkerchief in his jacket pocket
+
 hall => vestíbulo/pasillo/corredor/sala/auditorio/recibidor
+ - The concert hall was filled with excited fans
+ - We walked through the long hall of the museum
+ - The university hall was the perfect place for the event
 
 blood(blʌd) => sangre
 - Giving blood is a simple way to help people in need
@@ -831,9 +932,24 @@ countryside(ˈkʌntrɪsaɪd) => campo/campiña
 - We spent the weekend hiking and enjoying the fresh air in the countryside
 
 settle => resolver/liquidar/saldar/llegar a un acuerdo
+ - They decided to settle their argument over coffee
+ - We will settle the bill at the end of the month
+ - They chose to settle in a small town
+
 sell => vender 
+ - She decided to sell her old car
+ - The shop is selling clothes at a discount
+ - He wants to sell his house next year
+
 indeed => efectivamente
+ - It is indeed a beautiful day
+ - She is indeed the best student in the class
+ - That is indeed a good idea
+
 entrance => entrada/acceso
+ - The entrance to the building is on the main street
+ - You need to pay at the entrance to the theme park
+ - The entrance fee for the museum is ten dollars
 
 easter(ˈiːstə) => semana santa
 - We always visit my grandparents for Easter dinner
@@ -941,19 +1057,74 @@ wish(wɪʃ) => desear/querer
 - I wish it would stop raining so we could go outside
 
 felt => sentido 
+ - I felt happy after the party.
+ - She felt the soft fabric.
+ - He felt tired from work.
+
 might => podría
+ - It might rain tomorrow.
+ - She might come to the party.
+ - He might be late.
+
 awake => despierto
+ - I am awake now.
+ - She stayed awake all night.
+ - The baby is awake.
+
 keep => mantener
+ - Keep the door closed.
+ - She keeps her promises.
+ - I keep my keys in my bag.
+
 changeable => cambiante/variable/inconstante
+ - The weather is changeable.
+ - Her mood is changeable.
+ - Plans are changeable.
+
 discuss => hablar/discutir
+ - We need to discuss the plan.
+ - They discuss politics often.
+ - Let's discuss this later.
+
 stranger => nuevo/desconocido/extraño
+ - Don't talk to strangers.
+ - He is a stranger in town.
+ - The stranger helped me.
+
 friendly => simpático/amable
+ - She is very friendly.
+ - The dog is friendly.
+ - He gave a friendly smile.
+
 definitely => sin duda/decididamente/seguro
+ - I will definitely go.
+ - She is definitely right.
+ - It is definitely true.
+
 population => población 
+ - The city has a large population.
+ - The population is growing.
+ - We study the population of animals.
+
 roast => asar/asarse
+ - We roast marshmallows.
+ - The chicken is roast.
+ - She roasts the potatoes.
+
 vegetable => verdura, hortaliza, vegetal
+ - Eat your vegetables.
+ - Carrots are vegetables.
+ - She grows vegetables in the garden.
+
 meal => comida
+ - Dinner is my favorite meal.
+ - We had a big meal.
+ - Breakfast is the first meal of the day.
+
 furniture => muebles
+ - The room has new furniture.
+ - We bought furniture for the house.
+ - The furniture is antique.
 
 embarrassed(ɪmˈbærəst) => avergonzado
 - I felt embarrassed when I made a simple mistake during the meeting
@@ -1041,15 +1212,62 @@ serve(sɜːv) => servir/cumplir/sacar
 - He is proud to serve his country in the military
 
 screensaver => protector de pantalla/salvapantallas
+ - The screensaver on my computer shows beautiful landscapes
+ - I set the screensaver to turn on after five minutes
+ - The screensaver prevents damage to the monitor
+
 typewriter => máquina de escribir
+ - My grandfather still uses an old typewriter to write letters
+ - The typewriter makes a clicking sound when you press the keys
+ - She typed her manuscript on a vintage typewriter
+
 such => tal/tanto
+ - I have never seen such a beautiful sunset
+ - He has such a good sense of humor
+ - She spent such a long time preparing for the exam
+
 assessment => evaluación/valoración
+ - The teacher gave us an assessment of our progress
+ - We need to do an assessment of the company's performance
+ - The assessment showed that the program was very effective
+
 training => formación/instrucción 
+ - She completed her training program last month
+ - The training lasted for three weeks
+ - He received specialized training for the new job
+
 nearby => cercano/cerca
+ - There is a grocery store nearby
+ - We live nearby the beach
+ - There are several restaurants nearby
+
 sign-up => apuntarse/inscribirse
+ - The sign-up for the event is next week
+ - Please sign-up for the class before Friday
+ - The sign-up deadline has passed
+
 downtown => central/el centro 
+ - We are going downtown to see a movie
+ - The downtown area is very busy during rush hour
+ - There are many shops and restaurants downtown
+
 fitness => estado físico/buen estado físico/aptitud física/forma
+ - She goes to the fitness center three times a week
+ - The fitness trainer helped me reach my goals
+ - I need to improve my fitness level
+
 teenager => adolescente
+ - My teenager wants to go to the concert with his friends
+ - Teenagers often have a lot of energy
+ - She was a teenager when she started playing the guitar
+
 proud => orgulloso
+ - I am very proud of your achievements
+ - She was proud to represent her country
+ - They were proud of their hard work
+
 latest => ultimo
+ - What is the latest news about the project?
+ - I bought the latest version of the software
+ - The latest fashion trends are very colorful
 
