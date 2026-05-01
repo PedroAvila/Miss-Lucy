@@ -18,7 +18,7 @@ which(wɪʧ) => cual
  - I bought a new phone, which has an amazing camera
  - I don't know which path to take
 
-anyway(ˈɛniweɪ) => de todos modos
+anyway(ˈɛniweɪ) => de todos modos/en fin/de todas maneras/bueno
  - I forgot my umbrella, but it's not raining anyway
  - Anyway, as I was saying, we need to finish the report by Friday
  - It was a long journey, but I'm glad I went anyway
@@ -759,8 +759,16 @@ trail(treɪl) => sendero/rastro/seguir
 - The robbers left a trail of muddy footprints leading to the back door
 - The detective decided to trail the suspect to see where he lived
 
-shame => una lástima/verguenza 
-told => dijo
+shame(ʃeɪm) => una lástima/verguenza 
+- It is a shame that you can't come to the party tonight
+- He felt a deep sense of shame after lying to his best friend
+- To my shame, I forgot my mother's birthday
+
+told(təʊld) => dijo/conto
+- He told me a very funny story yesterday
+- I told them to wait for us at the entrance
+- She told the truth even though she was scared
+
 half => mitad 
 outside => exterior/de afuera
 probably => probablemente
@@ -787,23 +795,45 @@ sharp => afilado/puntiagudo
 pocket => bolsillo/embolsar
 hall => vestíbulo/pasillo/corredor/sala/auditorio/recibidor
 
-blood => sangre
+blood(blʌd) => sangre
+- Giving blood is a simple way to help people in need
+- They are very close because blood is thicker than water
+- The doctor needs to take a blood sample for the test
 
-lonely => solo/solitario
+lonely(ˈləʊnli) => solo/solitario
+- Sometimes I feel a bit lonely when I'm in a new city
+- There is a lonely house at the top of the hill
+- He bought a dog because he didn't want to be lonely anymore
 
-suddenly => de repente
+suddenly(ˈsʌdᵊnli) => de repente
+- It was a sunny day, but suddenly it started to rain
+- I was walking home when suddenly I remembered I left my keys at the office
+- The room was very quiet until, suddenly, the phone rang
 
-terrified => aterrado/aterrorizado
+terrified(ˈtɛrɪfaɪd) => aterrado/aterrorizado
+- I am absolutely terrified of heights, so I never go to the balcony
+- She was terrified when she saw the dark figure in the hallway
+- Many people are terrified of speaking in front of a large audience
 
-soul => alma 
+soul(səʊl) => alma 
+- You can feel that he puts his heart and soul into every song he writes
+- Some people believe that everyone has a companion who is their kindred soul
+- Walking in nature is good for the soul after a long week of work
 
-bend => doblar/doblarse/torcer/torcerse
+bend(bɛnd) => doblar/doblarse/torcer/torcerse
+- You need to bend your knees when you lift heavy boxes
+- Be careful, because this plastic ruler will break if you try to bend it too much
+- The house is located just past the sharp bend in the road
 
-countryside => campo/campiña
+countryside(ˈkʌntrɪsaɪd) => campo/campiña
+- I grew up in a big city, but I would love to live in the countryside
+- The train journey offers beautiful views of the English countryside
+- We spent the weekend hiking and enjoying the fresh air in the countryside
 
 settle => resolver/liquidar/saldar/llegar a un acuerdo
 sell => vender 
 indeed => efectivamente
+entrance => entrada/acceso
 
 easter(ˈiːstə) => semana santa
 - We always visit my grandparents for Easter dinner
@@ -890,15 +920,136 @@ either(ˈaɪðə) => además/tampoco/cualquiera
 - You can take either road, both lead to the city center
 - I don't like broccoli, and I don't like spinach either
 
-dumplings => albóndigas
+dumplings(ˈdʌmplɪŋz) => bola de masa
+- My favorite part of Chinese food is the steamed dumplings
+- She learned how to make homemade dumplings from her grandmother
+- We should order a plate of fried dumplings to share as an appetizer
 
 soon(suːn) => pronto
 - I will see you soon
 - The movie is starting soon
 - Get well soon!
 
-bring => traer
-wish => desear/querer
+bring(brɪŋ) => traer
+- Can you bring me a glass of water, please?
+- Don't forget to bring your jacket; it's going to be cold tonight
+- Hard work and dedication will bring you success
 
+wish(wɪʃ) => desear/querer
+- I wish I had more free time to travel
+- We wish you a very happy birthday!
+- I wish it would stop raining so we could go outside
 
+felt => sentido 
+might => podría
+awake => despierto
+keep => mantener
+changeable => cambiante/variable/inconstante
+discuss => hablar/discutir
+stranger => nuevo/desconocido/extraño
+friendly => simpático/amable
+definitely => sin duda/decididamente/seguro
+population => población 
+roast => asar/asarse
+vegetable => verdura, hortaliza, vegetal
+meal => comida
+furniture => muebles
+
+embarrassed(ɪmˈbærəst) => avergonzado
+- I felt embarrassed when I made a simple mistake during the meeting
+- He was too embarrassed to speak in English because he was afraid of making mistakes
+- Don't be embarrassed to ask for help when you are learning a new programming language
+
+offer(ˈɒfə) => ofrecer
+- They made me an excellent job offer
+- She decided to offer her help to the neighbors
+- Many stores offer a discount if you pay in cash 
+
+afterwards(ˈɑːftəwədz) => después/posteriormente/a continuación
+- We went to the movie theater and got some ice cream afterwards
+- Afterwards, they realized that they had taken the wrong turn
+- He finished all his work and felt much more relaxed afterwards
+
+basically(ˈbeɪsɪkᵊli) => fundamentalmente/básicamente/sencillamente
+- Basically, the plan is to leave early to avoid traffic
+- It is basically the same thing we discussed yesterday
+- Basically, he just wants to be happy in his new job
+
+perhaps(pəˈhæps) => quizá/tal vez
+- Perhaps it will rain later this afternoon
+- Perhaps we should consider a different approach to solve this problem
+- Perhaps she forgot about our meeting, since she hasn't arrived yet
+
+mind(maɪnd) => importa(en una pregunta)/mente
+- Keep that in mind when you make your decision
+- Would you mind closing the window, please?
+- I don't mind the noise; I can concentrate anyway
+
+cast(kɑːst) => reparto/dar un papel/yeso/proyectaba
+- The director decided to cast him as the main villain in the movie
+- She broke her leg, so she has to wear a cast for six weeks
+- The setting sun cast a long shadow across the field
+
+arrive(arrive) => llegar/nacer 
+- The train is scheduled to arrive at the station in ten minutes
+- They will arrive in New York late tonight
+- Did she arrive on time for the meeting?
+
+gang(ɡæŋ) => pandilla/banda 
+- The whole gang is going to the beach this weekend
+- The police are working hard to reduce gang activity in the neighborhood
+- A gang of teenagers was playing soccer in the park
+
+instead(ɪnˈstɛd) => en vez de eso/en su lugar 
+- I didn't want coffee, so I ordered tea instead
+- We decided to walk instead of taking the bus
+- She didn't stay home; she went to the party instead
+
+*specifically(spəˈsɪfɪkᵊli) => específicamente/expresamente
+- I bought this tool specifically to help me with my gardening projects
+- She mentioned that she needs assistance specifically with her math homework
+- This policy was designed specifically for employees who work remotely
+
+prepare(prɪˈpeə) => preparar/prepararse
+- I need to prepare dinner for the guests tonight
+- She is working hard to prepare for her final exam
+- You should prepare yourself for any challenges that might arise
+
+appear(əˈpɪə) => aparecer 
+- The stars begin to appear in the sky as soon as the sun sets
+- It does not appear to be raining, so we can go for a walk
+- He is scheduled to appear in court tomorrow morning for the hearing
+
+pushy(ˈpʊʃi) => prepotente/agresivo
+- He is a bit pushy when it comes to getting his own way
+- I felt uncomfortable because the salesperson was really pushy
+- Please don't be so pushy; I need time to think about it
+
+own(əʊn) => propio/poseer
+- I don't own a car, so I usually take the bus
+- She really wants to start her own business one day
+- You should make up your own mind about this issue
+
+someplace(ˈsʌmpleɪs) => a/en algún lugar
+- Let's go someplace quiet to talk
+- I'm sure I've met her someplace before
+- Is there someplace where we can park the car?
+
+serve(sɜːv) => servir/cumplir/sacar
+- They serve breakfast at the hotel until 10:00 AM
+- This new software tool will serve a very important purpose
+- He is proud to serve his country in the military
+
+screensaver => protector de pantalla/salvapantallas
+typewriter => máquina de escribir
+such => tal/tanto
+assessment => evaluación/valoración
+training => formación/instrucción 
+nearby => cercano/cerca
+sign-up => apuntarse/inscribirse
+downtown => central/el centro 
+fitness => estado físico/buen estado físico/aptitud física/forma
+teenager => adolescente
+proud => orgulloso
+latest => ultimo
 
