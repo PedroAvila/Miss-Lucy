@@ -84,119 +84,119 @@ fee(fiː) => honorario/cuota/tasa
  - The entrance fee for the national park is $20 per vehicle
 
 upset => disgustar/afligir
- - I was upset when I found out that the game was cancelled
- - Don't be upset about the small mistake, we can fix it
- - She got upset with her friend because of a misunderstanding
+- I was upset when I found out that the game was cancelled
+- Don't be upset about the small mistake, we can fix it
+- She got upset with her friend because of a misunderstanding
 
 blaze => arder
- - The fire started to blaze out of control within minutes
- - The sun was blazing hot during the summer afternoon
- - The bonfire began to blaze as we threw more wood on it
+- The fire started to blaze out of control within minutes
+- The sun was blazing hot during the summer afternoon
+- The bonfire began to blaze as we threw more wood on it
 
 flame => llama
- - A single flame danced in the darkness of the room
- - The flames from the candle flickered gently
- - We watched as the flames consumed the burning logs
+- A single flame danced in the darkness of the room
+- The flames from the candle flickered gently
+- We watched as the flames consumed the burning logs
 
 wood => madera/leña
- - The cabin was built from strong wooden wood
- - I bought wood for the winter to keep the fireplace burning
- - The bridge is made of wood and stone
+- The cabin was built from strong wooden wood
+- I bought wood for the winter to keep the fireplace burning
+- The bridge is made of wood and stone
 
 straw => paja
- - The farmer uses straw to feed the horses during winter
- - I drank my orange juice through a plastic straw
- - The scarecrow in the field is filled with straw
+- The farmer uses straw to feed the horses during winter
+- I drank my orange juice through a plastic straw
+- The scarecrow in the field is filled with straw
 
 fire brigade => cuerpo de bomberos
- - The fire brigade arrived quickly to put out the fire
- - My father is a member of the local fire brigade
- - The fire brigade training is very demanding and rigorous
+- The fire brigade arrived quickly to put out the fire
+- My father is a member of the local fire brigade
+- The fire brigade training is very demanding and rigorous
 
 extinguish => extinguir/apagar
- - We need to extinguish the candles before we leave the room
- - The firefighters worked hard to extinguish the building fire
- - It is important to extinguish cigarettes completely before throwing them away
+- We need to extinguish the candles before we leave the room
+- The firefighters worked hard to extinguish the building fire
+- It is important to extinguish cigarettes completely before throwing them away
 
 burn => quemar
- - I got a bad burn on my hand while cooking dinner
- - Be careful not to burn yourself on the hot stove
- - The forest fire will burn for several days before it's completely extinguished
+- I got a bad burn on my hand while cooking dinner
+- Be careful not to burn yourself on the hot stove
+- The forest fire will burn for several days before it's completely extinguished
 
 mine => mío 
- - This book is mine, so please don't lose it
- - The keys are mine; I found them first
- - The blue car in the driveway is mine
+- This book is mine, so please don't lose it
+- The keys are mine; I found them first
+- The blue car in the driveway is mine
 
 guess => adivinar
- - I guess we should leave now before it gets dark
- - Can you guess what's inside this box?
- - I would guess that tomorrow will be a sunny day
+- I guess we should leave now before it gets dark
+- Can you guess what's inside this box?
+- I would guess that tomorrow will be a sunny day
 
 beat => ganar
- - Our team will beat them in the championship game
- - She beat all her competitors to win the prize
- - I can hear the beat of the music from outside
+- Our team will beat them in the championship game
+- She beat all her competitors to win the prize
+- I can hear the beat of the music from outside
 
 couple(ˈkʌpᵊl) => par/pareja
- - The young couple just bought their first house together
- - I only need a couple of minutes to finish this report
- - A couple of friends are coming over for dinner tonight
+- The young couple just bought their first house together
+- I only need a couple of minutes to finish this report
+- A couple of friends are coming over for dinner tonight
 
 fried => frito 
- - I like fried chicken for dinner
- - The fried potatoes were crispy and delicious
- - She cooked fried eggs for breakfast this morning
+- I like fried chicken for dinner
+- The fried potatoes were crispy and delicious
+- She cooked fried eggs for breakfast this morning
 
 boot(buːt) => patear/dar una patada/bota
- - I bought a new pair of leather boots for the winter
- - Please take off your muddy boots before coming inside
- - She likes to wear tall boots with her favorite dress
+- I bought a new pair of leather boots for the winter
+- Please take off your muddy boots before coming inside
+- She likes to wear tall boots with her favorite dress
 
 damp(dæmp) => húmedo 
- - The walls in the old house are damp in winter
- - The grass was still damp with dew early in the morning
- - You should wipe the table with a damp cloth to remove the dust 
+- The walls in the old house are damp in winter
+- The grass was still damp with dew early in the morning
+- You should wipe the table with a damp cloth to remove the dust 
 
 candles(ˈkændᵊlz) => velas 
- - People put candles in windows in winter 
- - She lit some scented candles to make the living room feel cozy
- - Don't forget to blow out the candles before you go to bed
+- People put candles in windows in winter 
+- She lit some scented candles to make the living room feel cozy
+- Don't forget to blow out the candles before you go to bed
 
 coast(kəʊst) => costa 
- - Big waves hit the coast during storms
- - We took a beautiful drive along the Pacific coast
- - Many lighthouse towers are built along the rocky coast to guide ships
+- Big waves hit the coast during storms
+- We took a beautiful drive along the Pacific coast
+- Many lighthouse towers are built along the rocky coast to guide ships
 
 cosy(ˈkəʊzi) => cálido/acogedor
- - The living room is cosy with blankets and a heater
- - I love reading a book in this cosy corner of the living room
- - The cabin was small but very cosy, especially with the fireplace on
+- The living room is cosy with blankets and a heater
+- I love reading a book in this cosy corner of the living room
+- The cabin was small but very cosy, especially with the fireplace on
  
 heaters(ˈhiːtəz) => calentadores
- - We need to turn on the heaters because it's freezing inside
- - The outdoor heaters at the restaurant kept us warm all night
- - Many people use electric heaters to save on gas during the winter
+- We need to turn on the heaters because it's freezing inside
+- The outdoor heaters at the restaurant kept us warm all night
+- Many people use electric heaters to save on gas during the winter
 
 want(wɒnt) => quiero
- - I want to travel to Europe next summer
- - She wants a cup of coffee before the meeting starts
- - They want to buy a new house in a quiet neighborhood 
+- I want to travel to Europe next summer
+- She wants a cup of coffee before the meeting starts
+- They want to buy a new house in a quiet neighborhood 
 
 tend(tɛnd) => tender/tender a hacer algo/soler hacer algo
- - I tend to drink tea instead of coffee in the morning
- - Prices tend to go up during the holiday season
- - He tends to get nervous before speaking in public
+- I tend to drink tea instead of coffee in the morning
+- Prices tend to go up during the holiday season
+- He tends to get nervous before speaking in public
 
 stress(strɛs) => subrayar la importancia/remarcar/recalcar
- - Exercise is a great way to reduce stress after a long day
- - I need to stress the importance of arriving on time for the meeting
- - She is under a lot of stress because of her upcoming exams
+- Exercise is a great way to reduce stress after a long day
+- I need to stress the importance of arriving on time for the meeting
+- She is under a lot of stress because of her upcoming exams
 
 blur(blɜː) => empañar/difuminar/hacer borroso/hacerse borroso
- - The landscape was just a blur as the train sped past
- - Without my glasses, everything is a complete blur
- - Tears began to blur her vision
+- The landscape was just a blur as the train sped past
+- Without my glasses, everything is a complete blur
+- Tears began to blur her vision
 
 nest => anidar/nido 
  - The bird built its nest high in the tree
@@ -244,197 +244,197 @@ hand(hænd) => mano
  - Please hand me the remote control, I want to change the channel
 
 facing(ˈfeɪsɪŋ) => enfrentado
- - Our new apartment is facing the ocean, so we have a great view
- - The company is facing some serious financial challenges this year
- - She stood there, facing her fears for the first time
+- Our new apartment is facing the ocean, so we have a great view
+- The company is facing some serious financial challenges this year
+- She stood there, facing her fears for the first time
 
 growing(ˈɡrəʊɪŋ) => creciente
- - The children are growing so fast that they need new clothes every few months
- - There is a growing interest in renewable energy across the world
- - Our small startup is growing into a successful international company
+- The children are growing so fast that they need new clothes every few months
+- There is a growing interest in renewable energy across the world
+- Our small startup is growing into a successful international company
 
  often(ˈɒfᵊn) => a menudo
-  - I often go to the gym after work
-  - We often visit our grandparents on weekends
-  - Does it often rain here in the summer?
+- I often go to the gym after work
+- We often visit our grandparents on weekends
+- Does it often rain here in the summer?
 
 however(haʊˈɛvə) => sin embargo
- - I really wanted to go to the beach; however, it started to rain
- - The exam was very difficult. However, she managed to get a perfect score
- - He studied hard for the presentation; however, he was still very nervous 
+- I really wanted to go to the beach; however, it started to rain
+- The exam was very difficult. However, she managed to get a perfect score
+- He studied hard for the presentation; however, he was still very nervous 
 
 inequality(ɪnɪˈkwɒləti) => desigualdad 
- - Some parts of the UK are wealthier, and there is still inequality in society
- - Economic inequality is a major concern in many developing nations
- - The goal of the new policy is to reduce social inequality within the city 
- - There is still a lot of gender inequality in the workplace, specially in terms of pay 
+- Some parts of the UK are wealthier, and there is still inequality in society
+- Economic inequality is a major concern in many developing nations
+- The goal of the new policy is to reduce social inequality within the city 
+- There is still a lot of gender inequality in the workplace, specially in terms of pay 
 
 sarcastic(sɑːˈkæstɪk) => sarcástico
- - British humour is often sarcastic 
- - His reply was so sarcastic that I couldn't tell if he was being genuine or making fun of me 
- - She often uses a sarcastic tone when talking about her boss, but only in private
- - I appreciate witty humor, but sometimes his incredibly sarcastic remarks can be quite hurtful
+- British humour is often sarcastic 
+- His reply was so sarcastic that I couldn't tell if he was being genuine or making fun of me 
+- She often uses a sarcastic tone when talking about her boss, but only in private
+- I appreciate witty humor, but sometimes his incredibly sarcastic remarks can be quite hurtful
 
 diversity(daɪˈvɜːsəti) => diversidad
- - People from many different backgrounds live together, showing the UK's diversity
- - The company is committed to promoting diversity and inclusion in the workplace
- - Biological diversity is essential for a healthy ecosystem
- - We need a greater diversity of opinions to solve this complex problem
+- People from many different backgrounds live together, showing the UK's diversity
+- The company is committed to promoting diversity and inclusion in the workplace
+- Biological diversity is essential for a healthy ecosystem
+- We need a greater diversity of opinions to solve this complex problem
 
 fairness(ˈfeənəs) => justicia/equidad 
- - People in Britain believe in fairness, for example by taking turns in a queue
- - The judge emphasized the importance of fairness in all legal proceedings
- - Many people are calling for greater fairness in the distribution of resources
+- People in Britain believe in fairness, for example by taking turns in a queue
+- The judge emphasized the importance of fairness in all legal proceedings
+- Many people are calling for greater fairness in the distribution of resources
 
 deprecating(ˈdɛprɪkeɪtɪŋ) => despectivo/depreciando
- - British humour can be self-deprecating 
- - She used a self-deprecating humor to ease the tension in the room
- - Despite his success, his comments often had a deprecating tone, minimizing his own achievements
+- British humour can be self-deprecating 
+- She used a self-deprecating humor to ease the tension in the room
+- Despite his success, his comments often had a deprecating tone, minimizing his own achievements
 
 respectful(rɪˈspɛktfᵊl) => respetuoso 
- - Even when people disagree, they try to be respectful 
- - Even during a heated debate, it is important to remain respectful of opposing views
- - The students were taught to be respectful towards their elders and teachers
+- Even when people disagree, they try to be respectful 
+- Even during a heated debate, it is important to remain respectful of opposing views
+- The students were taught to be respectful towards their elders and teachers
 
 tolerance(ˈtɒlᵊrᵊns) => tolerancia
- - British people value tolerance, specially in a multicultural society
- - Tolerance is essential for a peaceful society, allowing diverse groups to coexist respectfully
- - Practicing tolerance means accepting differences in beliefs, cultures, and opinions without judgment
+- British people value tolerance, specially in a multicultural society
+- Tolerance is essential for a peaceful society, allowing diverse groups to coexist respectfully
+- Practicing tolerance means accepting differences in beliefs, cultures, and opinions without judgment
 
 adjust(əˈʤʌst) => adaptarse/acomodar
- - Some people find it difficult to adjust to cultural differences
- - She had to quickly adjust her spending habits after starting her new budget
- - Please adjust the volume so that everyone in the room can hear the presentation comfortably
+- Some people find it difficult to adjust to cultural differences
+- She had to quickly adjust her spending habits after starting her new budget
+- Please adjust the volume so that everyone in the room can hear the presentation comfortably
 
 beliefs(bɪˈliːfs) => creencia 
- - People in the UK are free to follow their own beliefs
- - It is important to stay true to your beliefs, even when others disagree with you
- - The festival is a celebration of the diverse cultural beliefs found within the community
+- People in the UK are free to follow their own beliefs
+- It is important to stay true to your beliefs, even when others disagree with you
+- The festival is a celebration of the diverse cultural beliefs found within the community
 
 causes(ˈkɔːzɪz) => causa/motivo
- - People volunteer to support local causes 
- - Many people donate money to charitable causes that help protect the environment
- - Heavy rain often causes traffic delays in the city during rush hour
+- People volunteer to support local causes 
+- Many people donate money to charitable causes that help protect the environment
+- Heavy rain often causes traffic delays in the city during rush hour
 
 community(kəˈmjuːnəti) => comunidad
- - The village has a strong community where people support each other. 
- - Our local community organized a cleanup event at the beach
- - Living in this neighborhood gives me a real sense of community
+- The village has a strong community where people support each other. 
+- Our local community organized a cleanup event at the beach
+- Living in this neighborhood gives me a real sense of community
 
 democracy(dɪˈmɒkrəsi) => democracia
- - Most people in the UK believe in democracy 
- - Voting is one of the most important rights in a democracy
- - A healthy democracy requires freedom of speech and an informed public
+- Most people in the UK believe in democracy 
+- Voting is one of the most important rights in a democracy
+- A healthy democracy requires freedom of speech and an informed public
 
 freedom(ˈfriːdəm) => libertad 
- - People in Britain value freedom and can choose how to live their lives
- - Education gives people the freedom to follow their dreams
- - Freedom of speech is a fundamental right in many countries
+- People in Britain value freedom and can choose how to live their lives
+- Education gives people the freedom to follow their dreams
+- Freedom of speech is a fundamental right in many countries
 
 influence(ˈɪnfluəns) => influencia/influir en/influenciar
- - Brithis values influence how people behave 
- - Her parents have a positive influence on her career choices
- - Social media can easily influence how young people see the world
+- Brithis values influence how people behave 
+- Her parents have a positive influence on her career choices
+- Social media can easily influence how young people see the world
 
 kindness(ˈkaɪndnəs) => amabilidad/bondad
- - Acts of kindness, like helping neighbours, are important in British life 
- - She showed great kindness by offering to drive her elderly neighbor to the doctor
- - A small act of kindness can make a huge difference in someone's day
+- Acts of kindness, like helping neighbours, are important in British life 
+- She showed great kindness by offering to drive her elderly neighbor to the doctor
+- A small act of kindness can make a huge difference in someone's day
  
 privacy(ˈprɪvəsi) => intimidad 
- - British people like privacy and do not share private details with strangers.
- - Everyone deserves some privacy in their own home
- - I value my privacy and don't like people asking personal questions
+- British people like privacy and do not share private details with strangers.
+- Everyone deserves some privacy in their own home
+- I value my privacy and don't like people asking personal questions
 
 wash(wɒʃ) => lavar/limpiar
- - I need to wash my hands before dinner
- - Can you help me wash the car this weekend?
- - She washes her hair every morning 
+- I need to wash my hands before dinner
+- Can you help me wash the car this weekend?
+- She washes her hair every morning 
 
 bags(bæɡz) => bolsas
- - I have two heavy bags to carry
- - She always forgets her reusable bags at home
- - The airport lost my bags during the flight
+- I have two heavy bags to carry
+- She always forgets her reusable bags at home
+- The airport lost my bags during the flight
 
 walls(wɔːlz) => muro/pared
- - The walls of the living room are painted light blue
- - The ancient city was protected by high stone walls
- - He hung several beautiful paintings on his office walls
+- The walls of the living room are painted light blue
+- The ancient city was protected by high stone walls
+- He hung several beautiful paintings on his office walls
 
 rise(raɪz) => elevarse/subir
- - The sun will rise at 6:00 AM tomorrow
- - Prices continue to rise because of inflation 
- - She watched the smoke rise from the chimney
+- The sun will rise at 6:00 AM tomorrow
+- Prices continue to rise because of inflation 
+- She watched the smoke rise from the chimney
 
 inside(ɪnˈsaɪd) => a/hacia dentro/dentro (de)/entrañas
- - The keys are inside my bag
- - It’s raining, so let’s go inside
- - He felt a lot of joy inside when he heard the news
+- The keys are inside my bag
+- It’s raining, so let’s go inside
+- He felt a lot of joy inside when he heard the news
 
 were(wɜː) => estuvieron/fueron/eran/estaban
- - They were very happy at the party last night
- - We were waiting for the bus for twenty minutes
- - You were the best student in the class
+- They were very happy at the party last night
+- We were waiting for the bus for twenty minutes
+- You were the best student in the class
  
 give(ɡɪv) => dar
- - Can you give me a hand with this box?
- - I always give my best effort at work
- - Please give her the message when she arrives
+- Can you give me a hand with this box?
+- I always give my best effort at work
+- Please give her the message when she arrives
 
 weird(wɪəd) => muy raro 
- - That’s a weird noise coming from the engine
- - I had a really weird dream last night
- - It’s a bit weird that he didn’t call me back
+- That’s a weird noise coming from the engine
+- I had a really weird dream last night
+- It’s a bit weird that he didn’t call me back
 
 said(sɛd) => dijo
- - She said she would be late for the meeting
- - I'm so hungry, he said while looking at the menu
- - They said it was going to rain today
+- She said she would be late for the meeting
+- I'm so hungry, he said while looking at the menu
+- They said it was going to rain today
 
 even(ˈiːvᵊn) => hasta/ni siquiera/incluso/uniforme/nivelado 
- - He didn't even say goodbye before leaving
- - The floor is not even, we need to fix it
- - Even if it rains, the game will continue
+- He didn't even say goodbye before leaving
+- The floor is not even, we need to fix it
+- Even if it rains, the game will continue
 
 blow(bləʊ) => soplar/golpe
- - The wind started to blow hard as the storm approached the coast
- - The boxer delivered a powerful blow to his opponent's jaw
- - Losing his job was a devastating blow to his confidence
+- The wind started to blow hard as the storm approached the coast
+- The boxer delivered a powerful blow to his opponent's jaw
+- Losing his job was a devastating blow to his confidence
 
 bubble(ˈbʌbᵊl) => burbuja
- - The child blew a giant bubble with his soap wand
- - I love to relax in a hot bath full of bubbles after a long day
- - Be careful not to burst her bubble, she is very excited about the news
+- The child blew a giant bubble with his soap wand
+- I love to relax in a hot bath full of bubbles after a long day
+- Be careful not to burst her bubble, she is very excited about the news
 
 some(sʌm) => algunos
- - I have some ideas for our next project
- - Would you like some coffee?
- - There are some books on the table
+- I have some ideas for our next project
+- Would you like some coffee?
+- There are some books on the table
 
 proper(ˈprɒpə) => adecuado/en condiciones
- - You need to wear the proper safety gear in the lab
- - Please make sure the documents are in the proper order
- - He didn't have a proper breakfast this morning
+- You need to wear the proper safety gear in the lab
+- Please make sure the documents are in the proper order
+- He didn't have a proper breakfast this morning
 
 everybody(ˈɛvribɒdi) => todos
- - Everybody loves a good surprise
- - Is everybody ready to start the meeting?
- - Everybody has a different point of view
+- Everybody loves a good surprise
+- Is everybody ready to start the meeting?
+- Everybody has a different point of view
  
 sat(sæt) => sentado (es pasado del sit) 
- - We sat by the fireplace to stay warm during the storm
- - The cat sat quietly on the windowsill, watching the birds outside
- - She sat through the entire meeting without saying a single word
+- We sat by the fireplace to stay warm during the storm
+- The cat sat quietly on the windowsill, watching the birds outside
+- She sat through the entire meeting without saying a single word
 
 useful(ˈjuːsfᵊl) => útil
- - This app is very useful for learning new languages
- - I found some useful information in that book
- - It’s always useful to carry a portable charger
+- This app is very useful for learning new languages
+- I found some useful information in that book
+- It’s always useful to carry a portable charger
 
 everything(ˈɛvriθɪŋ) => todo/todas las cosas
- - Everything is ready for the party tomorrow
- - She lost everything when her house caught fire
- - I want to learn everything about this new subject
+- Everything is ready for the party tomorrow
+- She lost everything when her house caught fire
+- I want to learn everything about this new subject
 
 laugh(lɑːf) => reírse
 - She has a very loud and infectious laugh
@@ -442,104 +442,104 @@ laugh(lɑːf) => reírse
 - It’s important to laugh every day to stay happy
 
 buddy => amigo
- - He is my best buddy and we do everything together
- - My buddy helped me move to my new apartment
- - We were buddies since kindergarten
+- He is my best buddy and we do everything together
+- My buddy helped me move to my new apartment
+- We were buddies since kindergarten
 
 alright(ɔːlˈraɪt) => muy bien/de acuerdo/esta bien
- - Are you feeling alright after the long trip?
- - Alright, I'll meet you at the cafe in ten minutes
- - The movie was alright, but the book was much better
+- Are you feeling alright after the long trip?
+- Alright, I'll meet you at the cafe in ten minutes
+- The movie was alright, but the book was much better
 
 just(ʤʌst) => solo/solamente/acabar de/justo/simplemente/recién
- - I have just finished my dinner
- - It is not just a hobby, it is my passion
- - The judge made a just decision
+- I have just finished my dinner
+- It is not just a hobby, it is my passion
+- The judge made a just decision
 
 so(səʊ) => tan/muy/así que/tanto/así
- - I was tired, so I went to bed early
- - The movie was so good that I want to see it again
- - He studied hard so he could pass the exam
+- I was tired, so I went to bed early
+- The movie was so good that I want to see it again
+- He studied hard so he could pass the exam
 
 let(lɛt) => dejar/permitir
- - My parents let me go to the party last night
- - Let's go to the beach this weekend
- - Let me help you with those heavy bags
+- My parents let me go to the party last night
+- Let's go to the beach this weekend
+- Let me help you with those heavy bags
 
 yourself(jɔːˈsɛlf) => tu mismo/usted mismo
- - You should take care of yourself during the winter
- - You can fix the computer yourself without calling a technician
- - Please, come in and make yourself at home
+- You should take care of yourself during the winter
+- You can fix the computer yourself without calling a technician
+- Please, come in and make yourself at home
 
 already(ɔːlˈrɛdi) => ya
- - I have already finished my homework
- - She has already left for the airport
- - Are you hungry? No, I already ate
+- I have already finished my homework
+- She has already left for the airport
+- Are you hungry? No, I already ate
 
 could(kʊd) => podría
- - When I was a child, I could swim very well
- - Could you help me with this box, please?
- - It could rain later, so take an umbrella
+- When I was a child, I could swim very well
+- Could you help me with this box, please?
+- It could rain later, so take an umbrella
 
 seen(siːn) => visto
- - I have seen that movie three times already
- - She hasn't been seen since yesterday morning
- - Have you seen my keys anywhere?
+- I have seen that movie three times already
+- She hasn't been seen since yesterday morning
+- Have you seen my keys anywhere?
 
 quite(kwaɪt) => completamente/bastante
- - I am quite tired after work today
- - The movie was quite good, but the book is better
- - It is quite a beautiful day, isn't it?
+- I am quite tired after work today
+- The movie was quite good, but the book is better
+- It is quite a beautiful day, isn't it?
 
 these(ðiːz) => estos/estas
- - These shoes are very comfortable
- - I bought these flowers for your birthday
- - Do you think these photos look good?
+- These shoes are very comfortable
+- I bought these flowers for your birthday
+- Do you think these photos look good?
 
 those(ðəʊz) => esos/aquellos
- - Those stars are beautiful tonight
- - Who are those people over there?
- - I really like those shoes in the window
+- Those stars are beautiful tonight
+- Who are those people over there?
+- I really like those shoes in the window
 
 spelling => ortografía
- - Her spelling is excellent because she reads a lot
- - The spelling of that word is quite difficult
- - I need to improve my English spelling
+- Her spelling is excellent because she reads a lot
+- The spelling of that word is quite difficult
+- I need to improve my English spelling
 
 silly(ˈsɪli) => tonto/bobo
- - Don't be silly, of course I will help you!
- - The kids were making silly faces at the camera
- - It was a silly mistake, but we fixed it quickly
+- Don't be silly, of course I will help you!
+- The kids were making silly faces at the camera
+- It was a silly mistake, but we fixed it quickly
 
 far(fɑː) => lejos
- - How far is the train station from here?
- - The beach is too far to go walking
- - She has traveled far to achieve her dreams
+- How far is the train station from here?
+- The beach is too far to go walking
+- She has traveled far to achieve her dreams
 
 also(ˈɔːlsəʊ) => además
- - She is a talented singer, and she also plays the piano
- - I have a meeting at noon, I also need to finish this report
- - The hotel was very clean, and it was also quite affordable
+- She is a talented singer, and she also plays the piano
+- I have a meeting at noon, I also need to finish this report
+- The hotel was very clean, and it was also quite affordable
 
 beech(biːʧ) => haya 
- - The park is filled with ancient beech trees that turn golden in the fall
- - We sat on a bench made of solid beech wood
- - A single beech leaf fell slowly to the ground
+- The park is filled with ancient beech trees that turn golden in the fall
+- We sat on a bench made of solid beech wood
+- A single beech leaf fell slowly to the ground
 
 sheep(ʃiːp) => oveja
- - The farmer has a large flock of sheep
- - I saw a white sheep grazing in the field
- - Wool is made from the hair of sheep
+- The farmer has a large flock of sheep
+- I saw a white sheep grazing in the field
+- Wool is made from the hair of sheep
 
 safe(seɪf) => seguro
- - Keep your passport in a safe place
- - I hope you have a safe trip home
- - The money is locked inside the iron safe
+- Keep your passport in a safe place
+- I hope you have a safe trip home
+- The money is locked inside the iron safe
 
 noisy(ˈnɔɪzi) => ruidoso
- - The restaurant was so noisy that I couldn't hear what she was saying
- - My neighbors have a very noisy dog that barks all night
- - That old air conditioner is getting very noisy, we should fix it
+- The restaurant was so noisy that I couldn't hear what she was saying
+- My neighbors have a very noisy dog that barks all night
+- That old air conditioner is getting very noisy, we should fix it
 
 dirty(ˈdɜːti) => sucio/cochino
  - Don't put your dirty shoes on the clean carpet
@@ -822,32 +822,32 @@ told(təʊld) => dijo/conto
 - She told the truth even though she was scared
 
 half => mitad 
- - I ate half of the pizza and my friend ate the other half
+- I ate half of the pizza and my friend ate the other half
  - The water reached half the height of the container
  - Half the time I don't know what's happening
 
 outside => exterior/de afuera
- - The weather outside is very nice today
+- The weather outside is very nice today
  - She is playing outside with her friends
  - Let's go outside and enjoy the fresh air
 
 probably => probablemente
- - We will probably go to the beach tomorrow
+- We will probably go to the beach tomorrow
  - She probably forgot about our meeting
  - It will probably rain later this afternoon
 
 spend => gastar
- - I spend too much money on clothes
+- I spend too much money on clothes
  - She spends her free time reading books
  - We spend our vacation together every year
 
 must => deber
- - You must finish your homework before dinner
+- You must finish your homework before dinner
  - We must arrive on time for the meeting
  - Everyone must follow the rules
 
 delighted => encantado/contento 
- - I was delighted to receive such a wonderful gift
+- I was delighted to receive such a wonderful gift
  - She was delighted with the surprise birthday party
  - They seemed delighted by the good news 
 
@@ -857,17 +857,17 @@ hardly(ˈhɑːdli) => apenas/casi no
 - He hardly ever goes to the gym anymore
 
 contain => contener
- - This box can contain up to 50 books.
+- This box can contain up to 50 books.
  - The bottle contains water.
  - The report contains important information.
 
 unfair => injusto
- - It's unfair to blame him for something he didn't do.
+- It's unfair to blame him for something he didn't do.
  - The rules are unfair to small businesses.
  - She felt the punishment was unfair.
 
 sadness => tristeza 
- - The movie filled me with sadness.
+- The movie filled me with sadness.
  - He expressed his sadness at the loss.
  - Sadness overwhelmed her after the breakup.
 
@@ -887,12 +887,12 @@ sharp => afilado/puntiagudo
 - She has a sharp mind for solving puzzles.
 
 pocket => bolsillo/embolsar
- - I have some coins in my pocket
+- I have some coins in my pocket
  - She put her hands in her pockets
  - He found a handkerchief in his jacket pocket
 
 hall => vestíbulo/pasillo/corredor/sala/auditorio/recibidor
- - The concert hall was filled with excited fans
+- The concert hall was filled with excited fans
  - We walked through the long hall of the museum
  - The university hall was the perfect place for the event
 
@@ -932,24 +932,24 @@ countryside(ˈkʌntrɪsaɪd) => campo/campiña
 - We spent the weekend hiking and enjoying the fresh air in the countryside
 
 settle => resolver/liquidar/saldar/llegar a un acuerdo
- - They decided to settle their argument over coffee
+- They decided to settle their argument over coffee
  - We will settle the bill at the end of the month
  - They chose to settle in a small town
 
 sell => vender 
- - She decided to sell her old car
- - The shop is selling clothes at a discount
- - He wants to sell his house next year
+- She decided to sell her old car
+- The shop is selling clothes at a discount
+- He wants to sell his house next year
 
 indeed => efectivamente
- - It is indeed a beautiful day
- - She is indeed the best student in the class
- - That is indeed a good idea
+- It is indeed a beautiful day
+- She is indeed the best student in the class
+- That is indeed a good idea
 
 entrance => entrada/acceso
- - The entrance to the building is on the main street
- - You need to pay at the entrance to the theme park
- - The entrance fee for the museum is ten dollars
+- The entrance to the building is on the main street
+- You need to pay at the entrance to the theme park
+- The entrance fee for the museum is ten dollars
 
 easter(ˈiːstə) => semana santa
 - We always visit my grandparents for Easter dinner
@@ -1057,74 +1057,74 @@ wish(wɪʃ) => desear/querer
 - I wish it would stop raining so we could go outside
 
 felt => sentido 
- - I felt happy after the party.
+- I felt happy after the party.
  - She felt the soft fabric.
  - He felt tired from work.
 
 might => podría
- - It might rain tomorrow.
+- It might rain tomorrow.
  - She might come to the party.
  - He might be late.
 
 awake => despierto
- - I am awake now.
+- I am awake now.
  - She stayed awake all night.
  - The baby is awake.
 
 keep => mantener
- - Keep the door closed.
+- Keep the door closed.
  - She keeps her promises.
  - I keep my keys in my bag.
 
 changeable => cambiante/variable/inconstante
- - The weather is changeable.
+- The weather is changeable.
  - Her mood is changeable.
  - Plans are changeable.
 
 discuss => hablar/discutir
- - We need to discuss the plan.
+- We need to discuss the plan.
  - They discuss politics often.
  - Let's discuss this later.
 
 stranger => nuevo/desconocido/extraño
- - Don't talk to strangers.
+- Don't talk to strangers.
  - He is a stranger in town.
  - The stranger helped me.
 
 friendly => simpático/amable
- - She is very friendly.
- - The dog is friendly.
- - He gave a friendly smile.
+- She is very friendly.
+- The dog is friendly.
+- He gave a friendly smile.
 
 definitely => sin duda/decididamente/seguro
- - I will definitely go.
- - She is definitely right.
- - It is definitely true.
+- I will definitely go.
+- She is definitely right.
+- It is definitely true.
 
 population => población 
- - The city has a large population.
- - The population is growing.
- - We study the population of animals.
+- The city has a large population.
+- The population is growing.
+- We study the population of animals.
 
 roast => asar/asarse
- - We roast marshmallows.
+- We roast marshmallows.
  - The chicken is roast.
  - She roasts the potatoes.
 
 vegetable => verdura, hortaliza, vegetal
- - Eat your vegetables.
- - Carrots are vegetables.
- - She grows vegetables in the garden.
+- Eat your vegetables.
+- Carrots are vegetables.
+- She grows vegetables in the garden.
 
 meal => comida
- - Dinner is my favorite meal.
- - We had a big meal.
- - Breakfast is the first meal of the day.
+- Dinner is my favorite meal.
+- We had a big meal.
+- Breakfast is the first meal of the day.
 
 furniture => muebles
- - The room has new furniture.
- - We bought furniture for the house.
- - The furniture is antique.
+- The room has new furniture.
+- We bought furniture for the house.
+- The furniture is antique.
 
 embarrassed(ɪmˈbærəst) => avergonzado
 - I felt embarrassed when I made a simple mistake during the meeting
@@ -1212,62 +1212,62 @@ serve(sɜːv) => servir/cumplir/sacar
 - He is proud to serve his country in the military
 
 screensaver => protector de pantalla/salvapantallas
- - The screensaver on my computer shows beautiful landscapes
- - I set the screensaver to turn on after five minutes
- - The screensaver prevents damage to the monitor
+- The screensaver on my computer shows beautiful landscapes
+- I set the screensaver to turn on after five minutes
+- The screensaver prevents damage to the monitor
 
 typewriter => máquina de escribir
- - My grandfather still uses an old typewriter to write letters
- - The typewriter makes a clicking sound when you press the keys
- - She typed her manuscript on a vintage typewriter
+- My grandfather still uses an old typewriter to write letters
+- The typewriter makes a clicking sound when you press the keys
+- She typed her manuscript on a vintage typewriter
 
 such => tal/tanto
- - I have never seen such a beautiful sunset
- - He has such a good sense of humor
- - She spent such a long time preparing for the exam
+- I have never seen such a beautiful sunset
+- He has such a good sense of humor
+- She spent such a long time preparing for the exam
 
 assessment => evaluación/valoración
- - The teacher gave us an assessment of our progress
- - We need to do an assessment of the company's performance
- - The assessment showed that the program was very effective
+- The teacher gave us an assessment of our progress
+- We need to do an assessment of the company's performance
+- The assessment showed that the program was very effective
 
 training => formación/instrucción 
- - She completed her training program last month
- - The training lasted for three weeks
- - He received specialized training for the new job
+- She completed her training program last month
+- The training lasted for three weeks
+- He received specialized training for the new job
 
 nearby => cercano/cerca
- - There is a grocery store nearby
- - We live nearby the beach
- - There are several restaurants nearby
+- There is a grocery store nearby
+- We live nearby the beach
+- There are several restaurants nearby
 
 sign-up => apuntarse/inscribirse
- - The sign-up for the event is next week
- - Please sign-up for the class before Friday
- - The sign-up deadline has passed
+- The sign-up for the event is next week
+- Please sign-up for the class before Friday
+- The sign-up deadline has passed
 
 downtown => central/el centro 
- - We are going downtown to see a movie
- - The downtown area is very busy during rush hour
- - There are many shops and restaurants downtown
+- We are going downtown to see a movie
+- The downtown area is very busy during rush hour
+- There are many shops and restaurants downtown
 
 fitness => estado físico/buen estado físico/aptitud física/forma
- - She goes to the fitness center three times a week
- - The fitness trainer helped me reach my goals
- - I need to improve my fitness level
+- She goes to the fitness center three times a week
+- The fitness trainer helped me reach my goals
+- I need to improve my fitness level
 
 teenager => adolescente
- - My teenager wants to go to the concert with his friends
- - Teenagers often have a lot of energy
- - She was a teenager when she started playing the guitar
+- My teenager wants to go to the concert with his friends
+- Teenagers often have a lot of energy
+- She was a teenager when she started playing the guitar
 
 proud => orgulloso
- - I am very proud of your achievements
- - She was proud to represent her country
- - They were proud of their hard work
+- I am very proud of your achievements
+- She was proud to represent her country
+- They were proud of their hard work
 
 latest => ultimo
- - What is the latest news about the project?
- - I bought the latest version of the software
- - The latest fashion trends are very colorful
+- What is the latest news about the project?
+- I bought the latest version of the software
+- The latest fashion trends are very colorful
 
