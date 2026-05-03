@@ -437,6 +437,7 @@ make => hacer
 terms => terminos 
 then => entonces/después 
 mortgage => hipoteca 
+trend => tendencia/moda
 shoulder => hombros 
 first => primero
 candle => vela 
