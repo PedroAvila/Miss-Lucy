@@ -148,6 +148,7 @@ bootleg => contrabando
 damaging => dañino/nocivo
 muddy => cubierto de barro/embarrar 
 embarrassed => avergonzado
+deadline => fecha límite/plazo
 boot => patear/dar una patada/bota
 tear => rasgar/romper 
 leather => cuero/piel
