@@ -5,9 +5,9 @@ already = ya
 cornerstones => piedra angular 
 stone => piedra 
 key = llave
-begin = comience
+begin = empezar/comenzar/iniciarse
 beginner = principiante
-places = lugares
+place = lugar
 showed => presentado/presentada 
 present => regalo/presente 
 absolutely => absolutamente 
@@ -20,14 +20,14 @@ gotta => tener que
 I've => Yo he/Yo tengo 
 gimme => dame 
 eclipse => eclipsar
-havent't = no tengo
+haven’t= no tener/no haber
 wheel => rueda/dar vueltas
 straw => paja
 dumplings => albóndigas
 fire brigade => cuerpo de bomberos
 bombing => bombardeo
 ado => ruido/alboroto/preámbulo 
-statements = declaraciones
+statement = declaración/afirmación
 mushroom => champiñón/seta/crecer rápidamente
 whenever => siempre que/cuando
 teenager => adolescente
@@ -59,7 +59,7 @@ bounce => botar/rebotar
 reusable => reutilizable
 taste => gusto/sabor 
 boundary => limite/frontera 
-issues = cuestiones
+issue = asunto/problema/cuestion
 magazines = revistas
 town => ciudad/pueblo grande 
 toilet => water/inodoro 
@@ -75,19 +75,18 @@ travel = viaje
 together = juntos
 journey = viaje/trayecto/viajar 
 have = tener/haber(cuando acompaña otro verbo)
-whatch = ver
 bathroom => cuarto de baño
 hat => sombrero/gorro 
 fold => doblar/cerrar/quebrar
 backpack => mochila
-backwards => al revés/hacia atrás/
+backwards => al revés/hacia atrás
 closet => ropero 
 operate => operar/funcionar/manejar/intervenir 
 extinguish => extinguir/apagar
 week = semana
 chip => patata frita/papa frita
-whatever => lo que sea
-peaceful => pacifico 
+whatever => lo que sea/cualquier cosa
+peaceful => pacifico/tranquilo 
 leadership => liderazgo/dirección 
 excited => emocionado/entusiasmado
 leader => líder 
@@ -910,7 +909,7 @@ power => poder
 until => hasta 
 market => mercado 
 complain => quejarse 
-raise => levantar 
+raise => levantar/aumentar 
 fact => hecho/dato 
 hectic => ajetreado/agitado
 god => dios 
@@ -922,7 +921,7 @@ foot => pie
 study => estudiar 
 students => estudiantes 
 woman => mujer 
-train => tren
+train => tren/entrenar
 trail => sendero/rastro  
 picnic => comida al aire libre/pícnic
 training => formación/instrucción 
@@ -933,8 +932,8 @@ government => gobierno
 comfortably => comodamente 
 chew => masticar/mascar
 quiet => callado/tranquilo 
-says => dice 
-others => otros 
+say => decir/suponer 
+other => otro
 rarely => rara vez/raramente
 childhood => infancia
 ever => alguna vez
@@ -953,15 +952,15 @@ deadline => fecha límite/plazo
 farm => granja 
 farmer => agricultor/agricultora/ganadero/ganadera 
 arm => brazo/manga/rama
-devoice => desvocar 
+devoice => desvocar/desonorizar 
 consultation => reunión/consulta 
-sneezing => estornudar/estornudo
-device => aparato 
+sneeze => estornudar/estornudo
+device => aparato/dispositivo 
 reduce => reducir/rebajar
 entrance => entrada/acceso 
 gesture => gesto
 red-eyed => inflarojos 
-corporal => corporales 
+corporal => corporal 
 left => izquierda/salí 
 left a trail => dejó rastro
 far => lejos 
@@ -978,7 +977,7 @@ social => social
 open => abierto 
 possible => posible 
 side => lado/costado 
-buzzword => palabra de moda
+buzzword => palabra de moda/palabra clave
 sadness => tristeza  
 play => jugar 
 spent => pasado/estado/gastado 
@@ -1686,27 +1685,7 @@ somewhere => a/en algún lugar
 third => tercero 
 as long as => siempre y cuando
 
-A 
-=
-1-B
-2-A 
-3-B 
-4-B 
-5-A 
 
-B 
-=
-1-DO 
-2-DOES 
-3-DO 
-4-DOESN'T 
-
-C 
-=
-She does not like English 
-They do not go to school at 7:00 AM 
-Do he plays football after school?
-Do you like Math 
 
 
 

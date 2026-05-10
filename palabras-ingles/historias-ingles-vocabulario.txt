@@ -1083,33 +1083,33 @@
 
 217. discuss => hablar/discutir
 - We need to discuss the plan.
- - They discuss politics often.
- - Let's discuss this later.
+- They discuss politics often.
+- Let's discuss this later.
 
 218. stranger => nuevo/desconocido/extraÃ±o
 - Don't talk to strangers.
- - He is a stranger in town.
- - The stranger helped me.
+- He is a stranger in town.
+- The stranger helped me.
 
-219. friendly => simpático/amable 
+219. friendly(ˈfrɛndli) => simpático/amable 
 - She is very friendly.
 - The dog is friendly.
 - He gave a friendly smile.
 
-220. definitely => sin duda/decididamente/seguro
+220. definitely(ˈdɛfɪnətli) => sin duda/decididamente/seguro
 - I will definitely go.
 - She is definitely right.
 - It is definitely true.
 
-221. population => población 
+221. population(ˌpɒpjəˈleɪʃᵊn) => población 
 - The city has a large population.
 - The population is growing.
 - We study the population of animals.
 
-222. roast => asar/asarse
+222. roast(rəʊst) => asar/asarse
 - We roast marshmallows.
- - The chicken is roast.
- - She roasts the potatoes.
+- The chicken is roast.
+- She roasts the potatoes.
 
 223. vegetable(ˈvɛʤtəbᵊl) => verdura, hortaliza, vegetal
 - Eat your vegetables.
@@ -1272,6 +1272,664 @@
 - The latest fashion trends are very colorful
 
 255. grind => moler
+- I need to grind the coffee beans every morning before work.
+- This machine can grind pepper, salt, and other spices easily.
+- He tends to grind his teeth when he's focused on coding.
+
 256. teeth => dientes
+- Remember to floss your teeth after eating sweets.
+- The dentist said my teeth are strong and healthy.
+- Brushing your teeth regularly prevents cavities and bad breath.
+
 257. lay => colocar
+- Please lay the documents on my desk before the meeting.
+- She laid the baby gently in the crib and left the room.
+- Don't lay your laptop on the edge of the table.
+
+258. umbrella => paraguas
+- Take your umbrella, the forecast says it will rain this afternoon.
+- I left my umbrella on the bus yesterday, what a bad day!
+- A big umbrella can protect you from both rain and sun.
+
+259. somebody => alguien
+- Is somebody using this computer right now?
+- Somebody called you while you were in the stand-up meeting.
+- Can somebody explain this Java concept to me again?
+
+260. cornerstones => piedra angular
+- Trust and respect are the cornerstones of any healthy relationship.
+- Clean code and testing are cornerstones of good software development.
+- These values are the cornerstones of our team culture.
+
+261. stone => piedra
+- He threw a small stone into the river and watched it sink.
+- The old building was made of gray stone and looked very strong.
+- Be careful walking on that path; there are loose stones everywhere.
+
+262. key => llave
+- I always keep a spare key under the flowerpot, just in case.
+- Consistency is the key to learning English successfully.
+- She lost her apartment key and had to call the landlord.
+
+263. begin => empezar/comenzar/iniciarse
+- Let's begin the code review with the most important changes.
+- It's never too late to begin a new habit, like studying English daily.
+- The sprint planning will begin at 9 AM sharp tomorrow.
+
+264. beginner => principiante
+- As a beginner in Spring Boot, I start with simple REST APIs.
+- This tutorial is perfect for beginners who want to learn Java.
+- Don't feel bad about mistakes; every expert was once a beginner.
+
+265. place = lugar
+- Lima is my favorite place to enjoy good food and culture.
+- Could you save me a place in the queue for the meeting?
+- This café is a quiet place where I can focus on learning.
+
+266. showed => presentado/presentada
+- She showed me how to configure VSCode for Java debugging.
+- The demo showed that our new feature works perfectly.
+- He showed great progress in his English pronunciation last month.
+
+267. present => regalo/presente
+- I bought a small present for my teammate's birthday.
+- All developers must be present at the daily stand-up.
+- At this present moment, I'm focusing on improving my grammar.
+
+268. placed = colocado/metido
+- She placed the new dependency in the pom.xml file.
+- The keys were placed in the drawer where we always keep them.
+- He placed a high priority on completing the task before the deadline.
+
+269. carefully = con cuidado/cuidadosamente
+- Read the error message carefully before asking for help.
+- She packed the fragile items carefully to avoid damage.
+- Listen carefully to native speakers to improve your pronunciation.
+
+270. cute => bonito/guapo
+- That puppy is so cute, I want to take a picture!
+- She wore a cute outfit to the office party yesterday.
+- Your new profile picture looks really cute and professional.
+
+271. gimme => dame
+- Gimme a minute, I'm finishing this method before the review.
+- Gimme your opinion on this code structure, please.
+- Gimme a call when you're free to practice English conversation.
+
+272. eclipse => eclipsar
+- The moon will eclipse the sun tomorrow morning—don't forget to watch safely!
+- Her amazing presentation eclipsed all the others in the meeting.
+- Don't let small problems eclipse your big goals in learning English.
+
+273. haven’t => no tener/no haber
+- I haven't finished the refactoring task yet, but I'm close.
+- She haven't seen that movie, so let's watch it together.
+- We haven't deployed the new feature to production because of a bug.
+
+274. wheel => rueda/dar vueltas
+- The car's front wheel was damaged after hitting a pothole.
+- Don't reinvent the wheel—use existing libraries when possible.
+- My head is spinning like a wheel after studying grammar all morning!
+
+275. ado => ruido/alboroto/preámbulo
+- Without further ado, let's start the sprint retrospective.
+- There was a lot of ado in the office when the server went down.
+- She made too much ado about a small typo in the documentation.
+
+276. statement = declaración/afirmación 
+- That's a strong statement—do you have data to support it?
+- The return statement ends the execution of the method.
+- His public statement about the project delay was very professional.
+
+277. mushroom => champiñón/seta/crecer rápidamente
+- I added mushrooms to the pizza because they're my favorite topping.
+- New tech startups seem to mushroom everywhere in the city.
+- Be careful picking wild mushrooms; some can be poisonous.
+
+278. uncomfortable => incómodo/molesto
+- This chair is really uncomfortable for long coding sessions.
+- I felt uncomfortable when I had to speak English in front of natives.
+- The silence after my joke was pretty uncomfortable, haha.
+
+279. crowd => multitud
+- A big crowd gathered in the plaza for the concert last night.
+- I don't like pushing through a crowd to catch the bus.
+- The presentation attracted a crowd of curious developers.
+
+280. comfortable => cómodo/confortable
+- I feel comfortable asking questions when I don't understand something.
+- These new headphones are very comfortable for long work sessions.
+- Make yourself comfortable, the meeting will start in five minutes.
+
+281. offering => oferta
+- The company is offering a new training program for senior developers.
+- This course is a great offering for anyone learning Spring Boot.
+- Thank you for offering to help me practice English conversation.
+
+282. underdog => desfavorecido/desvalido/desamparado
+- Everyone loves an underdog story, especially in sports and tech.
+- Our small startup is the underdog competing against big corporations.
+- As an underdog in English fluency, I keep practicing every day.
+
+283. uncover => descubrir
+- The investigation helped uncover the root cause of the bug.
+- Traveling helps you uncover new cultures and perspectives.
+- Let's uncover the meaning of this idiom together.
+
+284. pillow => almohada
+- I need a new pillow, this one hurts my neck after long work days.
+- She rested her head on the pillow and fell asleep quickly.
+- A good pillow makes a big difference in the quality of your sleep.
+
+285. shut => cerrar/callate
+- Please shut the door when you leave the meeting room.
+- The store will shut at 8 PM, so let's finish shopping before then.
+- "Just shut up and listen" is not a good way to communicate respectfully.
+
+286. gorgeous => precioso/guapísimo
+- The sunset over Lima's coast was absolutely gorgeous last evening.
+- She looked gorgeous in her presentation outfit yesterday.
+- That's a gorgeous piece of code—clean, efficient, and well-documented!
+
+287. able => inteligente/capaz/hábil
+- After practicing, I'm able to understand more English podcasts.
+- Spring Boot makes developers able to create applications faster.
+- Are you able to join the call at 3 PM today?
+
+288. hamburger => hamburguesa
+- Let's grab a hamburger for lunch after the stand-up meeting.
+- I prefer my hamburger with cheese, lettuce, and no onions.
+- Cooking a good hamburger at home is easier than you think.
+
+289. decided => decidida/decidido
+- She decided to switch from C# to Java for her next project.
+- We decided to refactor this module before adding new features.
+- After thinking carefully, I decided to practice English 30 minutes daily.
+
+290.hair = pelo/cabello
+- I need to cut my hair before the client meeting next week.
+- Her hair looks great in that new profile picture!
+- Windy days in Lima can really mess up your hair, haha.
+
+291. cabin => cabina/cabaña/camarote
+- We rented a small cabin in the mountains for a relaxing weekend.
+- The flight attendant asked me to return to my cabin during turbulence.
+- Working remotely from a forest cabin sounds like a dream!
+
+292. waterproof  => impermeable/sellado
+- Make sure your phone case is waterproof before going to the beach.
+- This jacket is waterproof, perfect for Lima's rainy season.
+- We need a waterproof solution for the outdoor sensors in our project.
+
+293. skating => patinaje
+- Skating in the park is a fun way to exercise on weekends.
+- I tried ice skating last winter and fell many times, but it was fun!
+- Roller skating requires good balance and practice, just like learning English.
+
+294. air => aire
+- Open the window; I need some fresh air after hours of coding.
+- The air in the mountains feels cleaner and more refreshing.
+- Let's clear the air and talk about what's really bothering us.
+
+295. owner => dueño/dueña/poseedor/poseedora
+- The owner of the café knows my order by heart now.
+- As the owner of this repository, you can approve the pull request.
+- Every class should have a clear owner responsible for its maintenance.
+
+296. blond = rubia
+- The blond woman at reception helped me with my visitor badge.
+- He has blond hair and blue eyes, very distinctive look.
+- In the movie, the blond character turned out to be the hero.
+
+297. bounce => botar/rebotar
+- The ball will bounce higher on a hard surface than on grass.
+- My email bounced back because I typed the address wrong.
+- After rejection, it's important to bounce back and keep trying.
+
+298. reusable => reutilizable
+- Writing reusable components saves time in future projects.
+- This function is reusable across multiple microservices.
+- Using reusable water bottles helps reduce plastic waste.
+
+299. taste => gusto/sabor
+- This soup has a delicious taste—what spices did you use?
+- Everyone has different taste in music, movies, and code style.
+- Let me taste the coffee before adding more sugar.
+
+300. boundary => limite/frontera
+- It's important to set clear boundaries between work and personal time.
+- The river marks the boundary between the two neighborhoods.
+- In programming, always validate input at the boundary of your system.
+
+301. issue = asunto/problema/cuestion
+- We need to resolve this performance issue before the release.
+- That's an interesting issue; let's discuss it in the next retro.
+- If you have any issues with the setup, just ask for help.
+
+302. magazines = revistas
+- I like reading tech magazines to stay updated on industry trends.
+- The waiting room had several magazines about travel and food.
+- Digital magazines are more eco-friendly than printed ones.
+
+303. town => ciudad/pueblo grande
+- Our town has great food, but limited tech job opportunities.
+- She moved from a small town to Lima for better career options.
+- The whole town celebrated when the new tech hub opened.
+
+304. toilet => water/inodoro
+- Excuse me, where is the toilet in this building?
+- Please flush the toilet after using it—basic courtesy!
+- The hotel room had a modern toilet with bidet functions.
+
+305. garden = jardin
+- I relax by watering the plants in my small garden after work.
+- Growing herbs in a garden is useful for cooking and stress relief.
+- The office garden is a great spot for informal team chats.
+
+306. choose = elije
+- You can choose any task from the sprint backlog that interests you.
+- It's hard to choose which English course to take next.
+- Let me choose the restaurant for our team lunch today.
+
+307. near = cerca de
+- Is there a good café near the office where we can have a meeting?
+- I live near the park, so I walk there every morning.
+- Keep your backup drive near your desk for quick access.
+
+308. ear => oreja/oido
+- She whispered a secret in my ear during the break.
+- Loud music can damage your ear if you use headphones too much.
+- He has a good ear for languages and learns pronunciation quickly.
+
+309. both = ambos
+- I use both Java and C# in my projects, depending on requirements.
+- Both options have pros and cons; let's evaluate them together.
+- She speaks both Spanish and English fluently, which is impressive.
+
+310. doubt => duda
+- If you have any doubt about the requirements, ask the product owner.
+- I doubt that this bug will be fixed before Friday, but let's try.
+- Without doubt, consistent practice is the best way to improve English.
+
+311. avoid => evitar
+- Try to avoid merging code on Friday afternoon—just in case!
+- To avoid misunderstandings, always confirm requirements in writing.
+- I avoid drinking coffee after 3 PM so I can sleep well.
+
+312. journey = viaje/trayecto/viajar
+- Learning English is a journey, not a destination—enjoy the process!
+- My daily journey to work takes about 45 minutes by bus.
+- The project's journey from idea to production was challenging but rewarding.
+
+313. have = tener/haber(cuando acompaña otro verbo)
+- I have a meeting in 10 minutes, so let's wrap this up.
+- She has extensive experience with Spring Security and JWT.
+- We have to deploy the fix before the client demo tomorrow.
+
+314. watch = ver
+- Let's watch a short English tutorial together to practice listening.
+- I like to watch tech conferences on YouTube to learn new patterns.
+- Watch out for that typo in the configuration file!
+
+315. bathroom => cuarto de baño
+- The bathroom is on the left, next to the conference room.
+- I need to clean the bathroom before my guests arrive tonight.
+- Modern bathroom designs focus on both functionality and aesthetics.
+
+316. fold => doblar/cerrar/quebrar
+- Please fold the laundry before putting it away in the closet.
+- You can fold this portable keyboard to save space in your bag.
+- If the feature doesn't work, we might have to fold the plan and try again.
+
+317. backwards => al revés/hacia atrás
+- He walked backwards carefully while recording the video tutorial.
+- Reading code backwards can help you spot errors you missed before.
+- Don't move backwards in your learning—consistency is key!
+
+318. closet => ropero
+- I keep my work shirts organized in the closet by color.
+- The cleaning supplies are stored in the hall closet.
+- Skeletons in the closet? Let's keep our code transparent and well-documented!
+
+319. chip => patata frita/papa frita
+- Would you like some chips with your sandwich for lunch?
+- The new processor chip makes the application run much faster.
+- A small chip in the screen can grow into a bigger problem if ignored.
+
+320. whatever => lo que sea/cualquier cosa
+- We can order pizza, sushi, or whatever you're craving tonight.
+- "Just use whatever framework you prefer" is not helpful guidance for juniors.
+- Whatever happens, keep practicing English 15 minutes every day.
+
+321. peaceful => pacifico/tranquilo
+- Early morning is the most peaceful time for focused coding.
+- After resolving the conflict, the team atmosphere became peaceful again.
+- A peaceful mind helps you learn languages more effectively.
+
+322. leadership => liderazgo/dirección 
+- Good leadership empowers the team to make decisions and grow.
+- She showed strong leadership during the critical production incident.
+- Developing leadership skills is as important as technical skills for seniors.
+
+323. excited => emocionado/entusiasmado
+- I'm really excited to start learning Quarkus next month!
+- The team was excited when the new feature passed all tests.
+- Don't get too excited before the code review—let's stay humble.
+
+324. leader => líder
+- A good leader listens more than they speak in meetings.
+- She became the technical leader of the migration project.
+- Every team needs a leader, but leadership can be shared too.
+
+325. coexist  => coexistir/convivir
+- Legacy code and new microservices can coexist during a gradual migration.
+- Different opinions can coexist in a healthy, respectful team discussion.
+- Java and C# can coexist in a developer's skillset without conflict.
+
+326. sea => mar
+- The view of the sea from Lima's cliffs is absolutely stunning.
+- We're facing a sea of tickets in the backlog—let's prioritize wisely.
+- Sailing on the sea requires preparation, just like deploying to production.
+
+327. chore => tarea 
+- Updating dependencies feels like a chore, but it's necessary for security.
+- I split household chores with my roommate to keep things fair.
+- Writing documentation shouldn't be a chore, it's part of quality code.
+
+328. scattered => disperso/aislado
+- My notes are scattered across three apps—I need to organize them!
+- The team members are scattered across different time zones.
+- After the meeting, everyone scattered to work on their assigned tasks.
+
+329. do you say => que opinas
+- Do you say we should refactor this class before adding the new feature?
+- How do you say "piedra angular" in English? Oh wait, it's "cornerstone"!
+- What do you say we practice English conversation for 15 minutes now?
+
+330. late = tardio
+- Sorry I'm late, the bus was delayed this morning.
+- It's never too late to start improving your English skills.
+- Submitting code late can block the entire team's workflow.
+
+331. getting => consiguiendo
+- I'm getting better at understanding English podcasts with practice.
+- She's getting her Java certification next month—congratulations!
+- We're getting closer to resolving the performance issue.
+
+332. booklet => folleto 
+- The conference gave us a booklet with all the session schedules.
+- I keep a small booklet of vocabulary words to review during commutes.
+- The user manual is available as a digital booklet on our wiki.
+
+333. until => hasta 
+- I'll keep practicing English until I feel confident in meetings.
+- The server will be down until 2 AM for maintenance.
+- Wait here until I finish this method and join you.
+
+334. market => mercado
+- The tech market in Estonia is growing—interesting for job opportunities!
+- We need to analyze the market before launching the new feature.
+- Freelance market platforms can help you find short-term projects.
+
+335. complain => quejarse
+- Instead of complaining about the legacy code, let's plan a refactor.
+- Some users complain about the app's loading time on mobile.
+- I rarely complain; I prefer to focus on solutions.
+
+336. raise => levantar/aumentar
+- Please raise your hand if you have a question during the presentation.
+- We need to raise the test coverage before the next release.
+- She raised an important point about security in the architecture review.
+
+337. god => dios
+- Oh god, I just deleted the wrong branch—wait, I can recover it!
+- Many people thank god for good health, family, and opportunities.
+- "Thank god it's Friday" is a common phrase in office culture.
+
+338. stuff => material/cosa
+- I need to organize my desk; there's too much stuff everywhere.
+- The migration involves moving a lot of stuff: code, data, configs.
+- Don't worry about the small stuff; focus on the big picture first.
+
+339. budget => presupuesto
+- We need to stay within budget for the cloud infrastructure costs.
+- The training budget allows us to take one certification exam per year.
+- Planning a personal budget helps reduce financial stress.
+
+340. fool => tonto/tonta
+- Don't fool yourself—skipping tests will cause problems later.
+- He's not a fool; he just needs more time to learn the new framework.
+- April Fools' Day jokes should be fun, not harmful to the team.
+
+341. foot => pie
+- I hurt my foot playing soccer, so I'll work from home today.
+- Put your best foot forward in the English conversation practice.
+- The table has a loose foot, we should fix it before it breaks.    
+
+342. train => tren/entrenar
+- I take the train to work to avoid Lima's traffic jams.
+- We need to train the new junior developer on our coding standards.
+- To train for a marathon, you need consistency—just like learning English!
+
+343. picnic => comida al aire libre/pícnic
+- Let's organize a team picnic in the park next weekend!
+- A picnic is a great way to relax and practice casual English conversation.
+- Don't forget the blanket and snacks for the picnic tomorrow.
+
+344. full => completo
+- My calendar is full today, but I have time tomorrow morning.
+- The conference room is full, let's find another space for the meeting.
+- After a full day of coding, I like to unwind with an English podcast.
+
+345. government => gobierno
+- The government announced new incentives for tech startups.
+- Working with government projects often requires extra documentation.
+- Some government services are now available through mobile apps.
+
+346. comfortably => comodamente
+- I can work comfortably for hours with this ergonomic chair.
+- She speaks English comfortably now after months of practice.
+- Make sure you're sitting comfortably before starting the long tutorial.
+
+347. chew => masticar/mascar
+- Don't chew gum during client video calls—it looks unprofessional.
+- Chew your food slowly, it helps digestion and mindfulness.
+- This concept is hard to chew on—let me think about it overnight.
+
+348. quiet => callado/tranquilo
+- The office is quiet early in the morning—perfect for deep work.
+- Please keep quiet during the presentation so everyone can focus.
+- I prefer quiet cafes for studying English vocabulary.
+
+349. say => decir/suponer 
+- What would you say is the biggest challenge in learning English?
+- Let's say we finish the refactor by Friday—what's the next step?
+- Actions say more than words, especially in agile teams.
+
+350. rarely => rara vez/raramente
+- I rarely skip my daily English practice, even on busy days.
+- This bug rarely occurs, but when it does, it's critical.
+- She rarely asks for help, but when she does, it's important to listen.
+
+351. childhood => infancia
+- In my childhood, I loved playing video games and learning tech.
+- Childhood memories often influence our career choices later.
+- Learning languages is easier in childhood, but adults can succeed too!
+
+352. ever => alguna vez
+- Have you ever tried pair programming in English?
+- This is the best code review I've ever participated in!
+- If you ever need help with Java, just message me.
+
+353. prefer => preferir
+- I prefer using IntelliJ for Java, but VSCode works well too.
+- Do you prefer studying English in the morning or at night?
+- We prefer to merge small, frequent changes instead of big batches.
+
+354. refer => hacer referencia/referirse
+- When I refer to "the module," I mean the payment service.
+- Please refer to the documentation before asking basic questions.
+- This article refers to best practices for hexagonal architecture.
+
+355. remind => recordar
+- Can you remind me to review the PR before end of day?
+- This song reminds me of my first English class years ago.
+- Let me remind you that the deadline is tomorrow at noon.
+
+356. feature => caracteristica
+- The new feature allows users to export reports in PDF format.
+- We should prioritize this feature based on user feedback.
+- Every feature needs clear acceptance criteria before development starts.
+
+357. yet => todavía/aún
+- I haven't finished the tutorial yet, but I'm making progress.
+- The deployment isn't ready yet, we're waiting for the final tests.
+- Have you tried the new Quarkus extension yet?
+
+358. case => caso
+- In that case, let's schedule a separate meeting to dive deeper.
+- Always handle the edge case where the user input is null.
+- Just in case, I backed up the database before the migration.
+
+359. development => desarrollo
+- Agile development encourages frequent feedback and adaptation.
+- The development environment mirrors production as closely as possible.
+- Continuous development of your skills keeps you competitive in tech.
+
+360. flat => apartamento
+- I'm looking for a flat near the tech hub in Lima.
+- Her flat has a great view and a quiet space for remote work.
+- Renting a flat with a roommate can reduce monthly expenses.
+
+361. rewarding => gratificante/satisfactorio
+- Mentoring junior developers is very rewarding for senior engineers.
+- Seeing your code in production is a rewarding feeling.
+- Learning English is challenging but ultimately very rewarding.
+
+362. deadline => fecha límite/plazo
+- The deadline for the sprint deliverables is this Friday at 5 PM.
+- Missing a deadline can impact the whole team's velocity.
+- Let's break the task into smaller parts to meet the deadline comfortably.
+
+363. farm => granja
+- My grandparents have a small farm where I relax on weekends.
+- Server farm is another term for a data center with many machines.
+- Organic farm products taste better and support sustainable practices.
+
+364. farmer => agricultor/agricultora/ganadero/ganadera
+- A good farmer plans seasons ahead, just like a good architect plans systems.
+- The farmer uses technology to monitor crop health efficiently.
+- Like a farmer tends to crops, we tend to our code with care.
+
+365. arm => brazo/manga/rama
+-I hurt my arm lifting heavy boxes during the office move.
+-Keep your arm relaxed while typing to avoid strain injuries.
+-The robot's mechanical arm can perform precise assembly tasks.
+
+366. devoice => desvocar/desonorizar
+- In phonetics, to devoice a sound means to remove vocal cord vibration.
+- The final "s" in "cats" is devoiced compared to the "z" in "dogs".
+- Understanding devoice rules helps improve English pronunciation accuracy.
+
+367. consultation => reunión/consulta
+- I scheduled a consultation with the tech lead about the architecture.
+- Free consultation sessions are available for new team members.
+- Before making big changes, seek consultation from experienced colleagues.
+
+368. sneeze => estornudar/estornudo
+- Bless you! Did you just sneeze? Hope you're not getting sick.
+- Dust in the old server room made me sneeze during maintenance.
+- Cover your mouth when you sneeze to keep the office healthy.
+
+369. device => aparato/dispositivo
+- Please test the app on at least one mobile device before release.
+- This IoT device sends temperature data to our backend every minute.
+- Keep your authentication device secure; it's your second factor.
+
+370. reduce => reducir/rebajar
+- We can reduce API response time by adding caching layers.
+- Try to reduce the number of dependencies in your microservice.
+- Meditation can help reduce stress during intense sprint cycles.
+
+371. gesture => gesto
+- A simple "thumbs up" gesture can encourage a teammate during code review.
+- In some cultures, certain hand gestures have different meanings.
+- His gesture of offering help made the onboarding process smoother.
+
+372. red-eyed => inflarojos
+- After debugging all night, I looked red-eyed and tired in the stand-up.
+- Allergies can make you red-eyed, so keep tissues handy.
+- The photo shows a red-eyed effect because of the camera flash.
+
+373. corporal => corporal
+- Regular exercise improves corporal health and mental focus.
+- Corporal punishment is not acceptable in any professional environment.
+- Yoga helps with corporal awareness and stress reduction.
+
+374. left => izquierda/salí 
+- Turn left at the traffic light; the office is the third building.
+- She left the meeting early because of a personal emergency.
+- There are three tasks left in the sprint backlog—let's prioritize.
+
+375. left a trail => dejó rastro
+- The hiker left a trail of breadcrumbs to find the way back.
+- His excellent work left a trail of positive feedback in the team.
+- The bug left a trail of error logs that helped us debug faster.
+
+376. large => grande
+- We need a large monitor for efficient code reviews and debugging.
+- A large portion of our users access the app via mobile devices.
+- Breaking a large task into smaller ones makes it less overwhelming.
+
+377. called => llamado
+- The method is called whenever the user clicks the submit button.
+- She called me to confirm the meeting time for tomorrow.
+- This pattern is called "dependency injection" in Spring Boot.
+
+378. readable => ameno
+- Clean code should be readable even for developers who didn't write it.
+- Her English writing is clear and readable, great for documentation.
+- Use meaningful variable names to make your code more readable.
+
+379. came => vino/venía
+- She came up with a brilliant solution during the brainstorming session.
+- The idea came to me while I was taking a walk after work.
+- When the opportunity came, I was ready because of consistent practice.
+
+380. sibling => hermano 
+- My sibling is also a developer; we often share tech tips.
+- In Java, a class can have multiple sibling classes in the same package.
+- Growing up with a sibling taught me collaboration and patience.
+
+381. possible => posible
+- Is it possible to deploy the fix before the client demo?
+- We should make error messages as clear and helpful as possible.
+- With dedication, fluency in English is absolutely possible.
+
+382. side => lado/costado
+- On the bright side, we learned a lot from this production incident.
+- Keep your notes on the side of the screen during video calls.
+- Which side of the argument do you support in this architecture debate?
+
+383. buzzword => palabra de moda/palabra clave
+- "AI" is a popular buzzword, but let's focus on practical implementations.
+- Don't use buzzwords just to impress; clarity is more valuable.
+- Understanding the real meaning behind a buzzword helps avoid confusion.
+
+384. spent => pasado/estado/gastado 
+- I spent two hours debugging, and the issue was a missing semicolon!
+- She spent her weekend learning new Spring Boot annotations.
+- Time spent practicing English conversation is never wasted.
+
+385. tagline => eslogan
+- The company's tagline is "Code with confidence, deploy with care."
+- A good tagline should be short, memorable, and reflect your values.
+- What would be your personal tagline as a senior developer?
+
+
+
+
+
+
+
 
