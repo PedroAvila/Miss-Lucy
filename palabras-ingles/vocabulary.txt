@@ -21,7 +21,7 @@ I've => Yo he/Yo tengo
 gimme => dame 
 eclipse => eclipsar
 haven’t= no tener/no haber
-wheel => rueda/dar vueltas
+wheel => rueda/dar vueltasFH
 straw => paja
 dumplings => albóndigas
 fire brigade => cuerpo de bomberos
@@ -988,8 +988,7 @@ tagline => eslogan
 charitable  => benéfico/caritativo/de caridad/de beneficencia
 try -> intentar/probar 
 parent => madre/padre
-try -> intentar/probar 
-finished => acabado/ada//terninado
+finished => acabado/ada/terninado
 done => hecho 
 donate => donar 
 going => progreso
@@ -1118,7 +1117,7 @@ milk => leche
 making => fabricación
 enroll => inscribir/inscribirse 
 brighten => alegrar/alegrarse 
-bright => brillante/luminoso
+bright => brillante/luminoso/alegre/positivo
 very => muy
 know => saber
 pick => escoger 
@@ -1662,6 +1661,8 @@ scream => gritar/grito
 terrified => aterrado/aterrorizado
 sweet => dulce/caramelo/golosina
 afterwards => después/posteriormente/a continuación
+frightened => asustado
+tremor => temblor
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante

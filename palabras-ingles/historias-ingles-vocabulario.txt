@@ -13,7 +13,7 @@
  - The little girl believes that a fairy lives in the old oak tree
  - In the story, the fairy used her magic wand to turn the pumpkin into a carriage
 
-4. which(wɪʧ) => cual
+4. which(wɪʧ) => qué/cuál
  - Which color do you prefer for the living room?
  - I bought a new phone, which has an amazing camera
  - I don't know which path to take
@@ -33,7 +33,7 @@
  - I need to buy a waterproof backpack for my hiking trip
  - She left her backpack on the chair in the classroom
 
-8. wrist(rɪst) => muÃ±eca
+8. wrist(rɪst) => muñeca
  - I fell while skating and hurt my left wrist
  - She wears a beautiful gold watch on her wrist
  - You need to flick your wrist to throw the ball correctly
@@ -98,7 +98,7 @@
 - The flames from the candle flickered gently
 - We watched as the flames consumed the burning logs
 
-21. wood => madera/leÃ±a
+21. wood => madera/leña
 - The cabin was built from strong wooden wood
 - I bought wood for the winter to keep the fireplace burning
 - The bridge is made of wood and stone
@@ -123,7 +123,7 @@
 - Be careful not to burn yourself on the hot stove
 - The forest fire will burn for several days before it's completely extinguished
 
-26. mine => mÃ­o 
+26. mine => mío/de mí/mina 
 - This book is mine, so please don't lose it
 - The keys are mine; I found them first
 - The blue car in the driveway is mine
@@ -153,7 +153,7 @@
 - Please take off your muddy boots before coming inside
 - She likes to wear tall boots with her favorite dress
 
-32. damp(dæmp) => hÃºmedo 
+32. damp(dæmp) => húmedo/mojado 
 - The walls in the old house are damp in winter
 - The grass was still damp with dew early in the morning
 - You should wipe the table with a damp cloth to remove the dust 
@@ -168,7 +168,7 @@
 - We took a beautiful drive along the Pacific coast
 - Many lighthouse towers are built along the rocky coast to guide ships
 
-35. cosy(ˈkəʊzi) => cÃ¡lido/acogedor
+35. cosy(ˈkəʊzi) => cálido/acogedor
 - The living room is cosy with blankets and a heater
 - I love reading a book in this cosy corner of the living room
 - The cabin was small but very cosy, especially with the fireplace on
@@ -193,7 +193,7 @@
 - I need to stress the importance of arriving on time for the meeting
 - She is under a lot of stress because of her upcoming exams
 
-40. blur(blɜː) => empaÃ±ar/difuminar/hacer borroso/hacerse borroso
+40. blur(blɜː) => empañar/difuminar/hacer borroso/hacerse borroso
 - The landscape was just a blur as the train sped past
 - Without my glasses, everything is a complete blur
 - Tears began to blur her vision
@@ -213,7 +213,7 @@
  - My brother has been living abroad for over five years
  - They usually go abroad for their summer holidays  
 
-44. chilly(ˈʧɪli) => frÃ­o
+44. chilly(ˈʧɪli) => frí­o
  - Itâ€™s a bit chilly outside, so you should bring a jacket
  - The water was too chilly for a swim
  - I woke up feeling chilly because I left the window open 
@@ -269,7 +269,7 @@
 - The goal of the new policy is to reduce social inequality within the city 
 - There is still a lot of gender inequality in the workplace, specially in terms of pay 
 
-55. sarcastic(sɑːˈkæstɪk) => sarcÃ¡stico
+55. sarcastic(sɑːˈkæstɪk) => sarcástico
 - British humour is often sarcastic 
 - His reply was so sarcastic that I couldn't tell if he was being genuine or making fun of me 
 - She often uses a sarcastic tone when talking about her boss, but only in private
@@ -366,7 +366,7 @@
 - Prices continue to rise because of inflation 
 - She watched the smoke rise from the chimney
 
-74. inside(ɪnˈsaɪd) => a/hacia dentro/dentro (de)/entraÃ±as
+74. inside(ɪnˈsaɪd) => a/hacia dentro/dentro (de)/entrañas
 - The keys are inside my bag
 - Itâ€™s raining, so letâ€™s go inside
 - He felt a lot of joy inside when he heard the news
@@ -426,7 +426,7 @@
 - The cat sat quietly on the windowsill, watching the birds outside
 - She sat through the entire meeting without saying a single word
 
-86. useful(ˈjuːsfᵊl) => Ãºtil
+86. useful(ˈjuːsfᵊl) => útil
 - This app is very useful for learning new languages
 - I found some useful information in that book
 - Itâ€™s always useful to carry a portable charger
@@ -451,7 +451,7 @@
 - Alright, I'll meet you at the cafe in ten minutes
 - The movie was alright, but the book was much better
 
-91. just(ʤʌst) => solo/solamente/acabar de/justo/simplemente/reciÃ©n
+91. just(ʤʌst) => solo/solamente/acabar de/justo/simplemente/recién
 - I have just finished my dinner
 - It is not just a hobby, it is my passion
 - The judge made a just decision
@@ -476,7 +476,7 @@
 - She has already left for the airport
 - Are you hungry? No, I already ate
 
-96. could(kʊd) => podrÃ­a
+96. could(kʊd) => podría
 - When I was a child, I could swim very well
 - Could you help me with this box, please?
 - It could rain later, so take an umbrella
@@ -611,7 +611,7 @@
  - Don't forget to bring your swimsuit to the pool party
  - The new job will bring many opportunities for her career
 
-123. tough(tʌf) => resistente/fuerte/difÃ­cil/duro
+123. tough(tʌf) => resistente/fuerte/difí­cil/duro
  - It was a tough decision, but I think I made the right choice
  - This steak is a bit tough; itâ€™s quite hard to chew
  - She had a tough childhood, but it made her a stronger person
@@ -691,7 +691,7 @@
 - She wants to become a doctor in the future
 - He became famous after his first movie
 
-139. mistake(mɪˈsteɪk) => equivocaciÃ³n/fallo/error
+139. mistake(mɪˈsteɪk) => equivocación/fallo/error
 - I made a mistake on the final exam
 - Don't worry, everyone makes mistakes sometimes
 - I realized my mistake as soon as I sent the email
@@ -926,7 +926,7 @@
 - Be careful, because this plastic ruler will break if you try to bend it too much
 - The house is located just past the sharp bend in the road
 
-186. countryside(ˈkʌntrɪsaɪd) => campo/campiÃ±a
+186. countryside(ˈkʌntrɪsaɪd) => campo/campiña
 - I grew up in a big city, but I would love to live in the countryside
 - The train journey offers beautiful views of the English countryside
 - We spent the weekend hiking and enjoying the fresh air in the countryside
@@ -996,7 +996,7 @@
 - Suddenly, a scary thought crossed my mind
 - Thanks for the flowers! It's the thought that counts
 
-200. confident(ˈkɒnfɪdᵊnt) => seguro de sÃ­ mismo
+200. confident(ˈkɒnfɪdᵊnt) => seguro de sí­ mismo
 - She is very confident about her presentation tomorrow
 - The team feels confident that they will win the game
 - You need to be more confident in your own abilities
@@ -1061,7 +1061,7 @@
  - She felt the soft fabric.
  - He felt tired from work.
 
-213. might => podrÃ­a
+213. might => podrí­a
 - It might rain tomorrow.
  - She might come to the party.
  - He might be late.
@@ -1226,12 +1226,12 @@
 - He has such a good sense of humor
 - She spent such a long time preparing for the exam
 
-246. assessment(əˈsɛsmənt) => evaluaciÃ³n/valoraciÃ³n
+246. assessment(əˈsɛsmənt) => evaluación/valoración
 - The teacher gave us an assessment of our progress
 - We need to do an assessment of the company's performance
 - The assessment showed that the program was very effective
 
-247. training(ˈtreɪnɪŋ) => formaciÃ³n/instrucciÃ³n 
+247. training(ˈtreɪnɪŋ) => formación/instrucción 
 - She completed her training program last month
 - The training lasted for three weeks
 - He received specialized training for the new job
@@ -1876,55 +1876,321 @@
 - His excellent work left a trail of positive feedback in the team.
 - The bug left a trail of error logs that helped us debug faster.
 
-376. large => grande
+376. large(lɑːʤ) => grande
 - We need a large monitor for efficient code reviews and debugging.
 - A large portion of our users access the app via mobile devices.
 - Breaking a large task into smaller ones makes it less overwhelming.
 
-377. called => llamado
+377. called(kɔːld) => llamado
 - The method is called whenever the user clicks the submit button.
 - She called me to confirm the meeting time for tomorrow.
 - This pattern is called "dependency injection" in Spring Boot.
 
-378. readable => ameno
+378. readable(ˈriːdəbᵊl) => ameno
 - Clean code should be readable even for developers who didn't write it.
 - Her English writing is clear and readable, great for documentation.
 - Use meaningful variable names to make your code more readable.
 
-379. came => vino/venía
+379. came(keɪm) => vino/venía/surgio
 - She came up with a brilliant solution during the brainstorming session.
 - The idea came to me while I was taking a walk after work.
 - When the opportunity came, I was ready because of consistent practice.
 
-380. sibling => hermano 
+380. sibling(ˈsɪblɪŋ) => hermano 
 - My sibling is also a developer; we often share tech tips.
 - In Java, a class can have multiple sibling classes in the same package.
 - Growing up with a sibling taught me collaboration and patience.
 
-381. possible => posible
+381. possible(ˈpɒsəbᵊl) => posible
 - Is it possible to deploy the fix before the client demo?
 - We should make error messages as clear and helpful as possible.
 - With dedication, fluency in English is absolutely possible.
 
-382. side => lado/costado
+382. side(saɪd) => lado/costado
 - On the bright side, we learned a lot from this production incident.
 - Keep your notes on the side of the screen during video calls.
 - Which side of the argument do you support in this architecture debate?
 
-383. buzzword => palabra de moda/palabra clave
+383. buzzword(ˈbʌzwɜːd) => palabra de moda/palabra clave
 - "AI" is a popular buzzword, but let's focus on practical implementations.
 - Don't use buzzwords just to impress; clarity is more valuable.
 - Understanding the real meaning behind a buzzword helps avoid confusion.
 
-384. spent => pasado/estado/gastado 
+384. spent(spɛnt) => pasado/estado/gastado 
 - I spent two hours debugging, and the issue was a missing semicolon!
 - She spent her weekend learning new Spring Boot annotations.
 - Time spent practicing English conversation is never wasted.
 
-385. tagline => eslogan
+385. tagline(ˈtæɡlaɪn) => eslogan
 - The company's tagline is "Code with confidence, deploy with care."
 - A good tagline should be short, memorable, and reflect your values.
 - What would be your personal tagline as a senior developer?
+
+386. frightened => asustado
+- The child was frightened by the loud thunder.
+- She looked frightened when she saw the spider.
+- Don't be frightened, everything will be okay.
+
+387. tremor => temblor
+- A small tremor shook the building yesterday.
+- His hands had a slight tremor after the accident.
+- The earthquake began with a gentle tremor.
+
+388. charitable  => benéfico/caritativo/de caridad/de beneficencia
+- She made a charitable donation to the local hospital.
+- The organization is known for its charitable work with children.
+- He has a charitable heart and always helps those in need.
+
+389. try -> intentar/probar 
+- I will try to finish the project by Friday.
+- You should try this restaurant, the food is amazing.
+- Don't give up, just try one more time.
+
+390. parent => madre/padre
+- Every parent wants the best for their children.
+- As a parent, you need to be patient and understanding.
+- The school meeting is for parents and teachers.
+
+391. finished => acabado/ada/terninado
+- I finished my homework an hour ago.
+- Have you finished reading that book yet?
+- The construction work will be finished next week.
+
+392. done => hecho
+- I'm done with my presentation.
+- Well done! You passed the exam.
+- What's done is done, let's move forward.
+
+393. donate => donar
+- Many people donate money to help disaster victims.
+- You can donate old clothes to the charity shop.
+- He decided to donate blood at the local hospital.
+
+394. then => entonces
+- First we eat, then we go for a walk.
+- If you study hard, then you will pass the test.
+- Back then, I didn't understand the importance of English.
+
+395. them => ellos/ellas, los/las
+- I saw them at the park yesterday.
+- Please give them the documents when they arrive.
+- We should help them if they need assistance.
+
+396. lost => perdido
+- I lost my keys and can't find them anywhere.
+- She felt lost in the big city without a map.
+- The team lost the match, but they played well.
+
+397. jacket => chaqueta/cubierta
+- Don't forget to wear your jacket; it's cold outside.
+- He bought a new leather jacket for the winter.
+- The jacket has many pockets for storing small items.
+
+398. so => tan/muy/así que/tanto/así
+- The movie was so interesting that I watched it twice.
+- I was tired, so I went to bed early.
+- She speaks English so fluently!
+
+399. devastating => devastador/abrumador
+- The hurricane had a devastating effect on the coastal town.
+- Losing the championship was devastating for the team.
+- The news of his illness was devastating to his family.
+
+400. act => comportarse
+- You should act responsibly in difficult situations.
+- He tried to act brave, but I could see he was scared.
+- It's time to act, not just talk about the problem.
+
+401. how => como
+- How do you usually come to work?
+- I don't know how to solve this math problem.
+- Can you explain how this machine works?
+
+402. who => quién
+- Who is coming to the party tonight?
+- The person who called you left a message.
+- Do you know who wrote this book?
+
+403. delivery => reparto/entrega
+- The delivery of my order arrived this morning.
+- Free delivery is available for purchases over $50.
+- The pizza delivery was late because of the traffic.
+
+404. regards => saludos/recuerdos
+- Please give my regards to your family.
+- Best regards, [Name] — common email closing.
+- He sent his regards after hearing about your promotion.
+
+405. trying => duro
+- It's been a trying week with all these deadlines.
+- Waiting for test results can be a trying experience.
+- She remained calm during this trying situation.
+
+406. stage => etapa/escenario 
+- The singer performed beautifully on stage.
+- We are at a critical stage of the project.
+- Children go through different stages of development.
+
+407. unforeseen = imprevisto
+- Due to unforeseen circumstances, the event was postponed.
+- Always have a backup plan for unforeseen problems.
+- The unforeseen delay caused us to miss our flight.
+
+408. actually => en realidad
+- I actually enjoyed the movie, even though it was long.
+- He's not angry; actually, he's quite happy about it.
+- Actually, I think we should leave a bit earlier.
+
+409. phrase => frase/locución 
+- "Break a leg" is a common phrase in theater.
+- Can you explain the meaning of this phrase?
+- She used a polite phrase to decline the invitation.
+
+410. guidelines => pauta
+- Please follow the safety guidelines when using the equipment.
+- The company published new guidelines for remote work.
+- These guidelines will help you write better reports.
+
+411. guide => guía
+- The tour guide showed us the most interesting places.
+- This manual will guide you through the installation process.
+- She used the stars as a guide to find her way.
+
+412. hen => gallina
+- The hen laid three eggs this morning.
+- A mother hen protects her chicks carefully.
+- We saw a hen and her chicks walking in the farmyard.
+
+413. tower => torre 
+- The Eiffel Tower is one of the most famous landmarks in the world.
+- We climbed to the top of the tower for a great view.
+- The castle has an old stone tower that is hundreds of years old.
+
+414. huge => enorme
+- They live in a huge house with a beautiful garden.
+- The project was a huge success thanks to the team's effort.
+- There was a huge crowd at the concert last night.
+
+415. northern => del norte/norteño
+- The northern part of the country is very cold in winter.
+- She comes from a small town in northern Peru.
+- Northern lights are a spectacular natural phenomenon.
+
+416. abyss => abismo
+- Looking down from the cliff, I felt like I was staring into an abyss.
+- The argument created an abyss between the two friends.
+- He was afraid of falling into the dark abyss.
+
+417. dark = oscuro
+- It gets dark early in the winter months.
+- She prefers to wear dark colors like black and navy.
+- The room was so dark that I couldn't see anything.
+
+418. butter => mantequilla
+- Could you pass me the butter, please?
+- I like to spread butter on my toast in the morning.
+- This cake recipe requires a cup of softened butter.
+
+419. butterfly => mariposa
+- A colorful butterfly landed on the flower.
+- Children love to chase butterflies in the garden.
+- The caterpillar transformed into a beautiful butterfly.
+
+420. delve => hurgar, escarbar
+- I want to delve deeper into this topic during my research.
+- The documentary delves into the history of ancient civilizations.
+- Let's delve into the details of the proposal.
+
+421. gentle => suave/dulce 
+- She has a gentle voice that calms everyone around her.
+- Be gentle with the flowers; they are very delicate.
+- The gentle breeze made the afternoon perfect for a walk.
+
+422. hurry => dar prisa
+- We need to hurry if we want to catch the bus.
+- Don't hurry, take your time to do it right.
+- In his hurry, he forgot to lock the door.
+
+423. scared => asustado
+- The little boy was scared of the dark.
+- I'm scared that I might fail the exam.
+- Don't be scared to ask questions when you don't understand.
+
+424. scary => da miedo 
+- That horror movie was really scary!
+- It's scary to walk alone at night in this area.
+- The idea of public speaking is scary for many people.
+
+425. scar => cicatriz
+- He has a small scar on his knee from a childhood fall.
+- The fire left a scar on the forest that will take years to heal.
+- Emotional scars can be harder to heal than physical ones.
+
+426. quickest => más rápido 
+- What's the quickest way to get to the airport?
+- She was the quickest runner in the race.
+- The quickest solution isn't always the best one.
+
+427. deep => profundo
+- The ocean is very deep in some places.
+- He took a deep breath before diving into the pool.
+- They had a deep conversation about their future plans.
+
+428. unnecessary => innecesario 
+- It's unnecessary to worry about things you can't control.
+- Adding more features would be unnecessary at this stage.
+- He made an unnecessary comment that upset everyone.
+
+429. dive => sumergirse/bucear
+- We love to dive in the clear waters of the Caribbean.
+- The eagle made a sudden dive to catch its prey.
+- She decided to dive into the new project with enthusiasm.
+
+430. driver => conductor
+- The bus driver was very friendly and helpful.
+- You need a valid license to be a taxi driver.
+- The driver slowed down because of the heavy rain.
+
+431. dry => seco
+- The clothes will dry quickly in the sun.
+- I prefer dry white wine with seafood.
+- After the rain, the ground took two days to dry completely.
+
+432. tail => cola 
+- The dog wagged its tail happily when I came home.
+- Airplanes have a tail that helps with stability during flight.
+- The cat caught a mouse by its tail.
+
+433. belief => creencia 
+- Her belief in herself helped her overcome many challenges.
+- It's a common belief that breakfast is the most important meal.
+- Religious beliefs vary greatly around the world.
+
+434. whether => si
+- I don't know whether I should accept the job offer.
+- Whether it rains or not, we will have the picnic.
+- She asked whether I had finished the report.
+
+435. payload => carga útil
+- The rocket's payload included scientific instruments and satellites.
+- In cybersecurity, a malware payload can damage your computer.
+- The truck's payload capacity is 2 tons.
+
+436. rely => depende de
+- You can rely on me to help you whenever you need it.
+- Many people rely on public transportation to get to work.
+- Don't rely too much on luck; preparation is key.
+
+437. manage => lograr
+- Despite the difficulties, she managed to complete the project on time.
+- How do you manage to stay so organized?
+- We need to manage our time better to meet the deadline.
+
+438. belly => vientre/barriga
+- After the big meal, my belly felt full and comfortable.
+- The baby laughed when I tickled his belly.
+- Penguins have a white belly and a black back.
+
 
 
 
