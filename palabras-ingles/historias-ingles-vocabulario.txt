@@ -1946,22 +1946,22 @@
 - You should try this restaurant, the food is amazing.
 - Don't give up, just try one more time.
 
-390. parent => madre/padre
+390. parent(ˈpeərᵊnt) => madre/padre
 - Every parent wants the best for their children.
 - As a parent, you need to be patient and understanding.
 - The school meeting is for parents and teachers.
 
-391. finished => acabado/ada/terninado
+391. finished(ˈfɪnɪʃt) => acabado/ada/terninado
 - I finished my homework an hour ago.
 - Have you finished reading that book yet?
 - The construction work will be finished next week.
 
-392. done => hecho
+392. done(dʌn) => hecho
 - I'm done with my presentation.
 - Well done! You passed the exam.
 - What's done is done, let's move forward.
 
-393. donate => donar
+393. donate(dəʊˈneɪt) => donar
 - Many people donate money to help disaster victims.
 - You can donate old clothes to the charity shop.
 - He decided to donate blood at the local hospital.
