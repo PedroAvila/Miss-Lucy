@@ -1866,7 +1866,7 @@
 - Corporal punishment is not acceptable in any professional environment.
 - Yoga helps with corporal awareness and stress reduction.
 
-374. left => izquierda/salí 
+374. left(lɛft) => izquierda/salí 
 - Turn left at the traffic light; the office is the third building.
 - She left the meeting early because of a personal emergency.
 - There are three tasks left in the sprint backlog—let's prioritize.
