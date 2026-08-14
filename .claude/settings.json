@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NF' \"palabras-ingles/vocabulary.txt\")",
+      "Bash(shuf -n 8)"
+    ]
+  }
+}
