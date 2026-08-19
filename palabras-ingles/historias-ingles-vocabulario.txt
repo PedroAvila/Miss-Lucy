@@ -2191,11 +2191,21 @@
 - The baby laughed when I tickled his belly.
 - Penguins have a white belly and a black back.
 
-
-
-
-
-
-
-
-
+439. belt => cinturón
+440. view => opinión/parecer
+441. nagging => rezongón/gruñón
+442. below => debajo de 
+443. breathtaking => imponente/impresionante
+444. consent => concentimiento
+445. underpaid => mal pagado 
+446. concerned => preocupado 
+447. trudge => caminar con dificultad 
+448. building => construcción
+449. build => contruir
+450. launch => lanzamiento
+451. under => de bajo
+452. scopes => examinar algo
+453. purchase => adquirir
+454. discourse => discurso 
+455. discovered => descubierto 
+456. amount => cantidad 
