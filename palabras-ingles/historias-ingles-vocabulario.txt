@@ -2191,11 +2191,31 @@
 - The baby laughed when I tickled his belly.
 - Penguins have a white belly and a black back.
 
-439. belt => cinturón
-440. view => opinión/parecer
-441. nagging => rezongón/gruñón
-442. below => debajo de 
-443. breathtaking => imponente/impresionante
+439. belt(bɛlt) => cinturón
+- Could you fasten your seat belt, please
+- She wore a smart black leather belt with her trousers for the office.
+- He tightened his belt after deciding to save more money for his trip to Estonia.
+
+440. view(vjuː) => opinión/parecer
+- In my view, we should refactor the code before adding any new features.
+- What are your views on remote working for software developers?
+- He made his views on the new project management tool perfectly clear during the meeting.
+
+441. nagging(ˈnæɡɪŋ) => rezongón/gruñón
+- Stop being so nagging about the washing up; I’ll do it in a minute!
+- I have a nagging feeling that we’ve forgotten to back up the database.
+- She ignored the nagging pain in her shoulder and carried on with her workout.
+
+442. below(bɪˈləʊ) => debajo de 
+- Please find the link to the GitHub repository in the email below.
+- The temperature dropped well below freezing last night in London.
+- As mentioned below, the API response time must be under 200 milliseconds.
+
+443. breathtaking(ˈbrɛθˌteɪkɪŋ) => imponente/impresionante
+- The view from the top of the Scottish Highlands is absolutely breathtaking.
+- She delivered a breathtaking presentation that impressed all the senior stakeholders.
+- We took a walk along the coast and enjoyed the breathtaking scenery.
+
 444. consent => concentimiento
 445. underpaid => mal pagado 
 446. concerned => preocupado 
