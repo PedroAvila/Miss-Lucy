@@ -1685,6 +1685,7 @@ shine => brillar
 happen => suceder/ocurrir/pasar
 loyalty => lealtad/fidelidad
 sorry => lo siento, perdón 
+nature => naturaleza
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante

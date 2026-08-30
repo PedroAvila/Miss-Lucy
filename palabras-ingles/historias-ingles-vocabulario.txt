@@ -2216,12 +2216,36 @@
 - She delivered a breathtaking presentation that impressed all the senior stakeholders.
 - We took a walk along the coast and enjoyed the breathtaking scenery.
 
-444. consent => concentimiento
-445. underpaid => mal pagado 
-446. concerned => preocupado 
+444. consent(kənˈsɛnt) => concentimiento
+- The patient must give written consent before the surgery can begin.
+- Her parents refused to consent to her moving to another country.
+- We cannot share your personal data without your explicit consent.
+
+445. underpaid(ˌʌndəˈpeɪd) => mal pagado 
+- Many teachers feel underpaid considering the extra hours they dedicate to grading and planning.
+- The employees went on strike because they felt they were severely underpaid and overworked.
+- She discovered she was underpaid compared to her colleagues with the same experience.
+
+446. concerned(kənˈsɜːnd) => preocupado 
+- The doctors are very concerned about the patient's sudden drop in blood pressure.
+- I am deeply concerned about the environmental impact of this new factory.
+- Her parents were concerned when she didn't return home before dark.
+
 447. trudge => caminar con dificultad 
+- It is exhausting to trudge through deep snow without proper boots.
+- After a long day of work, I just want to trudge home and sleep.
+- The tired hikers trudge up the final hill to reach the camp.
+
 448. building => construcción
+- The new office building is located right in the city center.
+- The building of the dam required a massive investment.
+- They had to evacuate the building immediately because of a fire alarm.
+
 449. build => contruir
+- We are going to build a wooden cabin in the forest next year.
+- It takes years of hard work and patience to build a successful business.
+- The workers will build the walls using red bricks.
+
 450. launch => lanzamiento
 451. under => de bajo
 452. scopes => examinar algo
