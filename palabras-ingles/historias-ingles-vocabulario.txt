@@ -2231,25 +2231,2207 @@
 - I am deeply concerned about the environmental impact of this new factory.
 - Her parents were concerned when she didn't return home before dark.
 
-447. trudge => caminar con dificultad 
+447. trudge(trʌʤ) => caminar con dificultad 
 - It is exhausting to trudge through deep snow without proper boots.
 - After a long day of work, I just want to trudge home and sleep.
 - The tired hikers trudge up the final hill to reach the camp.
 
-448. building => construcción
+448. building(ˈbɪldɪŋ) => construcción
 - The new office building is located right in the city center.
 - The building of the dam required a massive investment.
 - They had to evacuate the building immediately because of a fire alarm.
 
-449. build => contruir
+449. build(bɪld) => contruir
 - We are going to build a wooden cabin in the forest next year.
 - It takes years of hard work and patience to build a successful business.
 - The workers will build the walls using red bricks.
 
-450. launch => lanzamiento
-451. under => de bajo
-452. scopes => examinar algo
-453. purchase => adquirir
-454. discourse => discurso 
-455. discovered => descubierto 
-456. amount => cantidad 
+450. launch(lɔːnʧ) => lanzamiento
+- The company will launch its new product next month.
+- They decided to launch the rocket at dawn to avoid strong winds.
+- We need to launch the marketing campaign before the summer holidays.
+
+451. under(ˈʌndə) => de bajo
+- The cat is hiding under the sofa.
+- The project is under review by the senior developers.
+- Everything went smoothly under the new manager's guidance.
+
+452. scopes(skəʊps) => examinar algo
+- The doctor scopes the patient's throat to check for infection.
+- The consultant scopes out the requirements before writing the proposal.
+- Engineers first scopes the damage before starting the repairs.
+
+453. purchase(ˈpɜːʧəs) => adquirir
+- She decided to purchase a new laptop for university.
+- The company plans to purchase additional software licences next quarter.
+- It's wise to compare prices before you purchase anything expensive.
+
+454. discourse(ˈdɪskɔːs) => discurso
+- The professor gave a fascinating discourse on British history.
+- Political discourse in the country has become increasingly polarised.
+- Their discourse on climate change lasted well over an hour.
+
+455. discovered(dɪsˈkʌvəd) => descubierto
+- Scientists discovered a new species of fish in the deep ocean.
+- She discovered a bug in the code just before the deadline.
+- He discovered his passion for painting quite late in life.
+
+456. amount(əˈmaʊnt) => cantidad
+- The amount of rain we had last week was unusual for this time of year.
+- Please transfer the full amount by the end of the month.
+- A small amount of sugar is enough to sweeten the tea.
+
+457. mountain(ˈmaʊntɪn) => montaña
+- We spent the weekend hiking in the mountains of Wales.
+- The village sits at the foot of a huge mountain.
+- Climbing that mountain takes at least six hours.
+
+458. mouth(maʊθ) => boca
+- She covered her mouth when she yawned.
+- The river mouth opens into the North Sea.
+- Don't talk with your mouth full.
+
+459. provide(prəˈvaɪd) => suministrar/proveer
+- The company will provide training for all new employees.
+- This report should provide enough evidence to support our decision.
+- Local farms provide fresh vegetables to the market every week.
+
+460. wonder(ˈwʌndə) => preguntarse
+- I wonder whether the meeting will finish on time.
+- She looked at the old house and wondered who used to live there.
+- We often wonder what the future of remote work will look like.
+
+461. hard-wearing(ˌhɑːdˈwɛərɪŋ) => resistente
+- These boots are hard-wearing enough for a long hiking trip.
+- We chose a hard-wearing carpet because of the children.
+- The fabric is hard-wearing and doesn't fade in the sun.
+
+462. axis(ˈæksɪs) => eje
+- The Earth rotates on its axis once every 24 hours.
+- The graph's vertical axis shows the number of sales per month.
+- The wheel spins smoothly around its central axis.
+
+463. skater(ˈskeɪtə) => patinador
+- The young skater practised her jumps every morning before school.
+- A skilled skater glided effortlessly across the ice.
+- The park is popular with skaters at the weekend.
+
+464. keeping(ˈkiːpɪŋ) => mantener
+- Keeping the code clean makes it easier to maintain later.
+- She's responsible for keeping the accounts up to date.
+- Keeping fit requires regular exercise and a balanced diet.
+
+465. track(træk) => vía
+- The train slowed down as it approached the old track.
+- We lost track of time while chatting in the café.
+- The dog followed the track left by the fox.
+
+466. right(raɪt) => correcto, exacto
+- You're absolutely right about the deadline being too tight.
+- Turn right at the next junction to reach the office.
+- I want to make sure I get this right the first time.
+
+467. comparison(kəmˈpærɪsən) => comparación
+- In comparison with last year, sales have increased significantly.
+- The report makes a detailed comparison between the two systems.
+- There's no comparison between homemade bread and shop-bought bread.
+
+468. mate(meɪt) => compañero/colega/amigo/tío
+- My mate from university is visiting London this weekend.
+- Thanks for the help, mate, I really appreciate it.
+- He's been my best mate since primary school.
+
+469. yeah(jɛə) => sí
+- Yeah, I'll send you the file this afternoon.
+- Yeah, that sounds like a great idea to me.
+- "Are you coming to the pub?" "Yeah, sure."
+
+470. cold(kəʊld) => frío
+- It's freezing cold outside, so wear a warm coat.
+- I've caught a cold and can't stop sneezing.
+- The soup went cold while we were talking.
+
+471. weak(wiːk) => débil
+- After the illness, he felt weak for several weeks.
+- The signal is too weak to load the page.
+- Her argument was weak and unconvincing.
+
+472. greet(griːt) => saludar/recibir
+- The manager greeted every new employee personally.
+- She greeted us warmly at the door.
+- It's polite to greet your colleagues in the morning.
+
+473. privileged(ˈprɪvɪlɪʤd) => privilegiado/honrado
+- I feel privileged to have worked with such a talented team.
+- Not everyone is privileged enough to travel abroad every year.
+- We were privileged to attend the exclusive product launch.
+
+474. legendary(ˈlɛʤəndəri) => legendario
+- The legendary musician performed live for the last time in 1998.
+- His generosity has become almost legendary in the village.
+- The team's legendary comeback is still talked about today.
+
+475. private(ˈpraɪvɪt) => privado/particular
+- This is a private matter, so please keep it confidential.
+- She attended a private school in the countryside.
+- The garden behind the house is completely private.
+
+476. agree(əˈgriː) => estar de acuerdo/ponerse de acuerdo
+- I agree with your assessment of the situation.
+- We couldn't agree on where to go for dinner.
+- Do you agree that the new policy is fair?
+
+477. saying(ˈseɪɪŋ) => dicho, refrán
+- There's an old saying that time heals all wounds.
+- What are you saying about the new schedule?
+- My grandmother had a saying for every occasion.
+
+478. holiday(ˈhɒlɪdeɪ) => vacaciones/fiesta/festividad
+- We're planning a family holiday to Portugal this summer.
+- Christmas is my favourite holiday of the year.
+- She's on holiday until the end of the month.
+
+479. highlight(ˈhaɪlaɪt) => destacar
+- Let me highlight the most important points of the proposal.
+- The presentation will highlight our achievements from last year.
+- Use a yellow pen to highlight the key words.
+
+480. holy(ˈhəʊli) => sagrado/santo
+- The cathedral is considered a holy place by many visitors.
+- They travelled to Jerusalem to visit the holy sites.
+- The ceremony took place on a holy day in the calendar.
+
+481. grab(græb) => coger/agarrar
+- Could you grab my jacket from the hallway, please?
+- Let's grab a coffee before the meeting starts.
+- She grabbed the handrail to avoid slipping on the ice.
+
+482. light(laɪt) => luz/ligero/claro
+- Could you turn on the light? It's getting dark.
+- The bag is surprisingly light considering how much it holds.
+- She prefers light colours for the living room.
+
+483. survey(ˈsɜːveɪ) => encuesta
+- The company sent out a survey to gather customer feedback.
+- According to the survey, most users prefer the new interface.
+- We conducted a survey to understand employee satisfaction.
+
+484. weather(ˈwɛðə) => tiempo
+- The weather has been unusually warm this autumn.
+- Check the weather forecast before you leave for the trip.
+- Bad weather delayed the flight by two hours.
+
+485. loan(ləʊn) => préstamo
+- They took out a loan to buy their first flat.
+- The bank approved the business loan last week.
+- She's still paying off her student loan.
+
+486. may(meɪ) => poder
+- It may rain later, so bring an umbrella.
+- You may leave early if you finish your work.
+- This medicine may cause drowsiness in some people.
+
+487. untrustable(ʌnˈtrʌstəbəl) => poco fiable
+- The source seemed untrustable, so we double-checked the data.
+- His shifty behaviour made him seem untrustable to the others.
+- We avoided the untrustable supplier after several late deliveries.
+
+488. trust(trʌst) => confiar en/confiar
+- I trust you to handle this project on your own.
+- It takes years to build trust between colleagues.
+- She doesn't trust strangers easily.
+
+489. powerful(ˈpaʊəfʊl) => poderoso/potente/fuerte
+- The new engine is far more powerful than the old one.
+- She gave a powerful speech that moved the whole audience.
+- He's one of the most powerful figures in the industry.
+
+490. roommate(ˈruːmˌmeɪt) => compañero
+- My roommate and I split the rent equally.
+- I get on really well with my new roommate.
+- We've been roommates since our first year at university.
+
+491. room(ruːm) => habitación/cuarto
+- There's plenty of room in the back of the car.
+- Please tidy your room before dinner.
+- We booked a room with a view of the sea.
+
+492. same(seɪm) => el mismo
+- We ordered the same dish last time we came here.
+- Both brothers went to the same school.
+- It's the same problem we had last month.
+
+493. tarnish(ˈtɑːnɪʃ) => empañar/manchar
+- The scandal could tarnish the company's reputation for years.
+- Silver tends to tarnish if it isn't polished regularly.
+- One bad decision shouldn't tarnish his entire career.
+
+494. easy(ˈiːzi) => fácil
+- This exercise is easy once you understand the pattern.
+- It's not easy to learn a new language as an adult.
+- Take it easy, we have plenty of time.
+
+495. at least(æt liːst) => al menos
+- It will take at least three days to finish the report.
+- At least we made it home before the storm.
+- You should drink at least two litres of water a day.
+
+496. caught(kɔːt) => atrapado
+- The police caught the thief just outside the shop.
+- I caught a cold after walking in the rain.
+- She caught the last train home.
+
+497. cautionary(ˈkɔːʃənəri) => aleccionador/con moraleja
+- The teacher told a cautionary tale about the dangers of gossip.
+- His failed business is often used as a cautionary example.
+- The film serves as a cautionary reminder about online privacy.
+
+498. grow(grəʊ) => crecer
+- These tomatoes grow really well in a sunny garden.
+- The company has grown rapidly over the past five years.
+- Children grow so quickly in their first few years.
+
+499. colorful(ˈkʌləfʊl) => colorido
+- The market was full of colourful fruit and vegetables.
+- The parade featured colourful costumes and loud music.
+- Her paintings are known for their colourful, bold style.
+
+500. cake(keɪk) => pastel/bizcocho
+- She baked a chocolate cake for his birthday.
+- Would you like a slice of cake with your tea?
+- The recipe calls for three eggs to make the cake.
+
+501. vintage(ˈvɪntɪʤ) => clásico/antiguo/añejo
+- She collects vintage clothes from the 1960s.
+- This is a vintage wine from a very good year.
+- He drives a beautifully restored vintage car.
+
+502. chest(ʧɛst) => pecho/baúl/cofre
+- He felt a sharp pain in his chest after running.
+- The old wooden chest was full of family photographs.
+- She keeps her jewellery in a small chest by the bed.
+
+503. growth(grəʊθ) => crecimiento
+- The company reported strong growth in the last quarter.
+- Regular watering encourages healthy plant growth.
+- Economic growth slowed down during the recession.
+
+504. lantern(ˈlæntən) => farol/linterna
+- They hung paper lanterns around the garden for the party.
+- The old lantern flickered in the evening breeze.
+- We used a lantern to light our way through the cave.
+
+505. quarter(ˈkwɔːtə) => cuarto/trimestre
+- Profits increased significantly in the last quarter.
+- Cut the apple into a quarter and share it.
+- The meeting starts at a quarter past nine.
+
+506. pumpkin(ˈpʌmpkɪn) => calabaza
+- We carved a pumpkin for Halloween last night.
+- Pumpkin soup is perfect for a cold autumn evening.
+- The farmer grows enormous pumpkins every year.
+
+507. movie(ˈmuːvi) => película
+- We watched a great movie at the cinema last night.
+- The movie received excellent reviews from critics.
+- We stayed in and watched a movie on Saturday night.
+
+508. grown-up(ˈgrəʊn ʌp) => adulto
+- She's a grown-up now and lives on her own.
+- The children were asked to behave like grown-ups.
+- He still acts like a child, even though he's a grown-up.
+
+509. hear(hɪə) => oír/escuchar
+- I couldn't hear you over the noise of the traffic.
+- Did you hear the news about the new office?
+- She was delighted to hear that she'd got the job.
+
+510. setting(ˈsɛtɪŋ) => entorno/configuración
+- The novel's setting is a small coastal town in Cornwall.
+- You can change the setting in the app's menu.
+- The wedding took place in a beautiful garden setting.
+
+511. heart(hɑːt) => corazón
+- Her heart raced as she waited for the results.
+- He has a good heart and always helps others.
+- The doctor listened carefully to her heart.
+
+512. hearty(ˈhɑːti) => caluroso/fuerte
+- After the hike, we enjoyed a hearty breakfast at the pub.
+- They gave us a hearty welcome when we arrived.
+- He has a hearty laugh that fills the room.
+
+513. predominate(prɪˈdɒmɪneɪt) => predominar/ejercer/primacía
+- Small businesses predominate in this part of the city.
+- Blue and grey tones predominate in her paintings.
+- Traditional farming methods still predominate in the region.
+
+514. heave(hiːv) => levantar/mover
+- The workers had to heave the heavy crate onto the truck.
+- She heaved a sigh of relief when the exam was over.
+- They heaved the boat onto the shore together.
+
+515. hew(hjuː) => extraer/tallar/labrar
+- The statue was hewn from a single block of marble.
+- Workers used to hew stone by hand before modern tools existed.
+- The path was hewn out of the rock centuries ago.
+
+516. tall(tɔːl) => alto
+- The building is one of the tallest in the city.
+- He's grown quite tall for his age.
+- She ordered a tall coffee to go.
+
+517. hide(haɪd) => esconder/esconderse
+- The children hid behind the sofa to surprise their dad.
+- She tried to hide her disappointment after the interview.
+- We used to hide our savings under the mattress.
+
+518. hit(hɪt) => pegar/golpear
+- The ball hit the window and broke it.
+- His new single hit the top of the charts.
+- She hit the brakes just in time to avoid the dog.
+
+519. climb(klaɪm) => entrar/salir
+- We climbed through the window because we'd lost the key.
+- It took hours to climb to the top of the hill.
+- Prices have started to climb again this month.
+
+520. foam(fəʊm) => espuma/espumar
+- The waves left a thin layer of foam on the sand.
+- The coffee machine adds foam to every cappuccino.
+- The mattress is made of memory foam.
+
+521. hold(həʊld) => sostener/coger
+- Could you hold the door open for me, please?
+- She held the baby gently in her arms.
+- The meeting will hold everyone's attention for an hour.
+
+522. pudding(ˈpʊdɪŋ) => postre
+- We had sticky toffee pudding for dessert.
+- What's for pudding tonight?
+- She made a delicious rice pudding for the family.
+
+523. hurt(hɜːt) => herir/ofender
+- His harsh comment really hurt her feelings.
+- I hurt my ankle while playing football.
+- It doesn't hurt to ask for help.
+
+524. kneel(niːl) => arrodillarse
+- He knelt down to tie his shoelaces.
+- She knelt beside the injured dog to comfort it.
+- The gardener knelt on the grass to plant the seeds.
+
+525. knit(nɪt) => tejer, hacer punto
+- My grandmother taught me how to knit a scarf.
+- She knits jumpers for the whole family every winter.
+- The community group meets weekly to knit blankets for charity.
+
+526. know(nəʊ) => saber
+- I don't know the answer to that question.
+- Do you know what time the shop closes?
+- She knows this city better than anyone.
+
+527. lean(liːn) => inclinar/inclinarse
+- Don't lean against the wet paint.
+- He leaned forward to hear her better.
+- The company is trying to lean towards more sustainable practices.
+
+528. stay(steɪ) => quedarse/permanecer
+- We decided to stay at home this weekend.
+- Please stay calm during the fire drill.
+- They stayed in a small hotel near the beach.
+
+529. unpredictable(ˌʌnprɪˈdɪktəbəl) => impredecible
+- British weather is famously unpredictable.
+- His mood can be quite unpredictable at times.
+- The market has become increasingly unpredictable this year.
+
+530. rain(reɪn) => lluvia
+- It's supposed to rain heavily this afternoon.
+- We got soaked because we forgot our umbrellas in the rain.
+- The garden needs some rain after this dry spell.
+
+531. raincoat(ˈreɪnkəʊt) => impermeable
+- Always carry a raincoat when you visit Scotland.
+- She wore a bright yellow raincoat to work.
+- The raincoat kept me dry during the sudden downpour.
+
+532. struggle(ˈstrʌgəl) => pelear/forcejear
+- Many students struggle with maths at first.
+- She struggled to open the heavy door.
+- The company is struggling to keep up with demand.
+
+533. rugged(ˈrʌgɪd) => escabroso/agreste/accidentado
+- The rugged coastline of Cornwall attracts many walkers.
+- He wore rugged boots suitable for mountain trails.
+- The rugged terrain made the journey slow and difficult.
+
+534. sad(sæd) => triste
+- She felt sad after saying goodbye to her friends.
+- It's a sad story, but it has an important message.
+- He looked sad when he heard the news.
+
+535. wealthy(ˈwɛlθi) => adinerado/rico
+- The wealthy businessman donated millions to charity.
+- They grew up in a wealthy neighbourhood.
+- Not everyone who is wealthy is happy.
+
+536. tried(traɪd) => intentar
+- I tried to call you three times yesterday.
+- She tried her best but couldn't finish in time.
+- We tried a new restaurant last night and loved it.
+
+537. learning(ˈlɜːnɪŋ) => aprendizaje
+- Learning a new language takes time and patience.
+- The school focuses on lifelong learning skills.
+- She's been learning to code for six months.
+
+538. blanket(ˈblæŋkɪt) => cubrir
+- Snow blanketed the whole village overnight.
+- She wrapped the baby in a warm blanket.
+- Fog blanketed the city this morning.
+
+539. improve(ɪmˈpruːv) => mejorar
+- Regular practice will improve your pronunciation.
+- The company aims to improve customer service this year.
+- His grades improved a lot after he changed his study habits.
+
+540. myself(maɪˈsɛlf) => me/para mí mismo/yo mismo
+- I taught myself how to play the guitar.
+- I blame myself for missing the deadline.
+- I'll do it myself, thank you.
+
+541. grandpa(ˈgrænpɑː) => abuelo
+- My grandpa tells the best stories about his childhood.
+- We visit grandpa every Sunday for lunch.
+- Grandpa still works in the garden every morning.
+
+542. look like(lʊk laɪk) => parecerse a/parecer que
+- She looks like her mother when she smiles.
+- It looks like it's going to rain.
+- What does the new office look like?
+
+543. rude(ruːd) => grosero/mal educado
+- It's rude to interrupt someone while they're speaking.
+- The waiter was rude to us for no reason.
+- I didn't mean to sound rude in my email.
+
+544. target(ˈtɑːgɪt) => blanco/objetivo
+- The team met its sales target this quarter.
+- Young adults are the main target of this campaign.
+- He set himself a target of running five kilometres a day.
+
+545. wait(weɪt) => esperar
+- We had to wait an hour for the bus.
+- I can't wait to see you again.
+- Please wait here until your name is called.
+
+546. ensure(ɪnˈʃʊə) => asegurar/garantizar
+- We need to ensure that the data is accurate before sending it.
+- The manager ensured everyone understood the new procedure.
+- Please ensure the doors are locked before you leave.
+
+547. leap(liːp) => saltar
+- The cat leapt onto the kitchen counter.
+- Moving abroad was a big leap of faith for them.
+- Sales made a huge leap after the advertising campaign.
+
+548. learn(lɜːn) => aprender
+- She's trying to learn Spanish before her trip.
+- We learn something new every day at this job.
+- He learned to swim when he was five.
+
+549. realized(ˈrɪəlaɪzd) => darse cuenta/realizar/alcanzar
+- I realised I'd left my keys at the office.
+- She realised her dream of becoming a doctor.
+- We realised the mistake too late to fix it.
+
+550. retrieve(rɪˈtriːv) => recuperar
+- The IT team managed to retrieve the deleted files.
+- The dog was trained to retrieve the ball.
+- She went back to retrieve her forgotten umbrella.
+
+551. delay(dɪˈleɪ) => aplazar/retrasar
+- The flight was delayed due to bad weather.
+- We shouldn't delay the decision any longer.
+- There's been a delay in the delivery of the parts.
+
+552. certain(ˈsɜːtn) => seguro
+- I'm certain we've met before somewhere.
+- Under certain conditions, the offer may change.
+- She wasn't certain whether to accept the job.
+
+553. bonfire(ˈbɒnfaɪə) => hoguera
+- We gathered around the bonfire to keep warm.
+- Bonfire Night is celebrated every fifth of November in Britain.
+- The children roasted marshmallows over the bonfire.
+
+554. fallen(ˈfɔːlən) => caído
+- Leaves had fallen all over the garden path.
+- The fallen tree blocked the road for hours.
+- Prices have fallen sharply this month.
+
+555. leave(liːv) => salir/irse
+- I usually leave the house at eight o'clock.
+- She decided to leave her job to start her own business.
+- Don't leave without saying goodbye.
+
+556. leaves(liːvz) => hojas
+- Autumn leaves covered the entire pavement.
+- The tree lost most of its leaves after the storm.
+- She collected colourful leaves for her art project.
+
+557. broad(brɔːd) => ancho/amplio
+- He has broad shoulders from years of swimming.
+- The report covers a broad range of topics.
+- We're looking for a broad audience for this campaign.
+
+558. road(rəʊd) => carretera/calle/camino
+- The road was closed because of roadworks.
+- We drove along a narrow country road.
+- Be careful crossing the road at night.
+
+559. across(əˈkrɒs) => de un lado a otro
+- The bridge stretches across the entire river.
+- She walked across the room to answer the phone.
+- The news spread quickly across the whole company.
+
+560. trouble(ˈtrʌbəl) => problemas
+- He's in trouble for arriving late every day.
+- I had trouble finding a parking space this morning.
+- Let me know if you have any trouble with the software.
+
+561. trough(trɒf) => zamparse/comedero/canal
+- The pigs gathered around the trough at feeding time.
+- A trough of low pressure is bringing heavy rain this week.
+- Farmers filled the trough with fresh water for the cattle.
+
+562. ago(əˈgəʊ) => hace/atrás
+- We moved to this city three years ago.
+- I saw her just a few minutes ago.
+- The company was founded a decade ago.
+
+563. quickly(ˈkwɪkli) => rápidamente/deprisa
+- She finished the report quickly before the deadline.
+- Please reply as quickly as possible.
+- The situation changed quickly after the announcement.
+
+564. pop up(pɒp ʌp) => aparecer de repente/saltar/surgir
+- A new problem always seems to pop up at the worst time.
+- An advert popped up on the screen while I was reading.
+- She just popped up at the office without warning.
+
+565. ahead(əˈhɛd) => delante, por delante
+- Plan ahead so you're not rushing at the last minute.
+- She walked ahead of the group to check the path.
+- We're slightly ahead of schedule on this project.
+
+566. caring(ˈkeərɪŋ) => bondadoso/generoso/atento
+- She's a caring nurse who always listens to her patients.
+- His caring nature made him popular with everyone at work.
+- They created a caring environment for the new employees.
+
+567. dangerous(ˈdeɪnʤərəs) => peligroso
+- Swimming in that river is extremely dangerous.
+- It's dangerous to text while driving.
+- The road becomes dangerous when it's icy.
+
+568. anger(ˈæŋgə) => enfadar
+- His comment angered several members of the team.
+- She struggled to control her anger during the argument.
+- The decision angered many long-term customers.
+
+569. unlock(ʌnˈlɒk) => abrir
+- Use your fingerprint to unlock the phone.
+- She unlocked the door and let us in.
+- Completing this level will unlock a new feature.
+
+570. unless(ʌnˈlɛs) => a menos que
+- We won't leave unless it stops raining.
+- Unless something changes, the meeting will go ahead as planned.
+- You can't enter unless you have a valid ticket.
+
+571. iron(ˈaɪən) => hierro
+- The bridge is made of solid iron.
+- She ironed her shirt before the interview.
+- Spinach is a good source of iron.
+
+572. lock(lɒk) => cerradura
+- We had to change the lock after losing the keys.
+- Please lock the door when you leave.
+- The lock on the gate was rusty and hard to open.
+
+573. locked(lɒkt) => bloqueado/cerrado con llave
+- The door was locked, so we couldn't get in.
+- I locked myself out of the house this morning.
+- The files are locked and require a password.
+
+574. flock(flɒk) => rebaño/bandada
+- A flock of birds flew over the field at sunset.
+- The shepherd guided his flock across the hill.
+- Tourists flock to the coast every summer.
+
+575. ride(raɪd) => montar
+- We went for a bike ride along the river.
+- She learned to ride a horse when she was young.
+- Can you give me a ride to the station?
+
+576. cup(kʌp) => taza
+- Would you like a cup of tea?
+- He knocked over his cup of coffee by accident.
+- She kept a cup of pens on her desk.
+
+577. sip(sɪp) => sorber/beber a sorbos/sorbo
+- She took a small sip of her hot tea.
+- He sipped his coffee slowly while reading the newspaper.
+- We sat by the fire, sipping wine and chatting.
+
+578. grazing(ˈgreɪzɪŋ) => pastoreo
+- The sheep were grazing peacefully in the field.
+- Cattle grazing on the hillside is a common sight here.
+- The horses spent the afternoon grazing near the river.
+
+579. stomach(ˈstʌmək) => estómago/vientre/barriga
+- I had an upset stomach after eating too fast.
+- She felt butterflies in her stomach before the interview.
+- Don't exercise on a full stomach.
+
+580. worry(ˈwʌri) => preocuparse
+- Don't worry, everything will be fine.
+- She worries too much about small details.
+- There's no need to worry about the deadline yet.
+
+581. lots(lɒts) => mucho
+- We have lots of work to finish before Friday.
+- There were lots of people at the concert.
+- Thanks lots for helping me move house.
+
+582. latte(ˈlɑːteɪ) => café con leche
+- I'll have a latte with oat milk, please.
+- She grabbed a latte on her way to the office.
+- The café makes the best latte in town.
+
+583. anything(ˈɛniθɪŋ) => cualquier cosa
+- Is there anything I can do to help?
+- She didn't say anything during the meeting.
+- You can order anything from the menu.
+
+584. field(fiːld) => campo/prado
+- The cows were grazing peacefully in the field.
+- She works in the field of software engineering.
+- We walked through a field of golden wheat.
+
+585. heated(ˈhiːtɪd) => climatizado/térmico
+- The pool is heated even in winter.
+- The debate became quite heated towards the end.
+- We rented a cottage with a heated swimming pool.
+
+586. else(ɛls) => si no
+- Who else is coming to the party?
+- Hurry up, else we'll miss the train.
+- Is there anything else you need?
+
+587. brownie(ˈbraʊni) => bizcocho de chocolate
+- She baked a batch of chocolate brownies for the fair.
+- I'll have a brownie with my coffee, please.
+- The brownies were still warm when we took them out of the oven.
+
+588. croissant(ˈkwɑːsɒ̃) => media luna
+- We had fresh croissants for breakfast in Paris.
+- The bakery sells the best almond croissants in the city.
+- He grabbed a croissant on his way to work.
+
+589. stream(striːm) => corriente
+- We crossed a small stream on our walk through the woods.
+- The concert will stream live on the internet.
+- A steady stream of customers came into the shop all morning.
+
+590. stretch(strɛʧ) => estirar/alargar
+- Remember to stretch before you go for a run.
+- The road stretches for miles across the countryside.
+- We can stretch the budget a little if needed.
+
+591. remain(rɪˈmeɪn) => permanecer/quedarse
+- Please remain seated until the plane has stopped.
+- Several questions remain unanswered.
+- She remained calm throughout the crisis.
+
+592. listen(ˈlɪsən) => escuchar
+- Please listen carefully to the instructions.
+- He likes to listen to podcasts on his way to work.
+- She always listens patiently to her colleagues' concerns.
+
+593. reasoning(ˈriːzənɪŋ) => razonamiento/lógica
+- I don't quite follow your reasoning here.
+- Her reasoning behind the decision was solid.
+- The scientist explained his reasoning step by step.
+
+594. fine(faɪn) => bien
+- I'm fine, thanks for asking.
+- We had a fine time at the seaside.
+- She had to pay a fine for parking illegally.
+
+595. theater(ˈθɪətə) => cine
+- We went to the theatre to watch a play last night.
+- The old theatre in town was recently renovated.
+- She trained as an actress at drama theatre school.
+
+596. opposing(əˈpəʊzɪŋ) => contrario/enemigo
+- The two teams lined up on opposing sides of the pitch.
+- She has strong opposing views on the new policy.
+- The lawyer presented arguments against the opposing side.
+
+597. freezing(ˈfriːzɪŋ) => muy frío/congelado
+- It's absolutely freezing outside this morning.
+- The lake was completely freezing over by December.
+- Put the leftovers in the freezer before they start freezing.
+
+598. heater(ˈhiːtə) => calentador
+- Turn on the heater, it's cold in here.
+- The water heater broke down last week.
+- We bought a small heater for the office.
+
+599. pipeline(ˈpaɪplaɪn) => conducto
+- The new oil pipeline stretches across three countries.
+- We have several projects in the pipeline for next year.
+- Engineers repaired the broken pipeline within a day.
+
+600. heating(ˈhiːtɪŋ) => calentamiento
+- The central heating broke down during the coldest week of the year.
+- We need to turn the heating on earlier this autumn.
+- Global heating is affecting weather patterns worldwide.
+
+601. hard(hɑːd) => duro
+- This exam was harder than I expected.
+- He works hard every day to support his family.
+- The bench felt hard and uncomfortable.
+
+602. fun(fʌn) => diversión
+- We had so much fun at the beach yesterday.
+- Learning a new language can be fun if you enjoy the process.
+- It's not much fun working overtime every weekend.
+
+603. trip(trɪp) => viaje/excursión/salida
+- We're planning a trip to the Lake District in June.
+- The school organised a trip to the science museum.
+- I tripped over the rug and nearly fell.
+
+604. spell(spɛl) => deletrear
+- Can you spell your surname for me, please?
+- She always struggled to spell difficult words.
+- We're going through a rainy spell at the moment.
+
+605. reasons(ˈriːzənz) => razones
+- She gave several reasons for leaving her job.
+- There are many reasons why the project was delayed.
+- For personal reasons, he decided not to attend.
+
+606. ugly(ˈʌgli) => feo
+- The old building looked ugly compared to the new one.
+- It was an ugly argument that upset everyone.
+- He admitted the design was a bit ugly at first.
+
+607. third(θɜːd) => tercero
+- This is the third time she's asked me the same question.
+- We finished third in the competition.
+- A third of the staff work from home.
+
+608. floor(flɔː) => suelo/piso
+- Please wipe your feet before stepping onto the floor.
+- Our office is on the third floor.
+- She dropped the plate and it smashed on the floor.
+
+609. fluency(ˈfluːənsi) => fluidez/soltura/dominio
+- Years of practice gave her real fluency in French.
+- His fluency in English improved after living in London.
+- The course aims to build fluency through daily conversation.
+
+610. lift(lɪft) => levantar
+- Could you help me lift this box? It's heavy.
+- We took the lift up to the fifth floor.
+- The good news gave everyone's mood a lift.
+
+611. pale(peɪl) => pálido
+- She looked pale after the long flight.
+- He painted the walls a pale shade of blue.
+- The patient turned pale and had to sit down.
+
+612. wire(waɪə) => alambre/cable
+- Be careful, that wire is still live.
+- She fixed the lamp by replacing the broken wire.
+- The fence is made of thin metal wire.
+
+613. lamb(læm) => cordero
+- We had roast lamb for Sunday dinner.
+- The farmer's field was full of newborn lambs in spring.
+- Lamb chops are a popular dish in British cuisine.
+
+614. means(miːnz) => medio/manera
+- Email is the quickest means of contacting her.
+- We'll find a means to solve this problem.
+- Public transport is the main means of getting around the city.
+
+615. asleep(əˈsliːp) => dormido
+- The baby finally fell asleep after an hour of crying.
+- She was fast asleep by the time we got home.
+- He dozed off asleep during the long meeting.
+
+616. drawing(ˈdrɔːɪŋ) => dibujo/dibujar
+- The children spent the afternoon drawing pictures of animals.
+- Her drawing skills have really improved this year.
+- The architect showed us the drawing of the new building.
+
+617. cinderella(ˌsɪndəˈrɛlə) => cenicienta
+- The children performed a play based on Cinderella.
+- Her rise from intern to director was a real Cinderella story.
+- We watched the classic Cinderella film together.
+
+618. strength(strɛŋθ) => fuerza/fortaleza
+- It takes strength and patience to run a marathon.
+- One of her greatest strengths is communication.
+- The bridge was built to withstand enormous strength.
+
+619. tale(teɪl) => cuento/fábula
+- She told the children an old folk tale before bed.
+- It's a classic tale of good versus evil.
+- The book is a collection of fairy tales.
+
+620. elder(ˈɛldə) => persona respetada por su edad/anciano/mayor
+- She's the elder of the two sisters.
+- The village elders gathered to discuss the harvest.
+- We should listen to the wisdom of our elders.
+
+621. flower(ˈflaʊə) => flor
+- He bought her a bunch of flowers for her birthday.
+- The garden is full of colourful flowers in spring.
+- She arranged the flowers beautifully in a vase.
+
+622. taught(tɔːt) => enseñó
+- My grandmother taught me how to bake bread.
+- He's taught English for over twenty years.
+- The experience taught us an important lesson.
+
+623. lower(ˈləʊə) => bajar
+- Please lower your voice, the baby is asleep.
+- The company decided to lower its prices this month.
+- She lowered herself carefully onto the chair.
+
+624. measly(ˈmiːzli) => miserable
+- He was paid a measly wage for all that work.
+- We only got a measly discount of five per cent.
+- It seems unfair to offer such a measly bonus.
+
+625. towards(təˈwɔːdz) => hacia
+- She walked towards the exit without saying a word.
+- We're working towards a common goal.
+- The company is moving towards a more flexible schedule.
+
+626. complex(ˈkɒmplɛks) => complejo
+- The instructions were far too complex to follow.
+- It's a complex issue with no easy solution.
+- The new shopping complex opened last month.
+
+627. square(skweə) => cuadrado
+- We met in the main square of the old town.
+- Cut the cake into small squares before serving.
+- The room is roughly square in shape.
+
+628. faced(feɪst) => de cara
+- The team faced several challenges during the project.
+- She faced her fears and gave the presentation.
+- The house is faced with red brick.
+
+629. vision(ˈvɪʒən) => imagen
+- The company has a clear vision for the future.
+- His vision started to blur after staring at the screen too long.
+- She shared her vision for the new product with the team.
+
+630. street(striːt) => calle
+- The market is held on the high street every Saturday.
+- We live on a quiet street near the park.
+- She crossed the street carefully.
+
+631. ghost(gəʊst) => fantasma
+- The children told ghost stories around the campfire.
+- Some people believe the old castle is haunted by a ghost.
+- He felt like a ghost, unnoticed by everyone at the party.
+
+632. fancy(ˈfænsi) => tener ganas de/sentirse atraído por
+- Do you fancy going for a walk later?
+- She fancies a career in graphic design.
+- It's a fancy restaurant, so dress smartly.
+
+633. leg(lɛg) => pierna
+- He broke his leg skiing last winter.
+- The table has one wobbly leg.
+- She stretched her legs after the long flight.
+
+634. piece(piːs) => pedazo/trozo
+- Could I have another piece of cake, please?
+- She wrote a beautiful piece of music for the wedding.
+- The report is missing an important piece of information.
+
+635. smile(smaɪl) => sonrisa
+- She greeted us with a warm smile.
+- His smile lit up the whole room.
+- Just smile for the camera, please.
+
+636. milestone(ˈmaɪlstəʊn) => hito
+- Turning thirty felt like an important milestone.
+- The project reached a major milestone this week.
+- Passing the driving test is a big milestone for teenagers.
+
+637. torch(tɔːʧ) => linterna/antorcha
+- Bring a torch, the path gets very dark at night.
+- The runner carried the Olympic torch through the town.
+- We used our phone torches to find the way back to the tent.
+
+638. song(sɒŋ) => canción
+- This song reminds me of our holiday in Spain.
+- She wrote a song about growing up in the countryside.
+- The birds sang a cheerful song outside my window.
+
+639. relay(ˈriːleɪ) => transmitir/retransmitir
+- The team won the relay race at school sports day.
+- The satellite relays signals across the whole country.
+- Please relay this message to the rest of the department.
+
+640. load(ləʊd) => cargar
+- The truck was carrying a heavy load of bricks.
+- Please load the dishwasher before you leave.
+- We have a load of paperwork to finish today.
+
+641. vibe(vaɪb) => ambiente/vibraciones
+- The café has a really relaxed vibe.
+- I get a good vibe from the new manager.
+- The party had a wonderful, friendly vibe.
+
+642. enable(ɪˈneɪbəl) => permitir
+- This setting will enable notifications on your phone.
+- The scholarship enabled her to study abroad.
+- Remote work enables employees to have more flexibility.
+
+643. camera(ˈkæmərə) => cámara
+- She bought a new camera for her trip to Japan.
+- The security camera recorded everything that happened.
+- Smile, the camera is rolling!
+
+644. floozy(ˈfluːzi) => mujerzuela
+- The old film portrayed her unfairly as a floozy.
+- It's an outdated and sexist word, so we avoid calling anyone a floozy.
+- The character was written as a stereotypical floozy in the 1950s script.
+
+645. cheering(ˈʧɪərɪŋ) => animado
+- The crowd was cheering loudly as the runners crossed the finish line.
+- Cheering fans filled the stadium before kick-off.
+- Her cheering words helped him feel better after the exam.
+
+646. cheers(ʧɪəz) => ¡salud!
+- Cheers! Let's toast to the new job.
+- Cheers for the lift home, I really appreciate it.
+- Everyone raised their glasses and said "cheers".
+
+647. cheerful(ˈʧɪəfʊl) => alegre
+- She's always so cheerful, even on a Monday morning.
+- The cheerful music made everyone want to dance.
+- His cheerful attitude made him popular with the whole team.
+
+648. hardworking(ˈhɑːdˌwɜːkɪŋ) => trabajador
+- She's one of the most hardworking employees in the office.
+- Hardworking farmers get up before dawn every day.
+- His hardworking attitude finally earned him a promotion.
+
+649. incredible(ɪnˈkrɛdəbəl) => increíble
+- The view from the top of the mountain was incredible.
+- She did an incredible job organising the whole event.
+- It's incredible how quickly technology changes.
+
+650. creative(kriˈeɪtɪv) => innovador/creativo
+- We need a more creative solution to this problem.
+- She works as a creative director for an advertising agency.
+- The children were encouraged to be creative during art class.
+
+651. bit(bɪt) => poco
+- Could you wait a bit? I'm almost ready.
+- She's a bit tired after the long journey.
+- We only have a small bit of the budget left.
+
+652. wild(waɪld) => desenfrenado/salvaje
+- Wild animals should never be kept as pets.
+- The party got a little wild towards the end of the night.
+- She has always had a wild imagination.
+
+653. dinner(ˈdɪnə) => cena/comida
+- We're having dinner with friends tonight.
+- What time is dinner usually served in your family?
+- She cooked a lovely dinner for the whole team.
+
+654. tone(təʊn) => tono/timbre
+- Please watch your tone when speaking to customers.
+- The email had a rather formal tone.
+- She changed her tone as soon as she heard the news.
+
+655. tonight(təˈnaɪt) => esta noche
+- Are you free for dinner tonight?
+- The match kicks off at eight tonight.
+- I'm too tired to go out tonight.
+
+656. nightmare(ˈnaɪtmeə) => pesadilla
+- She woke up from a terrible nightmare.
+- Commuting during rush hour is an absolute nightmare.
+- The whole project turned into a logistical nightmare.
+
+657. gonna(ˈgɒnə) => ir a
+- I'm gonna call you later tonight.
+- We're gonna be late if we don't leave now.
+- She's gonna love this surprise.
+
+658. luck(lʌk) => suerte
+- Good luck with your exam tomorrow!
+- We had no luck finding a parking space.
+- With a bit of luck, we'll finish early.
+
+659. amazing(əˈmeɪzɪŋ) => asombroso/increíble
+- The fireworks display was absolutely amazing.
+- She did an amazing job on the presentation.
+- It's amazing how much has changed in ten years.
+
+660. believe(bɪˈliːv) => creer
+- I can't believe how quickly the year has gone.
+- She believes in working hard and staying honest.
+- Do you believe what he told us yesterday?
+
+661. painting(ˈpeɪntɪŋ) => pintura/cuadro
+- The museum has a famous painting by a local artist.
+- She spent the weekend painting the fence.
+- His latest painting sold for a huge amount of money.
+
+662. pain(peɪn) => dolor
+- He felt a sharp pain in his back after lifting the box.
+- The medicine helped ease the pain quickly.
+- It was a pain having to redo the whole report.
+
+663. daily(ˈdeɪli) => diario
+- She goes for a daily walk before breakfast.
+- The newspaper is published daily.
+- Daily practice will help you learn faster.
+
+664. punishment(ˈpʌnɪʃmənt) => castigo
+- His punishment for being late was to stay behind after class.
+- The court decided the punishment was too harsh.
+- Losing the match felt like punishment enough.
+
+665. receipt(rɪˈsiːt) => recibo
+- Could I have a receipt for this purchase, please?
+- Keep your receipt in case you need to return the item.
+- She scanned the receipt to claim her expenses.
+
+666. receive(rɪˈsiːv) => recibir/captar
+- Did you receive my email from yesterday?
+- She was proud to receive an award for her research.
+- We should receive the delivery by Friday.
+
+667. pay(peɪ) => pagar
+- Could you pay for the tickets, and I'll pay you back later?
+- The company pays its staff on the last day of the month.
+- We need to pay the invoice before the end of the week.
+
+668. painful(ˈpeɪnfʊl) => doloroso
+- Twisting her ankle was extremely painful.
+- It was a painful decision to make, but necessary.
+- The memory of the accident is still painful for him.
+
+669. chance(ʧɑːns) => oportunidad
+- This is your only chance to fix the mistake.
+- There's a good chance it will rain later.
+- She took the chance to apply for the new role.
+
+670. departure(dɪˈpɑːʧə) => salida/partida
+- Please arrive two hours before departure.
+- Her sudden departure from the company surprised everyone.
+- The departure board showed a ten-minute delay.
+
+671. alive(əˈlaɪv) => vivo
+- We're just glad everyone is alive and well after the accident.
+- The old traditions are still very much alive in the village.
+- He felt truly alive after climbing the mountain.
+
+672. clap(klæp) => aplaudir
+- The audience began to clap as soon as the song ended.
+- She clapped her hands to get the children's attention.
+- Everyone clapped loudly for the winning team.
+
+673. awaken(əˈweɪkən) => despertar/despertarse
+- The loud thunder awakened everyone in the house.
+- The trip awakened her interest in photography.
+- He was awakened by the sound of birds singing.
+
+674. wake(weɪk) => despertar/despertarse
+- I usually wake up at six in the morning.
+- Please don't wake the baby.
+- The alarm didn't wake him up in time.
+
+675. truly(ˈtruːli) => de verdad/verdaderamente
+- We are truly grateful for your support.
+- She is truly one of the kindest people I know.
+- This is a truly remarkable achievement.
+
+676. truth(truːθ) => verdad
+- I want you to tell me the truth.
+- The truth eventually came out during the investigation.
+- There's some truth in what she said.
+
+677. blind(blaɪnd) => ciego
+- He has been blind since birth.
+- She was blind to her own mistakes.
+- Pull the blind down, the sun is too bright.
+
+678. practically(ˈpræktɪkəli) => prácticamente
+- We've practically finished the project already.
+- She's practically an expert on this subject now.
+- The plan is practically impossible to carry out.
+
+679. penny(ˈpɛni) => centavo
+- He found a penny on the pavement this morning.
+- Every penny counts when you're saving for a house.
+- She didn't have a penny left after the trip.
+
+680. practical(ˈpræktɪkəl) => práctico
+- We need a practical solution, not just theory.
+- She gave us some practical advice on job interviews.
+- These shoes are more practical for hiking.
+
+681. sort(sɔːt) => clase/tipo
+- What sort of music do you like?
+- Please sort the files by date.
+- We need to sort out this problem quickly.
+
+682. glass(glɑːs) => vidrio
+- Could I have a glass of water, please?
+- The window is made of thick safety glass.
+- She accidentally broke a glass while washing up.
+
+683. sorted(ˈsɔːtɪd) => arreglado/organizado
+- Don't worry, everything's sorted for the trip.
+- The documents are all sorted alphabetically.
+- We finally got the issue sorted this morning.
+
+684. thumb(θʌm) => pulgar
+- He hurt his thumb while fixing the shelf.
+- She gave a thumbs up to show her approval.
+- Hitchhikers used to stick out their thumb to catch a ride.
+
+685. lucky(ˈlʌki) => afortunado
+- We were lucky to find a table without booking.
+- She's lucky to have such supportive parents.
+- It was a lucky guess that turned out to be correct.
+
+686. fashionista(ˌfæʃəˈniːstə) => amante de la moda/profesional de la moda
+- She's a real fashionista, always wearing the latest trends.
+- The event attracted fashionistas from all over the city.
+- As a fashionista, he never wears the same outfit twice.
+
+687. keen(kiːn) => deseoso
+- She's really keen to start her new job.
+- He's keen on football and plays every weekend.
+- We're keen to hear your feedback on the proposal.
+
+688. desire(dɪˈzaɪə) => deseo
+- She has a strong desire to travel the world.
+- His desire to succeed pushed him to work harder.
+- There's a growing desire for more flexible working hours.
+
+689. fellow(ˈfɛləʊ) => compañeros de estudio/colegas
+- He shared the news with his fellow students.
+- She thanked her fellow colleagues for their support.
+- A fellow passenger helped me carry my bags.
+
+690. fell(fɛl) => caí/sentir/cayó
+- She fell down the stairs and hurt her knee.
+- Prices fell sharply after the announcement.
+- He fell asleep during the film.
+
+691. dream(driːm) => sueño
+- Her dream is to become a doctor one day.
+- I had a strange dream last night.
+- Never give up on your dreams.
+
+692. dress(drɛs) => vestido/vestir/vestirse
+- She wore a beautiful red dress to the wedding.
+- Please dress warmly, it's cold outside.
+- The children dressed up as pirates for the party.
+
+693. dreadful(ˈdrɛdfʊl) => espantoso/terrible/atroz
+- The weather was absolutely dreadful last weekend.
+- We had a dreadful experience with that airline.
+- It was a dreadful mistake that cost the company a lot.
+
+694. curly(ˈkɜːli) => rizado
+- She has beautiful curly hair.
+- The dog has a curly tail.
+- His curly hair gets frizzy in the rain.
+
+695. smoke(sməʊk) => humo
+- Thick smoke filled the kitchen after the fire started.
+- He gave up smoking last year.
+- We could smell smoke coming from next door.
+
+696. bonus(ˈbəʊnəs) => bonificación
+- She received a bonus for her excellent performance this year.
+- As a bonus, the hotel offers free breakfast.
+- The team got a bonus after finishing the project early.
+
+697. fill(fɪl) => rellenar/llenar
+- Could you fill this form in, please?
+- She filled the kettle with water.
+- The smell of fresh bread filled the kitchen.
+
+698. noon(nuːn) => mediodía
+- We're meeting for lunch at noon.
+- The sun is strongest around noon.
+- The shop closes at noon on Sundays.
+
+699. chimney(ˈʧɪmni) => chimenea
+- Smoke rose from the cottage chimney.
+- We had the chimney cleaned before winter.
+- Santa Claus is said to come down the chimney.
+
+700. tip(tɪp) => truco/consejo
+- Here's a useful tip for saving time on the exam.
+- We left a generous tip for the waiter.
+- The pen has a very fine tip.
+
+701. aim(eɪm) => objetivo
+- Our main aim is to improve customer satisfaction.
+- She took careful aim before shooting the arrow.
+- The project aims to reduce waste by half.
+
+702. vowel(ˈvaʊəl) => vocal/letra vocal
+- English has five main vowel letters.
+- She struggled to pronounce the long vowel sound.
+- Remember that "y" can sometimes act as a vowel.
+
+703. currently(ˈkʌrəntli) => actualmente
+- She's currently working on a new project.
+- We are currently reviewing all applications.
+- The team is currently based in London.
+
+704. several(ˈsɛvərəl) => algunos
+- We tried several times before it finally worked.
+- Several employees have already left the company this year.
+- There are several ways to solve this problem.
+
+705. attempting(əˈtɛmptɪŋ) => intentando
+- She's attempting to finish the marathon in under four hours.
+- We're attempting a new approach to the project.
+- He kept attempting the same trick until he got it right.
+
+706. exposure(ɪkˈspəʊʒə) => exposición
+- Too much exposure to the sun can be harmful.
+- The scandal brought a lot of negative exposure to the company.
+- The photo needed a longer exposure time.
+
+707. entire(ɪnˈtaɪə) => entero/todo
+- She spent the entire afternoon cleaning the house.
+- The entire team worked overtime to meet the deadline.
+- We read the entire report before the meeting.
+
+708. tired(ˈtaɪəd) => cansado
+- I'm too tired to go out tonight.
+- She felt tired after the long flight.
+- He's tired of hearing the same excuses.
+
+709. guy(gaɪ) => tipo/tío
+- He's a really nice guy once you get to know him.
+- Hey guys, are you ready to leave?
+- The guy at the till was very helpful.
+
+710. slinky(ˈslɪŋki) => juguete
+- My little brother loves playing with his slinky on the stairs.
+- The dancer moved in a slinky, graceful way.
+- She wore a slinky black dress to the party.
+
+711. intrusive(ɪnˈtruːsɪv) => molesto/entrometido
+- The reporter's questions felt a bit too intrusive.
+- Some adverts online are extremely intrusive.
+- He apologised for being so intrusive with his questions.
+
+712. elven(ˈɛlvən) => elfos
+- The film features elven warriors defending the forest.
+- She dressed up as an elven princess for the party.
+- The story is set in an elven kingdom.
+
+713. report(rɪˈpɔːt) => informe/relato/reportaje
+- She wrote a detailed report on the sales figures.
+- The news channel gave a live report from the scene.
+- Please report any problems to your manager immediately.
+
+714. goggles(ˈgɒgəlz) => gafas protectoras
+- Wear safety goggles when using the drill.
+- He put on his swimming goggles before diving in.
+- The lab requires everyone to wear goggles at all times.
+
+715. understand(ˌʌndəˈstænd) => entender/comprender
+- I don't understand this instruction, could you explain it again?
+- She understands French quite well.
+- We finally understand why the system kept crashing.
+
+716. stand(stænd) => estar de pie
+- Please stand up when the judge enters the room.
+- I can't stand loud noises early in the morning.
+- The old fence can barely stand in the wind.
+
+717. neighbors(ˈneɪbəz) => vecinos
+- Our neighbours are always very friendly and helpful.
+- We invited the neighbours round for a drink.
+- The neighbours complained about the noise last night.
+
+718. kind(kaɪnd) => amable/bondadoso
+- It was very kind of you to help me.
+- She's always kind to strangers.
+- What kind of music do you enjoy?
+
+719. nervous(ˈnɜːvəs) => nervioso
+- He felt nervous before his job interview.
+- She gets nervous whenever she has to speak in public.
+- Don't be nervous, you'll do great.
+
+720. require(rɪˈkwaɪə) => necesitar/requerir
+- This job requires excellent communication skills.
+- The plant requires plenty of sunlight to grow.
+- We require all visitors to sign in at reception.
+
+721. anymore(ˌɛniˈmɔː) => ya no
+- She doesn't work here anymore.
+- I can't put up with this anymore.
+- We don't use that software anymore.
+
+722. burnt(bɜːnt) => quemado
+- The toast was completely burnt.
+- She got burnt while cooking dinner.
+- The fields were burnt after the wildfire.
+
+723. bored(bɔːd) => aburrido
+- The children got bored during the long car journey.
+- I'm bored, is there anything fun to do?
+- He looked bored throughout the entire meeting.
+
+724. loss(lɒs) => pérdida
+- The company reported a huge loss last year.
+- It was a great loss for the whole community.
+- She's still coping with the loss of her grandmother.
+
+725. forget(fəˈgɛt) => olvidar
+- Don't forget to lock the door before you leave.
+- I always forget where I put my keys.
+- She'll never forget her first day at university.
+
+726. blaming(ˈbleɪmɪŋ) => culpar
+- Stop blaming yourself, it wasn't your fault.
+- He's always blaming others for his mistakes.
+- Blaming the team won't solve the problem.
+
+727. blame(bleɪm) => culpar a alguien de algo
+- Don't blame me for the delay, it wasn't my decision.
+- She took the blame even though it wasn't her fault.
+- Who's to blame for this mess?
+
+728. likewise(ˈlaɪkwaɪz) => igualmente/también
+- "Nice to meet you." "Likewise!"
+- The other departments should do likewise.
+- He treated us kindly, and we responded likewise.
+
+729. speech(spiːʧ) => discurso/habla
+- She gave an inspiring speech at the conference.
+- His speech was clear despite his nerves.
+- Freedom of speech is protected by law.
+
+730. anywhere(ˈɛniweə) => a/en cualquier sitio
+- You won't find a better deal anywhere else.
+- We can meet anywhere that's convenient for you.
+- I can't find my glasses anywhere.
+
+731. wonderful(ˈwʌndəfʊl) => maravilloso
+- We had a wonderful holiday in Italy.
+- It's wonderful to see you again after all these years.
+- She did a wonderful job organising the event.
+
+732. lake(leɪk) => lago
+- We went swimming in the lake near our cabin.
+- The lake was completely frozen in January.
+- They walked along the edge of the lake at sunset.
+
+733. like(laɪk) => gustar/agradar
+- I really like this new café near the office.
+- Do you like living in the city?
+- She likes to read before going to sleep.
+
+734. grapefruit(ˈgreɪpfruːt) => zumo de pomelo
+- She has grapefruit for breakfast most mornings.
+- The grapefruit was a little too bitter for my taste.
+- We grow lemons and grapefruits in the garden.
+
+735. fake(feɪk) => falso
+- Be careful, that watch is fake.
+- She gave a fake smile to hide her disappointment.
+- The news story turned out to be completely fake.
+
+736. matter(ˈmætə) => importar/asunto
+- It doesn't matter what time we arrive.
+- This is a serious matter that needs immediate attention.
+- No matter how hard I try, I can't fix it.
+
+737. sunrise(ˈsʌnraɪz) => amanecer
+- We woke up early to watch the sunrise over the mountains.
+- The sky turned orange just before sunrise.
+- They started the hike at sunrise to avoid the heat.
+
+738. involved(ɪnˈvɒlvd) => involucrado/enredado
+- She's heavily involved in local charity work.
+- Several departments were involved in the decision.
+- He didn't want to get involved in the argument.
+
+739. interesting(ˈɪntrəstɪŋ) => interesante
+- That's a really interesting point you've made.
+- We had an interesting conversation about the future of work.
+- She finds history far more interesting than maths.
+
+740. missed(mɪst) => perdido
+- We missed the bus by only two minutes.
+- I really missed you while you were away.
+- He missed an important detail in the report.
+
+741. rest(rɛst) => descansar
+- You should rest after such a long journey.
+- The rest of the team will arrive tomorrow.
+- Let's take a short rest before continuing the hike.
+
+742. village(ˈvɪlɪʤ) => pueblo/pueblo pequeño
+- We spent our holiday in a small fishing village.
+- Everyone in the village knows each other.
+- The village has a lovely old church.
+
+743. soap(səʊp) => jabón/enjabonar
+- Wash your hands with soap and water.
+- She likes to make her own soap at home.
+- We ran out of soap in the bathroom.
+
+744. hate(heɪt) => odio
+- I hate waiting in long queues.
+- He doesn't hate the job, he just finds it boring.
+- Racism and hate have no place in this community.
+
+745. pleasant(ˈplɛzənt) => agradable
+- We had a pleasant afternoon walking by the river.
+- She has a very pleasant manner with customers.
+- The weather was pleasant throughout our trip.
+
+746. happened(ˈhæpənd) => sucedió/ocurrió
+- What happened at the meeting this morning?
+- Nobody knows exactly what happened that night.
+- It happened so quickly that no one had time to react.
+
+747. shy(ʃaɪ) => tímido
+- She was too shy to speak in front of the class.
+- He's naturally shy around new people.
+- The child hid behind his mother, feeling shy.
+
+748. winner(ˈwɪnə) => ganador/ganadora
+- The winner of the competition received a trophy.
+- She was announced as the winner of the award.
+- Everyone congratulated the winner of the race.
+
+749. shadow(ˈʃædəʊ) => sombra
+- The tall building cast a long shadow over the street.
+- He followed his father around like a shadow.
+- A shadow moved across the wall as the door opened.
+
+750. shallow(ˈʃæləʊ) => poco profundo/superficial
+- The water near the shore is quite shallow.
+- Her comments seemed shallow and thoughtless.
+- Children can safely swim in the shallow end of the pool.
+
+751. shadowing(ˈʃædəʊɪŋ) => siguiendo
+- She spent a week job shadowing a senior engineer.
+- The trainee learned a lot by shadowing an experienced nurse.
+- He's shadowing the project manager this month.
+
+752. chaos(ˈkeɪɒs) => caos
+- The office was in complete chaos after the power cut.
+- Traffic chaos caused delays across the whole city.
+- The party descended into chaos by midnight.
+
+753. average(ˈævərɪʤ) => promedio
+- The average temperature in July is around 25 degrees.
+- His performance was above average this term.
+- On average, we sell about a hundred units a day.
+
+754. promise(ˈprɒmɪs) => prometer
+- I promise I'll call you as soon as I land.
+- She kept her promise to help us move house.
+- He made a promise he couldn't keep.
+
+755. sick(sɪk) => enfermo
+- She stayed home because she felt sick.
+- He was off sick for a whole week.
+- I feel sick after eating too much cake.
+
+756. lawyer(ˈlɔɪə) => abogado/abogada
+- She hired a lawyer to help with the contract.
+- Her father is a well-known lawyer in the city.
+- We should speak to a lawyer before signing anything.
+
+757. narrow(ˈnærəʊ) => estrecho
+- The road became very narrow near the village.
+- We managed to narrow down the list of candidates.
+- The staircase was too narrow for the furniture.
+
+758. fate(feɪt) => suerte/destino
+- She believes everything happens for a reason, as if guided by fate.
+- Their fate depended on the final decision of the board.
+- It seems like fate that we met again after so many years.
+
+759. none(nʌn) => ninguno/nadie/nada
+- None of the applicants had the required experience.
+- I asked for help, but none was offered.
+- None of this would have happened without your support.
+
+760. stake(steɪk) => participación
+- The company has a major stake in the new project.
+- There's a lot at stake if this deal falls through.
+- She has a personal stake in the outcome.
+
+761. stick(stɪk) => palo
+- The dog ran off to fetch the stick.
+- Please stick to the original plan.
+- We used a stick to mark the boundary of the garden.
+
+762. aloud(əˈlaʊd) => en voz alta
+- She read the letter aloud to the whole family.
+- Please don't think aloud during the exam.
+- He laughed aloud at the joke.
+
+763. upcoming(ˈʌpkʌmɪŋ) => próximo
+- We're preparing for the upcoming product launch.
+- Check the schedule for upcoming events this month.
+- The upcoming election has generated a lot of discussion.
+
+764. loud(laʊd) => fuerte/alto
+- The music was too loud to hold a conversation.
+- She has a loud, confident voice.
+- Turn the volume down, it's too loud.
+
+765. ready(ˈrɛdi) => listo/preparado
+- Are you ready to leave for the airport?
+- Dinner will be ready in ten minutes.
+- She's always ready to help whenever needed.
+
+766. kill(kɪl) => matar/destruir
+- The frost will kill the young plants if we don't cover them.
+- Too much sugar can kill your appetite for dinner.
+- The delay killed our chances of finishing on time.
+
+767. bag(bæg) => bolsa
+- She packed her bag the night before the trip.
+- Could you carry this bag for me?
+- I left my bag on the train by accident.
+
+768. crave(kreɪv) => ansiar
+- After the long flight, I crave a proper cup of tea.
+- She craved a bit of peace and quiet.
+- Many people crave sugar when they're tired.
+
+769. shoot(ʃuːt) => disparar a/fusilar
+- They're going to shoot the new film in Scotland.
+- The photographer asked us to shoot some photos outside.
+- He scored by shooting the ball into the top corner.
+
+770. sell(sɛl) => vender
+- We're planning to sell the old car next month.
+- The shop sells a wide range of local products.
+- She managed to sell all her paintings at the exhibition.
+
+771. strong(strɒŋ) => fuerte
+- He's strong enough to carry both suitcases at once.
+- She has a strong sense of responsibility.
+- The coffee here is really strong.
+
+772. stronger(ˈstrɒŋgə) => más fuerte
+- After months of training, he became much stronger.
+- The economy looks stronger than it did last year.
+- Our partnership has grown stronger over time.
+
+773. sparklers(ˈspɑːkləz) => vengalas
+- The children waved sparklers on Bonfire Night.
+- We lit sparklers to celebrate New Year's Eve.
+- Sparklers must be handled carefully by an adult.
+
+774. engage(ɪnˈgeɪʤ) => contratar/captar/involucrar
+- The company engaged a consultant to review the process.
+- We need to engage more with our younger customers.
+- She's fully engaged in the project from the start.
+
+775. west(wɛst) => oeste
+- The sun sets in the west every evening.
+- We travelled west towards the coast.
+- Wales lies to the west of England.
+
+776. crazy(ˈkreɪzi) => loco
+- It's crazy how quickly the weather changed today.
+- She's crazy about old films.
+- Don't be crazy, that plan will never work.
+
+777. corridor(ˈkɒrɪdɔː) => pasillo
+- The classrooms are along this corridor.
+- She waited nervously in the hospital corridor.
+- Please keep the corridor clear in case of an emergency.
+
+778. separate(ˈsɛprət) => separado
+- Please keep the raw meat separate from other food.
+- They decided to live in separate flats after the divorce.
+- We travelled in separate cars to the venue.
+
+779. hell(hɛl) => infierno
+- Rush hour traffic in this city is absolute hell.
+- He went through hell during his recovery.
+- What the hell happened here?
+
+780. scratch(skræʧ) => arañar/rayar
+- The cat scratched the sofa again.
+- We had to start the design from scratch.
+- Be careful not to scratch the new car.
+
+781. ruin(ˈruːɪn) => estropear/arruinar
+- The rain nearly ruined our picnic plans.
+- One mistake could ruin months of hard work.
+- The old castle is now just a ruin.
+
+782. pork(pɔːk) => carne de cerdo
+- We had roast pork with apple sauce for Sunday lunch.
+- She doesn't eat pork for religious reasons.
+- The butcher recommended a lean cut of pork.
+
+783. anyone(ˈɛniwʌn) => alguien/nadie
+- Is anyone home?
+- I don't think anyone noticed the mistake.
+- Can anyone help me carry these boxes?
+
+784. destroy(dɪˈstrɔɪ) => destruir
+- The fire destroyed most of the building.
+- Careless comments can destroy someone's confidence.
+- We need to destroy these old confidential files.
+
+785. discharge(dɪsˈʧɑːʤ) => liberar/dar de alta
+- The patient was discharged from hospital after a week.
+- The factory discharges waste water into the river.
+- He was discharged from the army after ten years of service.
+
+786. cleaning(ˈkliːnɪŋ) => aseo
+- We spent the whole morning cleaning the house.
+- Cleaning products should be stored out of children's reach.
+- She works part-time as a cleaning assistant.
+
+787. charge(ʧɑːʤ) => cargo/carga
+- There's an extra charge for delivery outside the city.
+- Who's in charge of this project?
+- Please charge your phone before the trip.
+
+788. herself(hɜːˈsɛlf) => sola/ella misma
+- She made the whole cake herself.
+- She blamed herself for the misunderstanding.
+- She lives by herself in a small flat.
+
+789. troubleshoot(ˈtrʌbəlʃuːt) => solucionar problemas
+- The IT team helped us troubleshoot the network issue.
+- We spent an hour trying to troubleshoot the printer.
+- Can you troubleshoot this error before the meeting?
+
+790. routine(ruːˈtiːn) => rutina
+- I have a strict morning routine before work.
+- The doctor said it was just a routine check-up.
+- Changing your routine can help you feel more motivated.
+
+791. missing(ˈmɪsɪŋ) => desaparecido
+- Two pages are missing from this report.
+- The missing dog was found near the park.
+- She noticed her wallet was missing from her bag.
+
+792. strives(straɪvz) => luchar/esforzarse
+- The company strives to offer the best customer service.
+- She always strives for perfection in her work.
+- He strives to be a better leader every year.
+
+793. clothing(ˈkləʊðɪŋ) => ropa
+- Warm clothing is essential for a trip to the mountains.
+- The shop sells second-hand clothing at low prices.
+- Please wear appropriate clothing for the interview.
+
+794. singer(ˈsɪŋə) => cantante
+- She's a talented singer with a beautiful voice.
+- The lead singer of the band grew up in Manchester.
+- He dreams of becoming a professional singer.
+
+795. toggle(ˈtɒgəl) => alternar
+- Use this switch to toggle between light and dark mode.
+- You can toggle the notifications on or off in the settings.
+- Press the key again to toggle the feature.
+
+796. whose(huːz) => de quién
+- Whose bag is this on the table?
+- I don't know whose idea it was originally.
+- She's the one whose email you should reply to.
+
+797. bless(blɛs) => bendecir
+- The priest blessed the newly married couple.
+- Bless you! Do you have a cold?
+- She feels blessed to have such supportive friends.
+
+798. glad(glæd) => contento
+- I'm so glad you could make it to the party.
+- She was glad to hear the good news.
+- We'd be glad to help with the move.
+
+799. safety(ˈseɪfti) => seguridad
+- Always wear a helmet for safety.
+- The company takes workplace safety very seriously.
+- Safety first, always check the equipment before use.
+
+800. chapter(ˈʧæptə) => capítulo
+- I finished the first chapter of the book last night.
+- This chapter of my life is finally coming to an end.
+- Let's discuss chapter three in the next meeting.
+
+801. wrong(rɒŋ) => equivocado
+- Sorry, I think you've got the wrong number.
+- Something feels wrong about this contract.
+- He was wrong about the meeting time.
+
+802. wrote(rəʊt) => escribió
+- She wrote a long letter to her grandmother.
+- He wrote the report in just two hours.
+- They wrote to us about the delayed shipment.
+
+803. whole(həʊl) => todo/entero
+- We spent the whole day cleaning the garden.
+- She ate the whole cake by herself.
+- The whole team agreed with the new plan.
+
+804. hole(həʊl) => agujero/hoyo/agujerear
+- There's a hole in my sock.
+- The dog dug a hole in the garden.
+- We need to fill the hole in the road.
+
+805. hiking(ˈhaɪkɪŋ) => senderismo/excursionismo
+- We're going hiking in the Peak District this weekend.
+- Hiking boots are essential for rough terrain.
+- She enjoys hiking with her dog every Sunday.
+
+806. thinning(ˈθɪnɪŋ) => adelgazamiento
+- The gardener recommended thinning out the seedlings.
+- He's worried about his thinning hair.
+- Thinning the sauce with a little water improved the flavour.
+
+807. cheek(ʧiːk) => mejilla
+- She kissed him gently on the cheek.
+- His cheeks turned red with embarrassment.
+- The child had rosy cheeks from the cold.
+
+808. hunker down(ˈhʌŋkə daʊn) => ponerse en cuclillas
+- We decided to hunker down at home until the storm passed.
+- The soldiers hunkered down behind the wall.
+- It's time to hunker down and finish this project.
+
+809. gear(gɪə) => marcha/velocidad/adecuado
+- Make sure you pack the right gear for camping.
+- She shifted into a higher gear on the motorway.
+- We're getting into gear for the busy season.
+
+810. hope(həʊp) => esperar
+- I hope you have a wonderful trip.
+- She never lost hope, even during the hardest times.
+- We hope to finish the project by Friday.
+
+811. hopefully(ˈhəʊpfəli) => con suerte/con esperanza
+- Hopefully, the weather will improve tomorrow.
+- Hopefully, we'll hear back from them soon.
+- She looked at him hopefully, waiting for an answer.
+
+812. buy(baɪ) => comprar
+- I need to buy some milk on the way home.
+- She bought a new laptop for university.
+- We're planning to buy a house next year.
+
+813. bowl(bəʊl) => tazón
+- She mixed the flour and eggs in a large bowl.
+- Could you pass me the salad bowl, please?
+- He had a bowl of cereal for breakfast.
+
+814. dense(dɛns) => denso
+- The forest was so dense we could barely see the sky.
+- Traffic is particularly dense during rush hour.
+- The report contains very dense technical information.
+
+815. seed(siːd) => semilla
+- Plant the seed about two centimetres deep.
+- A single seed can grow into a huge tree.
+- She planted flower seeds in the garden this spring.
+
+816. casually(ˈkæʒʊəli) => despreocupadamente/de manera informal
+- He mentioned it casually, as if it wasn't important.
+- She dressed casually for the weekend trip.
+- They chatted casually while waiting for the bus.
+
+817. as(æz) => tan/como
+- She works as a nurse at the local hospital.
+- As I mentioned earlier, the deadline has changed.
+- He's just as talented as his brother.
+
+818. converse(kənˈvɜːs) => conversar
+- It was nice to converse with old friends at the reunion.
+- They conversed for hours about their travels.
+- She finds it easy to converse with strangers.
+
+819. kit(kɪt) => juego/equipo
+- Don't forget to pack your first aid kit.
+- He bought a new football kit for the season.
+- The furniture came as a flat-pack kit.
+
+820. sleeve(sliːv) => manga
+- He rolled up his sleeves before starting the repair work.
+- The jacket has a small pocket on the sleeve.
+- She wiped her tears with her sleeve.
+
+821. finger(ˈfɪŋgə) => dedo
+- She cut her finger while chopping vegetables.
+- He pointed his finger at the map to show the route.
+- The ring was too tight for her finger.
+
+822. kid(kɪd) => niño
+- She's just a kid, only ten years old.
+- We took the kids to the park this afternoon.
+- Don't kid yourself, this won't be easy.
+
+823. lockdown(ˈlɒkdaʊn) => confinamiento
+- The city went into lockdown during the pandemic.
+- We learned to cook a lot during lockdown.
+- Lockdown changed the way many people work.
+
+824. confidence(ˈkɒnfɪdəns) => seguridad/confianza
+- Her confidence grew after each successful presentation.
+- I have complete confidence in your abilities.
+- Public confidence in the government has fallen.
+
+825. trick(trɪk) => engaño/trampa
+- The magician performed an amazing card trick.
+- Don't fall for that old trick again.
+- A small trick can make the recipe taste much better.
+
+826. accurate(ˈækjərət) => preciso/exacto
+- Please make sure the figures are accurate before submitting.
+- The forecast wasn't very accurate this week.
+- He gave an accurate description of the suspect.
+
+827. practice(ˈpræktɪs) => práctica
+- Regular practice will help you improve your English.
+- The doctor has been in practice for over twenty years.
+- Football practice starts at five o'clock.
+
+828. pretend(prɪˈtɛnd) => fingir/simular/hacer como si
+- The children like to pretend they're pirates.
+- She pretended not to notice the mistake.
+- Don't pretend you didn't hear me.
+
+829. guilty(ˈgɪlti) => culpable
+- He felt guilty for forgetting her birthday.
+- The jury found him guilty after a long trial.
+- She looked guilty as soon as we asked the question.
+
+830. story(ˈstɔːri) => historia
+- He told us an interesting story about his childhood.
+- The film is based on a true story.
+- Every photo has a story behind it.
+
+831. storm(stɔːm) => tormenta
+- A huge storm hit the coast last night.
+- We took shelter until the storm passed.
+- The weather forecast warns of a storm this weekend.
+
+832. touch(tʌʧ) => tocar
+- Please don't touch the wet paint.
+- We should keep in touch after the course ends.
+- Her speech touched everyone in the room.
+
+833. unavailable(ˌʌnəˈveɪləbəl) => ocupado
+- I'm afraid the manager is unavailable this afternoon.
+- The item you ordered is currently unavailable.
+- He was unavailable for comment when we called.
+
+834. forgot(fəˈgɒt) => olvidé
+- I forgot my umbrella at the office.
+- She forgot to send the email yesterday.
+- We forgot how expensive that restaurant was.
+
+835. suggest(səˈʤɛst) => sugerir
+- I suggest we leave earlier to avoid traffic.
+- She suggested a new approach to the problem.
+- Can you suggest a good restaurant nearby?
+
+836. breathe(briːð) => respirar
+- Take a moment to breathe before your presentation.
+- It's hard to breathe in such polluted air.
+- She breathed a sigh of relief when the exam finished.
+
+837. sugar(ˈʃʊgə) => azúcar
+- Do you take sugar in your tea?
+- Too much sugar isn't good for your health.
+- She added a spoonful of sugar to the mixture.
+
+838. pleased(pliːzd) => contento
+- I'm pleased to meet you at last.
+- She was pleased with her exam results.
+- We're pleased to announce the new office opening.
+
+839. ease(iːz) => aliviar/remitir
+- The medicine helped ease the pain quickly.
+- She handled the difficult situation with ease.
+- We hope tensions will ease over time.
+
+840. living(ˈlɪvɪŋ) => vivo
+- She earns a decent living as a freelance writer.
+- Living in the city can be quite expensive.
+- Both of her grandparents are still living.
+
+841. exactly(ɪgˈzæktli) => exactamente
+- I don't know exactly what happened.
+- That's exactly what I was thinking.
+- The meeting starts at exactly nine o'clock.
+
+842. amphibian(æmˈfɪbiən) => anfibio
+- Frogs and toads are common types of amphibian.
+- The museum has an exhibit dedicated to amphibians.
+- Amphibians can live both in water and on land.
+
+843. mirror(ˈmɪrə) => espejo/reflejar
+- She checked her hair in the mirror before leaving.
+- The lake's surface mirrored the mountains perfectly.
+- His attitude often mirrors that of his father.
+
+844. hibernate(ˈhaɪbəneɪt) => hibernar
+- Bears hibernate throughout the winter months.
+- The computer will hibernate if left unused for a while.
+- Hedgehogs hibernate to survive the cold season.
+
+845. trade(treɪd) => comercio
+- International trade has grown rapidly in recent years.
+- He learned his trade as a carpenter's apprentice.
+- The two countries signed a new trade agreement.
+
+846. corner(ˈkɔːnə) => esquina/rincón
+- The shop is just around the corner.
+- She turned the corner too quickly and nearly fell.
+- There's a cosy reading corner in the library.
+
+847. twice(twaɪs) => dos veces
+- I've already told you twice to be careful.
+- We visit our grandparents twice a month.
+- She checked the numbers twice before submitting the report.
+
+848. ring(rɪŋ) => anillo/círculo
+- He proposed with a beautiful diamond ring.
+- Could you give me a ring later tonight?
+- The children formed a ring around the teacher.
+
+849. submit(səbˈmɪt) => presentar/someter
+- Please submit your assignment by Friday.
+- She submitted her resignation letter this morning.
+- We had to submit several documents for the visa application.
+
+850. went(wɛnt) => fue
+- We went to the cinema last night.
+- She went straight home after work.
+- They went for a walk along the beach.
+
+851. took(tʊk) => tomó
+- He took the last train home.
+- She took a deep breath before speaking.
+- They took several photos of the sunset.
+
+852. soft(sɒft) => blando
+- The pillow felt incredibly soft.
+- She spoke in a soft, gentle voice.
+- The clay was still soft enough to shape.
+
+853. land(lænd) => pescar/sacar
+- The company managed to land a major new client.
+- The plane will land in twenty minutes.
+- She finally landed her dream job.
+
+854. dummy(ˈdʌmi) => maniquí/muñeco
+- The shop window displayed a dressed-up dummy.
+- The baby wouldn't stop crying without her dummy.
+- The crash test dummy helped engineers improve the car's safety.
+
+855. depressed(dɪˈprɛst) => deprimido
+- He's been feeling depressed since losing his job.
+- Grey, rainy days always make her feel a bit depressed.
+- The doctor recommended therapy for his depressed mood.
+
+856. meat(miːt) => carne
+- We don't eat much red meat at home.
+- The butcher sells fresh meat every day.
+- She's been a vegetarian and hasn't eaten meat for years.
+
+857. stair(steə) => escalera
+- Watch your step on the top stair.
+- She sat on the bottom stair, tying her shoes.
+- Please hold the handrail on the stairs.
+
+858. scream(skriːm) => gritar/grito
+- She let out a scream when she saw the spider.
+- We could hear children screaming with excitement at the park.
+- His scream echoed through the empty house.
+
+859. sweet(swiːt) => dulce/caramelo/golosina
+- This cake is far too sweet for me.
+- She gave the children a sweet after dinner.
+- It was such a sweet gesture to remember my birthday.
+
+860. knackered(ˈnækəd) => hecho polvo/agotado
+- I'm absolutely knackered after that long shift.
+- We were knackered by the time we reached the summit.
+- He looked knackered after the overnight flight.
+
+861. collectively(kəˈlɛktɪvli) => en cooperativa/conjuntamente
+- The team collectively decided to postpone the launch.
+- We can collectively make a real difference.
+- The staff collectively agreed to the new schedule.
+
+862. mirage(mɪˈrɑːʒ) => espejismo
+- In the desert, they saw what looked like a mirage.
+- His success turned out to be nothing more than a mirage.
+- The heat created a shimmering mirage on the road.
+
+863. beforehand(bɪˈfɔːhænd) => de antemano/por adelantado
+- Please let me know beforehand if you can't make it.
+- We booked the tickets beforehand to avoid queuing.
+- She always prepares her lessons beforehand.
+
+864. wary(ˈweəri) => cauteloso
+- Be wary of emails asking for personal information.
+- She's a bit wary of strangers offering unsolicited advice.
+- Investors are wary of the new, volatile market.
+
+865. embarrassing(ɪmˈbærəsɪŋ) => embarazoso/vergonzoso/bochornoso
+- It was so embarrassing when I forgot her name.
+- The mistake caused an embarrassing situation for the company.
+- He told an embarrassing story about his first job.
+
+866. wherever(weərˈɛvə) => donde
+- You can sit wherever you like.
+- Wherever we go, she always finds new friends.
+- Wherever possible, try to recycle your waste.
+
+867. amplify(ˈæmplɪfaɪ) => amplificar
+- The microphone amplifies her voice for the whole hall.
+- Social media can amplify small stories into big news.
+- We want to amplify the voices of our customers.
+
+868. aware(əˈweə) => consciente
+- She wasn't aware of the new company policy.
+- We need to be more aware of our energy consumption.
+- He became aware of the danger too late.
+
+869. regardless(rɪˈgɑːdləs) => sin considerar/sin tener en cuenta
+- We'll finish the project on time, regardless of the difficulties.
+- She continued running, regardless of the pain.
+- The rules apply to everyone, regardless of position.
+
+870. board(bɔːd) => tablón/tablero/pizarra/junta/consejo
+- The teacher wrote the homework on the board.
+- She sits on the board of a local charity.
+- We need to board the flight in ten minutes.
+
+871. arrival(əˈraɪvəl) => llegada
+- We're waiting for the arrival of the new equipment.
+- Her arrival was delayed by heavy traffic.
+- The airport display shows the arrival times for each flight.
+
+872. mess(mɛs) => desorden/desastre
+- The kitchen was a complete mess after the party.
+- He made a mess of the whole project.
+- Please clean up this mess before dinner.
+
+873. onboarding(ˈɒnbɔːdɪŋ) => incorporación
+- The onboarding process for new staff takes about a week.
+- We updated our onboarding materials for remote employees.
+- Good onboarding helps new hires settle in quickly.
+
+874. miss(mɪs) => evitar/perder/perderse/señorita
+- We'll miss the train if we don't hurry.
+- I really miss my family back home.
+- Excuse me, miss, is this seat taken?
+
+875. shine(ʃaɪn) => brillar
+- The sun began to shine after the rain stopped.
+- She always tries to make her students shine.
+- Polish the shoes until they shine.
+
+876. happen(ˈhæpən) => suceder/ocurrir/pasar
+- What time does the meeting happen tomorrow?
+- These kinds of mistakes happen occasionally.
+- I happened to see her at the supermarket.
+
+877. loyalty(ˈlɔɪəlti) => lealtad/fidelidad
+- The company rewards customer loyalty with special discounts.
+- He showed great loyalty to his old friends.
+- Her loyalty to the team never wavered.
+
+878. sorry(ˈsɒri) => lo siento, perdón
+- I'm sorry for being late.
+- She felt sorry for the lost puppy.
+- Sorry, could you repeat that, please?
+
+879. nature(ˈneɪʧə) => naturaleza
+- She loves spending time in nature.
+- It's just human nature to make mistakes sometimes.
+- The documentary explores the nature of the deep ocean.
+
+880. crossed(krɒst) => cruzar los dedos
+- I've got my fingers crossed for your interview.
+- We crossed the road at the traffic lights.
+- Their paths crossed again years later.
+
+881. hullabaloo(ˈhʌləbəluː) => jaleo/barullo/escándalo
+- There was quite a hullabaloo when the results were announced.
+- The children caused a hullabaloo in the playground.
+- What's all this hullabaloo about?
+
+882. fuss(fʌs) => escándalo/alboroto/excitarse demasiado
+- Please don't make such a fuss about a small mistake.
+- She doesn't like a fuss made over her birthday.
+- The dog made a fuss when we left the house.
+
+883. relate(rɪˈleɪt) => relatar/narrar
+- I can really relate to what she's going through.
+- He related the whole story to us over dinner.
+- These two issues are closely related.
+
+884. unwind(ʌnˈwaɪnd) => relajarse/desenrollar
+- After a long week, I like to unwind with a good book.
+- She unwound the cable carefully before use.
+- Take some time to unwind before the meeting.
+
+885. relieve(rɪˈliːv) => aliviar/mitigar
+- The medicine helped relieve her headache.
+- Talking to a friend can relieve a lot of stress.
+- The new staff will relieve some of the workload.
+
+886. guest(gɛst) => invitado/invitada
+- We're expecting twenty guests at the wedding.
+- Please make our guest feel welcome.
+- The hotel offers a warm welcome to every guest.
+
+887. nappy(ˈnæpi) => pañal
+- We need to buy more nappies for the baby.
+- She changed the baby's nappy before the nap.
+- Nappies come in different sizes depending on age.

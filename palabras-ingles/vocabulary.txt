@@ -1686,6 +1686,15 @@ happen => suceder/ocurrir/pasar
 loyalty => lealtad/fidelidad
 sorry => lo siento, perdón 
 nature => naturaleza
+suddenly => de repente/repentinamente
+crossed => cruzar los dedos 
+hullabaloo => jaleo/barullo/escándalo/protesta/tumulto
+fuss => escándalo/alboroto/ponerse nervioso/excitarse demasiado
+relate => relatar/narrar
+unwind => relajarse/desenrollar
+relieve => aliviar/mitigar
+guest => invitado/invitada
+nappy => pañal
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante
