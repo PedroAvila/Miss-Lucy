@@ -1,0 +1,205 @@
+===================== Trabajo y oficina (B1) ======================
+Tanda 1 de vocabulario B1/B2. Cada palabra con su nivel y una oración de ejemplo para usarla hablando.
+Palabras ya presentes en vocabulary.txt (deadline, deal, manager, workload, experience, underpaid,
+commute) no se repiten acá.
+=====================================================================================
+
+colleague => colega/compañero de trabajo [B1]
+   My colleague helped me finish the report on time.
+   /maɪ ˈkɒliːg helpt miː ˈfɪnɪʃ ðə rɪˈpɔːt ɒn taɪm/
+
+meeting => reunión [B1]
+   We have a meeting at ten o'clock tomorrow.
+   /wiː həv ə ˈmiːtɪŋ ət ten əˈklɒk təˈmɒrəʊ/
+
+task => tarea [B1]
+   I need to finish this task before lunch.
+   /aɪ niːd tə ˈfɪnɪʃ ðɪs tɑːsk bɪˈfɔː lʌntʃ/
+
+shift => turno [B1]
+   I work the morning shift this week.
+   /aɪ wɜːk ðə ˈmɔːnɪŋ ʃɪft ðɪs wiːk/
+
+salary => salario/sueldo [B1]
+   My salary gets paid at the end of the month.
+   /maɪ ˈsæləri gets peɪd ət ði end əv ðə mʌnθ/
+
+overtime => horas extra [B1]
+   I did some overtime last week to finish the project.
+   /aɪ dɪd sʌm ˈəʊvətaɪm lɑːst wiːk tə ˈfɪnɪʃ ðə ˈprɒdʒekt/
+
+promotion => ascenso [B1]
+   She got a promotion after two years in the company.
+   /ʃiː gɒt ə prəˈməʊʃn ˈɑːftə tuː jɪəz ɪn ðə ˈkʌmpəni/
+
+deal with => encargarse de/lidiar con [B1]
+   I have to deal with a difficult client today.
+   /aɪ həv tə diːl wɪð ə ˈdɪfɪkəlt ˈklaɪənt təˈdeɪ/
+
+handle => manejar/encargarse de [B1]
+   Can you handle this on your own?
+   /kən juː ˈhændl ðɪs ɒn jɔː əʊn/
+
+hire => contratar [B1]
+   The company is going to hire three new people.
+   /ðə ˈkʌmpəni z ˈgəʊɪŋ tə ˈhaɪə θriː njuː ˈpiːpl/
+
+report to => reportar a/depender de [B1]
+   I report to the sales manager.
+   /aɪ rɪˈpɔːt tə ðə seɪlz ˈmænɪdʒə/
+
+in charge of => a cargo de [B1]
+   She's in charge of the whole team.
+   /ʃiːz ɪn tʃɑːdʒ əv ðə həʊl tiːm/
+
+reliable => confiable [B1]
+   He's very reliable, he always finishes on time.
+   /hiːz ˈveri rɪˈlaɪəbl hiː ˈɔːlweɪz ˈfɪnɪʃɪz ɒn taɪm/
+
+efficient => eficiente [B1]
+   We need a more efficient way to do this.
+   /wiː niːd ə mɔːr ɪˈfɪʃnt weɪ tə duː ðɪs/
+
+productive => productivo [B1]
+   I feel more productive in the morning.
+   /aɪ fiːl mɔː prəˈdʌktɪv ɪn ðə ˈmɔːnɪŋ/
+
+feedback => retroalimentación [B1]
+   My boss gave me some feedback about my work.
+   /maɪ bɒs geɪv miː sʌm ˈfiːdbæk əˈbaʊt maɪ wɜːk/
+
+remote => remoto [B1]
+   I work remote three days a week.
+   /aɪ wɜːk rɪˈməʊt θriː deɪz ə wiːk/
+
+onsite => presencial [B1]
+   We only go onsite on Mondays.
+   /wiː ˈəʊnli gəʊ ˈɒnsaɪt ɒn ˈmʌndeɪz/
+
+paperwork => papeleo [B1]
+   I hate doing paperwork.
+   /aɪ heɪt ˈduːɪŋ ˈpeɪpəwɜːk/
+
+client => cliente [B1]
+   I had a call with a client this morning.
+   /aɪ həd ə kɔːl wɪð ə ˈklaɪənt ðɪs ˈmɔːnɪŋ/
+
+apply for => postularse a [B1]
+   I applied for a new job last month.
+   /aɪ əˈplaɪd fər ə njuː dʒɒb lɑːst mʌnθ/
+
+interview => entrevista [B1]
+   I have a job interview on Friday.
+   /aɪ həv ə dʒɒb ˈɪntəvjuː ɒn ˈfraɪdeɪ/
+
+resume => currículum [B1]
+   I need to update my resume.
+   /aɪ niːd tʊ ˌʌpˈdeɪt maɪ ˈrezjʊmeɪ/
+
+qualification => cualificación/titulación [B1]
+   That job requires a specific qualification.
+   /ðət dʒɒb rɪˈkwaɪəz ə spəˈsɪfɪk ˌkwɒlɪfɪˈkeɪʃn/
+
+teamwork => trabajo en equipo [B1]
+   Good teamwork made the project easier.
+   /gʊd ˈtiːmwɜːk meɪd ðə ˈprɒdʒekt ˈiːziə/
+
+supervisor => supervisor [B1]
+   My supervisor checks the reports every Friday.
+   /maɪ ˈsuːpəvaɪzə tʃeks ðə rɪˈpɔːts ˈevri ˈfraɪdeɪ/
+
+intern => pasante/becario [B1]
+   She started as an intern two years ago.
+   /ʃiː ˈstɑːtɪd əz ən ˈɪntɜːn tuː jɪəz əˈgəʊ/
+
+freelance => trabajo independiente/freelance [B1]
+   I've been doing freelance work since last year.
+   /aɪv bɪn ˈduːɪŋ ˈfriːlɑːns wɜːk sɪns lɑːst jɪə/
+
+full-time => a tiempo completo [B1]
+   I'm looking for a full-time position.
+   /aɪm ˈlʊkɪŋ fər ə ˈfʊl taɪm pəˈzɪʃn/
+
+part-time => a tiempo parcial [B1]
+   She works part-time at a restaurant.
+   /ʃiː wɜːks ˈpɑːt taɪm ət ə ˈrestrɒnt/
+
+contract => contrato [B1]
+   I signed a one-year contract.
+   /aɪ saɪnd ə wʌn jɪə ˈkɒntrækt/
+
+vacation days => días de vacaciones [B1]
+   I have ten vacation days left this year.
+   /aɪ həv ten vəˈkeɪʃn deɪz left ðɪs jɪə/
+
+sick leave => baja por enfermedad [B1]
+   He's on sick leave this week.
+   /hiːz ɒn sɪk liːv ðɪs wiːk/
+
+stressed out => estresado [B1]
+   I'm really stressed out about this deadline.
+   /aɪm ˈrɪəli strest aʊt əˈbaʊt ðɪs ˈdedlaɪn/
+
+overworked => sobrecargado de trabajo [B1]
+   I feel overworked lately.
+   /aɪ fiːl ˌəʊvəˈwɜːkt ˈleɪtli/
+
+punctual => puntual [B1]
+   She's always punctual for meetings.
+   /ʃiːz ˈɔːlweɪz ˈpʌŋktʃuəl fə ˈmiːtɪŋz/
+
+burnout => agotamiento/burnout [B2]
+   A lot of people are talking about burnout these days.
+   /ə lɒt əv ˈpiːpl ə ˈtɔːkɪŋ əˈbaʊt ˈbɜːnaʊt ðiːz deɪz/
+
+negotiate => negociar [B2]
+   We negotiated a better salary before signing.
+   /wiː nɪˈgəʊʃieɪtɪd ə ˈbetə ˈsæləri bɪˈfɔː ˈsaɪnɪŋ/
+
+multitask => hacer varias tareas a la vez [B2]
+   I'm not very good at multitasking.
+   /aɪm nɒt ˈveri gʊd ət ˌmʌltiˈtɑːskɪŋ/
+
+ambitious => ambicioso [B2]
+   He's very ambitious about his career.
+   /hiːz ˈveri æmˈbɪʃəs əˈbaʊt hɪz kəˈrɪə/
+
+dedicated => dedicado/comprometido [B2]
+   She's a very dedicated employee.
+   /ʃiːz ə ˈveri ˈdedɪkeɪtɪd ɪmˈplɔɪiː/
+
+benefits => beneficios (laborales) [B2]
+   The company offers good benefits, like health insurance.
+   /ðə ˈkʌmpəni ˈɒfəz gʊd ˈbenɪfɪts laɪk helθ ɪnˈʃʊərəns/
+
+payroll => nómina [B2]
+   She works in the payroll department.
+   /ʃiː wɜːks ɪn ðə ˈpeɪrəʊl dɪˈpɑːtmənt/
+
+underperform => rendir por debajo de lo esperado [B2]
+   The team underperformed this quarter.
+   /ðə tiːm ˌʌndəpəˈfɔːmd ðɪs ˈkwɔːtə/
+
+streamline => optimizar/agilizar [B2]
+   We're trying to streamline our workflow.
+   /wɪə ˈtraɪɪŋ tə ˈstriːmlaɪn ˈaʊə ˈwɜːkfləʊ/
+
+accountable => responsable (de rendir cuentas) [B2]
+   Everyone is accountable for their own tasks.
+   /ˈevriwʌn z əˈkaʊntəbl fə ðeə əʊn ˈtɑːsks/
+
+versatile => versátil [B2]
+   She's a very versatile employee, she can do many things.
+   /ʃiːz ə ˈveri ˈvɜːsətaɪl ɪmˈplɔɪiː ʃiː kən duː ˈmeni ˈθɪŋz/
+
+proactive => proactivo [B2]
+   You need to be more proactive about solving problems.
+   /juː niːd tə biː mɔː prəʊˈæktɪv əˈbaʊt ˈsɒlvɪŋ ˈprɒbləmz/
+
+turnover => rotación de personal [B2]
+   The company has a high staff turnover.
+   /ðə ˈkʌmpəni həz ə haɪ stɑːf ˈtɜːnəʊvə/
+
+work-life balance => equilibrio entre trabajo y vida personal [B2]
+   I'm trying to have a better work-life balance.
+   /aɪm ˈtraɪɪŋ tə həv ə ˈbetə ˈwɜːk laɪf ˈbæləns/

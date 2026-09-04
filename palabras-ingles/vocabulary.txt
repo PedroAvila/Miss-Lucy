@@ -1,4 +1,11 @@
 
+===================== convención de nivel (desde 2026-09-04) ======================
+Cada palabra nueva que se agregue de aquí en adelante lleva su nivel B1/B2 al final de la línea,
+según los criterios de docs/decisions/0003-criterios-concretos-b1-b2.md. Ejemplo:
+  word => significado [B1]
+Las palabras agregadas antes de esta fecha no se reclasifican retroactivamente.
+=====================================================================================
+
 umbrella = paraguas
 somebody = alguien
 already = ya
@@ -1695,6 +1702,8 @@ unwind => relajarse/desenrollar
 relieve => aliviar/mitigar
 guest => invitado/invitada
 nappy => pañal
+accuracy => precisión/exactitud/fidelidad
+dumb => mudo 
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante
