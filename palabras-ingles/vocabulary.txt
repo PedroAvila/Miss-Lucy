@@ -1698,12 +1698,15 @@ crossed => cruzar los dedos
 hullabaloo => jaleo/barullo/escándalo/protesta/tumulto
 fuss => escándalo/alboroto/ponerse nervioso/excitarse demasiado
 relate => relatar/narrar
-unwind => relajarse/desenrollar
+unwind => relajarse/desconectar
 relieve => aliviar/mitigar
 guest => invitado/invitada
 nappy => pañal
 accuracy => precisión/exactitud/fidelidad
 dumb => mudo 
+shall => debería
+headache => dolor de cabeza 
+understandably => es comprensible que...
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante

@@ -139,6 +139,8 @@ Do you like sports? Which ones?
 - Cuál es tu comida favorita?
 What is your favorite food?
 
+- Let's catch up tomorrow
+
 - Prefieres café o té?
 Do you prefer coffee or tea?
 
@@ -521,6 +523,61 @@ Say hi to your family for me!
 
 - ¿Cenamos palitos de pescado esta noche?
 Sall we have fishfingers tonight?
+
+
+TEMA DEL DIA (05-09-2026)
+
+¿Crees que el dinero puede comprar la felicidad, o solo comodidad?
+Do you think money can buy happiness, or just comfort?
+- Elijo a alguien a responder
+
+- Si tuvieras que renunciar a tu celular o a la comida chatarra por un mes, ¿cuál elegirías?
+If you had to give up your phone or junk food for a month, which would you choose?
+
+- ¿Cuál es ese hábito pequeño que ha cambiado tu vida más de lo que esperabas?
+What's that one small habit that's changed your life more than you expected?
+
+Interesting point, [Name]! I loved what you said. Now, I want to hear what [Another User] thinks.
+
+My answer:
+Creo que el dinero compra comodidad, no felicidad. Puede quitarte problemas, pero no te da paz mental si por dentro estás vacío.
+¿De qué sirve tener todo si no disfrutas ni un solo día?
+- I think money buys comfort, not happiness. It can take away problems, but it doesn't give you peace of mind if you're empty inside.
+What's the point of having everything if you don't enjoy a single day?
+
+- Esa es mi postura. ¿Alguien aquí piensa lo contrario?
+¿Alguien cree que el dinero sí es la clave de la felicidad? ¡Los escucho!
+That's my stance. Does anyone here think otherwise?
+Does anyone believe money really is the key to happiness? I'm listening!
+
+Frases utiles para el host (mantener la charla amena e interactuar con todos):
+
+- That's a great answer, thank you for sharing!
+Esa es una gran respuesta, ¡gracias por compartir!
+
+- I really like how you look at this, [Name].
+Me gusta mucho cómo ves esto, [Name].
+
+- What about you, [Name]? What's your take on this?
+¿Y tú, [Name]? ¿Cuál es tu opinión sobre esto?
+
+- That's a fair point. I hadn't thought about it that way.
+Es un buen punto. No lo había pensado de esa manera.
+
+- Let's hear from someone who hasn't spoken yet.
+Escuchemos a alguien que aún no ha hablado.
+
+- Does anyone want to add something to what [Name] just said?
+¿Alguien quiere agregar algo a lo que [Name] acaba de decir?
+
+- I love how different everyone's answers are tonight!
+¡Me encanta lo diferentes que son las respuestas de todos esta noche!
+
+- Alright, let's move on to the next question.
+Bien, pasemos a la siguiente pregunta.
+
+- Thank you all for joining today, this was a great conversation!
+Gracias a todos por unirse hoy, ¡fue una gran conversación!
 
 
 
