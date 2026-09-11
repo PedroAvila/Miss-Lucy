@@ -1,0 +1,526 @@
+CONJUGACIÓN DE VERBOS — a partir de las 500 primeras palabras
+================================================================
+
+Este archivo toma los verbos que aparecen en las primeras 500 entradas de
+historias-ingles-vocabulario.txt y los practica en 3 tiempos: Present Simple,
+Past Simple y Present Perfect. La IPA es la misma que ya tienes en ese archivo.
+
+TANDA 1: verbos de las entradas #1 a #150 (~35 verbos)
+
+--- CUÁNDO SE USA CADA TIEMPO ---
+
+- Present Simple: rutinas, hechos generales, verdades. "I burn wood every winter."
+  Forma: base (+ -s en 3ª persona: he/she/it burns)
+
+- Past Simple: una acción terminada, con un momento definido (ayer, in 2020, last night).
+  Forma regular: base + -ed (burned). Irregular: hay que memorizar la 2ª forma (went, saw, ate).
+
+- Present Perfect: una acción pasada SIN momento definido, o que sigue teniendo efecto
+  ahora. Es el que más cuesta porque en español muchas veces se traduce igual que el
+  pasado simple, pero en inglés NO son intercambiables.
+  Forma: have/has + participio (3ª forma)
+    "I burned the letter last night"   -> momento definido, Past Simple
+    "I have burned all the wood I had" -> sin momento definido, efecto ahora, Present Perfect
+
+Verbos irregulares: hay que memorizar las 3 formas (base - pasado - participio).
+Si ya tienes el verbo en verbos-irregulares.txt, aquí solo se referencia, no se repite.
+
+Cómo estudiar: lee la entrada en voz alta, tapa la traducción, y trata de generar tú
+mismo una cuarta oración en cada tiempo antes de seguir a la siguiente.
+
+================================================================
+
+1. commute(kəˈmjuːt) => viajar diariamente al trabajo   [#14]
+Base: commute | Pasado: commuted | Participio: commuted   (regular)
+- Present Simple
+    I commute to the city every day
+    Viajo a la ciudad todos los días
+    She commutes by train, not by car
+    Ella viaja en tren, no en carro
+    He commutes by bicycle every single day to work 
+- Past Simple
+    I commuted for two hours yesterday because of the traffic
+    Ayer viajé dos horas por el tráfico
+    She commuted for two hours yesterday because of the traffic 
+- Present Perfect
+    I have commuted by train for five years now
+    He viajado en tren durante cinco años hasta ahora
+    I have commuted by cicycle for five years now
+    He viajado en bicicleta por cinco años hasta ahora 
+
+2. upset(ʌpˈsɛt) => disgustar/afligir   [#18]
+Base: upset | Pasado: upset | Participio: upset   (irregular, las 3 formas son iguales)
+- Present Simple
+    Loud noises upset the baby
+    Los ruidos fuertes molestan al bebé
+    It upsets her when people are late
+    A ella le molesta cuando la gente llega tarde
+- Past Simple
+    The bad news upset me last night
+    Las malas noticias me afligieron anoche
+- Present Perfect
+    That comment has upset her all week
+    Ese comentario la ha afectado toda la semana
+
+3. blaze(bleɪz) => arder   [#19]
+Base: blaze | Pasado: blazed | Participio: blazed   (regular)
+- Present Simple
+    The fire blazes all night in winter
+    El fuego arde toda la noche en invierno
+- Past Simple
+    The fire blazed out of control within minutes
+    El fuego ardió sin control en minutos
+- Present Perfect
+    The bonfire has blazed for three hours already
+    La hoguera ha ardido durante tres horas ya
+
+4. extinguish(ɪkˈstɪŋɡwɪʃ) => extinguir/apagar   [#24]
+Base: extinguish | Pasado: extinguished | Participio: extinguished   (regular)
+- Present Simple
+    Firefighters extinguish fires every day
+    Los bomberos apagan incendios todos los días
+- Past Simple
+    They extinguished the fire before it reached the house
+    Apagaron el fuego antes de que llegara a la casa
+- Present Perfect
+    The fire brigade has extinguished the building fire
+    El cuerpo de bomberos ha extinguido el incendio del edificio
+
+5. burn(bɜːn) => quemar   [#25]
+Base: burn | Pasado: burned/burnt | Participio: burned/burnt   (irregular, forma doble)
+- Present Simple
+    I burn the old papers every autumn
+    Quemo los papeles viejos cada otoño
+    She burns the toast almost every morning
+    Ella quema el pan tostado casi todas las mañanas
+- Past Simple
+    I got a bad burn on my hand while cooking dinner
+    Me quemé la mano mientras cocinaba la cena
+- Present Perfect
+    I have burned all the wood we had
+    He quemado toda la leña que teníamos
+
+6. guess(ɡɛs) => adivinar   [#27]
+Base: guess | Pasado: guessed | Participio: guessed   (regular)
+- Present Simple
+    I guess we should leave now before it gets dark
+    Supongo que deberíamos irnos antes de que oscurezca
+- Past Simple
+    I guessed the answer correctly on the first try
+    Adiviné la respuesta correctamente al primer intento
+- Present Perfect
+    I have guessed every answer right so far
+    He adivinado cada respuesta correctamente hasta ahora
+
+7. beat(biːt) => ganar/vencer   [#28]
+Base: beat | Pasado: beat | Participio: beaten   (irregular)
+- Present Simple
+    Our team beats them almost every year
+    Nuestro equipo les gana casi todos los años
+- Past Simple
+    Our team beat them in the championship game
+    Nuestro equipo les ganó en el partido del campeonato
+- Present Perfect
+    She has beaten all her competitors this season
+    Ella ha vencido a todos sus competidores esta temporada
+
+8. want(wɒnt) => querer   [#37]
+Base: want | Pasado: wanted | Participio: wanted   (regular)
+- Present Simple
+    I want to travel to Europe next summer
+    Quiero viajar a Europa el próximo verano
+    She wants a cup of coffee before the meeting starts
+    Ella quiere un café antes de que empiece la reunión
+- Past Simple
+    I wanted to call you yesterday, but I forgot
+    Quise llamarte ayer, pero se me olvidó
+- Present Perfect
+    I have wanted to visit Japan for years
+    He querido visitar Japón desde hace años
+
+9. tend(tɛnd) => tender a/soler hacer algo   [#38]
+Base: tend | Pasado: tended | Participio: tended   (regular)
+- Present Simple
+    I tend to drink tea instead of coffee in the morning
+    Suelo tomar té en vez de café por la mañana
+    He tends to get nervous before speaking in public
+    Él suele ponerse nervioso antes de hablar en público
+- Past Simple
+    She tended to agree with him during the whole debate
+    Ella tendió a estar de acuerdo con él durante todo el debate
+- Present Perfect
+    Prices have tended to go up all year
+    Los precios han tendido a subir todo el año
+
+10. stress(strɛs) => recalcar/subrayar la importancia   [#39]
+Base: stress | Pasado: stressed | Participio: stressed   (regular)
+- Present Simple
+    I stress the importance of arriving on time
+    Recalco la importancia de llegar a tiempo
+- Past Simple
+    The teacher stressed the importance of practice yesterday
+    El profesor recalcó ayer la importancia de practicar
+- Present Perfect
+    She has stressed this point in every meeting
+    Ella ha recalcado este punto en cada reunión
+
+11. blur(blɜː) => difuminar/hacer borroso   [#40]
+Base: blur | Pasado: blurred | Participio: blurred   (regular)
+- Present Simple
+    Tears often blur her vision when she reads sad stories
+    Las lágrimas suelen empañarle la vista cuando lee historias tristes
+- Past Simple
+    Tears began to blur her vision during the movie
+    Las lágrimas empezaron a empañarle la vista durante la película
+- Present Perfect
+    Time has blurred the memory of that day
+    El tiempo ha difuminado el recuerdo de ese día
+
+12. nest(nɛst) => anidar   [#41]
+Base: nest | Pasado: nested | Participio: nested   (regular)
+- Present Simple
+    Eagles nest on top of the mountain every spring
+    Las águilas anidan en la cima de la montaña cada primavera
+- Past Simple
+    The bird nested in our garden last year
+    El pájaro anidó en nuestro jardín el año pasado
+- Present Perfect
+    A pair of birds has nested under our roof
+    Un par de pájaros ha anidado bajo nuestro techo
+
+13. forecast(ˈfɔːkɑːst) => pronosticar   [#46]
+Base: forecast | Pasado: forecast/forecasted | Participio: forecast/forecasted   (irregular, forma doble)
+- Present Simple
+    The weather forecast says it will rain tomorrow
+    El pronóstico del tiempo dice que lloverá mañana
+    Economists forecast growth in the tech sector every year
+    Los economistas pronostican crecimiento en el sector tecnológico cada año
+- Past Simple
+    Our sales forecast was very accurate last quarter
+    Nuestro pronóstico de ventas fue muy preciso el trimestre pasado
+- Present Perfect
+    Experts have forecast a mild winter this year
+    Los expertos han pronosticado un invierno suave este año
+
+14. concern(kənˈsɜːn) => preocupar   [#47]
+Base: concern | Pasado: concerned | Participio: concerned   (regular)
+- Present Simple
+    This new policy doesn't concern you
+    Esta nueva política no te concierne
+- Past Simple
+    The report concerned the whole team last week
+    El informe preocupó a todo el equipo la semana pasada
+- Present Perfect
+    Pollution has concerned local residents for years
+    La contaminación ha preocupado a los residentes locales durante años
+
+15. face(feɪsɪŋ) => enfrentar   [#50]
+Base: face | Pasado: faced | Participio: faced   (regular)
+- Present Simple
+    The company faces serious financial challenges every year
+    La empresa enfrenta serios problemas financieros cada año
+    Our apartment faces the ocean
+    Nuestro apartamento da hacia el mar
+- Past Simple
+    She faced her fears for the first time yesterday
+    Ella enfrentó sus miedos por primera vez ayer
+- Present Perfect
+    We have faced many challenges this year
+    Hemos enfrentado muchos desafíos este año
+
+16. grow(ˈɡrəʊɪŋ) => crecer   [#51]
+Base: grow | Pasado: grew | Participio: grown   (irregular)
+- Present Simple
+    Children grow so fast
+    Los niños crecen muy rápido
+    Our startup grows a little every month
+    Nuestra startup crece un poco cada mes
+- Past Simple
+    Interest in renewable energy grew a lot last year
+    El interés en energía renovable creció mucho el año pasado
+- Present Perfect
+    Our small startup has grown into a successful company
+    Nuestra pequeña startup ha crecido hasta convertirse en una empresa exitosa
+
+17. adjust(əˈʤʌst) => adaptarse/acomodar   [#61]
+Base: adjust | Pasado: adjusted | Participio: adjusted   (regular)
+- Present Simple
+    Some people find it difficult to adjust to cultural differences
+    A algunas personas les cuesta adaptarse a las diferencias culturales
+- Past Simple
+    She adjusted her spending habits after starting her new budget
+    Ella ajustó sus hábitos de gasto después de empezar su nuevo presupuesto
+- Present Perfect
+    I have adjusted to the new schedule already
+    Ya me he adaptado al nuevo horario
+
+18. cause(ˈkɔːzɪz) => causar   [#63]
+Base: cause | Pasado: caused | Participio: caused   (regular)
+- Present Simple
+    Heavy rain often causes traffic delays in the city
+    La lluvia fuerte suele causar retrasos en el tráfico de la ciudad
+- Past Simple
+    The storm caused a lot of damage last week
+    La tormenta causó muchos daños la semana pasada
+- Present Perfect
+    That mistake has caused a lot of problems
+    Ese error ha causado muchos problemas
+
+19. influence(ˈɪnfluəns) => influir en/influenciar   [#67]
+Base: influence | Pasado: influenced | Participio: influenced   (regular)
+- Present Simple
+    Social media can easily influence how young people see the world
+    Las redes sociales pueden influir fácilmente en cómo los jóvenes ven el mundo
+- Past Simple
+    Her parents influenced her career choice a lot
+    Sus padres influyeron mucho en la elección de su carrera
+- Present Perfect
+    Her teacher has influenced her decision to study medicine
+    Su profesora ha influido en su decisión de estudiar medicina
+
+20. wash(wɒʃ) => lavar   [#70]
+Base: wash | Pasado: washed | Participio: washed   (regular)
+- Present Simple
+    I wash my hands before dinner every day
+    Me lavo las manos antes de cenar todos los días
+    She washes her hair every morning
+    Ella se lava el pelo todas las mañanas
+- Past Simple
+    I washed the car yesterday afternoon
+    Lavé el carro ayer por la tarde
+- Present Perfect
+    I have already washed all the dishes
+    Ya he lavado todos los platos
+
+21. rise(raɪz) => elevarse/subir   [#73]
+Base: rise | Pasado: rose | Participio: risen   (irregular)
+- Present Simple
+    The sun rises at 6:00 AM every day
+    El sol sale a las 6:00 AM todos los días
+    Prices rise every year because of inflation
+    Los precios suben cada año por la inflación
+- Past Simple
+    Prices rose sharply last month
+    Los precios subieron drásticamente el mes pasado
+- Present Perfect
+    Prices have risen a lot this year
+    Los precios han subido mucho este año
+
+22. give(ɡɪv) => dar   [#76]
+Base: give | Pasado: gave | Participio: given   (irregular)
+- Present Simple
+    I always give my best effort at work
+    Siempre doy lo mejor de mí en el trabajo
+- Past Simple
+    She gave him a hand with the heavy boxes yesterday
+    Ella le ayudó con las cajas pesadas ayer
+- Present Perfect
+    I have given her the message already
+    Ya le he dado el mensaje
+
+23. say(sɛd) => decir   [#78]
+Base: say | Pasado: said | Participio: said   (irregular)
+- Present Simple
+    She always says the same thing before a trip
+    Ella siempre dice lo mismo antes de un viaje
+- Past Simple
+    She said she would be late for the meeting
+    Ella dijo que llegaría tarde a la reunión
+- Present Perfect
+    They have said the same thing three times already
+    Ya han dicho lo mismo tres veces
+
+24. blow(bləʊ) => soplar   [#80]
+Base: blow | Pasado: blew | Participio: blown   (irregular)
+- Present Simple
+    The wind blows hard along this coast every winter
+    El viento sopla fuerte por esta costa cada invierno
+- Past Simple
+    The wind started to blow hard as the storm approached
+    El viento empezó a soplar fuerte cuando la tormenta se acercaba
+- Present Perfect
+    The wind has blown all night
+    El viento ha soplado toda la noche
+
+25. sit(sæt) => sentarse   [#85]
+Base: sit | Pasado: sat | Participio: sat   (irregular)
+- Present Simple
+    The cat usually sits on the windowsill
+    El gato suele sentarse en el alféizar
+- Past Simple
+    We sat by the fireplace to stay warm
+    Nos sentamos junto a la chimenea para calentarnos
+- Present Perfect
+    She has sat through the whole meeting without saying a word
+    Ella se ha sentado durante toda la reunión sin decir palabra
+
+26. laugh(lɑːf) => reírse   [#88]
+Base: laugh | Pasado: laughed | Participio: laughed   (regular)
+- Present Simple
+    She laughs at almost everything
+    Ella se ríe de casi todo
+- Past Simple
+    The joke was so funny that I couldn't stop laughing
+    El chiste fue tan gracioso que no pude parar de reírme
+- Present Perfect
+    I have laughed so much today
+    Me he reído muchísimo hoy
+
+27. let(lɛt) => dejar/permitir   [#93]
+Base: let | Pasado: let | Participio: let   (irregular, las 3 formas son iguales)
+- Present Simple
+    My parents let me go out with friends
+    Mis padres me dejan salir con amigos
+- Past Simple
+    My parents let me go to the party last night
+    Mis padres me dejaron ir a la fiesta anoche
+- Present Perfect
+    They have never let me down
+    Nunca me han fallado
+
+28. see(siːn) => ver   [#97]
+Base: see | Pasado: saw | Participio: seen   (irregular)
+- Present Simple
+    I see him at the gym almost every day
+    Lo veo en el gimnasio casi todos los días
+- Past Simple
+    I saw that movie last weekend
+    Vi esa película el fin de semana pasado
+- Present Perfect
+    I have seen that movie three times already
+    Ya he visto esa película tres veces
+
+29. sink(sɪŋk) => hundirse   [#110]
+Base: sink | Pasado: sank | Participio: sunk   (irregular)
+- Present Simple
+    The sun sinks below the horizon every evening
+    El sol se hunde bajo el horizonte todas las tardes
+- Past Simple
+    The boat sank slowly after hitting the rock
+    El bote se hundió lentamente después de chocar con la roca
+- Present Perfect
+    The old ship has sunk to the bottom of the ocean
+    El viejo barco se ha hundido en el fondo del océano
+
+30. apologize(əˈpɒləʤaɪz) => disculparse   [#116]
+Base: apologize | Pasado: apologized | Participio: apologized   (regular)
+- Present Simple
+    He always apologizes when he makes a mistake
+    Él siempre se disculpa cuando comete un error
+- Past Simple
+    He finally apologized to his sister yesterday
+    Finalmente se disculpó con su hermana ayer
+- Present Perfect
+    I have already apologized for being late
+    Ya me he disculpado por llegar tarde
+
+31. hang(hæŋ) => colgar   [#119]
+Base: hang | Pasado: hung | Participio: hung   (irregular)
+- Present Simple
+    I hang my coat in the closet every day
+    Cuelgo mi abrigo en el clóset todos los días
+- Past Simple
+    She hung the painting on the office wall yesterday
+    Ella colgó el cuadro en la pared de la oficina ayer
+- Present Perfect
+    I have already hung all the clothes to dry
+    Ya he colgado toda la ropa para secar
+
+32. bring(brɪŋ) => traer   [#122]
+Base: bring | Pasado: brought | Participio: brought   (irregular)
+- Present Simple
+    She always brings a gift when she visits
+    Ella siempre trae un regalo cuando visita
+- Past Simple
+    Can you bring me a glass of water? -> He brought it right away
+    ¿Me puedes traer un vaso de agua? -> Lo trajo enseguida
+- Present Perfect
+    The new job has brought many opportunities for her
+    El nuevo trabajo le ha traído muchas oportunidades
+
+33. challenge(ˈʧælɪnʤ) => desafiar/retar   [#124]
+Base: challenge | Pasado: challenged | Participio: challenged   (regular)
+- Present Simple
+    I challenge you to finish this project before the deadline
+    Te desafío a terminar este proyecto antes de la fecha límite
+- Past Simple
+    She challenged him to a race last weekend
+    Ella lo retó a una carrera el fin de semana pasado
+- Present Perfect
+    This project has challenged the whole team
+    Este proyecto ha desafiado a todo el equipo
+
+34. discover(dɪˈskʌvə) => descubrir   [#129]
+Base: discover | Pasado: discovered | Participio: discovered   (regular)
+- Present Simple
+    Scientists discover new species every year
+    Los científicos descubren nuevas especies cada año
+- Past Simple
+    He discovered that he had a long-lost cousin in Italy
+    Descubrió que tenía un primo perdido en Italia
+- Present Perfect
+    Scientists have discovered a new planet
+    Los científicos han descubierto un nuevo planeta
+
+35. mean(miːn) => significar   [#136]
+Base: mean | Pasado: meant | Participio: meant   (irregular)
+- Present Simple
+    This word means something different in British English
+    Esta palabra significa algo distinto en inglés británico
+- Past Simple
+    What she said meant a lot to me
+    Lo que ella dijo significó mucho para mí
+- Present Perfect
+    That gesture has meant a lot to the whole family
+    Ese gesto ha significado mucho para toda la familia
+
+36. become(bɪˈkʌm) => llegar a ser/convertirse en   [#138]
+Base: become | Pasado: became | Participio: become   (irregular)
+- Present Simple
+    It becomes very cold here every winter
+    Aquí hace mucho frío todos los inviernos
+- Past Simple
+    He became famous after his first movie
+    Se hizo famoso después de su primera película
+- Present Perfect
+    She has become a doctor after years of studying
+    Ella se ha convertido en doctora después de años de estudio
+
+37. explain(ɪkˈspleɪn) => explicar   [#140]
+Base: explain | Pasado: explained | Participio: explained   (regular)
+- Present Simple
+    The teacher explains the rules every class
+    El profesor explica las reglas cada clase
+- Past Simple
+    The teacher explained the rules of the game yesterday
+    El profesor explicó las reglas del juego ayer
+- Present Perfect
+    I have already explained this twice
+    Ya he explicado esto dos veces
+
+38. approach(əˈprəʊʧ) => acercarse/abordar   [#141]
+Base: approach | Pasado: approached | Participio: approached   (regular)
+- Present Simple
+    The deer runs away whenever it sees a hunter approach
+    El ciervo huye cada vez que ve a un cazador acercarse
+- Past Simple
+    I approached my boss about a salary increase yesterday
+    Abordé a mi jefe sobre un aumento de salario ayer
+- Present Perfect
+    We have approached this problem from every angle
+    Hemos abordado este problema desde todos los ángulos
+
+39. wear(ˈweərɪŋ) => llevar puesto   [#150]
+Base: wear | Pasado: wore | Participio: worn   (irregular)
+- Present Simple
+    She wears a coat every winter
+    Ella lleva un abrigo cada invierno
+- Past Simple
+    I wore my new boots to the party last night
+    Llevé mis botas nuevas a la fiesta anoche
+- Present Perfect
+    I have worn this jacket for five years
+    He usado esta chaqueta durante cinco años
+
+================================================================
+Siguiente tanda: verbos de las entradas #151 a #300, cuando quieras continuar.

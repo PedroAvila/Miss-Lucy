@@ -4435,3 +4435,98 @@
 - We need to buy more nappies for the baby.
 - She changed the baby's nappy before the nap.
 - Nappies come in different sizes depending on age.
+
+suppose(səˈpəʊz) => suponer 
+- I suppose you're right about the schedule.
+- What do you suppose happened to the missing keys?
+- Let's suppose the plan fails, what's our backup?
+
+odd(ɒd) => raro/extraño
+- It's odd that she hasn't called back yet.
+- He always wears one odd sock on purpose.
+- There's an odd number of chairs left over.
+
+brought(brɔːt) => traido/trajo 
+- She brought her sister to the party last night.
+- The rain brought a sudden drop in temperature.
+- His comment brought back memories of school.
+
+against(əˈɡɛnst) => contra/en contra de
+- The ladder was leaning against the wall.
+- They voted against the new proposal.
+- It's against the rules to smoke here.
+
+accuracy(ˈækjərəsi) => precisión/exactitud/fidelidad
+- The report was praised for its accuracy.
+- We need to check the accuracy of these figures.
+- She hit the target with impressive accuracy.
+
+dumb(dʌm) => mudo
+- I felt dumb for forgetting his name.
+- That was a dumb mistake to make twice.
+- He was struck dumb by the news.
+
+shall(ʃæl) => debería
+- Shall we meet at the usual place tomorrow?
+- You shall not enter without permission.
+- I shall finish the report by Friday.
+
+headache(ˈhɛdeɪk) => dolor de cabeza
+- She took an aspirin for her headache.
+- Loud noise gives me a terrible headache.
+- Dealing with the paperwork was a real headache.
+
+understandably(ˌʌndəˈstændəbli) => es comprensible que...
+- She was, understandably, upset about the delay.
+- Understandably, he refused to talk about it right away.
+- The staff were understandably nervous before the inspection.
+
+push(pʊʃ) => empujar/abrirse camino/empujón
+- Give the door a push to open it.
+- He had to push through the crowd to leave.
+- Her encouragement gave me the push I needed.
+
+indoors(ˌɪnˈdɔːz) => dentro
+- Let's stay indoors, it's raining heavily.
+- The kids played indoors all afternoon.
+- Smoking indoors is not allowed here.
+
+altogether(ˌɔːltəˈɡɛðə) => en total/por completo/en general
+- The trip cost three hundred dollars altogether.
+- He stopped smoking altogether last year.
+- Altogether, it was a successful event.
+
+gentleman(ˈʤɛntᵊlmən) => caballero
+- The old gentleman tipped his hat politely.
+- A true gentleman always keeps his word.
+- The gentleman at the counter asked for directions.
+
+claim(kleɪm) => afirmar/pretender/reclamar/afirmación/pretensión
+- She claims to have seen the accident happen.
+- He filed a claim with the insurance company.
+- Nobody can claim that title without proof.
+
+degrading(dɪˈɡreɪdɪŋ) => degradante
+- The working conditions were considered degrading.
+- He refused to do such a degrading task.
+- The comments were degrading to the entire team.
+
+acquaintance(əˈkweɪntᵊns) => conocido/conocida
+- He's just an acquaintance from work, not a close friend.
+- I made her acquaintance at last year's conference.
+- Over time, the acquaintance grew into a friendship.
+
+therefore(ˈðeəfɔː) => por lo tanto
+- She missed the deadline; therefore, the project was delayed.
+- The store was closed, therefore we went elsewhere.
+- He hadn't studied, therefore he failed the exam.
+
+certainly(ˈsɜːtᵊnli) => por cierto/por supuesto
+- She will certainly be at the meeting tomorrow.
+- Certainly, I can help you with that.
+- This is certainly the best option we have.
+
+spicy(ˈspaɪsi) => especiado/picante
+- The curry was too spicy for my taste.
+- She loves adding spicy sauce to every dish.
+- That was a spicy comment to make in public.
