@@ -334,3 +334,316 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 - "I'm not sure how to explain it exactly, but it's something like [descripción]."
   /aɪm nɒt ʃʊə haʊ tʊ ɪkˈspleɪn ɪt ɪgˈzæktli bət ɪts ˈsʌmθɪŋ laɪk [...]/
   *(No estoy seguro de cómo explicarlo exactamente, pero es algo como [descripción].)*
+
+## Día 8 — 2026-09-15: A problem you had this week (nivel B1)
+*(Un problema que tuviste esta semana)*
+
+**Preguntas que probablemente te hagan:**
+1. What happened this week that bothered you?
+   /wɒt ˈhæpənd ðɪs wiːk ðət bɪˈðəd ju/
+   *(¿Qué pasó esta semana que te molestó?)*
+2. How did you feel about it?
+   /haʊ dɪd ju fiːl əˈbaʊt ɪt/
+   *(¿Cómo te sentiste al respecto?)*
+3. What did you do to solve it?
+   /wɒt dɪd ju du tə sɒlv ɪt/
+   *(¿Qué hiciste para resolverlo?)*
+4. Did it work out in the end?
+   /dɪd ɪt wɜːk aʊt ɪn ði end/
+   *(¿Se resolvió al final?)*
+5. What would you do differently next time?
+   /wɒt wʊd ju du ˈdɪfrəntli nekst taɪm/
+   *(¿Qué harías diferente la próxima vez?)*
+6. Has something similar happened to you before?
+   /həz ˈsʌmθɪŋ ˈsɪmɪlə ˈhæpənd tə ju bɪˈfɔː/
+   *(¿Te ha pasado algo similar antes?)*
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "This week I had an issue with [situación], and it really bothered me."
+   /ðɪs wiːk aɪ həd ən ˈɪʃuː wɪð [...] ənd ɪt ˈrɪəli bɪˈðəd miː/
+2. "I felt [frustrated/stressed/annoyed], because I didn't expect it."
+   /aɪ felt [...] bɪˈkɒz aɪ ˈdɪdnt ɪkˈspekt ɪt/
+3. "I tried to [acción] first, and if that didn't work, I [otra acción]."
+   /aɪ traɪd tə [...] fɜːst ənd ɪf ðət ˈdɪdnt wɜːk aɪ [...]/
+4. "Yes, it worked out in the end." / "No, I'm still dealing with it."
+   /jes ɪt wɜːkt aʊt ɪn ði end/ · /nəʊ aɪm stɪl ˈdiːlɪŋ wɪð ɪt/
+5. "Next time I'd try to [acción diferente], instead of [lo que hiciste]."
+   /nekst taɪm aɪd traɪ tə [...] ɪnˈsted əv [...]/
+6. "Yes, something similar happened a while ago, but this time it was worse."
+   /jes ˈsʌmθɪŋ ˈsɪmɪlə ˈhæpənd ə waɪl əˈgəʊ bət ðɪs taɪm ɪt wəz wɜːs/
+
+**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
+- "It really bothered me." / "I felt [adjetivo], because..."
+  /ɪt ˈrɪəli bɪˈðəd miː/ · /aɪ felt [...] bɪˈkɒz/
+- "I tried to..., and if that didn't work, I..." (secuencia de intentos)
+  /aɪ traɪd tə ənd ɪf ðət ˈdɪdnt wɜːk aɪ/
+- "It worked out in the end." / "I'm still dealing with it."
+  /ɪt wɜːkt aʊt ɪn ði end/ · /aɪm stɪl ˈdiːlɪŋ wɪð ɪt/
+- "Next time I'd... instead of..." (aprendizaje de la experiencia)
+  /nekst taɪm aɪd ɪnˈsted əv/
+
+**Frase de rescate:**
+- "I don't know the exact word for it, but it's like when [descripción de la situación]."
+  /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd fər ɪt bət ɪts laɪk wen [...]/
+  *(No sé la palabra exacta, pero es como cuando [descripción de la situación].)*
+
+## Día 9 — 2026-09-16: Artificial intelligence in everyday life (nivel B2)
+*(La inteligencia artificial en la vida diaria)*
+
+**Preguntas que probablemente te hagan:**
+1. Do you use artificial intelligence in your daily life? What for?
+   /də ju juːz ˌɑːtɪˈfɪʃəl ɪnˈtelɪdʒəns ɪn jə ˈdeɪli laɪf wɒt fɔː/
+   *(¿Usas inteligencia artificial en tu vida diaria? ¿Para qué?)*
+   → Practica presente simple + "for + gerundio".
+2. Has AI changed the way you work or study?
+   /həz ˌeɪˈaɪ tʃeɪndʒd ðə weɪ ju wɜːk ɔː ˈstʌdi/
+   *(¿La IA ha cambiado la forma en que trabajas o estudias?)*
+   → Practica Present Perfect.
+3. Do you think AI will replace some jobs, or will it just change them?
+   /də ju θɪŋk ˌeɪˈaɪ wɪl rɪˈpleɪs sʌm dʒɒbz ɔː wɪl ɪt dʒʌst tʃeɪndʒ ðəm/
+   *(¿Crees que la IA reemplazará algunos trabajos, o solo los cambiará?)*
+   → Practica futuro con "will" y opinión.
+4. What worries you the most about AI? And what excites you the most?
+   /wɒt ˈwʌriz ju ðə məʊst əˈbaʊt ˌeɪˈaɪ ənd wɒt ɪkˈsaɪts ju ðə məʊst/
+   *(¿Qué es lo que más te preocupa de la IA? ¿Y lo que más te emociona?)*
+   → Practica vocabulario de opinión y contraste.
+5. If AI could do your job perfectly, what would you do with your time?
+   /ɪf ˌeɪˈaɪ kəd du jə dʒɒb ˈpɜːfɪktli wɒt wʊd ju du wɪð jə taɪm/
+   *(Si la IA pudiera hacer tu trabajo perfectamente, ¿qué harías con tu tiempo?)*
+   → Practica Segundo Condicional.
+6. Do you think people should be told when they're talking to a machine?
+   /də ju θɪŋk ˈpiːpl ʃəd bi təʊld wen ðeə ˈtɔːkɪŋ tʊ ə məˈʃiːn/
+   *(¿Crees que se le debería avisar a la gente cuando está hablando con una máquina?)*
+   → Practica pasiva con modal ("should be told").
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "I use it almost every day — mainly for writing code and for practicing my English."
+   /aɪ juːz ɪt ˈɔːlməʊst ˈevri deɪ ˈmeɪnli fə ˈraɪtɪŋ kəʊd ənd fə ˈpræktɪsɪŋ maɪ ˈɪŋglɪʃ/
+2. "Yes, it's completely changed the way I work. I've become much faster, but I still have to check everything."
+   /jes ɪts kəmˈpliːtli tʃeɪndʒd ðə weɪ aɪ wɜːk aɪv bɪˈkʌm mʌtʃ ˈfɑːstə bət aɪ stɪl həv tə tʃek ˈevrɪθɪŋ/
+3. "I think it'll replace some tasks rather than whole jobs, at least for now."
+   /aɪ θɪŋk ɪtl rɪˈpleɪs sʌm tɑːsks ˈrɑːðə ðən həʊl dʒɒbz ət liːst fə naʊ/
+4. "What worries me is that people trust it too much. On the other hand, it's amazing how much it helps you learn."
+   /wɒt ˈwʌriz miː ɪz ðət ˈpiːpl trʌst ɪt tuː mʌtʃ ɒn ði ˈʌðə hænd ɪts əˈmeɪzɪŋ haʊ mʌtʃ ɪt helps ju lɜːn/
+5. "If AI could do my job perfectly, I'd spend more time [with my family / learning something new]."
+   /ɪf ˌeɪˈaɪ kəd du maɪ dʒɒb ˈpɜːfɪktli aɪd spend mɔː taɪm [...]/
+6. "Definitely. I think people have the right to know who — or what — they're talking to."
+   /ˈdefɪnətli aɪ θɪŋk ˈpiːpl həv ðə raɪt tə nəʊ huː ɔː wɒt ðeə ˈtɔːkɪŋ tuː/
+
+**Vocabulario útil:**
+- a tool, not a replacement /ə tuːl nɒt ə rɪˈpleɪsmənt/ — *una herramienta, no un reemplazo*
+- to rely on /tə rɪˈlaɪ ɒn/ — *depender de*
+- time-consuming /ˈtaɪm kənˌsjuːmɪŋ/ — *que consume mucho tiempo*
+- double-check /ˈdʌbl tʃek/ — *verificar dos veces*
+- misleading /mɪsˈliːdɪŋ/ — *engañoso*
+
+**Estructuras B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "It's completely changed the way I..." (Present Perfect + resultado)
+  /ɪts kəmˈpliːtli tʃeɪndʒd ðə weɪ aɪ/
+- "...rather than..." (contraste preciso)
+  /ˈrɑːðə ðən/
+- "What worries me is that..." (cleft sentence para enfatizar)
+  /wɒt ˈwʌriz miː ɪz ðət/
+- "People should be told..." (pasiva con modal)
+  /ˈpiːpl ʃəd bi təʊld/
+
+**Frase de rescate:**
+- "I don't know the technical word, but it's a program that learns from examples."
+  /aɪ dəʊnt nəʊ ðə ˈteknɪkl wɜːd bət ɪts ə ˈprəʊgræm ðət lɜːnz frəm ɪgˈzɑːmplz/
+  *(No sé la palabra técnica, pero es un programa que aprende de ejemplos.)*
+
+## Día 10 — 2026-09-18: The best and worst advice you've ever received (nivel B1/B2)
+*(El mejor y el peor consejo que has recibido — tema para sala grupal donde TÚ eres el host)*
+
+> Este tema está diseñado para que nunca te quedes callado: cada bloque te da algo
+> que decir sin pensar. El orden es: abrir → preguntar → reaccionar → pasar el turno → cerrar.
+
+### 1. Apertura (los primeros 60 segundos, apréndetelos de memoria)
+- "Hey everyone, welcome in! Grab a seat, we're just getting started."
+  /heɪ ˈevriwʌn ˈwelkəm ɪn græb ə siːt wɪə dʒʌst ˈgetɪŋ ˈstɑːtɪd/
+  *(¡Hola a todos, bienvenidos! Acomódense, apenas estamos empezando.)*
+- "Quick intro before we dive in: my name's Pedro, I'm from Peru, and I've been learning English for about a year and a half."
+  /kwɪk ˈɪntrəʊ bɪˈfɔː wi daɪv ɪn maɪ neɪmz ˈpedrəʊ aɪm frəm pəˈruː ənd aɪv bɪn ˈlɜːnɪŋ ˈɪŋglɪʃ fər əˈbaʊt ə jɪər ənd ə hɑːf/
+  *(Una intro rápida antes de empezar: me llamo Pedro, soy de Perú y llevo como año y medio aprendiendo inglés.)*
+- "Today's topic is: the best and the worst advice you've ever received."
+  /təˈdeɪz ˈtɒpɪk ɪz ðə best ənd ðə wɜːst ədˈvaɪs juːv ˈevə rɪˈsiːvd/
+  *(El tema de hoy es: el mejor y el peor consejo que han recibido.)*
+- "There's no pressure here — mistakes are totally fine, that's why we're here."
+  /ðeəz nəʊ ˈpreʃə hɪə mɪsˈteɪks ə ˈtəʊtəli faɪn ðæts waɪ wɪə hɪə/
+  *(Aquí no hay presión, los errores están bien, para eso estamos.)*
+- "Let's do a quick round: just your name and where you're from."
+  /lets du ə kwɪk raʊnd dʒʌst jə neɪm ənd weə jʊə frɒm/
+  *(Hagamos una ronda rápida: solo tu nombre y de dónde eres.)*
+
+### 2. Preguntas principales (lánzalas una por una, no todas juntas)
+1. What's the best advice anyone has ever given you?
+   /wɒts ðə best ədˈvaɪs ˈeniwʌn həz ˈevə ˈgɪvn ju/
+   *(¿Cuál es el mejor consejo que alguien te ha dado?)*
+   → Present Perfect.
+2. Who gave it to you, and how old were you?
+   /huː geɪv ɪt tə ju ənd haʊ əʊld wə ju/
+   *(¿Quién te lo dio y cuántos años tenías?)*
+   → Pasado simple.
+3. What's the worst advice you've ever followed?
+   /wɒts ðə wɜːst ədˈvaɪs juːv ˈevə ˈfɒləʊd/
+   *(¿Cuál es el peor consejo que has seguido?)*
+4. Do you think advice from older people still works today?
+   /də ju θɪŋk ədˈvaɪs frəm ˈəʊldə ˈpiːpl stɪl wɜːks təˈdeɪ/
+   *(¿Crees que los consejos de la gente mayor siguen funcionando hoy?)*
+   → Opinión + contraste.
+5. If you could go back and give advice to your younger self, what would you say?
+   /ɪf ju kʊd gəʊ bæk ənd gɪv ədˈvaɪs tə jə ˈjʌŋgə self wɒt wʊd ju seɪ/
+   *(Si pudieras regresar y darle un consejo a tu yo más joven, ¿qué le dirías?)*
+   → Segundo Condicional. **Esta es la pregunta estrella, guárdala para el final.**
+6. Is there any advice you give people, but you don't follow yourself?
+   /ɪz ðər ˈeni ədˈvaɪs ju gɪv ˈpiːpl bət ju dəʊnt ˈfɒləʊ jɔːˈself/
+   *(¿Hay algún consejo que das pero que tú no sigues?)*
+   → Pregunta divertida, suele soltar risas y hacer hablar a todos.
+
+**Tus propias respuestas (prepáralas, el host también contesta):**
+1. "The best advice I've ever gotten is: don't compare your chapter one to someone else's chapter ten."
+   /ðə best ədˈvaɪs aɪv ˈevə ˈgɒtn ɪz dəʊnt kəmˈpeə jə ˈtʃæptə wʌn tə ˈsʌmwʌn elsɪz ˈtʃæptə ten/
+2. "My dad told me that when I was a teenager, and it took me years to understand it."
+   /maɪ dæd təʊld miː ðæt wen aɪ wəz ə ˈtiːneɪdʒə ənd ɪt tʊk miː jɪəz tʊ ˌʌndəˈstænd ɪt/
+3. "The worst advice I followed was 'just wait and see' — sometimes waiting is the problem."
+   /ðə wɜːst ədˈvaɪs aɪ ˈfɒləʊd wəz dʒʌst weɪt ənd siː ˈsʌmtaɪmz ˈweɪtɪŋ ɪz ðə ˈprɒbləm/
+5. "If I could talk to my younger self, I'd say: start speaking English sooner, don't wait until you feel ready."
+   /ɪf aɪ kʊd tɔːk tə maɪ ˈjʌŋgə self aɪd seɪ stɑːt ˈspiːkɪŋ ˈɪŋglɪʃ ˈsuːnə dəʊnt weɪt ənˈtɪl ju fiːl ˈredi/
+
+### 3. Frases de host para NO quedarte callado
+**Pasar el turno a alguien:**
+- "What about you, [Name]? I'd love to hear your take."
+  /wɒt əˈbaʊt ju [...] aɪd lʌv tə hɪə jə teɪk/
+- "[Name], you've been quiet — no pressure, but what do you think?"
+  /[...] juːv bɪn ˈkwaɪət nəʊ ˈpreʃə bət wɒt də ju θɪŋk/
+- "Let's hear from someone who just joined. Welcome in, what's your name?"
+  /lets hɪə frəm ˈsʌmwʌn hu dʒʌst dʒɔɪnd ˈwelkəm ɪn wɒts jə neɪm/
+- "Anyone want to jump in on that?"
+  /ˈeniwʌn wɒnt tə dʒʌmp ɪn ɒn ðæt/
+- "Let's go one by one so nobody talks over anyone."
+  /lets gəʊ wʌn baɪ wʌn səʊ ˈnəʊbədi tɔːks ˈəʊvər ˈeniwʌn/
+
+**Reaccionar a lo que dicen (nunca dejes una respuesta en silencio):**
+- "That's such a good point."  /ðæts sʌtʃ ə gʊd pɔɪnt/
+- "Oh, I love that. I've never thought about it that way."
+  /əʊ aɪ lʌv ðæt aɪv ˈnevə θɔːt əˈbaʊt ɪt ðæt weɪ/
+- "Wait, say more about that."  /weɪt seɪ mɔːr əˈbaʊt ðæt/
+- "Same here, honestly."  /seɪm hɪər ˈɒnɪstli/
+- "That's funny, [Name] said something similar earlier."
+  /ðæts ˈfʌni [...] sed ˈsʌmθɪŋ ˈsɪmɪlər ˈɜːliə/
+
+**Profundizar (la clave para que la sala no muera):**
+- "Why do you think that stuck with you?"
+  /waɪ də ju θɪŋk ðæt stʌk wɪð ju/
+  *(¿Por qué crees que eso se te quedó grabado?)*
+- "Did you actually follow it, though?"
+  /dɪd ju ˈæktʃuəli ˈfɒləʊ ɪt ðəʊ/
+- "Would you give that same advice to someone else?"
+  /wʊd ju gɪv ðæt seɪm ədˈvaɪs tə ˈsʌmwʌn els/
+
+**Rescatar silencios incómodos:**
+- "Okay, let me throw out a different question."
+  /əʊˈkeɪ let miː θrəʊ aʊt ə ˈdɪfrənt ˈkwestʃən/
+- "I'll go first while you think about it."
+  /aɪl gəʊ fɜːst waɪl ju θɪŋk əˈbaʊt ɪt/
+- "Feel free to type it in the chat if you'd rather not speak."
+  /fiːl friː tə taɪp ɪt ɪn ðə tʃæt ɪf juːd ˈrɑːðə nɒt spiːk/
+
+**Problemas técnicos / no entendiste:**
+- "Sorry, you're breaking up a bit — could you say that again?"
+  /ˈsɒri jʊə ˈbreɪkɪŋ ʌp ə bɪt kʊd ju seɪ ðæt əˈgen/
+- "I didn't quite catch that, one more time?"
+  /aɪ ˈdɪdnt kwaɪt kætʃ ðæt wʌn mɔː taɪm/
+
+### 4. Cierre
+- "We're coming up on time, so let's wrap up."
+  /wɪə ˈkʌmɪŋ ʌp ɒn taɪm səʊ lets ræp ʌp/
+- "Last one: give me your advice in one sentence. Short and sweet."
+  /lɑːst wʌn gɪv miː jər ədˈvaɪs ɪn wʌn ˈsentəns ʃɔːt ənd swiːt/
+- "Thanks everyone for joining, this was a really good one. Same time tomorrow!"
+  /θæŋks ˈevriwʌn fə ˈdʒɔɪnɪŋ ðɪs wəz ə ˈrɪəli gʊd wʌn seɪm taɪm təˈmɒrəʊ/
+
+**Estructuras para practicar:**
+- "What's the best/worst ... you've ever ...?" (superlativo + Present Perfect)
+  /wɒts ðə best juːv ˈevə/
+- "It took me years to..." /ɪt tʊk miː jɪəz tə/
+- "If I could..., I'd say..." (Segundo Condicional)
+  /ɪf aɪ kʊd aɪd seɪ/
+- "I've never thought about it that way." /aɪv ˈnevə θɔːt əˈbaʊt ɪt ðæt weɪ/
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's like when someone tells you what to do and they mean well."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋglɪʃ bət ɪts laɪk wen ˈsʌmwʌn telz ju wɒt tə du ənd ðeɪ miːn wel/
+  *(No sé la palabra en inglés, pero es como cuando alguien te dice qué hacer con buena intención.)*
+
+## Día 11 — 2026-09-19: Movies, series and music you love (nivel B1)
+*(Películas, series y música que te encantan — tema ligero, todos tienen algo que decir)*
+
+**Preguntas que probablemente te hagan:**
+1. What are you watching these days?
+   /wɒt ə ju ˈwɒtʃɪŋ ðiːz deɪz/
+   *(¿Qué estás viendo estos días?)*
+   → Presente continuo.
+2. What's the best movie you've ever seen?
+   /wɒts ðə best ˈmuːvi juːv ˈevə siːn/
+   *(¿Cuál es la mejor película que has visto?)*
+   → Superlativo + Present Perfect.
+3. Is there a movie or series you've watched more than once?
+   /ɪz ðər ə ˈmuːvi ɔː ˈsɪəriːz juːv wɒtʃt mɔː ðən wʌns/
+   *(¿Hay alguna película o serie que hayas visto más de una vez?)*
+4. What kind of music do you listen to when you're in a good mood? And in a bad mood?
+   /wɒt kaɪnd əv ˈmjuːzɪk də ju ˈlɪsn tə wen jʊər ɪn ə gʊd muːd ənd ɪn ə bæd muːd/
+   *(¿Qué tipo de música escuchas cuando estás de buen humor? ¿Y de mal humor?)*
+5. Do you prefer watching movies at home or at the cinema?
+   /də ju prɪˈfɜː ˈwɒtʃɪŋ ˈmuːviz ət həʊm ɔːr ət ðə ˈsɪnəmə/
+   *(¿Prefieres ver películas en casa o en el cine?)*
+6. If you could be a character from any movie, who would you be?
+   /ɪf ju kʊd bi ə ˈkærəktə frəm ˈeni ˈmuːvi huː wʊd ju biː/
+   *(Si pudieras ser un personaje de cualquier película, ¿quién serías?)*
+   → Segundo Condicional. Pregunta divertida para cerrar.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Right now I'm watching [serie]. It's about [tema], and I'm totally hooked."
+   /raɪt naʊ aɪm ˈwɒtʃɪŋ [...] ɪts əˈbaʊt [...] ənd aɪm ˈtəʊtəli hʊkt/
+2. "The best movie I've ever seen is [película]. The ending blew my mind."
+   /ðə best ˈmuːvi aɪv ˈevə siːn ɪz [...] ði ˈendɪŋ bluː maɪ maɪnd/
+3. "Yes, I've watched [película] like five times, and I still enjoy it."
+   /jes aɪv wɒtʃt [...] laɪk faɪv taɪmz ənd aɪ stɪl ɪnˈdʒɔɪ ɪt/
+4. "When I'm in a good mood I listen to [género], but when I'm down I prefer something calm."
+   /wen aɪm ɪn ə gʊd muːd aɪ ˈlɪsn tə [...] bət wen aɪm daʊn aɪ prɪˈfɜː ˈsʌmθɪŋ kɑːm/
+5. "I prefer watching at home — it's cheaper and I can pause it whenever I want."
+   /aɪ prɪˈfɜː ˈwɒtʃɪŋ ət həʊm ɪts ˈtʃiːpər ənd aɪ kən pɔːz ɪt wenˈevər aɪ wɒnt/
+6. "If I could be any character, I'd be [personaje], because [razón]."
+   /ɪf aɪ kʊd bi ˈeni ˈkærəktə aɪd bi [...] bɪˈkɒz [...]/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Have you seen it? No spoilers, please!"
+  /həv ju siːn ɪt nəʊ ˈspɔɪləz pliːz/
+  *(¿La has visto? ¡Sin spoilers, por favor!)*
+- "What would you recommend I watch next?"
+  /wɒt wʊd ju ˌrekəˈmend aɪ wɒtʃ nekst/
+  *(¿Qué me recomiendas ver después?)*
+- "Is that popular in your country too?"
+  /ɪz ðæt ˈpɒpjʊlər ɪn jə ˈkʌntri tuː/
+  *(¿Eso también es popular en tu país?)*
+
+**Vocabulario útil:**
+- to be hooked on /tə bi hʊkt ɒn/ — *estar enganchado a* — "I'm hooked on this series."
+- to binge-watch /tə ˈbɪndʒ wɒtʃ/ — *ver muchos episodios seguidos* — "I binge-watched the whole season last weekend."
+- a plot twist /ə plɒt twɪst/ — *un giro inesperado* — "The plot twist at the end was amazing."
+- overrated /ˌəʊvəˈreɪtɪd/ — *sobrevalorado* — "Honestly, I think that movie is overrated."
+- a soundtrack /ə ˈsaʊndtræk/ — *banda sonora* — "The soundtrack is even better than the movie."
+
+**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
+- "I'm totally hooked on..." /aɪm ˈtəʊtəli hʊkt ɒn/
+- "The best ... I've ever seen is..." (superlativo + Present Perfect)
+  /ðə best aɪv ˈevə siːn ɪz/
+- "When I'm..., I prefer..." (preferencias según situación)
+  /wen aɪm aɪ prɪˈfɜː/
+- "If I could be..., I'd be... because..." (Segundo Condicional)
+  /ɪf aɪ kʊd bi aɪd bi bɪˈkɒz/
+
+**Frase de rescate:**
+- "I don't remember the English title, but it's the one about [descripción de la trama]."
+  /aɪ dəʊnt rɪˈmembə ði ˈɪŋglɪʃ ˈtaɪtl bət ɪts ðə wʌn əˈbaʊt [...]/
+  *(No recuerdo el título en inglés, pero es la de [descripción de la trama].)*

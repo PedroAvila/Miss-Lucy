@@ -1503,7 +1503,7 @@ blame => culpar a alguien de algo
 likewise => igualmente/también
 speech => discurso/habla 
 anyway => de todos modos/en fin/de todas maneras/bueno 
-anywhere => a/en cualquier sitio
+anywhere => a/en cualquier sitio/cualquier lugar/donde sea/dondequiera 
 wonderful => maravilloso
 lake => lago 
 like => gustar/agradar 
@@ -1728,7 +1728,18 @@ proposal => propuesta
 ladder => escalera/escala/liga
 leaning => inclinación
 sponge => esponja
-pace => paso/ritmo
+pace => paso/ritmo/velocidad
+budge => mover/moverse
+choir => coro
+genre => género 
+appointment => cita/nombramiento
+appearance => aparición/apariencia/aspecto
+rambling => que divaga/que se va por las ramas/disperso
+constantly => constantemente
+gravy => salsa para carne
+holder => soporte/titular/poseedor/poseedora
+current => actual 
+messy => revuelto/desordenado
 
 
 
