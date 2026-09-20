@@ -647,3 +647,74 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 - "I don't remember the English title, but it's the one about [descripción de la trama]."
   /aɪ dəʊnt rɪˈmembə ði ˈɪŋglɪʃ ˈtaɪtl bət ɪts ðə wʌn əˈbaʊt [...]/
   *(No recuerdo el título en inglés, pero es la de [descripción de la trama].)*
+
+## Día 12 — 2026-09-20: Childhood memories and growing up (nivel B1/B2)
+*(Recuerdos de infancia y crecer — tema cálido, la gente se abre y habla mucho)*
+
+**Preguntas que probablemente te hagan:**
+1. What did you use to do as a kid that you don't do anymore?
+   /wɒt dɪd ju ˈjuːst tə du əz ə kɪd ðət ju dəʊnt du ˈenimɔː/
+   *(¿Qué hacías de niño que ya no haces?)*
+   → Practica "used to".
+2. Where did you grow up? What was it like?
+   /weə dɪd ju grəʊ ʌp wɒt wəz ɪt laɪk/
+   *(¿Dónde creciste? ¿Cómo era?)*
+   → Pasado simple + descripción.
+3. What's your earliest memory?
+   /wɒts jər ˈɜːliɪst ˈmeməri/
+   *(¿Cuál es tu recuerdo más antiguo?)*
+4. Were you a well-behaved kid or a bit of a troublemaker?
+   /wə ju ə ˌwel bɪˈheɪvd kɪd ɔːr ə bɪt əv ə ˈtrʌblmeɪkə/
+   *(¿Eras un niño bien portado o algo travieso?)*
+5. Is there something your parents made you do that you're grateful for now?
+   /ɪz ðə ˈsʌmθɪŋ jə ˈpeərənts meɪd ju du ðət jʊə ˈgreɪtfəl fə naʊ/
+   *(¿Hay algo que tus papás te obligaron a hacer y que ahora agradeces?)*
+   → "make someone do" + opinión.
+6. If you could relive one day from your childhood, which one would it be?
+   /ɪf ju kʊd riːˈlɪv wʌn deɪ frəm jə ˈtʃaɪldhʊd wɪtʃ wʌn wʊd ɪt biː/
+   *(Si pudieras revivir un día de tu infancia, ¿cuál sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "I used to play outside until it got dark. Kids don't really do that anymore."
+   /aɪ ˈjuːst tə pleɪ ˌaʊtˈsaɪd ənˈtɪl ɪt gɒt dɑːk kɪdz dəʊnt ˈrɪəli du ðæt ˈenimɔː/
+2. "I grew up in [lugar]. It was quiet, everybody knew each other."
+   /aɪ gruː ʌp ɪn [...] ɪt wəz ˈkwaɪət ˈevrɪbɒdi njuː iːtʃ ˈʌðə/
+3. "My earliest memory is [recuerdo]. I must have been about four or five."
+   /maɪ ˈɜːliɪst ˈmeməri ɪz [...] aɪ məst həv bɪn əˈbaʊt fɔːr ɔː faɪv/
+4. "I was pretty well-behaved, but I got in trouble for [travesura] more than once."
+   /aɪ wəz ˈprɪti ˌwel bɪˈheɪvd bət aɪ gɒt ɪn ˈtrʌbl fə [...] mɔː ðən wʌns/
+5. "My parents made me [estudiar / ayudar en casa], and honestly I'm grateful for it now."
+   /maɪ ˈpeərənts meɪd miː [...] ənd ˈɒnɪstli aɪm ˈgreɪtfəl fər ɪt naʊ/
+6. "If I could relive one day, it'd be [día], because back then everything felt simple."
+   /ɪf aɪ kʊd riːˈlɪv wʌn deɪ ɪtd bi [...] bɪˈkɒz bæk ðen ˈevrɪθɪŋ felt ˈsɪmpl/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Was it the same where you grew up?"
+  /wəz ɪt ðə seɪm weə ju gruː ʌp/
+  *(¿Era igual donde tú creciste?)*
+- "Do kids in your country still do that?"
+  /də kɪdz ɪn jə ˈkʌntri stɪl du ðæt/
+  *(¿Los niños en tu país todavía hacen eso?)*
+
+**Vocabulario útil:**
+- to grow up /tə grəʊ ʌp/ — *crecer* — "I grew up in a small town."
+- to get in trouble /tə get ɪn ˈtrʌbl/ — *meterse en problemas* — "I got in trouble at school a lot."
+- to look back on /tə lʊk bæk ɒn/ — *mirar atrás a* — "When I look back on it, I was lucky."
+- back then /bæk ðen/ — *en aquel entonces* — "Back then we didn't have phones."
+- to miss something /tə mɪs ˈsʌmθɪŋ/ — *extrañar algo* — "I really miss those summers."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I used to... but I don't anymore." (hábito pasado)
+  /aɪ ˈjuːst tə bət aɪ dəʊnt ˈenimɔː/
+- "I must have been about [edad]." (deducción sobre el pasado)
+  /aɪ məst həv bɪn əˈbaʊt/
+- "My parents made me..." / "They let me..." (obligación y permiso)
+  /maɪ ˈpeərənts meɪd miː/ · /ðeɪ let miː/
+- "When I look back on it, ..." (reflexión)
+  /wen aɪ lʊk bæk ɒn ɪt/
+
+**Frase de rescate:**
+- "I don't know the word for it, but it's a game kids play with [descripción]."
+  /aɪ dəʊnt nəʊ ðə wɜːd fər ɪt bət ɪts ə geɪm kɪdz pleɪ wɪð [...]/
+  *(No sé la palabra, pero es un juego que los niños juegan con [descripción].)*
