@@ -51,3 +51,22 @@
 **Aun así / Igual / De todos modos**
 - He's very talented. That said, he still needs to practice more.
 - I love living in the city. That said, sometimes I miss the quiet of the countryside.
+
+## Practice
+
+- I'm practicing Java with Spring Boot. When I say Java, I mean Java 25; in fact, 
+it's an amazing version. That said, I still respect the older versions like Java 8.
+
+- My dream is to live in Europe. In fact, I plan to travel to England next year. 
+I mean, living and working in England. But at the end of the day, 
+the key to making this happen is getting a sponsor for a work visa.
+
+- Next year, I will travel to England. To be fair, it's not going to be easy. 
+Besides, I need a sponsor to get my work visa.
+
+- I really enjoy working with Java. In fact, I love C# just as much!
+
+- I like working on backend logic. 
+I mean, I really enjoy programming the business rules that make the whole system work
+
+

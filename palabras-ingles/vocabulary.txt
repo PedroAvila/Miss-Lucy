@@ -578,7 +578,7 @@ extensive => importante/numeroso/extenso/amplio
 down => abajo
 offer => ofrecer 
 still => todavía
-used => usado
+used => acostumbrarse a algo/a hacer algo/usado
 gibe => burla 
 find => encontrar
 perfectly => perfectamente/absolutamente 
@@ -911,7 +911,7 @@ change => cambio
 changeable => cambiante/variable/inconstante 
 book => libro 
 enough => suficiente 
-getting => consiguiendo 
+getting => consiguiendo/poniéndose/volviéndose/empezando a
 week => semana 
 booklet => folleto 
 power => poder 
@@ -1740,7 +1740,9 @@ gravy => salsa para carne
 holder => soporte/titular/poseedor/poseedora
 current => actual 
 messy => revuelto/desordenado
-
+drill => taladradora/taladro/entrenar/entrenarse/inculcar
+legacy => legado/herencia
+behavior => comportamiento
 
 
 ===================== palabras del libro Modern Software Engineering ======================

@@ -718,3 +718,154 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 - "I don't know the word for it, but it's a game kids play with [descripción]."
   /aɪ dəʊnt nəʊ ðə wɜːd fər ɪt bət ɪts ə geɪm kɪdz pleɪ wɪð [...]/
   *(No sé la palabra, pero es un juego que los niños juegan con [descripción].)*
+
+## Día 13 — 2026-09-21: Social media's effect on how we see ourselves (nivel B2)
+*(El efecto de las redes sociales en cómo nos vemos a nosotros mismos — tema de opinión, más denso que los anteriores)*
+
+**Preguntas que probablemente te hagan:**
+1. Do you think social media gives people a realistic view of other people's lives, or a distorted one?
+   /də ju θɪŋk ˈsəʊʃəl ˈmiːdiə gɪvz ˈpiːpl ə ˌrɪəˈlɪstɪk vjuː əv ˈʌðə ˈpiːplz lɪvz ɔːr ə dɪˈstɔːtɪd wʌn/
+   *(¿Crees que las redes sociales dan una visión realista de la vida de los demás, o una distorsionada?)*
+   → Practica contraste y opinión matizada.
+2. Have you ever caught yourself comparing your life to someone else's online? What triggered it?
+   /həv ju ˈevə kɔːt jɔːˈself kəmˈpeərɪŋ jə laɪf tə ˈsʌmwʌn elsɪz ˈɒnlaɪn wɒt ˈtrɪgəd ɪt/
+   *(¿Alguna vez te has sorprendido comparando tu vida con la de alguien más en línea? ¿Qué lo provocó?)*
+   → Present Perfect + reflexión personal.
+3. If platforms removed the like and follower counts tomorrow, do you think people would act differently?
+   /ɪf ˈplætˌfɔːmz rɪˈmuːvd ðə laɪk ənd ˈfɒləʊə kaʊnts təˈmɒrəʊ də ju θɪŋk ˈpiːpl wʊd ækt ˈdɪfrəntli/
+   *(Si las plataformas quitaran los contadores de likes y seguidores mañana, ¿crees que la gente actuaría diferente?)*
+   → Segundo Condicional.
+4. Do you think it's possible to use social media in a healthy way, or is the design itself the problem?
+   /də ju θɪŋk ɪts ˈpɒsəbl tə juːz ˈsəʊʃəl ˈmiːdiə ɪn ə ˈhelθi weɪ ɔːr ɪz ðə dɪˈzaɪn ɪtˈself ðə ˈprɒbləm/
+   *(¿Crees que es posible usar las redes sociales de forma sana, o el problema es el diseño en sí?)*
+5. Has anything you've seen online ever made you feel worse about your own life? Were you aware of it at the time?
+   /həz ˈeniθɪŋ juːv siːn ˈɒnlaɪn ˈevə meɪd ju fiːl wɜːs əˈbaʊt jər əʊn laɪf wə ju əˈweər əv ɪt ət ðə taɪm/
+   *(¿Algo que hayas visto en línea alguna vez te hizo sentir peor sobre tu propia vida? ¿Estabas consciente de ello en su momento?)*
+6. What would you tell a teenager who's struggling with how they look compared to what they see online?
+   /wɒt wʊd ju tel ə ˈtiːneɪdʒə huːz ˈstrʌglɪŋ wɪð haʊ ðeɪ lʊk kəmˈpeəd tə wɒt ðeɪ siː ˈɒnlaɪn/
+   *(¿Qué le dirías a un adolescente que está luchando con cómo se ve comparado con lo que ve en línea?)*
+   → Pregunta estrella, guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "I think it's pretty distorted — people only post the highlights, not the boring or hard parts."
+   /aɪ θɪŋk ɪts ˈprɪti dɪˈstɔːtɪd ˈpiːpl ˈəʊnli pəʊst ðə ˈhaɪlaɪts nɒt ðə ˈbɔːrɪŋ ɔː hɑːd pɑːts/
+2. "Yes, actually — seeing someone my age traveling all the time made me question my own choices."
+   /jes ˈæktʃuəli ˈsiːɪŋ ˈsʌmwʌn maɪ eɪdʒ ˈtrævəlɪŋ ɔːl ðə taɪm meɪd miː ˈkwestʃən maɪ əʊn ˈtʃɔɪsɪz/
+3. "If the counts disappeared, I think a lot of people would post less — much of it is about validation."
+   /ɪf ðə kaʊnts ˌdɪsəˈpɪəd aɪ θɪŋk ə lɒt əv ˈpiːpl wʊd pəʊst les mʌtʃ əv ɪt ɪz əˈbaʊt ˌvælɪˈdeɪʃən/
+4. "Honestly, I think the design itself pushes you to compare — it's built to keep you scrolling."
+   /ˈɒnɪstli aɪ θɪŋk ðə dɪˈzaɪn ɪtˈself pʊʃɪz ju tə kəmˈpeə ɪts bɪlt tə kiːp ju ˈskrəʊlɪŋ/
+5. "Yes, but I only realized it afterwards — in the moment I didn't notice how it was affecting me."
+   /jes bət aɪ ˈəʊnli ˈrɪəlaɪzd ɪt ˈɑːftəwədz ɪn ðə ˈməʊmənt aɪ ˈdɪdnt ˈnəʊtɪs haʊ ɪt wəz əˈfektɪŋ miː/
+6. "I'd tell them that what they're seeing is a highlight reel, not real life."
+   /aɪd tel ðəm ðət wɒt ðeə ˈsiːɪŋ ɪz ə ˈhaɪlaɪt riːl nɒt rɪəl laɪf/
+
+**Vocabulario útil:**
+- a highlight reel /ə ˈhaɪlaɪt riːl/ — *lo mejor editado, no la realidad completa* — "Instagram is just people's highlight reel."
+- to doomscroll /tə ˈduːmskrəʊl/ — *hacer scroll compulsivo de malas noticias* — "I ended up doomscrolling until 2 a.m."
+- validation /ˌvælɪˈdeɪʃən/ — *validación (aprobación externa)* — "A lot of posting is about seeking validation."
+- curated /ˈkjʊəreɪtɪd/ — *cuidadosamente seleccionado* — "Her feed is very curated."
+- to compare yourself to /tə kəmˈpeə jɔːˈself tə/ — *compararte con* — "Try not to compare yourself to strangers online."
+
+**Estructuras B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "If ... disappeared/removed, I think people would..." (Segundo Condicional)
+  /ɪf ... ˌdɪsəˈpɪəd aɪ θɪŋk ˈpiːpl wʊd/
+  → punto 3, "if platforms removed the like counts..."
+- "I only realized it afterwards." (reflexión retrospectiva)
+  /aɪ ˈəʊnli ˈrɪəlaɪzd ɪt ˈɑːftəwədz/
+  → punto 5, distinguir el momento vs. después
+- "What ... is a highlight reel, not real life." (metáfora para dar consejo)
+  /wɒt ɪz ə ˈhaɪlaɪt riːl nɒt rɪəl laɪf/
+  → punto 6, frase de cierre
+- "Much of it is about..." (para señalar la causa raíz de algo)
+  /mʌtʃ əv ɪt ɪz əˈbaʊt/
+  → punto 3, explicar el "por qué" detrás de un comportamiento
+
+**Frase de rescate:**
+- "I can't think of the exact word, but it's that feeling when you scroll for too long without noticing."
+  /aɪ kɑːnt θɪŋk əv ði ɪgˈzækt wɜːd bət ɪts ðət ˈfiːlɪŋ wen ju skrəʊl fə tuː lɒŋ wɪðˈaʊt ˈnəʊtɪsɪŋ/
+  *(No se me ocurre la palabra exacta, pero es esa sensación de hacer scroll demasiado tiempo sin darte cuenta.)*
+
+## Día 14 — 2026-09-23: Does love enter through the eyes or the ears? (nivel B1/B2)
+*(¿El amor entra por los ojos o por los oídos? — tema para sala grupal donde TÚ eres el host)*
+
+### 1. Apertura
+- "Alright everyone, today's topic is a classic one: does love enter through the eyes, or through the ears?"
+  /ɔːlˈraɪt ˈevriwʌn təˈdeɪz ˈtɒpɪk ɪz ə ˈklæsɪk wʌn dʌz lʌv ˈentə θruː ði aɪz ɔː θruː ði ɪəz/
+  *(Muy bien a todos, el tema de hoy es un clásico: ¿el amor entra por los ojos, o por los oídos?)*
+- "In other words: is it looks that hook you first, or is it what someone says and how they make you feel?"
+  /ɪn ˈʌðə wɜːdz ɪz ɪt lʊks ðət hʊk ju fɜːst ɔːr ɪz ɪt wɒt ˈsʌmwʌn sez ənd haʊ ðeɪ meɪk ju fiːl/
+  *(En otras palabras: ¿es la apariencia lo que te engancha primero, o es lo que alguien dice y cómo te hace sentir?)*
+- "I'll pick someone to answer first, then I want everyone to jump in."
+  /aɪl pɪk ˈsʌmwʌn tʊ ˈɑːnsə fɜːst ðen aɪ wɒnt ˈevriwʌn tə dʒʌmp ɪn/
+  *(Voy a elegir a alguien para responder primero, y luego quiero que todos participen.)*
+
+### 2. Preguntas principales
+1. Do you think love enters through the eyes or through the ears?
+   /də ju θɪŋk lʌv ˈentəz θruː ði aɪz ɔː θruː ði ɪəz/
+   *(¿Crees que el amor entra por los ojos o por los oídos?)*
+2. Do you think first impressions are overrated?
+   /də ju θɪŋk fɜːst ɪmˈpreʃənz ər ˌəʊvəˈreɪtɪd/
+   *(¿Crees que las primeras impresiones están sobrevaloradas?)*
+3. What's that instant red flag that makes you say "goodbye, this isn't it"?
+   /wɒts ðət ˈɪnstənt red flæg ðət meɪks ju seɪ ˌgʊdˈbaɪ ðɪs ˈɪznt ɪt/
+   *(¿Cuál es esa señal de alerta instantánea que te hace decir "adiós, esto no es lo que buscaba"?)*
+4. Has your opinion on this changed as you've gotten older?
+   /həz jər əˈpɪnjən ɒn ðɪs tʃeɪndʒd əz juːv ˈgɒtn ˈəʊldə/
+   *(¿Ha cambiado tu opinión sobre esto conforme has crecido?)*
+   → Present Perfect. Buena pregunta de seguimiento si alguien contesta rápido.
+5. Does anyone here think physical beauty really is what matters most at the beginning?
+   /dʌz ˈeniwʌn hɪə θɪŋk ˈfɪzɪkl ˈbjuːti ˈrɪəli ɪz wɒt ˈmætəz məʊst ət ðə bɪˈgɪnɪŋ/
+   *(¿Alguien aquí cree que la belleza física sí es lo primordial al principio?)*
+   → Pregunta para provocar el desacuerdo, guárdala para cuando la sala esté callada.
+
+**Tu respuesta (prepárala, el host también contesta):**
+- "For me, love enters through the ears. Looks are just the packaging, but personality is what's inside. What's the point of a pretty box if there's nothing in it?"
+  /fə miː lʌv ˈentəz θruː ði ɪəz lʊks ə dʒʌst ðə ˈpækɪdʒɪŋ bət ˌpɜːsəˈnælɪti ɪz wɒts ɪnˈsaɪd wɒts ðə pɔɪnt əv ə ˈprɪti bɒks ɪf ðəz ˈnʌθɪŋ ɪn ɪt/
+- "That's my stance. Does anyone here think the opposite? I'm listening!"
+  /ðæts maɪ stæns dʌz ˈeniwʌn hɪə θɪŋk ði ˈɒpəzɪt aɪm ˈlɪsnɪŋ/
+  *(Esa es mi postura. ¿Alguien aquí piensa lo contrario? ¡Los escucho!)*
+
+### 3. Frases de host para mantener viva la charla
+**Pasar el turno:**
+- "Interesting point, [Name]! I loved what you said. Now I want to hear what [Another User] thinks."
+  /ˈɪntrəstɪŋ pɔɪnt [...] aɪ lʌvd wɒt ju sed naʊ aɪ wɒnt tə hɪə wɒt [...] θɪŋks/
+- "[Name], where do you stand on this — eyes or ears?"
+  /[...] weə də ju stænd ɒn ðɪs aɪz ɔːr ɪəz/
+
+**Reaccionar:**
+- "That's such a bold answer, I respect that."  /ðæts sʌtʃ ə bəʊld ˈɑːnsər aɪ rɪˈspekt ðæt/
+- "See, that's exactly the kind of disagreement I was hoping for."
+  /siː ðæts ɪgˈzæktli ðə kaɪnd əv ˌdɪsəˈgriːmənt aɪ wəz ˈhəʊpɪŋ fɔː/
+
+**Profundizar:**
+- "Has a red flag like that ever made you walk away from someone?"
+  /həz ə red flæg laɪk ðæt ˈevə meɪd ju wɔːk əˈweɪ frəm ˈsʌmwʌn/
+- "Do you think that red flag is fair, or a bit too strict?"
+  /də ju θɪŋk ðət red flæg ɪz feə ɔːr ə bɪt tuː strɪkt/
+
+### 4. Cierre
+- "Last one: one word — eyes, or ears? Go!"
+  /lɑːst wʌn wʌn wɜːd aɪz ɔːr ɪəz gəʊ/
+- "Thanks for such an honest conversation, everyone. See you next time!"
+  /θæŋks fər sʌtʃ ən ˈɒnɪst ˌkɒnvəˈseɪʃən ˈevriwʌn siː ju nekst taɪm/
+
+**Vocabulario útil:**
+- packaging vs. what's inside /ˈpækɪdʒɪŋ vs. wɒts ɪnˈsaɪd/ — *el empaque vs. el contenido* — metáfora para looks vs. personalidad
+- a red flag /ə red flæg/ — *una señal de alerta* — "That's a red flag for me."
+- to be overrated /tə bi ˌəʊvəˈreɪtɪd/ — *estar sobrevalorado* — "I think first impressions are overrated."
+- to take a stance /tə teɪk ə stæns/ — *tomar una postura* — "That's my stance on it."
+- shallow /ˈʃæləʊ/ — *superficial* — "Judging someone only by looks feels shallow."
+
+**Estructuras B1/B2 para practicar:**
+- "What's the point of ... if ...?" (pregunta retórica para argumentar)
+  /wɒts ðə pɔɪnt əv ɪf/
+- "That's my stance. Does anyone think the opposite?" (invitar al desacuerdo)
+  /ðæts maɪ stæns/
+- "Has ... ever made you ...?" (Present Perfect + consecuencia)
+  /həz ˈevə meɪd ju/
+
+**Frase de rescate:**
+- "I don't know how to put it exactly, but it's that feeling when something just feels off."
+  /aɪ dəʊnt nəʊ haʊ tə pʊt ɪt ɪgˈzæktli bət ɪts ðət ˈfiːlɪŋ wen ˈsʌmθɪŋ dʒʌst fiːlz ɒf/
+  *(No sé cómo decirlo exactamente, pero es esa sensación de que algo no está bien.)*
