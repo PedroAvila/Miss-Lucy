@@ -869,3 +869,65 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 - "I don't know how to put it exactly, but it's that feeling when something just feels off."
   /aɪ dəʊnt nəʊ haʊ tə pʊt ɪt ɪgˈzæktli bət ɪts ðət ˈfiːlɪŋ wen ˈsʌmθɪŋ dʒʌst fiːlz ɒf/
   *(No sé cómo decirlo exactamente, pero es esa sensación de que algo no está bien.)*
+
+## Día 15 — 2026-09-24: Habits you're trying to build or break (nivel B1/B2)
+*(Hábitos que estás tratando de construir o dejar)*
+
+**Preguntas que probablemente te hagan:**
+1. Is there a habit you're currently trying to build?
+   /ɪz ðər ə ˈhæbɪt jʊə ˈkʌrəntli ˈtraɪɪŋ tə bɪld/
+   *(¿Hay algún hábito que estés tratando de construir ahora?)*
+   → Presente continuo.
+2. What's a bad habit you've been trying to quit?
+   /wɒts ə bæd ˈhæbɪt juːv bɪn ˈtraɪɪŋ tə kwɪt/
+   *(¿Cuál es un mal hábito que has estado tratando de dejar?)*
+   → Present Perfect Continuous.
+3. What usually makes you give up on a new habit?
+   /wɒt ˈjuːʒʊəli meɪks ju gɪv ʌp ɒn ə njuː ˈhæbɪt/
+   *(¿Qué es lo que usualmente te hace abandonar un hábito nuevo?)*
+4. Have you ever kept a habit for more than a month? What made it stick?
+   /həv ju ˈevə kept ə ˈhæbɪt fə mɔː ðən ə mʌnθ wɒt meɪd ɪt stɪk/
+   *(¿Alguna vez has mantenido un hábito por más de un mes? ¿Qué hizo que perdurara?)*
+5. If you had to pick just one habit to change this year, what would it be?
+   /ɪf ju həd tə pɪk dʒʌst wʌn ˈhæbɪt tə tʃeɪndʒ ðɪs jɪə wɒt wʊd ɪt biː/
+   *(Si tuvieras que elegir solo un hábito para cambiar este año, ¿cuál sería?)*
+   → Segundo Condicional. Guárdala para el final.
+6. Do you think it's easier to build a new habit or to break an old one?
+   /də ju θɪŋk ɪts ˈiːziə tə bɪld ə njuː ˈhæbɪt ɔː tə breɪk ən əʊld wʌn/
+   *(¿Crees que es más fácil construir un hábito nuevo o romper uno viejo?)*
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "I'm currently trying to build the habit of [speaking English every day]."
+   /aɪm ˈkʌrəntli ˈtraɪɪŋ tə bɪld ðə ˈhæbɪt əv [...]/
+2. "I've been trying to quit [checking my phone too much] for a while now."
+   /aɪv bɪn ˈtraɪɪŋ tə kwɪt [...] fər ə waɪl naʊ/
+3. "What usually makes me give up is missing one day and then feeling like I already failed."
+   /wɒt ˈjuːʒʊəli meɪks miː gɪv ʌp ɪz ˈmɪsɪŋ wʌn deɪ ənd ðen ˈfiːlɪŋ laɪk aɪ ɔːlˈredi feɪld/
+4. "Yes, I kept [hábito] going for a few months. Doing it at the same time every day made it stick."
+   /jes aɪ kept [...] ˈgəʊɪŋ fər ə fjuː mʌnθs ˈduːɪŋ ɪt ət ðə seɪm taɪm ˈevri deɪ meɪd ɪt stɪk/
+5. "If I had to pick one habit, I'd change [hábito], because [razón]."
+   /ɪf aɪ həd tə pɪk wʌn ˈhæbɪt aɪd tʃeɪndʒ [...] bɪˈkɒz [...]/
+6. "Honestly, I think breaking an old habit is harder — building something new gives you motivation, but stopping something feels like you're fighting yourself."
+   /ˈɒnɪstli aɪ θɪŋk ˈbreɪkɪŋ ən əʊld ˈhæbɪt ɪz ˈhɑːdə ˈbɪldɪŋ ˈsʌmθɪŋ njuː gɪvz ju ˌməʊtɪˈveɪʃən bət ˈstɒpɪŋ ˈsʌmθɪŋ fiːlz laɪk jʊə ˈfaɪtɪŋ jɔːˈself/
+
+**Vocabulario útil:**
+- to give up /tə gɪv ʌp/ — *rendirse, abandonar* — "Don't give up after just one bad day."
+- to make it stick /tə meɪk ɪt stɪk/ — *hacer que perdure* — "Small steps are what make a habit stick."
+- to fall back into old habits /tə fɔːl bæk ˈɪntə əʊld ˈhæbɪts/ — *volver a caer en viejos hábitos* — "I fell back into old habits after the holidays."
+- willpower /ˈwɪlˌpaʊə/ — *fuerza de voluntad* — "It's not about willpower, it's about routine."
+- a trigger /ə ˈtrɪgə/ — *un detonante* — "Stress is my biggest trigger for that habit."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I'm trying to build / I've been trying to quit..." (presente continuo / Present Perfect Continuous)
+  /aɪm ˈtraɪɪŋ tə bɪld/ · /aɪv bɪn ˈtraɪɪŋ tə kwɪt/
+- "What made it stick was..." (explicar causa de éxito)
+  /wɒt meɪd ɪt stɪk wəz/
+- "If I had to pick..., I'd..." (Segundo Condicional)
+  /ɪf aɪ həd tə pɪk aɪd/
+- "It feels like I'm fighting myself." (metáfora para dar opinión)
+  /ɪt fiːlz laɪk aɪm ˈfaɪtɪŋ jɔːˈself/
+
+**Frase de rescate:**
+- "I don't know the exact word, but it's when you go back to doing the same thing you were trying to stop."
+  /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts wen ju gəʊ bæk tə ˈduːɪŋ ðə seɪm θɪŋ ju wə ˈtraɪɪŋ tə stɒp/
+  *(No sé la palabra exacta, pero es cuando vuelves a hacer lo mismo que intentabas dejar.)*

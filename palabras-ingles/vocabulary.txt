@@ -739,6 +739,7 @@ blur => empañar/difuminar/hacer borroso/hacerse borroso
 landscape => paisaje/poner un jardín/ajardinar
 escape => escapar/huir/fugarse
 disagree => discrepar/estar en desacuerdo 
+disagreement => desacuerdo/discusión
 keep => mantener
 got => tiene
 sure => seguro/claro
@@ -1743,7 +1744,12 @@ messy => revuelto/desordenado
 drill => taladradora/taladro/entrenar/entrenarse/inculcar
 legacy => legado/herencia
 behavior => comportamiento
-
+swing => columpiar/columpiarse/mecer/mecerse
+dizzy => mareado/vertiginoso
+born => nacido 
+firm => firme 
+illness => enfermedad 
+passenger => pasajero 
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante

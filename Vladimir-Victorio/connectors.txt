@@ -69,4 +69,9 @@ Besides, I need a sponsor to get my work visa.
 - I like working on backend logic. 
 I mean, I really enjoy programming the business rules that make the whole system work
 
+- I got certified in Java 8 because it's necessary. Besides, Java 8 gives you a solid foundation.
+
+- I was very tired yesterday because I was working on the gym-connect project. 
+On top of that, I had to study for an exam.
+
 
