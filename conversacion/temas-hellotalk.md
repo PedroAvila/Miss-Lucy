@@ -929,5 +929,253 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 
 **Frase de rescate:**
 - "I don't know the exact word, but it's when you go back to doing the same thing you were trying to stop."
-  /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts wen ju gəʊ bæk tə ˈduːɪŋ ðə seɪm θɪŋ ju wə ˈtraɪɪŋ tə stɒp/
-  *(No sé la palabra exacta, pero es cuando vuelves a hacer lo mismo que intentabas dejar.)*
+   /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts wen ju gəʊ bæk tə ˈduːɪŋ ðə seɪm θɪŋ ju wə ˈtraɪɪŋ tə stɒp/
+   *(No sé la palabra exacta, pero es cuando vuelves a hacer lo mismo que intentabas dejar.)*
+
+## Día 16 — 2026-09-28: What makes someone a really good friend? (nivel B1/B2)
+*(¿Qué hace que alguien sea un buen amigo? — tema ligero, todos tienen historias para contar)*
+
+**Preguntas que probablemente te hagan:**
+1. What makes a really good friend?
+   /wɒt meɪks ə ˈrɪəli ɡʊd frend/
+   *(¿Qué hace que alguien sea un buen amigo?)*
+   → Para abrir: "For me it's..." /fə miː ɪts/
+2. How did you meet your closest friend?
+   /haʊ dɪd ju miːt jə ˈkləʊsɪst frend/
+   *(¿Cómo conociste a tu amigo más cercano?)*
+   → Pasado simple. Bien para idiosyncrasias: "We met at work / at school."
+3. How long have you known each other?
+   /haʊ lɒŋ həv ju nəʊnd ˈiːtʃ ˈɔːðə/
+   *(¿Cuánto tiempo se conocen?)*
+   → Present Perfect con "since/for".
+4. What do you and your best friend do together?
+   /wɒt də ju ənd jə best frend du ˈtəɡəðə/
+   *(¿Qué haces con tu mejor amigo?)*
+5. Have you ever lost touch with someone you used to be close to?
+   /həv ju ˈevə lɔːst tʌtʃ wɪð ˈsʌmwʌn ju ˈjuːst tə bi kləʊs tə/
+   *(¿Alguna vez perdiste el contacto con alguien con quien antes eras cercano?)*
+   → Tema un poco melancólico, pero engancha mucho. Deja espacio para que la gente se abra.
+6. Is it harder to make close friends now than when you were younger?
+   /ɪz ɪt ˈhɑːdə tə meɪk kləʊs frendz naʊ ðən wen ju wə ˈjʌŋɡə/
+   *(¿Es más difícil hacer amigos íntimos ahora que cuando eras más joven?)*
+   → Perfecto para sala grupal: nadie está de acuerdo y todos opinan.
+7. If you could call one person from five years ago, who would it be and why?
+   /ɪf ju kʊd kɔːl wʌn ˈpiːpəl frəm faɪv jɪəz əˈɡəʊ huː wʊd ɪt bi ənd waɪ/
+   *(Si pudieras llamar a una persona de hace cinco años, ¿a quién sería y por qué?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "For me it's honesty. A good friend tells you when you're wrong, even if it's uncomfortable."
+   /fə miː ɪts ˈɒnɪsti ə ɡʊd frend telz ju wen juə ˈrɒŋ ˈiːvn ɪf ɪts ʌnˈkʌmfətəbl/
+2. "We met at work, and honestly we clicked right away."
+   /wiː met ət wɜːk ənd ˈɒnɪstli wiː klɪkt raɪt əˈweɪ/
+3. "We've known each other for about [X years] — we've been through a lot together."
+   /wiːv nəʊnd ˈiːtʃ ˈɔːðə fər əˈbaʊt [...] wiːv bɪn θruː ə lɒt təˈɡeðə/
+4. "We usually [play football / have coffee / talk for hours]. It's nothing special, but we enjoy it."
+   /wiː ˈjuːʒʊəli [...] ɪts nʌθɪŋ ˈspeʃəl bət wiː ɪnˈdʒɔɪ ɪt/
+5. "Yes, I lost touch with a couple of friends from school. It happened without any drama, we just drifted apart."
+   /jes aɪ lɔːst tʌtʃ wɪð ə ˈkʌpl əv frendz frəm skuːl ɪt ˈhæpənd wɪˈðaʊt ˈeni ˈdrɑːmə wiː dʒʌst ˈdrɪft əˈpɑːt/
+6. "Definitely. When you're young, friends come easily. As an adult, you have to put yourself out there."
+   /dɪˈfaɪnɪtli wen juə jʌŋ frendz kʌm ˈiːzli əz ən ˈædʌlt ju həv tə pʊt jɔːˈself aʊt ðeər/
+7. "If I could call someone from five years ago, I'd call [Name]. I'd tell them to keep going, even if it feels slow."
+   /ɪf aɪ kʊd kɔːl ˈsʌmwʌn frəm faɪv jɪəz əˈɡəʊ aɪd kɔːl [...] aɪd tel ðəm tə kiːp ˈɡəʊɪŋ ˈiːvn ɪf ɪt fiːlz sləʊ/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Do you agree, or would you say something different?"
+  /də ju əˈɡriː ɔː wʊd ju seɪ ˈsʌmθɪŋ dɪˈfrənt/
+  *(¿Estás de acuerdo, o dirías algo distinto?)*
+- "How long does it usually take for you to trust someone?"
+  /haʊ lɒŋ dʒuz ɪt ˈjuːʒuəli teɪk fə ju tə trʌst ˈsʌmwʌn/
+  *(¿Cuánto tarda normalmente en confiar en alguien?)*
+- "What's the opposite of a good friend for you?"
+  /wɒts ði ˈɒpəzɪt əv ə ɡʊd frend fə ju/
+  *(¿Cuál es lo contrario de un buen amigo para ti?)*
+
+**Vocabulario útil:**
+- a shoulder to cry on /ə ˈʃəʊldə tə kraɪ ɒn/ — *un hombro para llorar* — "She's always a shoulder to cry on."
+- to click with someone /tə klɪk wɪð ˈsʌmwʌn/ — *caer bien con alguien* — "We clicked right away."
+- to drift apart /tə drɪft əˈpɑːt/ — *alejarse poco a poco* — "We drifted apart after I moved."
+- to keep in touch /tə kiːp ɪn tʌtʃ/ — *mantenerse en contacto* — "We still keep in touch every week."
+- honest /ˈɒnɪst/ — *honesto* — "I'd say honest is the most important quality."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "We've known each other for..." (Present Perfect con "for")
+  /wiːv nəʊnd ˈiːtʃ ˈɔːðə fə/
+- "It happened without any drama, we just..." (pasado simple tras "without any...")
+  /ɪt ˈhæpənd wɪˈðaʊt ˈeni ˈdrɑːmə/
+- "It takes longer to... than it used to." (comparativo de cambio)
+  /ɪt teɪks ˈlɒŋɡə tə ðən ɪt ˈjuːst tə/ → "It takes longer to trust someone than it used to."
+- "If I could call someone from five years ago, I'd..." (Segundo Condicional)
+  /ɪf aɪ kʊd kɔːl ˈsʌmwʌn frəm faɪv jɪəz əˈɡəʊ aɪd/
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's when you're friends and then you just stop talking."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋglɪʃ bət ɪts wen juə frendz ənd ðen ju dʒʌst stɒp ˈtɔːkɪŋ/
+  *(No sé la palabra en inglés, pero es cuando son amigos y de pronto dejan de hablarse.)*
+
+## Día 17 — 2026-09-29: A place that feels like home (nivel B1/B2)
+*(Un lugar que se siente como tu casa — tema sensorial: cada quien describe un lugar y todos se imaginan)*
+
+**Preguntas que probablemente te hagan:**
+1. What makes a place feel like home?
+   /wɒt meɪks ə pleɪs fiːlz laɪk həʊm/
+   *(¿Qué hace que un lugar se sienta como tu casa?)*
+   → Para abrir: "For me it's..." /fə miː ɪts/
+2. Is there a place that feels like home, even if it isn't where you were born?
+   /ɪz ðər ə pleɪs ðət fiːlz laɪk həʊm ˈiːvn ɪf ɪt ˈɪznt weə ju wə bɔːn/
+   *(¿Hay algún lugar que se sienta como tu casa, aunque no sea donde naciste?)*
+3. Where do you feel most at home right now?
+   /weə də ju fiːl məʊst ət həʊm raɪt naʊ/
+   *(¿Dónde te sientes más en casa ahora mismo?)*
+   → Buena pregunta puente: muchos responderán "nowhere yet", y eso abre la charla sobre vivir lejos de donde naciste.
+4. Can you describe the view, the sounds or the smells where you grew up?
+   /kən ju dɪˈskraɪb ðə vjuː ðə saʊndz ɔː ðə smelz weə ju gruː ʌp/
+   *(¿Puedes describir la vista, los sonidos o los olores de donde creciste?)*
+   → Practica descripciones y los cinco sentidos. La gente se abre mucho aquí.
+5. Is there anywhere you've never been that you think you'd feel at home?
+   /ɪz ðər ˈeniweə juːv ˈnevə bɪn ðət ju θɪŋk juːd fiːl ət həʊm/
+   *(¿Hay algún lugar donde nunca has estado que crees que te sentirías como en casa?)*
+6. Do you think it's harder to leave your hometown when you're young, or when you're older?
+   /də ju θɪŋk ɪts ˈhɑːdə tə liːv jə ˈhaʊmtaʊn wen juə jʌŋ ɔː wen juə ˈəʊldə/
+   *(¿Crees que es más difícil dejar tu pueblo cuando eres joven o cuando eres mayor?)*
+   → Genera desacuerdo, ideal para sala grupal.
+7. If you could move to any country tomorrow, would you go back to your hometown or somewhere completely different?
+   /ɪf ju kʊd muːv tə ˈeni ˈkʌntri təˈmɒrəʊ wʊd ju gəʊ bæk tə jə ˈhaʊmtaʊn ɔː ˈsʌmwʌr ˈkʌmpliːtli dɪˈfrənt/
+   *(Si pudieras mudarte a cualquier país mañana, ¿volverías a tu pueblo o a otro lugar completamente diferente?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "For me it's the people and the routine. Anywhere I stop feeling like a guest, and that's home."
+   /fə miː ɪts ðə ˈpiːpl ənd ðə ruːˈtiːn ˈeniweər aɪ stɒp ˈfiːlɪŋ laɪk ə ˈɡest ənd ðæts həʊm/
+2. "Yes — there's a small town in the countryside where I used to spend summers, and it still feels like home."
+   /jes ðeəz ə smɔːl taʊn ɪn ðə ˈkaʊntrisaɪd weər aɪ ˈjuːst tə spend ˈsʌməz ənd ɪt stɪl fiːlz laɪk həʊm/
+3. "Honestly, nowhere yet. That's exactly why I keep changing places — I'm still looking."
+   /ˈɒnɪstli ˈnəʊweə jet ðæts ɪgˈzæktli waɪ aɪ kiːp ˈtʃeɪndʒɪŋ pleɪsɪz aɪm stɪl ˈlʊkɪŋ/
+4. "It was a quiet street. You'd hear birds in the morning, and the smell of bread from the corner shop."
+   /ɪt wəz ə ˈkwaɪət striːt juːd hɪə bɜːdz ɪn ðə ˈmɔːnɪŋ ənd ðə smel əv bred frəm ðə ˈkɔːnə ʃɒp/
+5. "I've never been, but I think I'd feel at home in a small coastal town. I love that kind of calm."
+   /aɪv ˈnevə bɪn bət aɪ θɪŋk aɪd fiːl ət həʊm ɪn ə smɔːl ˈkəʊstl taʊn aɪ lʌv ðæt kaɪnd əv kɑːm/
+6. "Younger, definitely. When you're older you've built your life somewhere, so leaving is much harder."
+   /ˈjʌŋɡə dɪˈfaɪnɪtli wen juə ˈəʊldə juːv bɪlt jɔː laɪf ˈsʌmwə sə ˈliːvɪŋ ɪz mʌtʃ ˈhɑːdə/
+7. "If I could move tomorrow, I'd go back to my hometown, but I'd miss the life I've built here."
+   /ɪf aɪ kʊd muːv təˈmɒrəʊ aɪd gəʊ bæk tə maɪ ˈhaʊmtaʊn bət aɪd mɪs ðə laɪf aɪv bɪlt ˈhiə/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Would you rather go back, or start somewhere new?"
+  /wʊd ju ˈrɑːðə gəʊ bæk ɔː stɑːt ˈsʌmwə njuː/
+  *(¿Preferirías volver o empezar en un lugar nuevo?)*
+- "Is there anything in your hometown that's changed a lot?"
+  /ɪz ðər ˈeniθɪŋ ɪn jə ˈhaʊmtaʊn ðəts tʃeɪndʒd ə lɒt/
+  *(¿Hay algo en tu pueblo que haya cambiado mucho?)*
+- "What do you miss most about where you grew up?"
+  /wɒt də ju mɪs məʊst əˈbaʊt weə ju gruː ʌp/
+  *(¿Qué es lo que más extraño de donde creciste?)*
+
+**Vocabulario útil:**
+- to feel at home /tə fiːl ət həʊm/ — *sentirse en casa* — "I don't feel at home in big cities."
+- to belong somewhere /tə bɪˈlɒŋ ˈsʌmweə/ — *pertenecer a un lugar* — "I don't really belong here yet."
+- to settle down /tə ˈsetl daʊn/ — *asentarse, echar raíces* — "I want to settle down somewhere quiet."
+- to be homesick /tə bi ˈhəʊmsɪk/ — *extrañar el hogar* — "I get homesick sometimes, especially on Sundays."
+- nostalgic /nɒˈstældʒɪk/ — *nostálgico* — "That song makes me really nostalgic."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "For me it's the people, not the place." (contraste enfático)
+  /fə miː ɪts ðə ˈpiːpl nɒt ðə pleɪs/
+- "It's the kind of place where you'd hear..." (tipo relative con verbo en pasado simple)
+  /ɪts ðə kaɪnd əv pleɪs weə juːd hɪə/
+- "Nowhere yet — I'm still looking." (respuesta completa y natural)
+  /ˈnəʊweə jet aɪm stɪl ˈlʊkɪŋ/
+- "If I could move..., I'd go..., but I'd miss..." (Segundo Condicional en dos partes)
+  /ɪf aɪ kʊd muːv aɪd gəʊ bət aɪd mɪs/
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's the smell of [rain/grass/bread] and the sound of [something]."
+   /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋɡlɪʃ bət ɪts ðə smel əv [...] ənd ðə saʊnd əv [...]/
+   *(No sé la palabra en inglés, pero es el olor a [lluvia/césped/pan] y el sonido de [algo].)*
+
+## Día 18 — 2026-10-01: A skill you taught yourself (nivel B1/B2)
+*(Una habilidad que aprendiste tú solo — tema amplio, todos tienen algo: cocinar, tocar un instrumento, un idioma, un oficio)*
+
+**Preguntas que probablemente te hagan:**
+1. Is there something you taught yourself recently?
+   /ɪz ðə ə ˈsɔːmθɪŋ juː tɔːt jɔːˈself ˈriːsntli/
+   *(¿Hay algo que hayas aprendido tú solo últimamente?)*
+   → Presente simple / presente perfecto.
+2. How did you learn it — with videos, books, or someone showing you?
+   /haʊ dɪd ju lɜːn ɪt wɪð ˈvɪdiəʊz bʊks ɔː ˈsʌmwʌn ˈʃəʊɪŋ juː/
+   *(¿Cómo lo aprendiste — con videos, libros, o alguien que te enseñara?)*
+3. What was the hardest part at the beginning?
+   /wɒt wəz ðə ˈhɑːdɪst pɑːt ət ðə bɪˈɡɪnɪŋ/
+   *(¿Cuál fue la parte más difícil al principio?)*
+   → Pasado simple. Buena pregunta: casi todos cuentan una anécdota concreta.
+4. How long did it take you before you felt you had it?
+   /haʊ lɒŋ dɪd ɪt teɪk ju bɪˈfɔː juː fiːlt juː hæd ɪt/
+   *(¿Cuánto te tomó antes de sentir que ya lo tenías?)*
+5. Have you given up on anything you tried to learn? What happened?
+   /həv ju ˈɡɪvən ʌp ɒn ˈeniθɪŋ juː traɪd tə lɜːn wɒt hæˈpənd/
+   *(¿Te has rendido con algo que intentaste aprender? ¿Qué pasó?)*
+6. Do you think you can learn anything at any age, or is there an age where it's too late?
+   /də ju θɪŋk ju kən lɜːn ˈeniθɪŋ ət ˈeni eɪdʒ ɔː ɪz ðər ə eɪdʒ weə ɪts tʊː ˈleɪt/
+   *(¿Crees que se puede aprender algo a cualquier edad, o hay una edad en la que ya es tarde?)*
+   → Tema de opinión, todos discrepan un poco. Útil para sala grupal.
+7. If you could learn one impossible thing right now, what would it be?
+   /ɪf ju kʊd lɜːn wʌn ɪmˈpɒsəbl θɪŋ raɪt naʊ wɒt wʊd ɪt biː/
+   *(Si pudieras aprender algo imposible ahora mismo, ¿qué sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Yes — I've been teaching myself [guitar / cooking / basic web design] for about [X months]."
+   /jes aɪv bɪn ˈtiːtʃɪŋ maɪˈself [...] fər əˈbaʊt [...]/
+2. "Mostly YouTube videos at first, and then I started reading about it once I had the basics down."
+   /ˈməʊstli ˈjuːtjuːb ˈvɪdiəʊz ət fɜːst ənd ðen aɪ ˈstɑːtɪd ˈriːdɪŋ əˈbaʊt ɪt wʌns aɪ hæd ðə ˈbeɪsɪks daʊn/
+3. "The hardest part was the beginning, when everything felt clumsy and I couldn't tell if I was doing it right."
+   /ðə ˈhɑːdɪst pɑːt wəz ðə bɪˈɡɪnɪŋ wen ˈevrɪθɪŋ felt ˈklʌmzi ənd aɪ ˈkʊdnt tel ɪf aɪ wə ˈduːɪŋ ɪt raɪt/
+4. "It took me about [three months] before it stopped feeling strange. I still can't [X], but the rest is fine."
+   /ɪt tʊk miː əˈbaʊt [...] bɪˈfɔː ɪt ˈstɒpt ˈfiːlɪŋ streɪndʒ aɪ stɪl kænt [...] bət ðə rest ɪz faɪn/
+5. "Yes, I gave up on [guitar] a couple of years ago. I wasn't enjoying it, and I kept skipping practice."
+   /jes aɪ ɡeɪv ʌp ɒn [...] ə kʌpl əv jɪəz əˈɡəʊ aɪ wəznt ɪnˈdʒɔɪɪŋ ɪt ənd aɪ kept ˈskɪpɪŋ ˈpræktɪs/
+6. "I used to think only kids could pick things up easily, but it's never too late — it just takes longer."
+   /aɪ ˈjuːst tə θɪŋk ˈəʊnli kaɪdz kʊd pɪk θɪŋz ʌp ˈiːzli bət ɪts ˈnevə tʊː ˈleɪt ɪt dʒʌst teɪks ˈlɒŋɡə/
+7. "If I could learn one impossible thing, I'd learn to play the [piano] properly. I've only ever played it with one finger."
+   /ɪf aɪ kʊd lɜːn wʌn ɪmˈpɒsəbl θɪŋ aɪd lɜːn tə pleɪ ðə [...] ˈprɒpəli aɪv ˈəʊnli ˈevə pleɪd ɪt wɪð wʌn ˈfɪŋɡə/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Do you prefer learning from videos, or from a real person?"
+  /də ju prɪˈfɜː ˈlɜːnɪŋ frəm ˈvɪdiəʊz ɔː frəm ə rɪəl ˈpɜːsn/
+  *(¿Prefieres aprender de videos o de una persona real?)*
+- "Is there anything you'd like to learn, but you keep putting off?"
+  /ɪz ðər ˈeniθɪŋ juːd laɪk tə lɜːn bət juː kiːp pʊtɪŋ ɒf/
+  *(¿Hay algo que te gustaría aprender pero que sigues aplazando?)*
+- "What's the thing people give up on most often?"
+  /wɒts ðə θɪŋ ˈpiːpl ɡaɪv ʌp ɒn məʊst ˈɒfən/
+  *(¿Qué es aquello en lo que la gente más se rinde?)*
+
+**Vocabulario útil:**
+- to teach yourself /tə ˈtiːtʃ jɔːˈself/ — *aprender/enseñarte algo tú solo* — "I taught myself to cook last year."
+- to get the hang of something /tə ɡet ðə hæŋ əv ˈsʌmθɪŋ/ — *agarrarle el truco a algo* — "It took me weeks to get the hang of it."
+- clumsy /ˈklʌmzi/ — *torpe (con las manos o con algo nuevo)* — "My hands were really clumsy at first."
+- to pick something up /tə pɪk ˈsʌmθɪŋ ʌp/ — *aprender algo sin que te enseñen formalmente* — "I picked it up just by watching videos."
+- to give up on something /tə ɡɪv ʌp ɒn ˈsʌmθɪŋ/ — *rendirse ante algo* — "I don't give up on it anymore."
+- to put something off /tə pʊt ˈsʌmθɪŋ ɒf/ — *aplazar algo* — "I keep putting it off, though."
+- to stick with something /tə stɪk wɪð ˈsʌmθɪŋ/ — *seguir con algo aunque cueste* — "Just stick with it for a month and it gets easier."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I've been teaching myself... for..." (presente perfecto continuo)
+  /aɪv bɪn ˈtiːtʃɪŋ maɪˈself fə/
+- "It took me [X] before..." (expresar cuánto se necesitó para lograr algo)
+  /ɪt tʊk miː [...] bɪˈfɔː/
+- "I used to think..., but..." (creencia que cambió — más natural que "I thought")
+  /aɪ ˈjuːst tə θɪŋk bət/
+- "Not only did I..., but I also..." (inversión enfática, B2)
+  /nəʊt ˈəʊnli dɪd aɪ bət aɪ ˈɔːlsəʊ/
+  → alternativa B2 para decir dos cosas sin repetir el sujeto.
+- "There's no point in [gerundio] if..." (desaconsejar algo con estructura B2)
+  /ðeəz nəʊ pɔɪnt ɪn [...] ɪf/
+  → "There's no point in learning it if you don't enjoy it."
+- "If I could..., I'd..." (Segundo Condicional)
+  /ɪf aɪ kʊd aɪd/
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's when you teach yourself something and nobody helps you."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋɡlɪʃ bət ɪts wen juː ˈtiːtʃ jɔːˈself ˈsʌmθɪŋ ənd ˈnəʊbədi ˈhelps juː/
+  *(No sé la palabra en inglés, pero es cuando aprendes algo tú solo y nadie te ayuda.)*

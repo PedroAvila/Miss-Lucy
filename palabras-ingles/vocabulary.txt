@@ -1219,7 +1219,7 @@ holiday => vacaciones/fiesta/festividad
 nest => anidar/nido 
 highlight => destacar
 holy => sagrado/santo
-grab => coger/agarrar  
+grab => coger/agarrar/tomar   
 light => luz/ligero/claro
 survey => encuesta
 weather => tiempo
@@ -1750,6 +1750,15 @@ born => nacido
 firm => firme 
 illness => enfermedad 
 passenger => pasajero 
+handrail => pasamanos
+mild => suave 
+handshake => apretón de manos
+thankfully => gracias a Dios/por suerte
+commitment  => compromiso 
+overall => en conjunto/general/total 
+badge => distintivo/credencial
+gambling => juego/apuesta 
+mitt => guante/manopla 
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante
