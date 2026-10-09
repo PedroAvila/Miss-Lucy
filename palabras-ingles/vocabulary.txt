@@ -18,6 +18,7 @@ place = lugar
 showed => presentado/presentada 
 present => regalo/presente 
 absolutely => absolutamente 
+awhile => un rato 
 placed = colocado/metido
 carefully = con cuidado/cuidadosamente 
 cute => bonito/guapo
@@ -1759,6 +1760,20 @@ overall => en conjunto/general/total
 badge => distintivo/credencial
 gambling => juego/apuesta 
 mitt => guante/manopla 
+deserve => merecer
+refugee => refugiado
+seek => buscar
+praise => elogiar/alabar
+unhinged => trastornado
+sync => sincronización
+horse => caballo
+accomplish => lograr/llevar a cabo/realizar
+defer => diferir/aplazar
+keyword => palabra clave
+enclose => rodear/circundar
+preface => prólogo/prefacio
+following => después de/siguiente
+
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante

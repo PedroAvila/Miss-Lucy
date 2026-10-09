@@ -4,7 +4,7 @@
 
 ---
 
-## Chunk 1 — `I tend to + verbo`
+## Chunk 1 — `I tend to + verbo` => Suelo
 
 **Uso:** habito (*habit*)
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Chunk 2 — `I'm used to + verbo-ing`
+## Chunk 2 — `I'm used to + verbo-ing` => Estoy acostumbrado a
 
 **Uso:** accion familiar (*familiar action*)
 
@@ -31,7 +31,7 @@
 
 ---
 
-## Chunk 3 — `I find it easy to + verbo`
+## Chunk 3 — `I find it easy to + verbo` => Me resulta fácil
 
 **Uso:** habilidad natural (*natural skill*)
 
