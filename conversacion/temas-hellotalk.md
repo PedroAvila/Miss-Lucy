@@ -1179,3 +1179,234 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 - "I don't know the word in English, but it's when you teach yourself something and nobody helps you."
   /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋɡlɪʃ bət ɪts wen juː ˈtiːtʃ jɔːˈself ˈsʌmθɪŋ ənd ˈnəʊbədi ˈhelps juː/
   *(No sé la palabra en inglés, pero es cuando aprendes algo tú solo y nadie te ayuda.)*
+
+## Día 19 — 2026-10-03: Fear of failure and stepping out of your comfort zone (nivel B1/B2)
+*(Miedo al fracaso y salir de tu zona de confort — tema personal, la gente se abre y cuenta sus propios riesgos)*
+
+**Preguntas que probablemente te hagan:**
+1. When was the last time you stepped out of your comfort zone?
+   /wen wəz ðə lɑːst taɪm ju stept aʊt əv jə ˈkʌmfət zəʊn/
+   *(¿Cuándo fue la última vez que saliste de tu zona de confort?)*
+   → Pasado simple para abrir con una anécdota.
+2. Is there something you've always wanted to do but have been too afraid to try?
+   /ɪz ðər ˈsʌmθɪŋ juːv ˈɔːlweɪz ˈwɒntɪd tə du bət juːv bɪn tuː əˈfreɪd tə traɪ/
+   *(¿Hay algo que siempre has querido hacer pero has tenido demasiado miedo de intentar?)*
+   → Present Perfect + "too ... to".
+3. What do you usually tell yourself right before you take a big risk?
+   /wɒt də ju ˈjuːʒʊəli tel jɔːˈself raɪt bɪˈfɔː ju teɪk ə bɪɡ rɪsk/
+   *(¿Qué te dices normalmente justo antes de tomar un gran riesgo?)*
+4. Has a failure ever taught you more than a success?
+   /həz ə ˈfeɪljə ˈevə tɔːt ju mɔː ðən ə səkˈses/
+   *(¿Alguna vez un fracaso te ha enseñado más que un éxito?)*
+   → Present Perfect. Buena pregunta: todos tienen una historia.
+5. Do you think fear of failure holds more people back than a lack of talent?
+   /də ju θɪŋk fɪə əv ˈfeɪljə həʊldz mɔː ˈpiːpl bæk ðən ə læk əv ˈtælənt/
+   *(¿Crees que el miedo al fracaso frena a más gente que la falta de talento?)*
+   → Opinión + comparación. Genera desacuerdo, ideal para sala grupal.
+6. What advice would you give someone who's afraid to start something new?
+   /wɒt ədˈvaɪs wʊd ju ɡɪv ˈsʌmwʌn huːz əˈfreɪd tə stɑːt ˈsʌmθɪŋ njuː/
+   *(¿Qué consejo le darías a alguien que tiene miedo de empezar algo nuevo?)*
+7. If you knew you couldn't fail, what would you do tomorrow?
+   /ɪf ju njuː ju ˈkʊdnt feɪl wɒt wʊd ju du təˈmɒrəʊ/
+   *(Si supieras que no podrías fracasar, ¿qué harías mañana?)*
+   → Segundo Condicional. Pregunta estrella, guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "The last time I stepped out of my comfort zone was when I [started speaking English online / changed jobs]."
+   /ðə lɑːst taɪm aɪ stept aʊt əv maɪ ˈkʌmfət zəʊn wəz wen aɪ [...]/
+2. "Yes — I've always wanted to [travel alone / start my own business], but I keep making excuses."
+   /jes aɪv ˈɔːlweɪz ˈwɒntɪd tə [...] bət aɪ kiːp ˈmeɪkɪŋ ɪkˈskjuːzɪz/
+3. "I just tell myself that the worst that can happen is [algo], and somehow that makes it less scary."
+   /aɪ dʒʌst tel maɪˈself ðət ðə wɜːst ðət kən ˈhæpən ɪz [...] ənd ˈsʌmhaʊ ðæt meɪks ɪt les ˈskeəri/
+4. "Yes, honestly. When I [failed at X], I learned more about myself than when things went well."
+   /jes ˈɒnɪstli wen aɪ [...] aɪ lɜːnt mɔːr əˈbaʊt maɪˈself ðən wen θɪŋz went wel/
+5. "I think fear holds people back more — talent can be built, but fear makes you never even start."
+   /aɪ θɪŋk fɪə həʊldz ˈpiːpl bæk mɔː ˈtælənt kən bi bɪlt bət fɪə meɪks ju ˈnevər ˈiːvn stɑːt/
+6. "I'd tell them to start small and expect to be bad at first — that's part of it."
+   /aɪd tel ðəm tə stɑːt smɔːl ənd ɪkˈspekt tə bi bæd ət fɜːst ðæts pɑːt əv ɪt/
+7. "If I knew I couldn't fail, I'd [move abroad / start the project I've been putting off]."
+   /ɪf aɪ njuː aɪ ˈkʊdnt feɪl aɪd [...]/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Would you do it again, knowing how it turned out?"
+  /wʊd ju du ɪt əˈɡen ˈnəʊɪŋ haʊ ɪt tɜːnd aʊt/
+  *(¿Lo harías otra vez, sabiendo cómo salió?)*
+- "What's the riskiest thing you've ever done?"
+  /wɒts ðə ˈrɪskiɪst θɪŋ juːv ˈevə dʌn/
+  *(¿Qué es lo más arriesgado que has hecho?)*
+- "Do you regret the things you did, or the things you didn't do?"
+  /də ju rɪˈɡret ðə θɪŋz ju dɪd ɔː ðə θɪŋz ju ˈdɪdnt du/
+  *(¿Te arrepientes de las cosas que hiciste, o de las que no hiciste?)*
+
+**Vocabulario útil:**
+- a comfort zone /ə ˈkʌmfət zəʊn/ — *la zona de confort* — "I try to leave my comfort zone every week."
+- to hold someone back /tə həʊld ˈsʌmwʌn bæk/ — *frenar a alguien* — "The fear of failing held me back for years."
+- to put something off /tə pʊt ˈsʌmθɪŋ ɒf/ — *aplazar algo* — "I kept putting it off out of fear."
+- to be afraid of failing /tə bi əˈfreɪd əv ˈfeɪlɪŋ/ — *tener miedo de fracasar* — "I was afraid of failing, so I never tried."
+- to have nothing to lose /tə həv ˈnʌθɪŋ tə luːz/ — *no tener nada que perder* — "It was scary, but I had nothing to lose."
+- it's worth a try /ɪts wɜːθ ə traɪ/ — *vale la pena intentarlo* — "Even if it doesn't work, it's worth a try."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I've always wanted to..., but..." (Present Perfect + contraste)
+  /aɪv ˈɔːlweɪz ˈwɒntɪd tə bət/
+- "The worst that can happen is..." (minimizar el riesgo al hablar)
+  /ðə wɜːst ðət kən ˈhæpən ɪz/
+- "It's not about X, it's about Y." (reformular una idea con contraste)
+  /ɪts nɒt əˈbaʊt ɪts əˈbaʊt/
+  → "It's not about not being afraid, it's about doing it anyway."
+- "If I knew I couldn't fail, I'd..." (Segundo Condicional)
+  /ɪf aɪ njuː aɪ ˈkʊdnt feɪl aɪd/
+- "No matter how scary it is, ..." (concesión, B2)
+  /nəʊ ˈmætə haʊ ˈskeəri ɪt ɪz/
+  → "No matter how scary it is, I'd rather regret trying than not trying."
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's that feeling when you want to do something and you're too scared to start."
+   /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋɡlɪʃ bət ɪts ðət ˈfiːlɪŋ wen ju wɒnt tə du ˈsʌmθɪŋ ənd jʊə tuː skeəd tə stɑːt/
+   *(No sé la palabra en inglés, pero es esa sensación de que quieres hacer algo y tienes demasiado miedo de empezar.)*
+
+## Día 20 — 2026-10-05: Weather, seasons and the climate where you live (nivel B1)
+*(El clima, las estaciones y el tiempo donde vives — tema universal para comparar con gente de otros países)*
+
+**Preguntas que probablemente te hagan:**
+1. What's the weather like where you live right now?
+   /wɒts ðə ˈweðə laɪk weə ju lɪv raɪt naʊ/
+   *(¿Cómo está el clima donde vives ahora mismo?)*
+   → Presente simple; ojo: se dice "What's the weather like?", no "How is the weather?".
+2. What's your favorite season, and why?
+   /wɒts jə ˈfeɪvərɪt ˈsiːzn ənd waɪ/
+   *(¿Cuál es tu estación favorita y por qué?)*
+3. Does it rain a lot where you're from?
+   /dʌz ɪt reɪn ə lɒt weə jʊə frɒm/
+   *(¿Llueve mucho de donde eres?)*
+4. How does the weather affect your mood?
+   /haʊ dʌz ðə ˈweðər əˈfekt jə muːd/
+   *(¿Cómo te afecta el clima en tu estado de ánimo?)*
+5. Has the weather changed compared to a few years ago?
+   /həz ðə ˈweðə tʃeɪndʒd kəmˈpeəd tə ə fjuː jɪəz əˈgəʊ/
+   *(¿Ha cambiado el clima comparado con hace unos años?)*
+   → Present Perfect para un cambio a lo largo del tiempo.
+6. If you could live somewhere with perfect weather, where would it be?
+   /ɪf ju kʊd lɪv ˈsʌmweə wɪð ˈpɜːfɪkt ˈweðə weə wʊd ɪt biː/
+   *(Si pudieras vivir donde el clima fuera perfecto, ¿dónde sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Right now it's [sunny / cloudy / raining] here. It's been like this all week."
+   /raɪt naʊ ɪts [...] hɪə ɪts bɪn laɪk ðɪs ɔːl wiːk/
+2. "My favorite season is [summer], because [...]."
+   /maɪ ˈfeɪvərɪt ˈsiːzn ɪz [...] bɪˈkɒz [...]/
+3. "Yes, it rains a lot, especially in [winter]. You get used to it."
+   /jes ɪt reɪnz ə lɒt ɪˈspeʃəli ɪn [...] ju get juːst tə ɪt/
+4. "The weather really affects me — when it's grey I feel lazy, but the sun lifts my mood."
+   /ðə ˈweðə ˈrɪəli əˈfekts miː wen ɪts greɪ aɪ fiːl ˈleɪzi bət ðə sʌn lɪfts maɪ muːd/
+5. "Honestly, yes — summers feel hotter than they used to."
+   /ˈɒnɪstli jes ˈsʌməz fiːl ˈhɒtə ðən ðeɪ ˈjuːst tə/
+6. "If I could live anywhere, I'd pick [place], because the weather is mild all year."
+   /ɪf aɪ kʊd lɪv ˈeniweə aɪd pɪk [...] bɪˈkɒz ðə ˈweðə ɪz maɪld ɔːl jɪə/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Is it the same where you live?"
+  /ɪz ɪt ðə seɪm weə ju lɪv/
+  *(¿Es igual donde vives?)*
+- "What's the weather like in your country right now?"
+  /wɒts ðə ˈweðə laɪk ɪn jə ˈkʌntri raɪt naʊ/
+  *(¿Cómo está el clima en tu país ahora mismo?)*
+- "Do you like the rain, or does it bother you?"
+  /də ju laɪk ðə reɪn ɔː dʌz ɪt ˈbɒðə ju/
+  *(¿Te gusta la lluvia, o te molesta?)*
+
+**Vocabulario útil:**
+- it's pouring /ɪts ˈpɔːrɪŋ/ — *está lloviendo a cántaros* — "Take an umbrella, it's pouring."
+- a heatwave /ə ˈhiːtweɪv/ — *una ola de calor* — "We had a heatwave last August."
+- chilly /ˈtʃɪli/ — *fresco, con frío* — "It gets chilly at night here."
+- mild /maɪld/ — *templado, suave* — "The winters are mild, no snow at all."
+- to be freezing /tə bi ˈfriːzɪŋ/ — *estar congelado de frío* — "I'm freezing, let's go inside."
+
+**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
+- "What's the weather like?" (pregunta fija; no se dice "how is the weather")
+  /wɒts ðə ˈweðə laɪk/
+- "It's been ... all week." (Present Perfect para algo que continúa)
+  /ɪts bɪn ɔːl wiːk/
+- "It feels hotter than it used to." (comparativo + "used to")
+  /ɪt fiːlz ˈhɒtə ðən ɪt ˈjuːst tə/
+- "When it's ..., I feel ..." (condición + reacción personal)
+  /wen ɪts aɪ fiːl/
+
+**Frase de rescate:**
+- "I don't know the exact word, but it's the kind of weather that's not hot and not cold."
+  /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts ðə kaɪnd əv ˈweðə ðəts nɒt hɒt ənd nɒt kəʊld/
+  *(No sé la palabra exacta, pero es el tipo de clima que no es ni caliente ni frío.)*
+
+## Día 21 — 2026-10-07: Education: does school prepare us for real life? (nivel B2)
+*(Educación: ¿nos prepara la escuela para la vida real? — tema de opinión abstracta, para argumentar con matices)*
+
+**Preguntas que probablemente te hagan:**
+1. Looking back, do you think school prepared you well for real life?
+   /ˈlʊkɪŋ bæk də ju θɪŋk skuːl prɪˈpeəd ju wel fə rɪəl laɪf/
+   *(Mirando atrás, ¿crees que la escuela te preparó bien para la vida real?)*
+   → Opinión general + reflexión retrospectiva.
+2. If you could redesign the education system from scratch, what would you change first?
+   /ɪf ju kʊd ˌriːdɪˈzaɪn ði ˌedʒʊˈkeɪʃən ˈsɪstəm frəm ˈskrætʃ wɒt wʊd ju tʃeɪndʒ fɜːst/
+   *(Si pudieras rediseñar el sistema educativo desde cero, ¿qué cambiarías primero?)*
+   → Practica Segundo Condicional.
+3. Do you think schools should teach practical skills, like managing money or cooking, instead of so much theory?
+   /də ju θɪŋk skuːlz ʃʊd tiːtʃ ˈpræktɪkl skɪlz laɪk ˈmænɪdʒɪŋ ˈmʌni ɔː ˈkʊkɪŋ ɪnˈsted əv səʊ mʌtʃ ˈθɪəri/
+   *(¿Crees que las escuelas deberían enseñar habilidades prácticas, como manejar dinero o cocinar, en vez de tanta teoría?)*
+   → Opinión + "instead of + gerundio".
+4. A lot of people say exams measure memory, not intelligence. What's your take on that?
+   /ə lɒt əv ˈpiːpl seɪ ɪgˈzæmz ˈmeʒə ˈmeməri nɒt ɪnˈtelɪdʒəns wɒts jə teɪk ɒn ðæt/
+   *(Mucha gente dice que los exámenes miden la memoria, no la inteligencia. ¿Cuál es tu opinión?)*
+   → Opinión matizada.
+5. Is there a subject you wish you had paid more attention to at school?
+   /ɪz ðər ə ˈsʌbdʒɪkt ju wɪʃ ju həd peɪd mɔːr əˈtenʃən tə ət skuːl/
+   *(¿Hay alguna materia a la que desearías haberle prestado más atención en la escuela?)*
+   → Practica "wish + pasado perfecto".
+6. If you hadn't studied what you studied, how would your life be different now?
+   /ɪf ju ˈhædnt ˈstʌdid wɒt ju ˈstʌdid haʊ wʊd jə laɪf bi ˈdɪfrənt naʊ/
+   *(Si no hubieras estudiado lo que estudiaste, ¿cómo sería tu vida ahora?)*
+   → Tercer Condicional / condicional mixto. **Pregunta estrella, guárdala para el final.**
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Partly. School taught me how to follow rules, but not how to think for myself."
+   /ˈpɑːtli skuːl tɔːt miː haʊ tə ˈfɒləʊ ruːlz bət nɒt haʊ tə θɪŋk fə maɪˈself/
+2. "If I could redesign it, I'd focus on critical thinking and less on memorising facts."
+   /ɪf aɪ kʊd ˌriːdɪˈzaɪn ɪt aɪd ˈfəʊkəs ɒn ˈkrɪtɪkl ˈθɪŋkɪŋ ənd les ɒn ˈmeməraɪzɪŋ fækts/
+3. "Honestly, yes. I wish someone had taught me how to handle money — I had to learn it the hard way."
+   /ˈɒnɪstli jes aɪ wɪʃ ˈsʌmwʌn həd tɔːt miː haʊ tə ˈhændl ˈmʌni aɪ həd tə lɜːn ɪt ðə hɑːd weɪ/
+4. "I'd say it's a bit of both. Exams reward memory, but they can't measure curiosity or creativity."
+   /aɪd seɪ ɪts ə bɪt əv bəʊθ ɪgˈzæmz rɪˈwɔːd ˈmeməri bət ðeɪ kɑːnt ˈmeʒə ˌkjʊəriˈɒsəti ɔː ˌkriːeɪˈtɪvəti/
+5. "Yes — I wish I'd taken languages more seriously. Not only would it be useful, I'd also enjoy it more now."
+   /jes aɪ wɪʃ aɪd ˈteɪkən ˈlæŋgwɪdʒɪz mɔː ˈsɪəriəsli nɒt ˈəʊnli wʊd ɪt bi ˈjuːsfʊl aɪd ˈɔːlsəʊ ɪnˈdʒɔɪ ɪt mɔː naʊ/
+6. "If I hadn't chosen this path, I'd probably be doing something completely different — although I might regret it too."
+   /ɪf aɪ ˈhædnt ˈtʃəʊzn ðɪs pɑːθ aɪd ˈprɒbəbli bi ˈduːɪŋ ˈsʌmθɪŋ kəmˈpliːtli ˈdɪfrənt ɔːlˈðəʊ aɪ maɪt rɪˈgret ɪt tuː/
+
+**Vocabulario útil:**
+- rote learning /rəʊt ˈlɜːnɪŋ/ — *aprender de memoria sin entender* — "Rote learning doesn't help you understand anything."
+- the curriculum /ðə kəˈrɪkjələm/ — *el plan de estudios* — "The curriculum hasn't changed in decades."
+- critical thinking /ˈkrɪtɪkl ˈθɪŋkɪŋ/ — *pensamiento crítico* — "Schools should teach critical thinking, not just facts."
+- hands-on /ˌhændz ˈɒn/ — *práctico, aprendiendo haciendo* — "I learn better with hands-on activities."
+- to fall behind /tə fɔːl bɪˈhaɪnd/ — *quedarse atrás* — "I fell behind in maths and never caught up."
+- outdated /ˌaʊtˈdeɪtɪd/ — *desactualizado, obsoleto* — "Some of these subjects feel outdated."
+
+**Estructuras B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I wish I had + participio..." (wish + pasado perfecto, arrepentimiento)
+  /aɪ wɪʃ aɪ həd/
+  → punto 5, "a subject you wish you had paid attention to".
+- "If I hadn't + participio, I would have..." (Tercer Condicional)
+  /ɪf aɪ ˈhædnt aɪ wʊd həv/
+  → punto 6, imaginar un pasado distinto.
+- "Not only would it..., but it would also..." (inversión enfática)
+  /nɒt ˈəʊnli wʊd ɪt bət ɪt ˈɔːlsəʊ/
+  → punto 5, encadenar dos ventajas.
+- "What I would change is..." (cleft sentence para enfatizar)
+  /wɒt aɪ wʊd tʃeɪndʒ ɪz/
+  → punto 2, presentar tu propuesta principal.
+- "...although..." / "despite the fact that..." (conectores de contraste)
+  /ɔːlˈðəʊ/ · /dɪˈspaɪt ðə fækt ðət/
+  → punto 6, matizar tu propia respuesta.
+
+**Frase de rescate:**
+- "I don't know the exact word, but it's when you learn something by repeating it over and over."
+  /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts wen ju lɜːn ˈsʌmθɪŋ baɪ rɪˈpiːtɪŋ ɪt ˈəʊvər ənd ˈəʊvə/
+  *(No sé la palabra exacta, pero es cuando aprendes algo repitiéndolo una y otra vez.)*

@@ -1407,7 +1407,7 @@ vibe => ambiente/vibraciones
 enable => permitir 
 camera => cámara 
 cheering => animado 
-cheers => ¡salud!
+cheers => ¡salud!/thank you 
 cheerful => alegre 
 hardworking => trabajador 
 incredible => increible 
@@ -1773,6 +1773,10 @@ keyword => palabra clave
 enclose => rodear/circundar
 preface => prólogo/prefacio
 following => después de/siguiente
+chest of drawers => cómoda 
+encourage => fomentar/animar/incentivar 
+drawer => cajón
+scrap => eliminar/deshacerse de/abandonar/renunciar a 
 
 
 ===================== palabras del libro Modern Software Engineering ======================
