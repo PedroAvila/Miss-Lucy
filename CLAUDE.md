@@ -21,3 +21,4 @@ This is **not a software project** — it's a personal English-learning journal/
 - When adding vocabulary, follow the format already used in `palabras-ingles/` and the convention set in `plan-ingles.md`: each new word/phrase should come with an example sentence, not just the isolated word.
 - Preserve the existing organizational pattern (by date, by instructor, or by topic) rather than introducing a new structure — check which pattern an existing sibling file/folder uses before adding new content.
 - Do not reorganize, rename, or delete existing notes/photos unless explicitly asked — this is a personal historical record of the user's study progress.
+- **OBLIGATORIO: Antes de cualquier tarea, leer todos los archivos en `docs/` (incluyendo `docs/decisions/`) para conocer el contexto, decisiones previas (ADRs) y convenciones establecidas.** No se debe actuar sin haber consultado primero la documentación del proyecto.

@@ -1410,3 +1410,221 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 - "I don't know the exact word, but it's when you learn something by repeating it over and over."
   /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts wen ju lɜːn ˈsʌmθɪŋ baɪ rɪˈpiːtɪŋ ɪt ˈəʊvər ənd ˈəʊvə/
   *(No sé la palabra exacta, pero es cuando aprendes algo repitiéndolo una y otra vez.)*
+
+## Día 22 — 2026-10-09: Is privacy dead in the digital age? (nivel B2)
+*(¿Está muerta la privacidad en la era digital? — tema de opinión abstracta, distinto de redes sociales e IA: aquí se habla de datos, vigilancia y control)*
+
+**Preguntas que probablemente te hagan:**
+1. How much of your personal data do you think is out there, and does it worry you?
+   /haʊ mʌtʃ əv jə ˈpɜːsənl ˈdeɪtə də ju θɪŋk ɪz aʊt ðeər ənd dʌz ɪt ˈwʌri ju/
+   *(¿Cuánta de tu información personal crees que anda por ahí, y te preocupa?)*
+2. Have you ever actually read the terms and conditions before clicking "accept"?
+   /həv ju ˈevə ˈæktʃuəli red ðə tɜːmz ənd kənˈdɪʃənz bɪˈfɔː ˈklɪkɪŋ əkˈsept/
+   *(¿Alguna vez has leído de verdad los términos y condiciones antes de hacer clic en "aceptar"?)*
+   → Present Perfect + pregunta con un toque irónico, suele sacar risas.
+3. How much are you willing to give up in exchange for convenience?
+   /haʊ mʌtʃ ə ju ˈwɪlɪŋ tə gɪv ʌp ɪn ɪksˈtʃeɪndʒ fə kənˈviːniəns/
+   *(¿Cuánto estás dispuesto a ceder a cambio de comodidad?)*
+   → Practica "be willing to" + "in exchange for".
+4. If companies had to pay you every time they used your data, how much would you charge?
+   /ɪf ˈkʌmpəniz həd tə peɪ ju ˈevri taɪm ðeɪ juːzd jə ˈdeɪtə haʊ mʌtʃ wʊd ju tʃɑːdʒ/
+   *(Si las empresas tuvieran que pagarte cada vez que usan tus datos, ¿cuánto cobrarías?)*
+   → Practica Segundo Condicional.
+5. Do you think privacy is a basic right, or a luxury only some people can afford?
+   /də ju θɪŋk ˈprɪvəsi ɪz ə ˈbeɪsɪk raɪt ɔːr ə ˈlʌkʃəri ˈəʊnli sʌm ˈpiːpl kən əˈfɔːd/
+   *(¿Crees que la privacidad es un derecho básico, o un lujo que solo algunos pueden permitirse?)*
+6. Has technology made us more connected, or just more exposed?
+   /həz tekˈnɒlədʒi meɪd ʌs mɔː kəˈnektɪd ɔː dʒʌst mɔːr ɪkˈspəʊzd/
+   *(¿La tecnología nos ha hecho más conectados, o solo más expuestos?)*
+   → Present Perfect + opinión. **Pregunta estrella, guárdala para el final.**
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Honestly, probably more than I'd like to admit — between apps, banks and shops, my data is everywhere."
+   /ˈɒnɪstli ˈprɒbəbli mɔː ðən aɪd laɪk tʊ ədˈmɪt bɪˈtwiːn æps bæŋks ənd ʃɒps maɪ ˈdeɪtə ɪz ˈevriweə/
+2. "No, and I don't think anyone does. That's exactly the problem, isn't it?"
+   /nəʊ ənd aɪ dəʊnt θɪŋk ˈeniwʌn dʌz ðæts ɪgˈzæktli ðə ˈprɒbləm ˈɪznt ɪt/
+3. "I think we trade privacy for convenience without even noticing. The more useful the app, the more we give away."
+   /aɪ θɪŋk wi treɪd ˈprɪvəsi fə kənˈviːniəns wɪˈðaʊt ˈiːvn ˈnəʊtɪsɪŋ ðə mɔː ˈjuːsfʊl ði æp ðə mɔː wi gɪv əˈweɪ/
+4. "If they had to pay me, I'd charge a lot — but deep down I know I'd probably still accept for free."
+   /ɪf ðeɪ həd tə peɪ miː aɪd tʃɑːdʒ ə lɒt bət diːp daʊn aɪ nəʊ aɪd ˈprɒbəbli stɪl əkˈsept fə friː/
+5. "I'd say it's a right, but in practice it's become a luxury — if you can't pay, your data is the price."
+   /aɪd seɪ ɪts ə raɪt bət ɪn ˈpræktɪs ɪts bɪˈkʌm ə ˈlʌkʃəri ɪf ju kɑːnt peɪ jə ˈdeɪtə ɪz ðə praɪs/
+6. "Both, really. We're more connected, but we pay for it with our privacy — there's a fine line there."
+   /bəʊθ ˈrɪəli wɪə mɔː kəˈnektɪd bət wi peɪ fər ɪt wɪð ˈaʊə ˈprɪvəsi ðeəz ə faɪn laɪn ðeə/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Does that worry you, or have you just accepted it?"
+  /dʌz ðæt ˈwʌri ju ɔː həv ju dʒʌst əkˈseptɪd ɪt/
+  *(¿Eso te preocupa, o ya lo has aceptado?)*
+- "Would you delete your social media tomorrow if you could?"
+  /wʊd ju dɪˈliːt jə ˈsəʊʃəl ˈmiːdiə təˈmɒrəʊ ɪf ju kʊd/
+  *(¿Borrarías tus redes sociales mañana si pudieras?)*
+- "Is it the same in your country, or is it worse there?"
+  /ɪz ɪt ðə seɪm ɪn jə ˈkʌntri ɔːr ɪz ɪt wɜːs ðeə/
+  *(¿Es igual en tu país, o es peor ahí?)*
+
+**Vocabulario útil:**
+- to track /tə træk/ — *rastrear, seguir la pista* — "Apps track where you go without you noticing."
+- a data breach /ə ˈdeɪtə briːtʃ/ — *una filtración de datos* — "There was a data breach at the bank last year."
+- surveillance /səˈveɪləns/ — *vigilancia* — "We're under constant surveillance and we barely notice."
+- to opt out /tə ɒpt aʊt/ — *darse de baja, negarse a participar* — "It's not easy to opt out of these services."
+- the terms and conditions /ðə tɜːmz ənd kənˈdɪʃənz/ — *los términos y condiciones* — "Nobody reads the terms and conditions."
+- fingerprint /ˈfɪŋgəprɪnt/ — *huella dactilar* — "Now they can unlock it with your fingerprint."
+
+**Estructuras B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "The more..., the more..." (comparativo correlativo)
+  /ðə mɔː ðə mɔː/
+  → "The more useful the app, the more we give away."
+- "I'd rather... than..." (preferencia con matiz)
+  /aɪd ˈrɑːðə ðən/
+  → "I'd rather pay for a service than give away my data."
+- "It's not that..., it's that..." (reformular para matizar)
+  /ɪts nɒt ðæt ɪts ðæt/
+  → "It's not that I don't care, it's that I have no real choice."
+- "There's a fine line between... and..." (señalar un límite difuso)
+  /ðeəz ə faɪn laɪn bɪˈtwiːn ənd/
+  → "There's a fine line between convenience and control."
+- "However much..., ..." / "No matter how much..., ..." (concesión, B2)
+  /haʊˈevə mʌtʃ/ · /nəʊ ˈmætə haʊ mʌtʃ/
+  → "However much you try, your data is already out there."
+
+**Frase de rescate:**
+- "I don't know the technical word, but it's when a company collects information about you without asking."
+  /aɪ dəʊnt nəʊ ðə ˈteknɪkl wɜːd bət ɪts wen ə ˈkʌmpəni kəˈlekts ˌɪnfəˈmeɪʃən əˈbaʊt ju wɪˈðaʊt ˈɑːskɪŋ/
+  *(No sé la palabra técnica, pero es cuando una empresa recopila información sobre ti sin preguntar.)*
+
+## Día 23 — 2026-10-13: Pets and animals (nivel B1)
+*(Mascotas y animales — tema ligero y universal: todos tienen una historia con un animal)*
+
+**Preguntas que probablemente te hagan:**
+1. Do you have any pets?
+   /də ju həv ˈeni pets/
+   *(¿Tienes mascotas?)*
+2. What's your favorite animal, and why?
+   /wɒts jə ˈfeɪvərɪt ˈænɪml ənd waɪ/
+   *(¿Cuál es tu animal favorito y por qué?)*
+3. Did you have a pet when you were a child?
+   /dɪd ju həv ə pet wen ju wə ə tʃaɪld/
+   *(¿Tenías una mascota cuando eras niño?)*
+   → Pasado simple, invita a contar una anécdota.
+4. Do you think pets are good for people, or are they a lot of work?
+   /də ju θɪŋk pets ə gʊd fə ˈpiːpl ɔːr ə ðeɪ ə lɒt əv wɜːk/
+   *(¿Crees que las mascotas son buenas para la gente, o son mucho trabajo?)*
+   → Genera opiniones divididas, ideal para sala grupal.
+5. What do you think pets give to the people who have them?
+   /wɒt də ju θɪŋk pets gɪv tə ðə ˈpiːpl huː həv ðəm/
+   *(¿Qué crees que las mascotas les dan a quienes las tienen?)*
+   → Buena pregunta para profundizar; saca respuestas más personales que las demás.
+6. If you could have any animal as a pet, what would it be?
+   /ɪf ju kʊd həv ˈeni ˈænɪml əz ə pet wɒt wʊd ɪt biː/
+   *(Si pudieras tener cualquier animal como mascota, ¿cuál sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Yes, I have a [dog/cat]. His name is [nombre], and he's [X years] old."
+   /jes aɪ həv ə [...] hɪz neɪm ɪz [...] ənd hɪz [...] jɪəz əʊld/
+   *(También: "No, I don't have any, but I'd love to." /nəʊ aɪ dəʊnt həv ˈeni bət aɪd lʌv tə/)*
+2. "My favorite animal is the [dog], because they're loyal and they make you feel less alone."
+   /maɪ ˈfeɪvərɪt ˈænɪml ɪz ðə [...] bɪˈkɒz ðeɪ ə ˈlɔɪəl ənd ðeɪ meɪk ju fiːl les əˈləʊn/
+3. "When I was a child we had a [cat/dog]. I used to play with it every day."
+   /wen aɪ wəz ə tʃaɪld wi həd ə [...] aɪ ˈjuːst tə pleɪ wɪð ɪt ˈevri deɪ/
+4. "I think both. They give you company, but you have to take care of them every single day."
+   /aɪ θɪŋk bəʊθ ðeɪ gɪv ju ˈkʌmpəni bət ju həv tə teɪk keər əv ðəm ˈevri ˈsɪŋgl deɪ/
+
+## Día 24 — 2026-10-15: Holidays and celebrations in your country (nivel B1)
+*(Fiestas y celebraciones en tu país — tema cultural, ideal para intercambiar con gente de otros lugares)*
+
+**Preguntas que probablemente te hagan:**
+1. What's the most important holiday in your country?
+   /wɒts ðə məʊst ɪmˈpɔːtənt ˈhɒlədeɪ ɪn jə ˈkʌntri/
+   *(¿Cuál es la fiesta más importante en tu país?)*
+2. How do you usually celebrate it?
+   /haʊ də ju ˈjuːʒʊəli ˈselɪbreɪt ɪt/
+   *(¿Cómo lo sueles celebrar?)*
+3. Is there a holiday that's special to your region or city?
+   /ɪz ðər ə ˈhɒlədeɪ ðəts ˈspeʃəl tə jə ˈriːdʒən ɔː ˈsɪti/
+   *(¿Hay alguna fiesta que sea especial de tu región o ciudad?)*
+4. What's your favorite childhood memory of a holiday?
+   /wɒts jər ˈfeɪvərɪt ˈtʃaɪldhʊd ˈmeməri əv ə ˈhɒlədeɪ/
+   *(¿Cuál es tu recuerdo favorito de infancia de una fiesta?)*
+5. Do you prefer holidays with family, or with friends?
+   /də ju prɪˈfɜː ˈhɒlədeɪz wɪð ˈfæmɪli ɔː wɪð frendz/
+   *(¿Prefieres las fiestas con familia o con amigos?)*
+6. If you could invent a new holiday, what would it be for?
+   /ɪf ju kʊd ɪnˈvent ə njuː ˈhɒlədeɪ wɒt wʊd ɪt bi fər/
+   *(Si pudieras inventar una fiesta nueva, ¿para qué sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "The most important holiday is [Navidad / Día de la Independencia], because it brings everyone together."
+   /ðə məʊst ɪmˈpɔːtənt ˈhɒlədeɪ ɪz [...] bɪˈkɒz ɪt brɪŋz ˈevriwʌn təˈɡeðə/
+2. "We usually [have a big dinner / go to church / watch fireworks]. It's a family tradition."
+   /wi ˈjuːʒʊəli [...] ɪts ə ˈfæmɪli trəˈdɪʃən/
+3. "Yes, in my city we have [nombre de la fiesta local]. It's only celebrated here."
+   /jes ɪn maɪ ˈsɪti wi həv [...] ɪts ˈəʊnli ˈselɪbreɪtɪd hɪə/
+4. "My favorite memory is [recuerdo]. I was about [edad] and it felt magical."
+   /maɪ ˈfeɪvərɪt ˈmeməri ɪz [...] aɪ wəz əˈbaʊt [...] ənd ɪt felt ˈmædʒɪkl/
+5. "I prefer with family — holidays are the only time we all get together."
+   /aɪ prɪˈfɜː wɪð ˈfæmɪli ˈhɒlədeɪz ɑː ði ˈəʊnli taɪm wi ɔːl get təˈɡeðə/
+6. "If I could invent a holiday, it'd be a 'Day of Rest' where nobody works and everyone just relaxes."
+   /ɪf aɪ kʊd ɪnˈvent ə ˈhɒlədeɪ ɪtd bi ə deɪ əv rest weə ˈnəʊbədi wɜːks ənd ˈevriwʌn dʒʌst rɪˈlæksɪz/
+
+**Vocabulario útil:**
+- a public holiday /ə ˈpʌblɪk ˈhɒlədeɪ/ — *un día festivo* — "Monday is a public holiday."
+- a family gathering /ə ˈfæmɪli ˈɡæðərɪŋ/ — *una reunión familiar* — "We have a big family gathering every Christmas."
+- fireworks /ˈfaɪəwɜːks/ — *fuegos artificiales* — "The fireworks at midnight were amazing."
+- a tradition /ə trəˈdɪʃən/ — *una tradición* — "It's a tradition in my family to open one gift on Christmas Eve."
+- to celebrate /tə ˈselɪbreɪt/ — *celebrar* — "How do you celebrate New Year?"
+
+**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
+- "The most important ... is..." (superlativo)
+  /ðə məʊst ɪmˈpɔːtənt ɪz/
+- "We usually..." / "We always..." (hábito presente)
+  /wi ˈjuːʒʊəli/ · /wi ˈɔːlweɪz/
+- "It's a tradition in my family to..." (estructura fija para tradiciones)
+  /ɪts ə trəˈdɪʃən ɪn maɪ ˈfæmɪli tə/
+- "If I could invent..., it'd be..." (Segundo Condicional)
+  /ɪf aɪ kʊd ɪnˈvent ɪtd bi/
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's the day when everyone [come/regala/baila] and nobody works."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋglɪʃ bət ɪts ðə deɪ wen ˈevriwʌn [...] ənd ˈnəʊbədi wɜːks/
+  *(No sé la palabra en inglés, pero es el día cuando todos [comen/regalan/bailan] y nadie trabaja.)*
+5. "For me, a pet gives you something to care for. It makes you get up and go out, even on bad days."
+   /fə miː ə pet gɪvz ju ˈsʌmθɪŋ tə keə fə ɪt meɪks ju get ʌp ənd gəʊ aʊt ˈiːvn ɒn bæd deɪz/
+6. "If I could have any animal, I'd have a [parrot], because [razón]."
+   /ɪf aɪ kʊd həv ˈeni ˈænɪml aɪd həv ə [...] bɪˈkɒz [...]/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Do you have pets too?"
+  /də ju həv pets tuː/
+  *(¿Tú también tienes mascotas?)*
+- "Are pets common in your country?"
+  /ə pets ˈkɒmən ɪn jə ˈkʌntri/
+  *(¿Las mascotas son comunes en tu país?)*
+- "Did you grow up around animals?"
+  /dɪd ju grəʊ ʌp əˈraʊnd ˈænɪmlz/
+  *(¿Creciste rodeado de animales?)*
+
+**Vocabulario útil:**
+- a pet /ə pet/ — *una mascota* — "We've had a pet for years."
+- to take care of /tə teɪk keər əv/ — *cuidar de* — "I take care of my dog every day."
+- loyal /ˈlɔɪəl/ — *leal, fiel* — "Dogs are incredibly loyal."
+- to walk the dog /tə wɔːk ðə dɒg/ — *pasear al perro* — "I walk the dog twice a day."
+- a stray /ə streɪ/ — *un animal callejero* — "We adopted a stray cat."
+- company /ˈkʌmpəni/ — *compañía* — "A pet is good company."
+
+**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
+- "I used to have..." (posesión o hábito en el pasado)
+  /aɪ ˈjuːst tə həv/
+- "They give you..." / "It makes you..." (presente simple para beneficios)
+  /ðeɪ gɪv ju/ · /ɪt meɪks ju/
+- "If I could have..., I'd have... because..." (Segundo Condicional)
+  /ɪf aɪ kʊd həv aɪd həv bɪˈkɒz/
+- "I don't have any, but I'd love to." (respuesta completa y natural)
+  /aɪ dəʊnt həv ˈeni bət aɪd lʌv tə/
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's an animal that [descripción, ej. lives in the water / has a long neck]."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋglɪʃ bət ɪts ən ˈænɪml ðət [...]/
+  *(No sé la palabra en inglés, pero es un animal que [descripción].)*
