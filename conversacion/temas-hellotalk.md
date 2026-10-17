@@ -1530,6 +1530,44 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
    /wen aɪ wəz ə tʃaɪld wi həd ə [...] aɪ ˈjuːst tə pleɪ wɪð ɪt ˈevri deɪ/
 4. "I think both. They give you company, but you have to take care of them every single day."
    /aɪ θɪŋk bəʊθ ðeɪ gɪv ju ˈkʌmpəni bət ju həv tə teɪk keər əv ðəm ˈevri ˈsɪŋgl deɪ/
+5. "For me, a pet gives you something to care for. It makes you get up and go out, even on bad days."
+   /fə miː ə pet gɪvz ju ˈsʌmθɪŋ tə keə fə ɪt meɪks ju get ʌp ənd gəʊ aʊt ˈiːvn ɒn bæd deɪz/
+6. "If I could have any animal, I'd have a [parrot], because [razón]."
+   /ɪf aɪ kʊd həv ˈeni ˈænɪml aɪd həv ə [...] bɪˈkɒz [...]/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Do you have pets too?"
+  /də ju həv pets tuː/
+  *(¿Tú también tienes mascotas?)*
+- "Are pets common in your country?"
+  /ə pets ˈkɒmən ɪn jə ˈkʌntri/
+  *(¿Las mascotas son comunes en tu país?)*
+- "Did you grow up around animals?"
+  /dɪd ju grəʊ ʌp əˈraʊnd ˈænɪmlz/
+  *(¿Creciste rodeado de animales?)*
+
+**Vocabulario útil:**
+- a pet /ə pet/ — *una mascota* — "We've had a pet for years."
+- to take care of /tə teɪk keər əv/ — *cuidar de* — "I take care of my dog every day."
+- loyal /ˈlɔɪəl/ — *leal, fiel* — "Dogs are incredibly loyal."
+- to walk the dog /tə wɔːk ðə dɒg/ — *pasear al perro* — "I walk the dog twice a day."
+- a stray /ə streɪ/ — *un animal callejero* — "We adopted a stray cat."
+- company /ˈkʌmpəni/ — *compañía* — "A pet is good company."
+
+**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
+- "I used to have..." (posesión o hábito en el pasado)
+  /aɪ ˈjuːst tə həv/
+- "They give you..." / "It makes you..." (presente simple para beneficios)
+  /ðeɪ gɪv ju/ · /ɪt meɪks ju/
+- "If I could have..., I'd have... because..." (Segundo Condicional)
+  /ɪf aɪ kʊd həv aɪd həv bɪˈkɒz/
+- "I don't have any, but I'd love to." (respuesta completa y natural)
+  /aɪ dəʊnt həv ˈeni bət aɪd lʌv tə/
+
+**Frase de rescate:**
+- "I don't know the word in English, but it's an animal that [descripción, ej. lives in the water / has a long neck]."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋglɪʃ bət ɪts ən ˈænɪml ðət [...]/
+  *(No sé la palabra en inglés, pero es un animal que [descripción].)*
 
 ## Día 24 — 2026-10-15: Holidays and celebrations in your country (nivel B1)
 *(Fiestas y celebraciones en tu país — tema cultural, ideal para intercambiar con gente de otros lugares)*
@@ -1589,42 +1627,87 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 **Frase de rescate:**
 - "I don't know the word in English, but it's the day when everyone [come/regala/baila] and nobody works."
   /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋglɪʃ bət ɪts ðə deɪ wen ˈevriwʌn [...] ənd ˈnəʊbədi wɜːks/
-  *(No sé la palabra en inglés, pero es el día cuando todos [comen/regalan/bailan] y nadie trabaja.)*
-5. "For me, a pet gives you something to care for. It makes you get up and go out, even on bad days."
-   /fə miː ə pet gɪvz ju ˈsʌmθɪŋ tə keə fə ɪt meɪks ju get ʌp ənd gəʊ aʊt ˈiːvn ɒn bæd deɪz/
-6. "If I could have any animal, I'd have a [parrot], because [razón]."
-   /ɪf aɪ kʊd həv ˈeni ˈænɪml aɪd həv ə [...] bɪˈkɒz [...]/
+   *(No sé la palabra en inglés, pero es el día cuando todos [comen/regalan/bailan] y nadie trabaja.)*
+
+## Día 25 — 2026-10-16: News and current events: how do you stay informed? (nivel B2)
+*(Noticias y actualidad — tema B2 de opinión: cómo te informas, en quién confías y si las noticias distorsionan la realidad)*
+
+**Preguntas que probablemente te hagan:**
+1. How do you usually find out what's happening in the world?
+   /haʊ də ju ˈjuːʒʊəli faɪnd aʊt wɒts ˈhæpənɪŋ ɪn ðə wɜːld/
+   *(¿Cómo te enteras usualmente de lo que pasa en el mundo?)*
+2. Do you read the news every day, or only when something big happens?
+   /də ju riːð ðə njuːz ˈevri deɪ ɔːr ˈəʊnli wen ˈsʌmθɪŋ bɪɡ ˈhæpənz/
+   *(¿Lees las noticias cada día, o solo cuando pasa algo grande?)*
+   → Presente simple contrastando hábito con "only when".
+3. Which sources do you trust, and how do you know they're not lying to you?
+   /wɪtʃ ˈsɔːsɪz də ju trʌst ənd haʊ də ju nəʊ ðeər nɒt ˈlaɪɪŋ tə ju/
+   *(¿En cuáles fuentes confías, y cómo sabes que no te están mintiendo?)*
+4. How has the way you follow the news changed compared with ten years ago?
+   /haʊ həz ðə weɪ ju ˈfɒləʊ ðə njuːz tʃeɪndʒd kəmˈpeəd wɪð ten jɪəz əˈɡəʊ/
+   *(¿Cómo ha cambiado la forma en que sigues las noticias comparado con hace diez años?)*
+   → Present Perfect + comparación ("compared with").
+5. Do you think the news makes the world look worse than it really is?
+   /də ju θɪŋk ðə njuːz meɪks ðə wɜːld lʊk wɜːs ðən ɪt ˈrɪəli ɪz/
+   *(¿Crees que las noticias hacen que el mundo se vea peor de lo que realmente es?)*
+   → Pregunta estrella: saca opiniones fuertes y contraejemplos. Guárdala para el final.
+6. If you couldn't follow the news for a month, what would you miss the most?
+   /ɪf ju ˈkʊdnt ˈfɒləʊ ðə njuːz fər ə mʌnθ wɒt wʊd ju mɪs ðə məʊst/
+   *(Si no pudieras seguir las noticias un mes, ¿qué extrañarías más?)*
+   → Segundo Condicional.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Mostly through my phone — a couple of apps and two or three accounts I trust."
+   /ˈməʊstli θruː maɪ fəʊn ə ˈkʌpl əv æps ənd tuː ɔː θriː əˈkaʊnts aɪ trʌst/
+2. "I check it every morning, but some weeks I only read the headlines."
+   /aɪ tʃek ɪt ˈevri ˈmɔːnɪŋ bət sʌm wiːks aɪ ˈəʊnli riːð ðə ˈhedlaɪnz/
+3. "I trust [fuente], but I still check the same story in two places before believing it."
+   /aɪ trʌst [...] bət aɪ stɪl tʃek ðə seɪm ˈstɔːri ɪn tuː ˈpleɪsɪz bɪˈfɔː bɪˈliːvɪŋ ɪt/
+4. "Ten years ago I watched the news on TV; now I get short clips on my phone."
+   /ten jɪəz əˈɡəʊ aɪ wɒtʃt ðə njuːz ɒn ˌtiː ˈviː naʊ aɪ get ʃɔːt klɪps ɒn maɪ fəʊn/
+5. "Probably — we see the disasters and the conflicts, but not the millions of quiet days when nothing happens."
+   /ˈprɒbəbli wiː siː ðə dɪsˈɑːstəz ənd ðə ˈkɒnflɪkts bət nɒt ðə ˈmɪljənz əv ˈkwaɪət deɪz wen ˈnʌθɪŋ ˈhæpənz/
+6. "I could, but I'd be out of every conversation — I'd rather cut down than quit completely."
+   /aɪ kʊd bət aɪd biː aʊt əv ˈevri ˌkɒnvəˈseɪʃən aɪd ˈrɑːðə kʌt daʊn ðən kwɪt kəmˈpliːtli/
 
 **Preguntas para devolver (mantener la charla viva):**
-- "Do you have pets too?"
-  /də ju həv pets tuː/
-  *(¿Tú también tienes mascotas?)*
-- "Are pets common in your country?"
-  /ə pets ˈkɒmən ɪn jə ˈkʌntri/
-  *(¿Las mascotas son comunes en tu país?)*
-- "Did you grow up around animals?"
-  /dɪd ju grəʊ ʌp əˈraʊnd ˈænɪmlz/
-  *(¿Creciste rodeado de animales?)*
+- "What's the biggest news story in your country right now?"
+  /wɒts ðə ˈbɪɡɪst njuːz ˈstɔːri ɪn jə ˈkʌntri ˈraɪt naʊ/
+  *(¿Cuál es la noticia más importante de tu país ahora mismo?)*
+- "Do you prefer reading the news or watching it on video?"
+  /də ju prɪˈfɜː ˈriːðɪŋ ðə njuːz ɔː ˈwɒtʃɪŋ ɪt ɒn ˈvɪdiəʊ/
+  *(¿Prefieres leer las noticias o verlas en video?)*
+- "Do your family or friends argue about the news?"
+  /də jə ˈfæmɪli ɔː frendz ˈɑːɡjuː əˈbaʊt ðə njuːz/
+  *(¿Tu familia o amigos discuten por las noticias?)*
 
 **Vocabulario útil:**
-- a pet /ə pet/ — *una mascota* — "We've had a pet for years."
-- to take care of /tə teɪk keər əv/ — *cuidar de* — "I take care of my dog every day."
-- loyal /ˈlɔɪəl/ — *leal, fiel* — "Dogs are incredibly loyal."
-- to walk the dog /tə wɔːk ðə dɒg/ — *pasear al perro* — "I walk the dog twice a day."
-- a stray /ə streɪ/ — *un animal callejero* — "We adopted a stray cat."
-- company /ˈkʌmpəni/ — *compañía* — "A pet is good company."
+- the headlines /ðə ˈhedlaɪnz/ — *los titulares* — "I only read the headlines this morning."
+- a source /ə sɔːs/ — *una fuente de información* — "Always check the source before sharing it."
+- to keep up with /tə kiːp ʌp wɪð/ — *estar al día de* — "I can't keep up with the news anymore."
+- breaking news /ˈbreɪkɪŋ njuːz/ — *noticia de última hora* — "Breaking news: the match has been postponed."
+- biased /ˈbaɪəst/ — *sesgado, parcial* — "Some people think every channel is biased."
+- reliable /rɪˈlaɪəbl/ — *fiable, confiable* — "Is that website reliable enough?"
+- to be well-informed /tə biː wel ɪnˈfɔːmd/ — *estar bien informado* — "It's good to be well-informed, but not obsessed."
 
-**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
-- "I used to have..." (posesión o hábito en el pasado)
-  /aɪ ˈjuːst tə həv/
-- "They give you..." / "It makes you..." (presente simple para beneficios)
-  /ðeɪ gɪv ju/ · /ɪt meɪks ju/
-- "If I could have..., I'd have... because..." (Segundo Condicional)
-  /ɪf aɪ kʊd həv aɪd həv bɪˈkɒz/
-- "I don't have any, but I'd love to." (respuesta completa y natural)
-  /aɪ dəʊnt həv ˈeni bət aɪd lʌv tə/
+**Estructuras B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "Not only..., but also..." (inversión enfática)
+  /nəʊt ˈəʊnli bət ˈɔːlsəʊ/
+  → "Not only do we have more news, but we also trust it less."
+- "My [brother], who works in [media], ..." (cláusula no definición con coma)
+  /maɪ [...] huː wɜːks ɪn [...]/
+  → "My brother, who works at a newspaper, says most people only read the headlines."
+- "The story should have been checked before it was published." (pasiva con modal)
+  /ðə ˈstɔːri ʃʊd həv biːn tʃekt bɪˈfɔː ɪt wəz ˈpʌblɪʃt/
+- "I wonder if/whether..." (pregunta indirecta)
+  /aɪ ˈwʌndə ɪf/ · /aɪ ˈwʌndə ˈweðə/
+  → "I wonder whether we'll ever know the full story."
+- "I wish..." (wish para el presente)
+  /aɪ wɪʃ/
+  → "I wish people checked their sources before sharing."
 
 **Frase de rescate:**
-- "I don't know the word in English, but it's an animal that [descripción, ej. lives in the water / has a long neck]."
-  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋglɪʃ bət ɪts ən ˈænɪml ðət [...]/
-  *(No sé la palabra en inglés, pero es un animal que [descripción].)*
+- "I don't know the English word, but it's when they only tell you one side of the story."
+  /aɪ dəʊnt nəʊ ði ˈɪŋglɪʃ wɜːd bət ɪts wen ðeɪ ˈəʊnli tel ju wʌn saɪd əv ðə ˈstɔːri/
+  *(No sé la palabra en inglés, pero es cuando solo te cuentan un lado de la historia.)*
+
