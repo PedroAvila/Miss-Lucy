@@ -57,6 +57,20 @@
 
 - I've been better
 
+## How to Pronounce the Most Common English Words in Modern British
+* https://www.youtube.com/watch?v=WJQTH4y4YQ8
+
+- I want to buy a new handbag
+
+- I have a question
+
+- See you in three years 
+
+- I have a dog 
+
+- The dog lives on the island
+
+
 
 
 

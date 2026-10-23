@@ -1711,3 +1711,431 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
   /aɪ dəʊnt nəʊ ði ˈɪŋglɪʃ wɜːd bət ɪts wen ðeɪ ˈəʊnli tel ju wʌn saɪd əv ðə ˈstɔːri/
   *(No sé la palabra en inglés, pero es cuando solo te cuentan un lado de la historia.)*
 
+## Día 26 — 2026-10-20: Sport and exercise (nivel B1)
+*(Deporte y ejercicio — tema ligero y universal: practicar vs. ver, equipo vs. individual, rutinas)*
+
+**Preguntas que probablemente te hagan:**
+1. Do you play any sport or do any exercise regularly?
+   /də ju pleɪ ˈeni spɔːt ɔː du ˈeni ˈeksəsaɪz ˈregjʊləli/
+   *(¿Jugas algún deporte o haces ejercicio regularmente?)*
+   → Presente simple para hablar de hábitos.
+2. Do you prefer playing a sport or just watching it?
+   /də ju prɪˈfɜː ˈpleɪɪŋ ə spɔːt ɔː dʒʌst ˈwɒtʃɪŋ ɪt/
+   *(¿Prefieres practicar un deporte o solo verlo?)*
+3. Team sports or individual sports — which do you prefer, and why?
+   /tiːm spɔːts ɔːr ˌɪndɪˈvɪdʒʊəl spɔːts wɪtʃ də ju prɪˈfɜː ənd waɪ/
+   *(¿Deportes de equipo o individuales — cuál prefieres y por qué?)*
+4. What sport did you play as a child?
+   /wɒt spɔːt dɪd ju pleɪ əz ə tʃaɪld/
+   *(¿Qué deporte practicabas de niño?)*
+   → Pasado simple + "used to" para seguir la respuesta.
+5. How often do you exercise, and what usually makes you skip it?
+   /haʊ ˈɒfən də ju ˈeksəsaɪz ənd wɒt ˈjuːʒʊəli meɪks ju skɪp ɪt/
+   *(¿Cada cuánto haces ejercicio, y qué te hace saltártelo usualmente?)*
+6. Have you ever tried a sport you were bad at and ended up loving it?
+   /həv ju ˈevə traɪd ə spɔːt juː wə bæd ət ənd ˈendɪd ʌp ˈlʌvɪŋ ɪt/
+   *(¿Alguna vez has probado un deporte en el que eras malo y terminaste encantándote?)*
+   → Present Perfect. Buena pregunta: casi todos tienen una anécdota.
+7. If you could learn any sport this year, what would it be?
+   /ɪf ju kʊd lɜːn ˈeni spɔːt ðɪs jɪə wɒt wʊd ɪt biː/
+   *(Si pudieras aprender algún deporte este año, ¿cuál sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "I try to [walk / run / go to the gym] at least three times a week, but it depends on work."
+   /aɪ traɪ tə [...] ət liːst θriː taɪmz ə wiːk bət ɪt dɪˈpendz ɒn wɜːk/
+2. "I prefer playing. I get bored just watching — I'd rather be moving myself."
+   /aɪ prɪˈfɜː ˈpleɪɪŋ aɪ get bɔːd dʒʌst ˈwɒtʃɪŋ aɪd ˈrɑːðə bi ˈmuːvɪŋ maɪˈself/
+3. "I'm more of a team person. I like feeling that everyone depends on each other."
+   /aɪm mɔːr əv ə tiːm ˈpɜːsn aɪ laɪk ˈfiːlɪŋ ðət ˈevriwʌn dɪˈpendz ɒn iːtʃ ˈʌðə/
+4. "I used to play [football/basketball] every weekend, but I stopped when I started working."
+   /aɪ ˈjuːst tə pleɪ [...] ˈevri ˈwiːkˌend bət aɪ stɒpt wen aɪ ˈstɑːtɪd ˈwɜːkɪŋ/
+5. "I exercise about twice a week. What makes me skip it is usually [rain / being too tired after work]."
+   /aɪ ˈeksəsaɪz əˈbaʊt twaɪs ə wiːk wɒt meɪks miː skɪp ɪt ɪz ˈjuːʒʊəli [...]/
+6. "Yes — I tried [swimming] and I was terrible at first, but after a month I got completely hooked."
+   /jes aɪ traɪd [...] ənd aɪ wəz ˈterəbl ət fɜːst bət ˈɑːftər ə mʌnθ aɪ gɒt kəmˈpliːtli hʊkt/
+7. "If I could learn any sport this year, I'd learn [...], because [razón]."
+   /ɪf aɪ kʊd lɜːn ˈeni spɔːt ðɪs jɪə aɪd lɜːn [...] bɪˈkɒz [...]/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "What's the most popular sport where you live?"
+  /wɒts ðə məʊst ˈpɒpjʊlə spɔːt weə ju lɪv/
+  *(¿Cuál es el deporte más popular donde vives?)*
+- "Did you play any sport at school?"
+  /dɪd ju pleɪ ˈeni spɔːt ət skuːl/
+  *(¿Practicabas algún deporte en la escuela?)*
+- "Are you more a fan of watching it, or of actually playing?"
+  /ɑː ju mɔːr ə fæn əv ˈwɒtʃɪŋ ɪt ɔːr əv ˈæktʃuəli ˈpleɪɪŋ/
+  *(¿Eres más fan de verlo, o de jugarlo de verdad?)*
+
+**Vocabulario útil:**
+- to be into something /tə bi ˈɪntə ˈsʌmθɪŋ/ — *estar metido en algo* — "I'm really into running these days."
+- to keep fit /tə kiːp fɪt/ — *mantenerse en forma* — "I walk to work just to keep fit."
+- a fan of /ə fæn əv/ — *aficionado a* — "I'm a huge fan of basketball."
+- to skip a workout /tə skɪp ə ˈwɜːkaʊt/ — *saltarse un entreno* — "I skipped my workout twice this week."
+- out of shape /ˌaʊt əv ʃeɪp/ — *fuera de forma* — "I'm a bit out of shape after the holidays."
+- a die-hard fan /ə ˈdaɪhɑːd fæn/ — *aficionado empedernido* — "My brother is a die-hard fan of Liverpool."
+- it's a tie /ɪts ə taɪ/ — *es un empate* — "It was a tie in the end."
+
+**Estructuras B1 para practicar (intenta usarlas sin pensar demasiado):**
+- "I try to... at least ... times a week." (frecuencia con presente simple)
+  /aɪ traɪ tə ət liːst θriː taɪmz ə wiːk/
+- "I used to..., but I stopped when..." (hábito pasado + contraste)
+  /aɪ ˈjuːst tə bət aɪ stɒpt wen/
+- "I'm more of a..." (posicionarse con matiz, más natural que "I prefer")
+  /aɪm mɔːr əv ə/
+- "I'd rather ... than ..." (preferencia)
+  /aɪd ˈrɑːðə ðən/
+  → "I'd rather play than watch."
+- "If I could..., I'd..." (Segundo Condicional)
+  /ɪf aɪ kʊd aɪd/
+
+**Frase de rescate:**
+- "I don't know the name in English, but it's a sport where you [run and kick a ball / swim in a pool]."
+   /aɪ dəʊnt nəʊ ðə neɪm ɪn ˈɪŋɡlɪʃ bət ɪts ə spɔːt weə ju [...]/
+   *(No sé el nombre en inglés, pero es un deporte donde tú [corres y pateas un balón / nadas en una piscina].)*
+
+## Día 27 — 2026-10-21: Unpopular opinions and hot takes (nivel B1/B2)
+*(Opiniones impopulares — tema de opinión: cada uno expone algo que los demás no comparten, ideal para sala grupal donde hay que entrar en debate)*
+
+**Preguntas que probablemente te hagan:**
+1. What's an opinion you hold that most people disagree with?
+   /wɒts ən əˈpɪnjən ju həʊld ðət məʊst ˈpiːpl dɪsəˈɡriː/
+   *(¿Qué opinión tienes que la mayoría de la gente no comparte?)*
+   → Para abrir: "For me it's..." /fə miː ɪts/
+2. Do you ever feel like you're just saying what people expect to hear?
+   /də ju ˈevə fiːl laɪk jʊə dʒʌst ˈseɪɪŋ wət ˈpiːpl ɪkˈspekt tə hɪə/
+   *(¿Alguna vez sientes que solo dices lo que la gente espera oír?)*
+3. Which famous opinion do you think is completely wrong?
+   /wɪtʃ ˈfeɪməs əˈpɪnjən də ju θɪŋk ɪz kəmˈpliːtli rɒŋ/
+   *(¿Qué opinión famosa crees que está completamente mal?)*
+4. Is it harder to disagree with people your age, or with people older than you?
+   /ɪz ɪt ˈhɑːdə tə dɪsəˈɡriː wɪð ˈpiːpl jə eɪdʒ ɔː wɪð ˈpiːpl ˈəʊldə ðən ju/
+   *(¿Es más difícil discrepar con gente de tu edad o con gente mayor que tú?)*
+   → Genera desacuerdo, ideal para sala grupal.
+5. Have you ever changed your mind about something you felt strongly about?
+   /həv ju ˈevə ˈtʃeɪndʒd jə maɪnd əˈbaʊt ˈsʌmθɪŋ juː felt ˈstrɒŋɡli əˈbaʊt/
+   *(¿Alguna vez cambiaste de opinión sobre algo en lo que creías firmemente?)*
+   → Present Perfect. Buena pregunta: casi todos tienen un ejemplo.
+6. Would you keep an opinion that everyone hates, if you truly believed it?
+   /wʊd ju kiːp ən əˈpɪnjən ðət ˈevriwʌn heɪts ɪf ju ˈtruːli bɪˈliːvd ɪt/
+   *(¿Mantendrías una opinión que todos odian, si de verdad creyeras en ella?)*
+   → Pregunta estrella: separa los que tienen convicciones de los que se adaptan. Guárdala para el final.
+7. If you could make everyone in your country agree on one thing, what would it be?
+   /ɪf ju kʊd meɪk ˈevriwʌn ɪn jə ˈkʌntri əˈɡriː ɒn wʌn θɪŋ wɒt wʊd ɪt biː/
+   *(Si pudieras lograr que todos en tu país se pusieran de acuerdo en una sola cosa, ¿cuál sería?)*
+   → Segundo Condicional. Pregunta de cierre: todos tienen una respuesta.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "I think most people are too worried about what others think. I'd rather be honest than popular."
+   /aɪ θɪŋk məʊst ˈpiːpl ə tuː ˈwʌrid əˈbaʊt wət ˈʌðəz θɪŋk aɪd ˈrɑːðə bi ˈɒnɪst ðæn ˈpɒpjʊlə/
+2. "Honestly, yes — especially at work. I often say it's fine when it isn't."
+   /ˈɒnɪstli jes ɪˈspeʃəli ət wɜːk aɪ ˈɒfn seɪ ɪts faɪn wen ɪt ˈɪznt/
+3. "I'd say the idea that [X] is dangerous. It's just not true, and people repeat it because it's easy."
+   /aɪd seɪ ðə aɪˈdɪə ðət [...] ɪz ˈdeɪndʒəs ɪts dʒʌst nɒt truː ənd ˈpiːpl rɪˈpiːt ɪt bɪˈkɒz ɪts ˈiːzi/
+4. "Older people, definitely. With my own generation I can be honest, but with my parents I usually keep quiet."
+   /ˈəʊldə ˈpiːpl ˈdefɪnɪtli wɪð maɪ əʊn dʒenəˈreɪʃən aɪ kən bi ˈɒnɪst bət wɪð maɪ ˈpeərənts aɪ ˈjuːʒuəli kiːp kwaɪt/
+5. "Yes, actually. I used to think [X] was fine, but then I read more about it and realised I was wrong."
+   /jes ˈæktʃəli aɪ ˈjuːst tə θɪŋk [...] wəz faɪn bət ðen aɪ red mɔː əˈbaʊt ɪt ənd riːˈlaɪzd aɪ wəz rɒŋ/
+6. "Yes, if I really believed it. But I'd still explain my reasons, because most people attack the person, not the idea."
+   /jes ɪf aɪ ˈrɪəli bɪˈliːvd ɪt bət aɪd stɪl ɪkˈspleɪn maɪ ˈriːzənz bɪˈkɒz məʊst ˈpiːpl əˈtæk ðə ˈpɜːsn nɒt ði aɪˈdɪə/
+7. "That people should learn to be a bit bored. We're so used to being entertained that we forget how to think."
+   /ðæt ˈpiːpl ʃʊd lɜːn tə bi ə bɪt bɔːd wiː sə ˈjuːst tə biː ɪnˈtaɪnd ən ɪt ðæt wi fəˈɡet haʊ tə θɪŋk/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "What makes an opinion unpopular, in your opinion?"
+   /wɒt meɪks ən əˈpɪnjən ʌnˈpɒpjʊlər ɪn jə əˈpɪnjən/
+   *(¿Qué hace que una opinión sea impopular, en tu opinión?)*
+- "Do you think people online are more honest than people in real life?"
+   /də ju θɪŋk ˈpiːpl ənˈlaɪn ə mɔːr ˈɒnɪst ðən ˈpiːpl ɪn ˈrɪəl laɪf/
+   *(¿Crees que la gente en línea es más honesta que la gente en la vida real?)*
+- "Has anyone ever told you that they disagreed with you?"
+   /həz ˈeniwʌn ˈevə təʊld ju ðət ðeɪ dɪsəˈɡriːd wɪð ju/
+   *(¿Alguna vez alguien te ha dicho que no está de acuerdo contigo?)*
+
+**Vocabulario útil:**
+- an unpopular opinion /ˌʌnˈpɒpjʊlər əˈpɪnjən/ — *una opinión impopular* — "It's an unpopular opinion, but I believe it."
+- a hot take /ə hɒt teɪk/ — *una opinión destapada* — "That's a real hot take."
+- to stick to your guns /tə stɪk tə jə ˈɡʌnz/ — *mantener tu postura a pesar de todo* — "I stuck to my guns and said no."
+- to play it safe /tə pleɪ ɪt seɪf/ — *jugar sobre seguro, no arriesgar la opinión* — "I tend to play it safe in group chats."
+- to get into trouble /tə get ɪntə ˈtrʌbl/ — *meterse en problemas* — "He got into trouble for saying that."
+- to change your mind /tə tʃeɪndʒ jə maɪnd/ — *cambiar de opinión* — "It's never too late to change your mind."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I know most people disagree, but..." (marco de concesión antes de tu opinión)
+   /aɪ nəʊ məʊst ˈpiːpl dɪsəˈɡriː bət/
+   → "I know most people disagree, but I still think it's the right thing to do."
+- "I'd rather be honest than popular." (preferencia con "than")
+   /aɪd ˈrɑːðə bi ˈɒnɪst ðæn ˈpɒpjʊlə/
+- "I used to think..., but then I realised..." (creencia pasada que cambió)
+   /aɪ ˈjuːst tə θɪŋk bət ðen aɪ riːˈlaɪzd/
+   → "I used to think it was normal, but then I realised nobody else thought so."
+- "The way I see it, ..." (marco de opinión, B2)
+   /ðə weɪ aɪ siː ɪt/
+   → "The way I see it, people confuse being polite with agreeing."
+- "It's not that..., it's just that..." (reformular para matizar)
+   /ɪts nɒt ðæt ɪts dʒʌst ðæt/
+   → "It's not that I don't care, it's just that nobody asked."
+- "Would you..., if you...?" (condicional para poner a prueba una idea)
+   /wʊd ju ɪf ju/
+
+**Frase de rescate:**
+- "I don't know the English word for it, but it's an opinion that most people think is stupid or wrong."
+   /aɪ dəʊnt nəʊ ði ˈɪŋɡlɪʃ wɜːd fər ɪt bət ɪts ən əˈpɪnjən ðət məʊst ˈpiːpl θɪŋk ɪz ˈstjuːpɪd ɔː rɒŋ/
+   *(No sé la palabra en inglés, pero es una opinión que la mayoría piensa que es estúpida o está mal.)*
+
+## Día 28 — 2026-10-21: Superstitions and luck in your country (nivel B1/B2)
+*(Supersticiones y buena suerte — tema cultural y ligero: cada país tiene sus rituales y casi todos tienen alguna manía)*
+
+**Preguntas que probablemente te hagan:**
+1. What superstitions do people in your country believe in?
+   /wɒt ˌsuːpəˈstɪʃənz də ˈpiːpl ɪn jə ˈkʌntri bɪˈliːv ɪn/
+   *(¿En qué supersticiones cree la gente de tu país?)*
+   → Presente simple para describir costumbres de un país.
+2. Is there anything you do before an exam or a big event to bring you luck?
+   /ɪz ðər ˈeniθɪŋ ju du bɪˈfɔːr ən ɪɡˈzæm ɔː ə bɪɡ ɪˈvent tə brɪŋ ju lʌk/
+   *(¿Hay algo que hagas antes de un examen o un evento importante para traerte suerte?)*
+3. Do you have a lucky number, a lucky day, or a lucky object?
+   /də ju həv ə ˈlʌki ˈnʌmbər ə ˈlʌki deɪ ɔː ə ˈlʌki ˈɒbdʒɪkt/
+   *(¿Tienes un número de la suerte, un día de la suerte o un objeto de la suerte?)*
+4. Has a superstition ever changed your mind about something, or made you change a plan?
+   /həz ə ˌsuːpəˈstɪʃən ˈevə tʃeɪndʒd jə maɪnd əˈbaʊt ˈsʌmθɪŋ ɔː meɪd ju tʃeɪndʒ ə plæn/
+   *(¿Alguna vez una superstición te hizo cambiar de opinión sobre algo, o modificar un plan?)*
+   → Present Perfect. Buena pregunta: casi todos tienen una anécdota.
+5. Do you think people believe in superstitions because they're helpful, or just because they need comfort?
+   /də ju θɪŋk ˈpiːpl bɪˈliːv ɪn ˌsuːpəˈstɪʃənz bɪˈkɒz ðeɪ ə ˈheləpfl ɔː dʒʌst bɪˈkɒz ðeɪ niːd ˈkɒmfət/
+   *(¿Crees que la gente cree en supersticiones porque sirven, o solo porque necesita consuelo?)*
+   → Opinión + "because... or just because...". Genera desacuerdo, ideal para sala grupal.
+6. Is there a saying in your language about luck that you can't really translate?
+   /ɪz ðər ə ˈseɪɪŋ ɪn jə ˈlæŋɡwɪdʒ əˈbaʊt lʌk ðət ju kɑːnt ˈriːli trænzˈleɪt/
+   *(¿Hay algún refrán en tu idioma sobre la suerte que no se puede traducir bien?)*
+   → Pregunta estrella: cada quien responde con su cultura. Guárdala para el final.
+7. If you could have a lucky charm for the rest of your life, what would it be?
+   /ɪf ju kʊd həv ə ˈlʌki tʃɑːm fə ðə rest əv jə laɪf wɒt wʊd ɪt biː/
+   *(Si pudieras tener un amuleto de la suerte de por vida, ¿cuál sería?)*
+   → Segundo Condicional.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "People do not walk under a ladder"
+2. "Yes — I always wear the same shirt, and I don't change the route I take to work. It sounds silly, but it makes me feel calm."
+   /jes aɪ ˈɔːlweɪ wɛə ðə seɪm ʃɪt ənd aɪ dəʊnt tʃeɪndʒ ðə ruːt aɪ teɪk tə wɜːk ɪt saʊndz ˈsɪli bət ɪt meɪks miː fiːl kɑːm/
+3. "My lucky number is [46]"
+   /maɪ ˈlʌki ˈnʌmbər ɪz [...]/
+4. "Honestly, yes. I once changed a flight because of a bad feeling, and it turned out to be the right call."
+   /ˈɒnɪstli jes aɪ wʌns tʃeɪndʒd ə flaɪt bɪˈkɒz əv ə bæd ˈfiːlɪŋ ənd ɪt tɜːnd əʊt tə bi ðə raɪt kɔːl/
+5. "I think it's mostly comfort. You can't control the result, so you control the ritual instead."
+   /aɪ θɪŋk ɪts ˈməʊstli ˈkɒmfət ju kɑːnt kənˈtrəʊl ðə rɪˈzʌlt sə ju kənˈtrəʊl ðə ˈrɪtʃuəl ɪnˈsted/
+6. "Yes! In Peru we say [refrán], which roughly means 'dress well and you'll go far'. It's hard to translate the rhythm."
+   /jes ɪn ˈperu wiː seɪ [...] wɪtʃ ˈruːfli miːnz dres wel ənd juːl ɡəʊ fɑː ɪts hɑːd tə trænzˈleɪt ðə ˈrɪðəm/
+7. "I'd choose [algo que me dio mi abuela], because it's the only thing I have that brings me peace."
+   /aɪd tʃuːz [...] bɪˈkɒz ɪts ðə ˈəʊnli θɪŋ aɪ həv ðət brɪŋz miː piːs/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Do you have any rituals before something important?"
+   /də ju həv ˈeni ˈrɪtʃuəlz bɪˈfɔː ˈsʌmθɪŋ ɪmˈpɔːtənt/
+   *(¿Tienes algún ritual antes de algo importante?)*
+- "Has anyone in your family ever been very serious about a superstition?"
+   /həz ˈeniwʌn ɪn jə ˈfæmɪli ˈevə bɪn ˈvɛri ˈsɪəriəs əˈbaʊt ə ˌsuːpəˈstɪʃən/
+   *(¿Alguien de tu familia ha sido muy serio con una superstición?)*
+- "What do people do in your country to celebrate good news?"
+   /wɒt də ˈpiːpl du ɪn jə ˈkʌntri tə ˈselɪbreɪt ˈɡʊd njuːz/
+   *(¿Qué hace la gente en tu país para celebrar una buena noticia?)*
+
+**Vocabulario útil:**
+- a superstition /ˌsuːpəˈstɪʃən/ — *una superstición* — "It's just a superstition, but I still do it."
+- a lucky charm /ə ˈlʌki tʃɑːm/ — *un amuleto de la suerte* — "I keep this charm in my wallet."
+- to bring you luck /tə brɪŋ ju lʌk/ — *traerte suerte* — "That old coin brings me luck."
+- to walk under a ladder /tə wɔːk ˈʌndə ə ˈlædə/ — *pasar por debajo de una escalera* — "In my country you never walk under a ladder."
+- a ritual /ə ˈrɪtʃuəl/ — *un ritual* — "We have a small ritual before the match."
+- to jinx something /tə dʒɪŋks ˈsʌmθɪŋ/ — *echar a perder algo* — "I didn't want to jinx it."
+- to make a wish /tə meɪk ə wɪʃ/ — *hacer un deseo* — "You make a wish and blow out the candles."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "People in my country say that..." (para reportar una costumbre)
+   /ˈpiːpl ɪn maɪ ˈkʌntri seɪ ðæt/
+   → "People in my country say that if you whistle indoors, money leaves the house."
+- "You have to..., otherwise..." (regla y su consecuencia)
+   /ju hæv tə ˈðɜːðəwaɪz/
+   → "You have to wear a red bracelet on New Year's Eve, otherwise the year starts badly."
+- "I'm not sure if it's true, but..." (marco de duda, B2)
+   /aɪm nɒt ʃʊər ɪf ɪts truː bət/
+- "It's not that I believe it. It's just that..." (reformular para matizar)
+   /ɪts nɒt ðæt aɪ bɪˈliːv ɪt ɪts dʒʌst ðæt/
+   → "It's not that I believe it. It's just that it feels safer to keep the habit."
+- "Which roughly means..." (explicar un refrán)
+   /wɪtʃ ˈruːfli miːnz/
+   → "It's like 'dress well and you'll go far', which roughly means good luck follows good manners."
+- "If I could..., I'd choose..." (Segundo Condicional)
+   /ɪf aɪ kʊd aɪd tʃuːz/
+
+**Frase de rescate:**
+- "I don't know the English word for it, but it's a thing people do to avoid bad luck."
+   /aɪ dəʊnt nəʊ ði ˈɪŋɡlɪʃ wɜːd fər ɪt bət ɪts ə θɪŋ ˈpiːpl du tə əˈvɔɪd bæd lʌk/
+   *(No sé la palabra en inglés, pero es algo que la gente hace para evitar la mala suerte.)*
+
+## Día 29 — 2026-10-22: Laughter and a sense of humor (nivel B1/B2)
+*(La risa y el sentido del humor — tema ligero y universal: todos tienen una anécdota graciosa que contar)*
+
+**Preguntas que probablemente te hagan:**
+1. What makes you laugh the most?
+   /wɒt meɪks ju lɑːf ðə məʊst/
+   *(¿Qué es lo que más te hace reír?)*
+2. Who's the funniest person you know?
+   /huːz ðə ˈfʌniɪst ˈpɜːsn ju nəʊ/
+   *(¿Quién es la persona más divertida que conoces?)*
+3. Has your sense of humor changed as you've gotten older?
+   /həz jə sens əv ˈhjuːmə tʃeɪndʒd əz juːv ˈɡɒtn ˈəʊldə/
+   *(¿Ha cambiado tu sentido del humor conforme has crecido?)*
+   → Present Perfect + cambio a lo largo del tiempo.
+4. Is there a kind of humor you really don't find funny?
+   /ɪz ðər ə kaɪnd əv ˈhjuːmə ju ˈrɪəli dəʊnt faɪnd ˈfʌni/
+   *(¿Hay algún tipo de humor que realmente no te haga gracia?)*
+5. Have you ever laughed at completely the wrong moment?
+   /həv ju ˈevə lɑːft ət kəmˈpliːtli ðə rɒŋ ˈməʊmənt/
+   *(¿Alguna vez te has reído en el momento más inoportuno?)*
+   → Present Perfect. Buena pregunta: casi todos tienen una anécdota incómoda.
+6. Do you think humor is different in every country, or do we all laugh at the same things?
+   /də ju θɪŋk ˈhjuːmə ɪz ˈdɪfrənt ɪn ˈevri ˈkʌntri ɔː du wi ɔːl lɑːf ət ðə seɪm θɪŋz/
+   *(¿Crees que el humor es distinto en cada país, o todos nos reímos de las mismas cosas?)*
+7. If you could have dinner with any comedian, who would it be and why?
+   /ɪf ju kʊd həv ˈdɪnə wɪð ˈeni kəˈmiːdiən huː wʊd ɪt biː ənd waɪ/
+   *(Si pudieras cenar con cualquier comediante, ¿quién sería y por qué?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "Honestly, the smallest things — a silly face, a badly translated sign, or my friends telling a story."
+   /ˈɒnɪstli ðə ˈsmɔːlɪst θɪŋz ə ˈsɪli feɪs ə ˈbædli trænzˈleɪtɪd saɪn ɔː maɪ frendz ˈtelɪŋ ə ˈstɔːri/
+2. "My [friend/brother] is the funniest person I know. He can make any boring situation funny."
+   /maɪ [...] ɪz ðə ˈfʌniɪst ˈpɜːsn aɪ nəʊ hi kən meɪk ˈeni ˈbɔːrɪŋ ˌsɪtʃuˈeɪʃən ˈfʌni/
+3. "Yes, definitely. I used to laugh at things that now feel a bit childish, and now I laugh more at everyday absurdities."
+   /jes ˈdefɪnətli aɪ ˈjuːst tə lɑːf ət θɪŋz ðət naʊ fiːl ə bɪt ˈtʃaɪldɪʃ ənd naʊ aɪ lɑːf mɔːr ət ˈevrideɪ əbˈsɜːdətiz/
+4. "I don't really enjoy humor that humiliates someone. If someone's the target, it stops being funny for me."
+   /aɪ dəʊnt ˈrɪəli ɪnˈdʒɔɪ ˈhjuːmə ðət hjuːˈmɪlieɪts ˈsʌmwʌn ɪf ˈsʌmwʌnz ðə ˈtɑːɡɪt ɪt stɒps ˈbiːɪŋ ˈfʌni fə miː/
+5. "Yes, once at a funeral... I don't even know why, but I couldn't stop, and it was awful."
+   /jes wʌns ət ə ˈfjuːnərəl aɪ dəʊnt ˈiːvn nəʊ waɪ bət aɪ ˈkʊdnt stɒp ənd ɪt wəz ˈɔːfl/
+6. "I think it's a mix. Some things are universal, but sarcasm and irony don't always travel well."
+   /aɪ θɪŋk ɪts ə mɪks sʌm θɪŋz ə ˌjuːnɪˈvɜːsl bət ˈsɑːkæzəm ənd ˈaɪrəni dəʊnt ˈɔːlweɪz ˈtrævl wel/
+7. "If I could have dinner with any comedian, I'd pick [Name], because I'd love to know how they see the world."
+   /ɪf aɪ kʊd həv ˈdɪnə wɪð ˈeni kəˈmiːdiən aɪd pɪk [...] bɪˈkɒz aɪd lʌv tə nəʊ haʊ ðeɪ siː ðə wɜːld/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "What's the last thing that made you laugh out loud?"
+  /wɒts ðə lɑːst θɪŋ ðət meɪd ju lɑːf aʊt laʊd/
+  *(¿Qué es lo último que te hizo reír a carcajadas?)*
+- "Do you laugh more when you're nervous or when you're relaxed?"
+  /də ju lɑːf mɔː wen jʊə ˈnɜːvəs ɔː wen jʊə rɪˈlækst/
+  *(¿Te ríes más cuando estás nervioso o cuando estás relajado?)*
+- "Is it easy to make you laugh, or are you a tough audience?"
+  /ɪz ɪt ˈiːzi tə meɪk ju lɑːf ɔːr ə ju ə tʌf ˈɔːdiəns/
+  *(¿Es fácil hacerte reír, o eres un público difícil?)*
+
+**Vocabulario útil:**
+- a sense of humor /ə sens əv ˈhjuːmə/ — *sentido del humor* — "She has a great sense of humor."
+- to burst out laughing /tə bɜːst aʊt ˈlɑːfɪŋ/ — *reírse de golpe* — "We burst out laughing in the middle of the meeting."
+- cheesy /ˈtʃiːzi/ — *cursi, de mal gusto pero entrañable* — "It's a cheesy joke, but it always works."
+- sarcasm /ˈsɑːkæzəm/ — *sarcasmo* — "British humor is full of sarcasm."
+- to take a joke /tə teɪk ə dʒəʊk/ — *aguantar una broma* — "He can't take a joke."
+- a punchline /ə ˈpʌntʃlaɪn/ — *el remate de un chiste* — "The punchline was funnier than the story."
+- awkward /ˈɔːkwəd/ — *incómodo* — "There was an awkward silence after the joke."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I used to laugh at..., but now..." (hábito pasado + contraste)
+  /aɪ ˈjuːst tə lɑːf ət bət naʊ/
+- "What makes me laugh is..." (cleft sentence para enfatizar)
+  /wɒt meɪks miː lɑːf ɪz/
+- "It stops being funny when..." (definir un límite)
+  /ɪt stɒps ˈbiːɪŋ ˈfʌni wen/
+- "Some things are universal, but..." (contraste con matiz)
+  /sʌm θɪŋz ə ˌjuːnɪˈvɜːsl bət/
+- "If I could..., I'd..." (Segundo Condicional)
+  /ɪf aɪ kʊd aɪd/
+
+**Frase de rescate:**
+- "I don't know the English word, but it's when someone says something serious and you can't tell if they're joking."
+  /aɪ dəʊnt nəʊ ði ˈɪŋɡlɪʃ wɜːd bət ɪts wen ˈsʌmwʌn sez ˈsʌmθɪŋ ˈsɪəriəs ənd ju kɑːnt tel ɪf ðeə ˈdʒəʊkɪŋ/
+  *(No sé la palabra en inglés, pero es cuando alguien dice algo serio y no sabes si está bromeando.)*
+
+## Día 30 — 2026-10-23: Shopping and consumer habits (nivel B1/B2)
+*(Compras y hábitos de consumo — tema cotidiano y con opinión: todos compran algo, y todos tienen una compra de la que se arrepienten)*
+
+**Preguntas que probablemente te hagan:**
+1. Are you a big shopper, or do you only buy what you need?
+   /ɑː ju ə bɪɡ ˈʃɒpə ɔː də ju ˈəʊnli baɪ wɒt ju niːd/
+   *(¿Eres de comprar mucho, o solo compras lo que necesitas?)*
+   → Presente simple para hábitos.
+2. Do you prefer shopping online or in person?
+   /də ju prɪˈfɜː ˈʃɒpɪŋ ˌɒnˈlaɪn ɔːr ɪn ˈpɜːsn/
+   *(¿Prefieres comprar en línea o en persona?)*
+3. What's the last thing you bought that you regret?
+   /wɒts ðə lɑːst θɪŋ ju bɔːt ðət ju rɪˈɡret/
+   *(¿Qué es lo último que compraste y de lo que te arrepientes?)*
+   → Pasado simple + "the last thing I bought".
+4. Have you ever bought something just because it was on sale?
+   /həv ju ˈevə bɔːt ˈsʌmθɪŋ dʒʌst bɪˈkɒz ɪt wəz ɒn seɪl/
+   *(¿Alguna vez has comprado algo solo porque estaba en oferta?)*
+   → Present Perfect.
+5. Do you think people buy more than they really need nowadays?
+   /də ju θɪŋk ˈpiːpl baɪ mɔː ðən ðeɪ ˈrɪəli niːd ˈnaʊədeɪz/
+   *(¿Crees que hoy la gente compra más de lo que realmente necesita?)*
+6. How has shopping changed in your country in the last ten years?
+   /haʊ həz ˈʃɒpɪŋ tʃeɪndʒd ɪn jə ˈkʌntri ɪn ðə lɑːst ten jɪəz/
+   *(¿Cómo han cambiado las compras en tu país en los últimos diez años?)*
+   → Present Perfect + "in the last ten years".
+7. If you had to stop buying one thing for a year, what would be the hardest to give up?
+   /ɪf ju həd tə stɒp ˈbaɪɪŋ wʌn θɪŋ fər ə jɪə wɒt wʊd bi ðə ˈhɑːdɪst tə ɡɪv ʌp/
+   *(Si tuvieras que dejar de comprar una cosa por un año, ¿qué sería lo más difícil de dejar?)*
+   → Segundo Condicional. Guárdala para el final.
+
+**Respuestas de ejemplo (adapta a tu caso real):**
+1. "I'm not a big shopper. I only buy what I need, and I hate wasting time in shops."
+   /aɪm nɒt ə bɪɡ ˈʃɒpə aɪ ˈəʊnli baɪ wɒt aɪ niːd ənd aɪ heɪt ˈweɪstɪŋ taɪm ɪn ʃɒps/
+2. "Online, definitely. It's faster, and I can compare prices without leaving home."
+   /ˌɒnˈlaɪn ˈdefɪnətli ɪts ˈfɑːstər ənd aɪ kən kəmˈpeə ˈpraɪsɪz wɪˈðaʊt ˈliːvɪŋ həʊm/
+3. "A pair of shoes I wore once. They looked great, but they were really uncomfortable."
+   /ə peər əv ʃuːz aɪ wɔː wʌns ðeɪ lʊkt greɪt bət ðeɪ wə ˈrɪəli ʌnˈkʌmfətəbl/
+4. "Yes, more than once. It was on sale, so I bought it, and I've never used it."
+   /jes mɔː ðən wʌns ɪt wəz ɒn seɪl səʊ aɪ bɔːt ɪt ənd aɪv ˈnevə juːzd ɪt/
+5. "Yes, I think so. We buy things to feel better, not because we actually need them."
+   /jes aɪ θɪŋk səʊ wi baɪ θɪŋz tə fiːl ˈbetə nɒt bɪˈkɒz wi ˈæktʃuəli niːd ðəm/
+6. "It's moved almost completely online. Small shops have disappeared, and prices change all the time."
+   /ɪts muːvd ˈɔːlməʊst kəmˈpliːtli ˌɒnˈlaɪn smɔːl ʃɒps həv ˌdɪsəˈpɪəd ənd ˈpraɪsɪz tʃeɪndʒ ɔːl ðə taɪm/
+7. "Probably coffee. It sounds silly, but I buy one every morning, and it's part of my routine."
+   /ˈprɒbəbli ˈkɒfi ɪt saʊndz ˈsɪli bət aɪ baɪ wʌn ˈevri ˈmɔːnɪŋ ənd ɪts pɑːt əv maɪ ruːˈtiːn/
+
+**Preguntas para devolver (mantener la charla viva):**
+- "Do you ever buy things you don't need just to feel better?"
+  /də ju ˈevə baɪ θɪŋz ju dəʊnt niːd dʒʌst tə fiːl ˈbetə/
+  *(¿Alguna vez compras cosas que no necesitas solo para sentirte mejor?)*
+- "What's the best bargain you've ever found?"
+  /wɒts ðə best ˈbɑːɡɪn juːv ˈevə faʊnd/
+  *(¿Cuál es la mejor ganga que has encontrado?)*
+- "Are things expensive where you live?"
+  /ə θɪŋz ɪkˈspensɪv weə ju lɪv/
+  *(¿Son caras las cosas donde vives?)*
+
+**Vocabulario útil:**
+- a bargain /ə ˈbɑːɡɪn/ — *una ganga* — "That jacket was a real bargain."
+- an impulse buy /ən ˈɪmpʌls baɪ/ — *una compra impulsiva* — "That gadget was an impulse buy."
+- to splurge /tə splɜːdʒ/ — *darse un gusto caro* — "I splurged on a new laptop."
+- to window-shop /tə ˈwɪndəʊ ʃɒp/ — *mirar escaparates sin comprar* — "We spent the afternoon window-shopping."
+- a refund /ə ˈriːfʌnd/ — *un reembolso* — "I asked for a refund."
+- a rip-off /ə ˈrɪp ɒf/ — *una estafa, algo muy caro para lo que es* — "That price is a rip-off."
+- worth it /wɜːθ ɪt/ — *que vale la pena* — "It was expensive, but it was worth it."
+
+**Estructuras B1/B2 para practicar (intenta usarlas sin pensar demasiado):**
+- "I only buy... / I tend to buy..." (hábitos)
+  /aɪ ˈəʊnli baɪ/ · /aɪ tend tə baɪ/
+- "The last thing I bought was..." (pasado simple)
+  /ðə lɑːst θɪŋ aɪ bɔːt wəz/
+- "It was expensive, but it was worth it." (contraste con "but")
+  /ɪt wəz ɪkˈspensɪv bət ɪt wəz wɜːθ ɪt/
+- "I wish I hadn't bought..." (wish + pasado perfecto, B2)
+  /aɪ wɪʃ aɪ ˈhædnt bɔːt/
+- "If I had to..., I'd..." (Segundo Condicional)
+  /ɪf aɪ həd tə aɪd/
+
+**Frase de rescate:**
+- "I don't know the English word, but it's when you buy something you didn't plan to buy."
+  /aɪ dəʊnt nəʊ ði ˈɪŋɡlɪʃ wɜːd bət ɪts wen ju baɪ ˈsʌmθɪŋ ju ˈdɪdnt plæn tə baɪ/
+  *(No sé la palabra en inglés, pero es cuando compras algo que no planeabas comprar.)*
+

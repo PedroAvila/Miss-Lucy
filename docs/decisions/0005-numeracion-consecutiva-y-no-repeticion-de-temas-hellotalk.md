@@ -10,8 +10,6 @@ Aceptado
 
 En el archivo `conversacion/temas-hellotalk.md` se van añadiendo temas diarios para practicar en HelloTalk, etiquetados como `## Día N — YYYY-MM-DD: ... (nivel X)`.
 
-Se ha detectado confusión al crear un nuevo tema: en una ocasión se propuso un número de día sin verificar correctamente en qué día se había quedado el archivo (el último tema registrado era **Día 14 — 2026-09-23**). Esto puede provocar saltos de numeración, desorden o riesgo de reutilizar un número ya existente.
-
 Al tratarse de un registro histórico y secuencial del estudio, conviene establecer una regla clara para mantener la numeración consecutiva y evitar repeticiones entre temas.
 
 ## Decisión

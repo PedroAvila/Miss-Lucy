@@ -4,14 +4,14 @@ Encuesta de preguntas agrupadas por tema, tomadas de [temas-hellotalk.md](temas-
 Úsala para armar un poll/encuesta en HelloTalk (sala grupal o moments) y que la gente vote qué tema quiere platicar, o para elegir tú mismo una pregunta al azar antes de una sesión.
 
 ## Cómo usarla
-1. Copia las 5 opciones de la sección "Poll: elige el tema de hoy" y pégalas en un poll de HelloTalk.
+1. Copia las opciones de la sección "Poll: elige el tema de hoy" y pégalas en un poll de HelloTalk.
 2. Una vez elegido el tema, usa sus preguntas para lanzar la conversación.
 
 ---
 
 ## Poll: elige el tema de hoy
 
-> Nota: los 5 temas de abajo ya se usaron (ver fechas en [temas-hellotalk.md](temas-hellotalk.md)). Para el próximo día usa 👨‍👩‍👧 Family and relationships (Día 6, nuevo) u otro tema aún no cubierto — no repitas.
+> Nota: los temas de abajo ya se usaron (ver fechas en [temas-hellotalk.md](temas-hellotalk.md)). Los más recientes son 💬 Unpopular opinions (Día 27, 2026-10-21) y 🧿 Superstitions and luck (Día 28, 2026-10-21) — úsalos para la próxima sesión, o elige otro tema aún no cubierto. No repitas.
 
 - 🗓️ My weekend plans *(usado 2026-09-02)*
 - 💼 Work and daily routine *(usado 2026-09-04)*
@@ -19,6 +19,8 @@ Encuesta de preguntas agrupadas por tema, tomadas de [temas-hellotalk.md](temas-
 - 💰 Money and happiness *(usado 2026-09-05)*
 - ✈️ Travel and new places *(usado 2026-09-05)*
 - 👨‍👩‍👧 Family and relationships *(usado 2026-09-07)*
+- 💬 Unpopular opinions and hot takes *(usado 2026-10-21)*
+- 🧿 Superstitions and luck in your country *(usado 2026-10-21)*
 
 ---
 
@@ -62,11 +64,29 @@ Encuesta de preguntas agrupadas por tema, tomadas de [temas-hellotalk.md](temas-
 5. Have you ever gotten lost in a new place?
 6. What's something you'd like to do before you die? (travel-related)
 
+### 💬 Unpopular opinions and hot takes (B1/B2)
+1. What's an opinion you hold that most people disagree with?
+2. Do you ever feel like you're just saying what people expect to hear?
+3. Which famous opinion do you think is completely wrong?
+4. Is it harder to disagree with people your age, or with people older than you?
+5. Have you ever changed your mind about something you felt strongly about?
+6. Would you keep an opinion that everyone hates, if you truly believed it?
+7. If you could make everyone in your country agree on one thing, what would it be?
+
+### 🧿 Superstitions and luck in your country (B1/B2)
+1. What superstitions do people in your country believe in?
+2. Is there anything you do before an exam or a big event to bring you luck?
+3. Do you have a lucky number, a lucky day, or a lucky object?
+4. Has a superstition ever changed your mind about something, or made you change a plan?
+5. Do you think people believe in superstitions because they're helpful, or just because they need comfort?
+6. Is there a saying in your language about luck that you can't really translate?
+7. If you could have a lucky charm for the rest of your life, what would it be?
+
 ---
 
 ## Tema mixto — variedad de preguntas de todos los temas
 
-Selección variada tomada de los 5 temas de arriba, para una sola sesión con preguntas de tipo distinto (planes, rutina, comida, opinión, experiencia de vida).
+Selección variada tomada de los temas de arriba, para una sola sesión con preguntas de tipo distinto (planes, rutina, comida, opinión, experiencia de vida).
 
 1. What are you doing this weekend? *(weekend plans)*
 2. What do you do for a living? *(work)*
@@ -78,6 +98,10 @@ Selección variada tomada de los 5 temas de arriba, para una sola sesión con pr
 8. If you could travel anywhere right now, where would you go? *(travel)*
 9. What's that one small habit that's changed your life more than you expected? *(money/vida)*
 10. What's your favorite thing to do on a Saturday? *(weekend plans)*
+11. What's an opinion you hold that most people disagree with? *(unpopular opinions)*
+12. Which famous opinion do you think is completely wrong? *(unpopular opinions)*
+13. What superstitions do people in your country believe in? *(superstitions and luck)*
+14. Is there a saying in your language about luck that you can't really translate? *(superstitions and luck)*
 
 ---
 

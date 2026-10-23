@@ -1777,7 +1777,7 @@ chest of drawers => cómoda
 encourage => fomentar/animar/incentivar 
 drawer => cajón
 scrap => eliminar/deshacerse de/abandonar/renunciar a 
-
+handbag => bolso 
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante
