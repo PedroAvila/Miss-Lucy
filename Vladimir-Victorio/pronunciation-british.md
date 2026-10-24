@@ -1,3 +1,4 @@
+## British Pronunciation Tips! Sound More British
 * https://www.youtube.com/watch?v=YBujvmcvpg0
 
 - I'm going to drive around the area in my car
@@ -10,6 +11,7 @@
 
 - I want to wear a purple shirt on Thursday
 
+## How to Speak With a British Accent - Key Features
 * https://www.youtube.com/watch?v=pMsufz4fdd0
 
 - I can't answer that after class
@@ -22,6 +24,7 @@
 
 - I don't know where to go
 
+## Different Ways to Say 'Goodbye' in British English
 * https://www.youtube.com/watch?v=F8biFqx2pU8&t=111s
 
 - Have a nice day
@@ -69,6 +72,30 @@
 - I have a dog 
 
 - The dog lives on the island
+
+## How to Pronounce 10 Difficult Words in Modern British
+* https://www.youtube.com/watch?v=8qXDfsztuuo&t=492s
+
+### Literally
+
+- I Literally saw you 3 minutes ago
+
+### Exactly
+
+- You're exactly right
+
+###
+
+- I walk to work on Thursday
+
+### Through
+
+- We've been through thick and thin
+
+### Thoroughly
+
+
+
 
 
 

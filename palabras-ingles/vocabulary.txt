@@ -1727,7 +1727,7 @@ charity => institución benéfica/organización benéfica/ONG
 sudden => repentino/súbito
 drop => caerse/dejar caer/caer/bajar
 proposal => propuesta
-ladder => escalera/escala/liga
+ladder => escalera/escala/liga => (escalera de mano)
 leaning => inclinación
 sponge => esponja
 pace => paso/ritmo/velocidad
@@ -1778,6 +1778,14 @@ encourage => fomentar/animar/incentivar
 drawer => cajón
 scrap => eliminar/deshacerse de/abandonar/renunciar a 
 handbag => bolso 
+mature => maduro/madurar
+inherited => heredado 
+coward => cobarde
+thoroughly => muchísimo/totalmente/a fondo
+
+
+
+
 
 ===================== palabras del libro Modern Software Engineering ======================
 forward => hacia delante
