@@ -41,6 +41,20 @@ Correct: I am interested in the software enginner vacancy.
    In my country, people don't walk under ladders. On top of that, we place aloe vera behind the doors to ward off bad luck
 
 
-- Shangai es una de las principales ciudades de china
-- recives lo que das
-- Una vez crei que una persona era gay, era su personalidad muy delicada
+12. Shangai es una de las principales ciudades de china
+    Shangai is one the principal cities of Chine
+Correct: Shanghai is one of the main cities in china.
+
+13. Recives lo que das
+    Get the that you give
+Correct: You get what you give
+
+- Una vez creí que una persona era gay por su personalidad tan delicada
+  I once thought someone was gay because of their very gentle personality.
+
+- Actually, I developed the gym-connect project using C# and .NET 10. For this project, I implemented a hexagonal architecture to ensure a clean separation of concerns. We also leveraged Azure Functions, and I learned how to integrate Cloud AI to automatically handle and monitor application exceptions
+
+- Quiero comentarte que venimos de culturas y religiones diferentes; aunque, para ser sincero, yo no practico ninguna religión. Sin embargo, espero que estas diferencias no limiten nuestra amistad.
+  I want to let you know that we come from different cultures and religions—although, to be honest, I don't practice any religion myself. However, I hope these differences don't limit our friendship.
+
+  I’d definitely go with Developer B

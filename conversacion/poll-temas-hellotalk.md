@@ -11,7 +11,7 @@ Encuesta de preguntas agrupadas por tema, tomadas de [temas-hellotalk.md](temas-
 
 ## Poll: elige el tema de hoy
 
-> Nota: los temas de abajo ya se usaron (ver fechas en [temas-hellotalk.md](temas-hellotalk.md)). Los más recientes son 💬 Unpopular opinions (Día 27, 2026-10-21) y 🧿 Superstitions and luck (Día 28, 2026-10-21) — úsalos para la próxima sesión, o elige otro tema aún no cubierto. No repitas.
+> Nota: los temas de abajo ya se usaron (ver fechas en [temas-hellotalk.md](temas-hellotalk.md)). Los más recientes son 💬 Unpopular opinions (Día 27, 2026-10-21), 🧿 Superstitions and luck (Día 28, 2026-10-21), 😄 Laughter and a sense of humor (Día 29, 2026-10-22), 🛍️ Shopping and consumer habits (Día 30, 2026-10-23), 📚 Books, reading and storytelling (Día 31, 2026-10-26), ❤️ Small acts of kindness (Día 32, 2026-10-27), 💚 Health and wellness (Día 33, 2026-10-28).
 
 - 🗓️ My weekend plans *(usado 2026-09-02)*
 - 💼 Work and daily routine *(usado 2026-09-04)*
@@ -21,6 +21,11 @@ Encuesta de preguntas agrupadas por tema, tomadas de [temas-hellotalk.md](temas-
 - 👨‍👩‍👧 Family and relationships *(usado 2026-09-07)*
 - 💬 Unpopular opinions and hot takes *(usado 2026-10-21)*
 - 🧿 Superstitions and luck in your country *(usado 2026-10-21)*
+- 😄 Laughter and a sense of humor *(usado 2026-10-22)*
+- 🛍️ Shopping and consumer habits *(usado 2026-10-23)*
+- 📚 Books, reading and storytelling *(usado 2026-10-26)*
+- ❤️ Small acts of kindness *(usado 2026-10-27)*
+- 💚 Health and wellness *(usado 2026-10-28)*
 
 ---
 

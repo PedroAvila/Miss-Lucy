@@ -84,7 +84,7 @@
 
 - You're exactly right
 
-###
+### Walk - Work
 
 - I walk to work on Thursday
 
@@ -93,6 +93,9 @@
 - We've been through thick and thin
 
 ### Thoroughly
+
+- Please check my homework thoroughly 
+
 
 
 

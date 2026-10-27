@@ -2136,6 +2136,243 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
 
 **Frase de rescate:**
 - "I don't know the English word, but it's when you buy something you didn't plan to buy."
-  /aɪ dəʊnt nəʊ ði ˈɪŋɡlɪʃ wɜːd bət ɪts wen ju baɪ ˈsʌmθɪŋ ju ˈdɪdnt plæn tə baɪ/
+  /aɪ dəʊnt nəʊ ði ˈɪŋglɪʃ wɜːd bət ɪts wen ju baɪ ˈsʌmθɪŋ ju ˈdɪdnt plæn tə baɪ/
   *(No sé la palabra en inglés, pero es cuando compras algo que no planeabas comprar.)*
+
+
+## Día 31 — 2026-10-26: Books, reading and storytelling (nivel B1)
+*(Libros, lectura y cuentos)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Do you like reading? If yes, what kind of books do you enjoy?
+   /də ju laɪk ˈriːdɪŋ ɪf jes wɒt kaɪnd əv bʊks də ju ɪnˈdʒɔɪ/
+   *(¿Te gusta leer? Si sí, ¿qué tipo de libros te gustan?)*
+
+2. What's the last book you read, or a book you really enjoyed?
+   /wɒts ðə lɑːst bʊk ju red ɔːr ə bʊk ju ˈrɪəli ɪnˈdʒɔɪd/
+   *(¿Cuál fue el último libro que leíste, o uno que disfrutaste mucho?)*
+
+3. Do you prefer reading physical books, e-books, or audiobooks?
+   /də ju prɪˈfɜː ˈriːdɪŋ ˈfɪzɪkəl bʊks ˈiːbʊks ɔː ˈɔːdiəʊbʊks/
+   *(¿Prefieres leer libros físicos, libros electrónicos o audiolibros?)*
+
+4. Is there a book that had a big impact on you?
+   /ɪz ðər ə bʊk ðət həd ə bɪg ˈɪmpækt ɒn ju/
+   *(¿Hay algún libro que te haya marcado mucho?)*
+
+5. Do you like to re-read books, or do you prefer to read new ones?
+   /də ju laɪk tə ˌriːˈriːd bʊks ɔː də ju prɪˈfɜː tə riːd njuː wʌnz/
+   *(¿Te gusta releer libros, o prefieres leer libros nuevos?)*
+
+6. If a book was turned into a movie, do you usually read the book first or watch the movie first?
+   /ɪf ə bʊk wəz tɜːnd ˈɪntə ə ˈmuːvi də ju ˈjuːʒuəli riːd ðə bʊk fɜːst ɔː wɒtʃ ðə ˈmuːvi fɜːst/
+   *(Si un libro se convierte en película, ¿sueles leer el libro primero o ver la película primero?)*
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "Yes, I love reading. I mostly enjoy mystery and adventure books."
+   /jes aɪ lʌv ˈriːdɪŋ aɪ ˈməʊstli ɪnˈdʒɔɪ ˈmɪstəri ənd ədˈventʃə bʊks/
+
+2. "The last book I read was [title]. I really enjoyed it because the plot kept me guessing."
+   /ðə lɑːst bʊk aɪ red wəz [...] aɪ ˈrɪəli ɪnˈdʒɔɪd ɪt bɪˈkɒz ðə plɒt kept miː ˈgesɪŋ/
+
+3. "I prefer physical books. I like the feeling of turning the pages."
+   /aɪ prɪˈfɜː ˈfɪzɪkəl bʊks aɪ laɪk ðə ˈfiːlɪŋ əv ˈtɜːnɪŋ ðə ˈpeɪdʒɪz/
+
+4. "Yes, [book title] really changed the way I think about life."
+   /jes [...] ˈrɪəli tʃeɪndʒd ðə weɪ aɪ θɪŋk əˈbaʊt laɪf/
+
+5. "I usually read new books, but there are a couple I like to re-read every few years."
+   /aɪ ˈjuːʒuəli riːd njuː bʊks bət ðeər ə ˈkʌpəl aɪ laɪk tə ˌriːˈriːd ˈevri fjuː jɪəz/
+
+6. "I always try to read the book first. The movie is almost never as good!"
+   /aɪ ˈɔːlweɪz traɪ tə riːd ðə bʊk fɜːst ðə ˈmuːvi ɪz ˈɔːlməʊst ˈnevə əz gʊd/
+
+
+### Vocabulario útil:
+
+- a page-turner /ə ˈpeɪdʒ ˌtɜːnə/ — *un libro que te engancha*
+- the plot /ðə plɒt/ — *la trama*
+- to get hooked /tə get hʊkt/ — *engancharse*
+- hard to put down /hɑːd tə pʊt daʊn/ — *difícil de dejar*
+- a bestseller /ə ˈbestˌselə/ — *un éxito de ventas*
+- to skim through /tə skɪm θruː/ — *hojear rápidamente*
+- to take away a lesson /tə teɪk əˈweɪ ə ˈlesən/ — *sacar una enseñanza*
+
+
+### Estructuras B1 para practicar:
+
+- "I couldn't put it down." /aɪ ˈkʊdənt pʊt ɪt daʊn/ — *No podía dejarlo.*
+- "The best book I've ever read is..." /ðə best bʊk aɪv ˈevə red ɪz/ — *El mejor libro que he leído es...*
+- "It's the kind of book that..." /ɪts ðə kaɪnd əv bʊk ðət/ — *Es el tipo de libro que...*
+- "I wish I read more." /aɪ wɪʃ aɪ red mɔː/ — *Ojalá leyera más.*
+- "If I could meet the author, I'd ask..." /ɪf aɪ kʊd miːt ði ˈɔːθə aɪd ɑːsk/ — *Si pudiera conocer al autor, le preguntaría...*
+
+
+### Frase de rescate:
+
+- "I don't remember the title, but it's the one where [description of the plot]."
+  /aɪ dəʊnt rɪˈmembə ðə ˈtaɪtl bət ɪts ðə wʌn weər [description]/
+  *(No recuerdo el título, pero es el libro en el que [descripción de la trama].)*
+
+
+## Día 32 — 2026-10-27: Small acts of kindness (nivel B1)
+*(Pequeños actos de bondad)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Have you ever done a small act of kindness for a stranger?
+   /həv ju ˈevə dʌn ə smɔːl ækt əv ˈkaɪndnəs fə ə ˈstreɪndʒə/
+   *(¿Alguna vez has hecho un pequeño acto de bondad a un extraño?)*
+
+2. Has a stranger ever done something kind for you?
+   /həz ə ˈstreɪndʒə ˈevə dʌn ˈsʌmθɪŋ kaɪnd fə ju/
+   *(¿Alguna vez un extraño ha hecho algo amable por ti?)*
+
+3. Do you think small acts of kindness matter, or do big things matter more?
+   /də ju θɪŋk smɔːl ækts əv ˈkaɪndnəs ˈmætə ɔː də bɪg θɪŋz ˈmætə mɔː/
+   *(¿Crees que los pequeños actos de bondad importan, o importan más las grandes cosas?)*
+
+4. How does it make you feel when you help someone?
+   /haʊ dəz ɪt meɪk ju fiːl wen ju help ˈsʌmwʌn/
+   *(¿Cómo te sientes cuando ayudas a alguien?)*
+
+5. Is there a kind gesture you'd like to do more often?
+   /ɪz ðər ə kaɪnd ˈdʒestʃə juːd laɪk tə du mɔː ˈɒfən/
+   *(¿Hay algún gesto amable que te gustaría hacer más a menudo?)*
+
+6. If you could make one small change to make the world kinder, what would it be?
+   /ɪf ju kʊd meɪk wʌn smɔːl tʃeɪndʒ tə meɪk ðə wɜːld ˈkaɪndə wɒt wʊd ɪt biː/
+   *(Si pudieras hacer un pequeño cambio para que el mundo fuera más amable, ¿qué harías?)*
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "Yes, I once held the door open for an elderly person with bags."
+   /jes aɪ wʌns held ðə dɔːr ˈəʊpən fə ən ˈeldəli ˈpɜːsən wɪð bægz/
+
+2. "Yes, someone helped me carry my bags up the stairs when I was having a hard day. I still remember it."
+   /jes ˈsʌmwʌn helpt miː ˈkæri maɪ bægz ʌp ðə steəz wen aɪ wəz ˈhævɪŋ ə hɑːd deɪ aɪ stɪl rɪˈmembə ɪt/
+
+3. "I think small acts matter a lot. They can really brighten someone's day."
+   /aɪ θɪŋk smɔːl ækts ˈmætə ə lɒt ðeɪ kən ˈrɪəli ˈbraɪtn ˈsʌmwʌnz deɪ/
+
+4. "It makes me really happy. It feels good to know I made someone's day a little easier."
+   /ɪt meɪks miː ˈrɪəli ˈhæpi ɪt fiːlz gʊd tə nəʊ aɪ meɪd ˈsʌmwʌnz deɪ ə ˈlɪtl ˈiːziə/
+
+5. "I'd like to say 'thank you' more often. It's a small thing, but it can mean a lot."
+   /aɪd laɪk tə seɪ ˈθæŋk ju mɔː ˈɒfən ɪts ə smɔːl θɪŋ bət ɪt kən miːn ə lɒt/
+
+6. "I'd just encourage people to be more patient with each other, especially in stressful moments."
+   /aɪd dʒʌst ɪnˈkʌrɪdʒ ˈpiːpl tə bi mɔː ˈpeɪʃənt wɪð iːtʃ ˈʌðə ɪˈspeʃəli ɪn ˈstresfəl ˈməʊmənts/
+
+
+### Vocabulario útil:
+
+- to hold the door open /tə həʊld ðə dɔːr ˈəʊpən/ — *sostener la puerta abierta*
+- to lend a hand /tə lend ə hænd/ — *echar una mano*
+- to brighten someone's day /tə ˈbraɪtn ˈsʌmwʌnz deɪ/ — *alegrarle el día a alguien*
+- go out of your way /gəʊ aʊt əv jə weɪ/ — *hacer un esfuerzo extra*
+- a random act of kindness /ə ˈrændəm ækt əv ˈkaɪndnəs/ — *un acto de bondad al azar*
+- pay it forward /peɪ ɪt ˈfɔːwəd/ — *pasarlo hacia adelante*
+- to make a difference /tə meɪk ə ˈdɪfrəns/ — *marcar la diferencia*
+
+
+### Estructuras B1 para practicar:
+
+- "It makes me feel..." /ɪt meɪks miː fiːl/ — *Me hace sentir...*
+- "I still remember it." /aɪ stɪl rɪˈmembə ɪt/ — *Aún lo recuerdo.*
+- "It's a small thing, but it means a lot." /ɪts ə smɔːl θɪŋ bət ɪt miːnz ə lɒt/ — *Es una cosa pequeña, pero significa mucho.*
+- "I'd like to do... more often." /aɪd laɪk tə du ... mɔː ˈɒfən/ — *Me gustaría hacer... más a menudo.*
+- "They can really brighten someone's day." /ðeɪ kən ˈrɪəli ˈbraɪtn ˈsʌmwʌnz deɪ/ — *Pueden alegrarle el día a alguien.*
+
+
+### Frase de rescate:
+
+- "I'm not sure how to say it, but it's when someone helps you without expecting anything in return."
+  /aɪm nɒt ʃʊə haʊ tə seɪ ɪt bət ɪts wen ˈsʌmwʌn helps ju wɪˈðaʊt ɪkˈspektɪŋ ˈeniθɪŋ ɪn rɪˈtɜːn/
+  *(No estoy seguro de cómo decirlo, pero es cuando alguien te ayuda sin esperar nada a cambio.)*
+
+
+## Día 33 — 2026-10-28: Health and wellness (nivel B1)
+*(Salud y bienestar)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. How do you take care of your health?
+   /haʊ də ju teɪk keər əv jə helθ/
+   *(¿Cómo cuidas de tu salud?)*
+
+2. How many hours of sleep do you usually get?
+   /haʊ ˈmeni ˈaʊəz əv sliːp də ju ˈjuːʒuəli get/
+   *(¿Cuántas horas duermes normalmente?)*
+
+3. Do you ever go to the doctor for a check-up, or only when you're sick?
+   /də ju ˈevə gəʊ tə ðə ˈdɒktə fə ə ˈtʃek ʌp ɔː ˈəʊnli wen jʊə sɪk/
+   *(¿Vas al médico para un chequeo, o solo cuando estás enfermo?)*
+
+4. What's something you do to relax and de-stress?
+   /wɒts ˈsʌmθɪŋ ju du tə rɪˈlæks ənd diːˈstres/
+   *(¿Qué haces para relajarte y quitar el estrés?)*
+
+5. Is there a healthy habit you're trying to build right now?
+   /ɪz ðər ə ˈhelθi ˈhæbɪt jʊə ˈtraɪɪŋ tə bɪld raɪt naʊ/
+   *(¿Hay algún hábito saludable que estés tratando de adoptar ahora mismo?)*
+
+6. If you had to give one piece of advice for a healthier life, what would it be?
+   /ɪf ju həd tə gɪv wʌn piːs əv ədˈvaɪs fə ə ˈhelθiə laɪf wɒt wʊd ɪt biː/
+   *(Si tuvieras que dar un solo consejo para llevar una vida más saludable, ¿cuál sería?)*
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "I try to eat balanced meals, drink plenty of water and get some exercise during the week."
+   /aɪ traɪ tə iːt ˈbælənst miːlz drɪŋk ˈplenti əv ˈwɔːtə ənd get sʌm ˈeksəsaɪz ˈdjʊərɪŋ ðə wiːk/
+
+2. "I usually get about seven hours of sleep, but I'd love to get eight."
+   /aɪ ˈjuːʒuəli get əˈbaʊt ˈsevn ˈaʊəz əv sliːp bət aɪd lʌv tə get eɪt/
+
+3. "I try to go for a check-up once a year, even if I feel fine."
+   /aɪ traɪ tə gəʊ fə ə ˈtʃek ʌp wʌns ə jɪə ˈiːvn ɪf aɪ fiːl faɪn/
+
+4. "Going for a walk really helps me unwind. It clears my mind after a long day."
+   /ˈgəʊɪŋ fə ə wɔːk ˈrɪəli helps miː ʌnˈwaɪnd ɪt klɪəz maɪ maɪnd ˈɑːftə ə lɒŋ deɪ/
+
+5. "I'm trying to drink more water. I used to forget, but now I keep a bottle on my desk."
+   /aɪm ˈtraɪɪŋ tə drɪŋk mɔː ˈwɔːtə aɪ ˈjuːst tə fəˈget bət naʊ aɪ kiːp ə ˈbɒtl ɒn maɪ desk/
+
+6. "I'd say get enough sleep. Everything else is easier when you're well-rested."
+   /aɪd seɪ get ɪˈnʌf sliːp ˈevriθɪŋ els ɪz ˈiːziə wen jʊə wel rɪˈrestɪd/
+
+
+### Vocabulario útil:
+
+- to stay hydrated /tə steɪ ˈhaɪdreɪtɪd/ — *mantenerse hidratado*
+- to get enough sleep /tə get ɪˈnʌf sliːp/ — *dormir lo suficiente*
+- a check-up /ə ˈtʃek ʌp/ — *un chequeo médico*
+- well-rested /wel rɪˈrestɪd/ — *descansado, bien descansado*
+- to burn out /tə bɜːn aʊt/ — *agotarse, quemarse*
+- to unwind /tə ʌnˈwaɪnd/ — *relajarse, desconectar*
+- to boost your immune system /tə buːst jə ɪˈmjuːn ˈsɪstəm/ — *reforzar el sistema inmunológico*
+
+
+### Estructuras B1 para practicar:
+
+- "I try to..." /aɪ traɪ tə/ — *Intento...*
+- "I keep... on..." /aɪ kiːp ... ɒn/ — *Mantengo... en...*
+- "Everything is easier when..." /ˈevriθɪŋ ɪz ˈiːziə wen/ — *Todo es más fácil cuando...*
+- "I'd say..." /aɪd seɪ/ — *Yo diría que...*
+- "Even if I feel fine." /ˈiːvn ɪf aɪ fiːl faɪn/ — *Aunque me sienta bien.*
+
+
+### Frase de rescate:
+
+- "I'm not sure how to say it, but it's when you're too tired to do anything, even if you haven't done much."
+  /aɪm nɒt ʃʊə haʊ tə seɪ ɪt bət ɪts wen jʊə tuː ˈtaɪəd tə du ˈeniθɪŋ ˈiːvn ɪf ju ˈhævnt dʌn mʌtʃ/
+  *(No estoy seguro de cómo decirlo, pero es cuando estás demasiado cansado para hacer nada, aunque no hayas hecho mucho.)*
 

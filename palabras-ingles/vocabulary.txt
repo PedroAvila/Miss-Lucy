@@ -1782,9 +1782,9 @@ mature => maduro/madurar
 inherited => heredado 
 coward => cobarde
 thoroughly => muchísimo/totalmente/a fondo
-
-
-
+shelf => estante/estantería 
+mostly => principalmente
+entertaining => entretenido
 
 
 ===================== palabras del libro Modern Software Engineering ======================
