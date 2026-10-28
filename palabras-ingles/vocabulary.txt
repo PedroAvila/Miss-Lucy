@@ -1785,6 +1785,7 @@ thoroughly => muchísimo/totalmente/a fondo
 shelf => estante/estantería 
 mostly => principalmente
 entertaining => entretenido
+crowded => concurrido/lleno 
 
 
 ===================== palabras del libro Modern Software Engineering ======================

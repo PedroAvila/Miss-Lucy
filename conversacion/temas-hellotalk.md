@@ -2376,3 +2376,285 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
   /aɪm nɒt ʃʊə haʊ tə seɪ ɪt bət ɪts wen jʊə tuː ˈtaɪəd tə du ˈeniθɪŋ ˈiːvn ɪf ju ˈhævnt dʌn mʌtʃ/
   *(No estoy seguro de cómo decirlo, pero es cuando estás demasiado cansado para hacer nada, aunque no hayas hecho mucho.)*
 
+
+## Día 34 — 2026-10-29: Time and punctuality (nivel B1)
+*(El tiempo y la puntualidad)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Are you usually on time, or do you tend to be late?
+   /ɑː ju ˈjuːʒuəli ɒn taɪm ɔː də ju tend tə bi leɪt/
+   *(¿Sueles ser puntual o llegas tarde?)*
+
+2. Is being late a big deal in your country?
+   /ɪz ˈbiːɪŋ leɪt ə bɪɡ diːl ɪn jə ˈkʌntri/
+   *(¿Es importante ser puntual en tu país?)*
+
+3. Do you plan your day, or do you just go with the flow?
+   /də ju plæn jə deɪ ɔː də ju dʒʌst gəʊ wɪð ðə fləʊ/
+   *(¿Planificas tu día o simplemente improvisas?)*
+
+4. Have you ever been really late for something important? What happened?
+   /həv ju ˈevə bɪn ˈrɪəli leɪt fə ˈsʌmθɪŋ ɪmˈpɔːtənt wɒt ˈhæpənd/
+   *(¿Alguna vez has llegado muy tarde a algo importante? ¿Qué pasó?)*
+
+5. Do you think people are too busy these days?
+   /də ju θɪŋk ˈpiːpl ə tuː ˈbɪzi ðiːz deɪz/
+   *(¿Crees que hoy en día la gente está demasiado ocupada?)*
+
+6. If you had an extra hour every day, how would you use it?
+   /ɪf ju həd ən ˈekstrə ˈaʊər ˈevri deɪ haʊ wʊd ju juːz ɪt/
+   *(Si tuvieras una hora extra cada día, ¿cómo la usarías?)*
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "I'm usually on time. I hate keeping people waiting."
+   /aɪm ˈjuːʒuəli ɒn taɪm aɪ heɪt ˈkiːpɪŋ ˈpiːpl ˈweɪtɪŋ/
+
+2. "Yes, it's quite important here. Being late is seen as a lack of respect."
+   /jes ɪts kwaɪt ɪmˈpɔːtənt hɪə ˈbiːɪŋ leɪt ɪz siːn əz ə læk əv rɪˈspekt/
+
+3. "I plan the important things, but I leave some space for whatever comes up."
+   /aɪ plæn ði ɪmˈpɔːtənt θɪŋz bət aɪ liːv sʌm speɪs fə wɒtˈevə kʌmz ʌp/
+
+4. "Yes, I was late for an exam once because of traffic. I was really stressed out."
+   /jes aɪ wəz leɪt fər ən ɪɡˈzæm wʌns bɪˈkɒz əv ˈtræfɪk aɪ wəz ˈrɪəli stresd aʊt/
+
+5. "Yes, I think so. Everyone seems to be rushing all the time, and nobody has time to stop."
+   /jes aɪ θɪŋk səʊ ˈevriwʌn siːmz tə bi ˈrʌʃɪŋ ɔːl ðə taɪm ənd ˈnəʊbədi həz taɪm tə stɒp/
+
+6. "I'd spend it with my family, or just doing nothing for a while. I never have time for that."
+   /aɪd spend ɪt wɪð maɪ ˈfæmɪli ɔː dʒʌst ˈduːɪŋ ˈnʌθɪŋ fər ə waɪl aɪ ˈnevə həv taɪm fə ðæt/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "Is punctuality important in your culture too?"
+  /ɪz ˌpʌŋktʃuˈæləti ɪmˈpɔːtənt ɪn jə ˈkʌltʃə tuː/
+  *(¿La puntualidad es importante en tu cultura también?)*
+
+- "What do you do while you wait for someone who's late?"
+  /wɒt də ju du waɪl ju weɪt fə ˈsʌmwʌn huːz leɪt/
+  *(¿Qué haces mientras esperas a alguien que llega tarde?)*
+
+- "Do you feel stressed when you have too much to do?"
+  /də ju fiːl strest wen ju həv tuː mʌtʃ tə duː/
+  *(¿Te sientes estresado cuando tienes demasiado que hacer?)*
+
+
+### Vocabulario útil:
+
+- on time /ɒn taɪm/ — *puntual*
+- to be running late /tə bi ˈrʌnɪŋ leɪt/ — *ir con retraso*
+- to keep someone waiting /tə kiːp ˈsʌmwʌn ˈweɪtɪŋ/ — *hacer esperar a alguien*
+- in a rush /ɪn ə rʌʃ/ — *con prisa*
+- to kill time /tə kɪl taɪm/ — *matar el tiempo*
+- a waste of time /ə weɪst əv taɪm/ — *una pérdida de tiempo*
+- to make the most of /tə meɪk ðə məʊst əv/ — *aprovechar al máximo*
+
+
+### Estructuras B1 para practicar:
+
+- "I'm usually..., but I..." /aɪm ˈjuːʒuəli bət aɪ/ — *Normalmente soy..., pero...*
+- "I hate keeping people waiting." /aɪ heɪt ˈkiːpɪŋ ˈpiːpl ˈweɪtɪŋ/ — *Odio hacer esperar a la gente.*
+- "I'm running a bit late." /aɪm ˈrʌnɪŋ ə bɪt leɪt/ — *Voy un poco tarde.*
+- "It's seen as..." /ɪts siːn əz/ — *Se percibe como...*
+- "If I had..., I'd..." /ɪf aɪ həd aɪd/ — *Si tuviera..., ...*
+
+
+### Frase de rescate:
+
+- "I'm really sorry I'm running late. There was a lot of traffic."
+  /aɪm ˈrɪəli ˈsɒri aɪm ˈrʌnɪŋ leɪt ðeə wəz ə lɒt əv ˈtræfɪk/
+  *(Siento mucho llegar tarde. Había mucho tráfico.)*
+
+
+## Día 35 — 2026-10-30: Dreams, goals and plans for the future (nivel B1)
+*(Sueños, metas y planes para el futuro)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Do you have a goal you're working towards right now?
+   /də ju həv ə gəʊl jʊə ˈwɜːkɪŋ təˈwɔːdz raɪt naʊ/
+   *(¿Tienes alguna meta en la que estés trabajando ahora mismo?)*
+
+2. What did you want to be when you were a child?
+   /wɒt dɪd ju wɒnt tə bi wen ju wə ə tʃaɪld/
+   *(¿Qué querías ser de niño?)*
+
+3. Has your idea of a good life changed over the years?
+   /həz jər aɪˈdɪə əv ə ɡʊd laɪf tʃeɪndʒd ˈəʊvə ðə jɪəz/
+   *(¿Ha cambiado tu idea de una buena vida con los años?)*
+
+4. What's something you'd like to achieve in the next five years?
+   /wɒts ˈsʌmθɪŋ juːd laɪk tə əˈtʃiːv ɪn ðə nekst faɪv jɪəz/
+   *(¿Qué te gustaría lograr en los próximos cinco años?)*
+
+5. What usually stops people from going after their dreams?
+   /wɒt ˈjuːʒuəli stɒps ˈpiːpl frəm ˈgəʊɪŋ ˈɑːftə ðeə driːmz/
+   *(¿Qué suele impedir que la gente persiga sus sueños?)*
+
+6. If money didn't matter, what would you do with your life?
+   /ɪf ˈmʌni ˈdɪdnt ˈmætə wɒt wʊd ju du wɪð jə laɪf/
+   *(Si el dinero no importara, ¿qué harías con tu vida?)*
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "Yes, I'm working on [my English / a new project]. It's slow, but I'm making progress."
+   /jes aɪm ˈwɜːkɪŋ ɒn [...] ɪts sləʊ bət aɪm ˈmeɪkɪŋ ˈprəʊgres/
+
+2. "When I was a child, I wanted to be a [doctor / pilot / footballer], like most kids."
+   /wen aɪ wəz ə tʃaɪld aɪ ˈwɒntɪd tə bi ə [...] laɪk məʊst kɪdz/
+
+3. "Yes, definitely. When I was younger I wanted success; now I just want peace and enough time."
+   /jes ˈdefɪnətli wen aɪ wəz ˈjʌŋɡə aɪ ˈwɒntɪd səkˈses naʊ aɪ dʒʌst wɒnt piːs ənd ɪˈnʌf taɪm/
+
+4. "In the next five years, I'd like to [speak English fluently / buy a house / change jobs]."
+   /ɪn ðə nekst faɪv jɪəz aɪd laɪk tə [...]/
+
+5. "I think fear and comfort stop people. It's easier to stay where you are than to try and fail."
+   /aɪ θɪŋk fɪər ənd ˈkʌmfət stɒp ˈpiːpl ɪts ˈiːziə tə steɪ weə ju ə ðən tə traɪ ənd feɪl/
+
+6. "If money didn't matter, I'd travel more and learn things just because I'm curious."
+   /ɪf ˈmʌni ˈdɪdnt ˈmætə aɪd ˈtrævl mɔːr ənd lɜːn θɪŋz dʒʌst bɪˈkɒz aɪm ˈkjʊəriəs/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "What's one goal you've already achieved?"
+  /wɒts wʌn gəʊl juːv ɔːlˈredi əˈtʃiːvd/
+  *(¿Cuál es una meta que ya has logrado?)*
+
+- "Do you prefer making plans or just seeing what happens?"
+  /də ju prɪˈfɜː ˈmeɪkɪŋ plænz ɔː dʒʌst ˈsiːɪŋ wɒt ˈhæpənz/
+  *(¿Prefieres hacer planes o ver qué pasa?)*
+
+- "Is it easy to stay motivated where you live?"
+  /ɪz ɪt ˈiːzi tə steɪ ˈməʊtɪveɪtɪd weə ju lɪv/
+  *(¿Es fácil mantenerse motivado donde vives?)*
+
+
+### Vocabulario útil:
+
+- a goal /ə gəʊl/ — *una meta*
+- to achieve something /tə əˈtʃiːv ˈsʌmθɪŋ/ — *lograr algo*
+- to work towards /tə wɜːk təˈwɔːdz/ — *trabajar hacia*
+- to make progress /tə meɪk ˈprəʊgres/ — *avanzar, progresar*
+- to go after your dreams /tə gəʊ ˈɑːftə jə driːmz/ — *perseguir tus sueños*
+- to give up on something /tə ɡɪv ʌp ɒn ˈsʌmθɪŋ/ — *renunciar a algo*
+- step by step /step baɪ step/ — *paso a paso*
+
+
+### Estructuras B1 para practicar:
+
+- "I'm working towards..." /aɪm ˈwɜːkɪŋ təˈwɔːdz/ — *Estoy trabajando hacia...*
+- "I'd like to..." /aɪd laɪk tə/ — *Me gustaría...*
+- "It's slow, but I'm making progress." /ɪts sləʊ bət aɪm ˈmeɪkɪŋ ˈprəʊgres/ — *Va lento, pero estoy avanzando.*
+- "I used to want..., but now I..." /aɪ ˈjuːst tə wɒnt bət naʊ aɪ/ — *Antes quería..., pero ahora...*
+- "If money didn't matter, I'd..." /ɪf ˈmʌni ˈdɪdnt ˈmætə aɪd/ — *Si el dinero no importara, ...*
+
+
+### Frase de rescate:
+
+- "I don't know the exact word, but it's something I really want to do before I'm older."
+  /aɪ dəʊnt nəʊ ði ɪɡˈzækt wɜːd bət ɪts ˈsʌmθɪŋ aɪ ˈrɪəli wɒnt tə du bɪˈfɔːr aɪm ˈəʊldə/
+  *(No sé la palabra exacta, pero es algo que realmente quiero hacer antes de ser mayor.)*
+
+
+## Día 36 — 2026-10-31: Transport and getting around (nivel B1)
+*(Transporte y cómo moverse por la ciudad)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. How do you usually get to work or school?
+   /haʊ də ju ˈjuːʒuəli get tə wɜːk ɔː skuːl/
+   *(¿Cómo vas normalmente al trabajo o a la escuela?)*
+
+2. Is public transport good where you live?
+   /ɪz ˈpʌblɪk ˈtrænspɔːt ɡʊd weə ju lɪv/
+   *(¿Es bueno el transporte público donde vives?)*
+
+3. Do you prefer driving, taking the bus, or walking?
+   /də ju prɪˈfɜː ˈdraɪvɪŋ ˈteɪkɪŋ ðə bʌs ɔː ˈwɔːkɪŋ/
+   *(¿Prefieres conducir, tomar el bus o caminar?)*
+
+4. Have you ever missed a bus, a train or a flight? What happened?
+   /həv ju ˈevə mɪst ə bʌs ə treɪn ɔː ə flaɪt wɒt ˈhæpənd/
+   *(¿Alguna vez has perdido un bus, un tren o un vuelo? ¿Qué pasó?)*
+
+5. Do you think cities should have fewer cars?
+   /də ju θɪŋk ˈsɪtiz ʃʊd həv fjuːə kɑːz/
+   *(¿Crees que las ciudades deberían tener menos coches?)*
+
+6. If you could change one thing about transport in your city, what would it be?
+   /ɪf ju kʊd tʃeɪndʒ wʌn θɪŋ əˈbaʊt ˈtrænspɔːt ɪn jə ˈsɪti wɒt wʊd ɪt biː/
+   *(Si pudieras cambiar una cosa del transporte en tu ciudad, ¿qué sería?)*
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "I usually take the bus. It's cheaper than driving, but it's often crowded."
+   /aɪ ˈjuːʒuəli teɪk ðə bʌs ɪts ˈtʃiːpə ðən ˈdraɪvɪŋ bət ɪts ˈɒfn ˈkraʊdɪd/
+
+2. "Yes, it's pretty good. The buses are frequent and the metro is fast."
+   /jes ɪts ˈprɪti ɡʊd ðə ˈbʌsɪz ə ˈfriːkwənt ənd ðə ˈmetrəʊ ɪz fɑːst/
+
+3. "I prefer walking if it's close. For longer trips, I'd rather take the bus than drive."
+   /aɪ prɪˈfɜː ˈwɔːkɪŋ ɪf ɪts kləʊs fə ˈlɒŋɡə trɪps aɪd ˈrɑːðə teɪk ðə bʌs ðən draɪv/
+
+4. "Yes, I missed a train once. I had to wait two hours for the next one."
+   /jes aɪ mɪst ə treɪn wʌns aɪ həd tə weɪt tuː ˈaʊəz fə ðə nekst wʌn/
+
+5. "I think so, especially in the city centre. There's too much traffic and nowhere to park."
+   /aɪ θɪŋk səʊ ɪˈspeʃəli ɪn ðə ˈsɪti ˈsentə ðeəz tuː mʌtʃ ˈtræfɪk ənd ˈnəʊweə tə pɑːk/
+
+6. "I'd make the buses more reliable. People don't use them because they never know when one is coming."
+   /aɪd meɪk ðə ˈbʌsɪz mɔː rɪˈlaɪəbl ˈpiːpl dəʊnt juːz ðəm bɪˈkɒz ðeɪ ˈnevə nəʊ wen wʌn ɪz ˈkʌmɪŋ/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "Do you drive, or do you prefer public transport?"
+  /də ju draɪv ɔː də ju prɪˈfɜː ˈpʌblɪk ˈtrænspɔːt/
+  *(¿Conduces, o prefieres el transporte público?)*
+
+- "Is traffic a big problem in your city?"
+  /ɪz ˈtræfɪk ə bɪɡ ˈprɒbləm ɪn jə ˈsɪti/
+  *(¿Es el tráfico un gran problema en tu ciudad?)*
+
+- "How long does your journey to work usually take?"
+  /haʊ lɒŋ dəz jə ˈdʒɜːni tə wɜːk ˈjuːʒuəli teɪk/
+  *(¿Cuánto suele durar tu trayecto al trabajo?)*
+
+
+### Vocabulario útil:
+
+- public transport /ˈpʌblɪk ˈtrænspɔːt/ — *el transporte público*
+- to take the bus /tə teɪk ðə bʌs/ — *tomar el bus*
+- to miss a train /tə mɪs ə treɪn/ — *perder un tren*
+- a rush hour /ə rʌʃ ˈaʊə/ — *la hora punta*
+- crowded /ˈkraʊdɪd/ — *lleno de gente*
+- reliable /rɪˈlaɪəbl/ — *fiable, puntual*
+- to get stuck in traffic /tə get stʌk ɪn ˈtræfɪk/ — *quedarse atascado en el tráfico*
+
+
+### Estructuras B1 para practicar:
+
+- "I usually take..." /aɪ ˈjuːʒuəli teɪk/ — *Normalmente tomo...*
+- "It's cheaper than..." /ɪts ˈtʃiːpə ðən/ — *Es más barato que...*
+- "I'd rather... than..." /aɪd ˈrɑːðə ðən/ — *Preferiría... en vez de...*
+- "I had to wait..." /aɪ həd tə weɪt/ — *Tuve que esperar...*
+- "I'd make..." /aɪd meɪk/ — *Yo haría...*
+
+
+### Frase de rescate:
+
+- "I don't know the word in English, but it's the place where you wait for the bus."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋɡlɪʃ bət ɪts ðə pleɪs weə ju weɪt fə ðə bʌs
+  *(No sé la palabra en inglés, pero es el lugar donde esperas el bus.)*
+
