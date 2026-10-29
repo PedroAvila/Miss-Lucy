@@ -58,3 +58,6 @@ Correct: You get what you give
   I want to let you know that we come from different cultures and religions—although, to be honest, I don't practice any religion myself. However, I hope these differences don't limit our friendship.
 
   I’d definitely go with Developer B
+
+
+- A hero in your life is someone who protects you, teaches you, or inspires you to be better, without seeking anything in return
