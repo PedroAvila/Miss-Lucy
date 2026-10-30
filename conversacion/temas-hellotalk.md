@@ -2658,3 +2658,195 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
   /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋɡlɪʃ bət ɪts ðə pleɪs weə ju weɪt fə ðə bʌs
   *(No sé la palabra en inglés, pero es el lugar donde esperas el bus.)*
 
+
+## Día 37 — 2026-11-01: Cultural differences and life abroad (nivel B1/B2)
+*(Diferencias culturales y la vida en el extranjero — tema para intercambiar costumbres con gente de otros países)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. What's something about your culture that foreigners find strange?
+   /wɒts ˈsʌmθɪŋ əˈbaʊt jə ˈkʌltʃə ðət ˈfɒrənəz faɪnd streɪndʒ/
+   *(¿Qué hay en tu cultura que a los extranjeros les parece raro?)*
+
+2. Have you ever experienced culture shock? What surprised you the most?
+   /həv ju ˈevə ɪkˈspɪəriənst ˈkʌltʃə ʃɒk wɒt səˈpraɪzd ju ðə məʊst/
+   *(¿Alguna vez has vivido un choque cultural? ¿Qué fue lo que más te sorprendió?)*
+
+3. What's a custom in your country that you didn't realise was unusual until someone asked about it?
+   /wɒts ə ˈkʌstəm ɪn jə ˈkʌntri ðət ju ˈdɪdnt ˈrɪəlaɪz wəz ʌnˈjuːʒuəl ənˈtɪl ˈsʌmwʌn ɑːskt əˈbaʊt ɪt/
+   *(¿Cuál es una costumbre de tu país que no sabías que era inusual hasta que alguien te preguntó?)*
+
+4. Do you think it's easier to adapt to a new country when you're young, or when you're older?
+   /də ju θɪŋk ɪts ˈiːziər tʊ əˈdæpt tʊ ə njuː ˈkʌntri wen jʊə jʌŋ ɔː wen jʊər ˈəʊldə/
+   *(¿Crees que es más fácil adaptarse a un país nuevo cuando eres joven o cuando eres mayor?)*
+
+5. What do people usually get wrong about your country?
+   /wɒt də ˈpiːpl ˈjuːʒuəli get rɒŋ əˈbaʊt jə ˈkʌntri/
+   *(¿Qué suele malinterpretar la gente sobre tu país?)*
+
+6. If you had to live abroad for a year, which country would you choose and why?
+   /ɪf ju həd tə lɪv əˈbrɔːd fər ə jɪə wɪtʃ ˈkʌntri wʊd ju tʃuːz ənd waɪ/
+   *(Si tuvieras que vivir en el extranjero un año, ¿qué país elegirías y por qué?)*
+   → Segundo Condicional. Guárdala para el final.
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "In my country, people [kiss on the cheek / arrive late / talk very directly]. Visitors always notice it."
+   /ɪn maɪ ˈkʌntri ˈpiːpl [...] ˈvɪzɪtəz ˈɔːlweɪz ˈnəʊtɪs ɪt/
+
+2. "Yes, when I first [went abroad / met people from other countries], I was surprised by how [direct / quiet / punctual] they were."
+   /jes wen aɪ fɜːst [...] aɪ wəz səˈpraɪzd baɪ haʊ [...] ðeɪ wə/
+
+3. "We always [take our shoes off at home], and I never thought about it until someone asked me why."
+   /wi ˈɔːlweɪz [...] ənd aɪ ˈnevə θɔːt əˈbaʊt ɪt ənˈtɪl ˈsʌmwʌn ɑːskt miː waɪ/
+
+4. "I think younger is easier — you adapt faster, but you also miss home more."
+   /aɪ θɪŋk ˈjʌŋɡər ɪz ˈiːziə ju əˈdæpt ˈfɑːstə bət ju ˈɔːlsəʊ mɪs həʊm mɔː/
+
+5. "A lot of people think we [all dance / all eat spicy food], but that's just a stereotype."
+   /ə lɒt əv ˈpiːpl θɪŋk wi [...] bət ðæts dʒʌst ə ˈsteriətaɪp/
+
+6. "If I had to live abroad for a year, I'd choose [country], because [reason]."
+   /ɪf aɪ həd tə lɪv əˈbrɔːd fər ə jɪə aɪd tʃuːz [...] bɪˈkɒz [...]/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "What surprised you most when you visited another country?"
+  /wɒt səˈpraɪzd ju məʊst wen ju ˈvɪzɪtɪd əˈnʌðə ˈkʌntri/
+  *(¿Qué fue lo que más te sorprendió cuando visitaste otro país?)*
+
+- "Is that normal in your country too?"
+  /ɪz ðæt ˈnɔːml ɪn jə ˈkʌntri tuː/
+  *(¿Eso también es normal en tu país?)*
+
+- "What's one thing you wish foreigners understood about your culture?"
+  /wɒts wʌn θɪŋ ju wɪʃ ˈfɒrənəz ˌʌndəˈstʊd əˈbaʊt jə ˈkʌltʃə/
+  *(¿Qué es algo que te gustaría que los extranjeros entendieran sobre tu cultura?)*
+
+
+### Vocabulario útil:
+
+- culture shock /ˈkʌltʃə ʃɒk/ — *choque cultural*
+- a custom /ə ˈkʌstəm/ — *una costumbre*
+- a stereotype /ə ˈsteriətaɪp/ — *un estereotipo*
+- to adapt to /tʊ əˈdæpt tʊ/ — *adaptarse a*
+- to blend in /tə blend ɪn/ — *encajar, pasar desapercibido*
+- to be offended /tʊ bi əˈfendɪd/ — *sentirse ofendido*
+- rude /ruːd/ — *grosero, maleducado*
+
+
+### Estructuras B1/B2 para practicar:
+
+- "In my country, people tend to..." /ɪn maɪ ˈkʌntri ˈpiːpl tend tə/ — *En mi país, la gente suele...*
+- "I was surprised by how + adjetivo..." /aɪ wəz səˈpraɪzd baɪ haʊ/ — *Me sorprendió lo + adjetivo que...*
+- "It's considered rude to..." /ɪts kənˈsɪdəd ruːd tə/ — *Se considera de mala educación...*
+- "I never thought about it until..." /aɪ ˈnevə θɔːt əˈbaʊt ɪt ənˈtɪl/ — *Nunca lo había pensado hasta que...*
+- "If I had to live abroad, I'd..." /ɪf aɪ həd tə lɪv əˈbrɔːd aɪd/ — *Si tuviera que vivir en el extranjero, ...*
+
+
+### Frase de rescate:
+
+- "I don't know the word in English, but it's when people do something different from what you're used to."
+  /aɪ dəʊnt nəʊ ðə wɜːd ɪn ˈɪŋɡlɪʃ bət ɪts wen ˈpiːpl du ˈsʌmθɪŋ ˈdɪfrənt frəm wɒt jʊə ˈjuːst tə/
+  *(No sé la palabra en inglés, pero es cuando la gente hace algo distinto a lo que estás acostumbrado.)*
+
+
+## Día 38 — 2026-11-02: Introverts, extroverts and personality (nivel B1/B2)
+*(Introvertidos, extrovertidos y personalidad — tema para sala grupal: todos se identifican con algo y sale debate)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Would you describe yourself as more of an introvert or an extrovert?
+   /wʊd ju dɪˈskraɪb jɔːˈself əz mɔːr əv ən ˈɪntrəvɜːt ɔːr ən ˈekstrəvɜːt/
+   *(¿Te describirías más como introvertido o como extrovertido?)*
+
+2. Do you feel more energetic after a party, or after a quiet evening alone?
+   /də ju fiːl mɔːr ˌenəˈdʒetɪk ˈɑːftər ə ˈpɑːti ɔːr ˈɑːftər ə ˈkwaɪət ˈiːvnɪŋ əˈləʊn/
+   *(¿Te sientes con más energía después de una fiesta o después de una noche tranquila a solas?)*
+
+3. Has your personality changed as you've gotten older?
+   /həz jə ˌpɜːsəˈnæləti tʃeɪndʒd əz juːv ˈɡɒtn ˈəʊldə/
+   *(¿Ha cambiado tu personalidad conforme has crecido?)*
+   → Present Perfect + cambio a lo largo del tiempo.
+
+4. Do you think society is built more for extroverts?
+   /də ju θɪŋk səˈsaɪəti ɪz bɪlt mɔːr fər ˈekstrəvɜːts/
+   *(¿Crees que la sociedad está hecha más para los extrovertidos?)*
+   → Opinión + matiz. Genera desacuerdo, ideal para sala grupal.
+
+5. What's a common misunderstanding people have about introverts?
+   /wɒts ə ˈkɒmən ˌmɪsʌndəˈstændɪŋ ˈpiːpl həv əˈbaʊt ˈɪntrəvɜːts/
+   *(¿Cuál es un malentendido común que la gente tiene sobre los introvertidos?)*
+
+6. If you could change one thing about your personality, what would it be?
+   /ɪf ju kʊd tʃeɪndʒ wʌn θɪŋ əˈbaʊt jə ˌpɜːsəˈnæləti wɒt wʊd ɪt biː/
+   *(Si pudieras cambiar una cosa de tu personalidad, ¿cuál sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "I'm more of an introvert. I enjoy people, but I need time alone to recharge."
+   /aɪm mɔːr əv ən ˈɪntrəvɜːt aɪ ɪnˈdʒɔɪ ˈpiːpl bət aɪ niːd taɪm əˈləʊn tə ˌriːˈtʃɑːdʒ/
+
+2. "Definitely a quiet evening. A big party is fun for an hour, but then I need to leave."
+   /ˈdefɪnətli ə ˈkwaɪət ˈiːvnɪŋ ə bɪɡ ˈpɑːti ɪz fʌn fər ən ˈaʊər bət ðen aɪ niːd tə liːv/
+
+3. "Yes — I used to be much shier, but now I'm comfortable speaking in front of people."
+   /jes aɪ ˈjuːst tə bi mʌtʃ ˈʃaɪə bət naʊ aɪm ˈkʌmftəbl ˈspiːkɪŋ ɪn frʌnt əv ˈpiːpl/
+
+4. "Partly. Work and school reward people who speak up, so quieter people can get ignored."
+   /ˈpɑːtli wɜːk ənd skuːl rɪˈwɔːd ˈpiːpl huː spiːk ʌp səʊ ˈkwaɪətə ˈpiːpl kən get ɪgˈnɔːd/
+
+5. "People think introverts are shy or unfriendly. In reality, we just need less noise."
+   /ˈpiːpl θɪŋk ˈɪntrəvɜːts ə ʃaɪ ɔːr ʌnˈfrendli ɪn rɪˈæləti wi dʒʌst niːd les nɔɪz/
+
+6. "I wouldn't change much — maybe I'd worry less about what people think."
+   /aɪ ˈwʊdnt tʃeɪndʒ mʌtʃ ˈmeɪbi aɪd ˈwʌri les əˈbaʊt wɒt ˈpiːpl θɪŋk/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "Where do you get your energy from?"
+  /weə də ju get jə ˈenədʒi frəm/
+  *(¿De dónde sacas tu energía?)*
+
+- "Do you prefer small groups or big groups?"
+  /də ju prɪˈfɜː smɔːl ɡruːps ɔː bɪɡ ɡruːps/
+  *(¿Prefieres los grupos pequeños o los grandes?)*
+
+- "Do you need time alone after a busy day?"
+  /də ju niːd taɪm əˈləʊn ˈɑːftər ə ˈbɪzi deɪ/
+  *(¿Necesitas tiempo a solas después de un día ocupado?)*
+
+
+### Vocabulario útil:
+
+- an introvert /ən ˈɪntrəvɜːt/ — *introvertido*
+- an extrovert /ən ˈekstrəvɜːt/ — *extrovertido*
+- to recharge /tə ˌriːˈtʃɑːdʒ/ — *recargar energía*
+- shy /ʃaɪ/ — *tímido*
+- outgoing /ˈaʊtɡəʊɪŋ/ — *sociable, extrovertido*
+- to speak up /tə spiːk ʌp/ — *hablar, alzar la voz*
+- to open up /tʊ ˈəʊpən ʌp/ — *abrirse (emocionalmente)*
+
+
+### Estructuras B1/B2 para practicar:
+
+- "I'm more of a..." /aɪm mɔːr əv ə/ — *Soy más bien...*
+- "I used to be..., but now I'm..." /aɪ ˈjuːst tə bi bət naʊ aɪm/ — *Antes era..., pero ahora...*
+- "People think..., but in reality..." /ˈpiːpl θɪŋk bət ɪn rɪˈæləti/ — *La gente cree..., pero en realidad...*
+- "I need time to..." /aɪ niːd taɪm tə/ — *Necesito tiempo para...*
+- "If I could change..., I'd..." /ɪf aɪ kʊd tʃeɪndʒ aɪd/ — *Si pudiera cambiar..., ...*
+
+
+### Frase de rescate:
+
+- "I don't know the exact word, but it's the kind of person who prefers listening to talking."
+  /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts ðə kaɪnd əv ˈpɜːsn huː prɪˈfɜːz ˈlɪsnɪŋ tə ˈtɔːkɪŋ/
+  *(No sé la palabra exacta, pero es el tipo de persona que prefiere escuchar a hablar.)*
+

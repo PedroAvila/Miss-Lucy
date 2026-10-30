@@ -8416,7 +8416,7 @@
 - The gentleman offered her his seat.
 - A gentleman opened the door for us.
 
-1684. claim(kleɪm) => afirmar
+1684. claim(kleɪm) => afirmar/reclamar
 - He claims to know the answer.
 - She claimed the prize.
 - The company denied the claim.

@@ -1388,7 +1388,7 @@ measly /ˈmiːzli/ => miserable
 towards /təˈwɔːdz/ => hacia
 complex /ˈkɒmplɛks/ => complejo
 square /skweə/ => cuadrado
-faced /feɪst/ => de cara
+faced /feɪst/ => de cara 
 vision /ˈvɪʒᵊn/ => imagen
 street /striːt/ => calle
 ghost /ɡəʊst/ => fantasma
@@ -1804,8 +1804,6 @@ someone /ˈsʌmwʌn/ => alguien
 somewhere /ˈsʌmweə/ => a/en algún lugar
 third /θɜːd/ => tercero
 as long as /əz lɒŋ æz/ => siempre y cuando
-
-===================== tanda 2500 (2026-10-29) =====================
 dog /dɒɡ/ => perro — The dog is sleeping in the garden. [B1]
 cat /kæt/ => gato — My cat likes to sit on the sofa. [B1]
 fish /fɪʃ/ => pez/pescado — We had fish for dinner last night. [B1]
@@ -2610,3 +2608,6 @@ terrible /ˈtɛrəbᵊl/ => terrible — The weather was terrible all week. [B1]
 excellent /ˈɛksᵊlᵊnt/ => excelente — She did an excellent job. [B1]
 perfect /ˈpɜːfɪkt/ => perfecto — The weather was perfect for a picnic. [B1]
 pivotal => crucial
+lounge => sala de estar 
+prize => premio 
+charm => encanto
