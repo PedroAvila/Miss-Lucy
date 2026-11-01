@@ -11,7 +11,7 @@ Encuesta de preguntas agrupadas por tema, tomadas de [temas-hellotalk.md](temas-
 
 ## Poll: elige el tema de hoy
 
-> Nota: los temas de abajo ya se usaron (ver fechas en [temas-hellotalk.md](temas-hellotalk.md)). Los más recientes son 💬 Unpopular opinions (Día 27, 2026-10-21), 🧿 Superstitions and luck (Día 28, 2026-10-21), 😄 Laughter and a sense of humor (Día 29, 2026-10-22), 🛍️ Shopping and consumer habits (Día 30, 2026-10-23), 📚 Books, reading and storytelling (Día 31, 2026-10-26), ❤️ Small acts of kindness (Día 32, 2026-10-27), 💚 Health and wellness (Día 33, 2026-10-28).
+> Nota: los temas de abajo ya se usaron (ver fechas en [temas-hellotalk.md](temas-hellotalk.md)). Los más recientes son 💬 Unpopular opinions (Día 27, 2026-10-21), 🧿 Superstitions and luck (Día 28, 2026-10-21), 😄 Laughter and a sense of humor (Día 29, 2026-10-22), 🛍️ Shopping and consumer habits (Día 30, 2026-10-23), 📚 Books, reading and storytelling (Día 31, 2026-10-26), ❤️ Small acts of kindness (Día 32, 2026-10-27), 💚 Health and wellness (Día 33, 2026-10-28), 🗣️ Learning languages and the fear of making mistakes (Día 39, 2026-11-03), 🏙️ City life or the countryside (Día 40, 2026-11-04).
 
 - 🗓️ My weekend plans *(usado 2026-09-02)*
 - 💼 Work and daily routine *(usado 2026-09-04)*
@@ -26,6 +26,8 @@ Encuesta de preguntas agrupadas por tema, tomadas de [temas-hellotalk.md](temas-
 - 📚 Books, reading and storytelling *(usado 2026-10-26)*
 - ❤️ Small acts of kindness *(usado 2026-10-27)*
 - 💚 Health and wellness *(usado 2026-10-28)*
+- 🗣️ Learning languages and the fear of making mistakes *(usado 2026-11-03)*
+- 🏙️ City life or the countryside *(usado 2026-11-04)*
 
 ---
 

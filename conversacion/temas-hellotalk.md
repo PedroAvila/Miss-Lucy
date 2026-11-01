@@ -2850,3 +2850,197 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
   /aɪ dəʊnt nəʊ ði ɪgˈzækt wɜːd bət ɪts ðə kaɪnd əv ˈpɜːsn huː prɪˈfɜːz ˈlɪsnɪŋ tə ˈtɔːkɪŋ/
   *(No sé la palabra exacta, pero es el tipo de persona que prefiere escuchar a hablar.)*
 
+## Día 39 — 2026-11-03: Learning languages and the fear of making mistakes (nivel B1/B2)
+*(Aprender idiomas y el miedo a equivocarse — tema que todos en HelloTalk comparten, genera confianza y anécdotas)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Why did you decide to learn English?
+   /waɪ dɪd ju dɪˈsaɪd tə lɜːn ˈɪŋglɪʃ/
+   *(¿Por qué decidiste aprender inglés?)*
+   → Pasado simple + razón.
+
+2. What's the hardest part of learning a language for you?
+   /wɒts ðə ˈhɑːdɪst pɑːt əv ˈlɜːnɪŋ ə ˈlæŋgwɪdʒ fə ju/
+   *(¿Cuál es la parte más difícil de aprender un idioma para ti?)*
+
+3. Do you feel embarrassed when you make mistakes, or does it not bother you?
+   /də ju fiːl ɪmˈbærəst wen ju meɪk mɪsˈteɪks ɔː dʌz ɪt nɒt ˈbɒðə ju/
+   *(¿Te da vergüenza equivocarte, o no te molesta?)*
+   → Presente simple + cláusula con "when".
+
+4. Has learning English changed the way you see the world?
+   /həz ˈlɜːnɪŋ ˈɪŋglɪʃ tʃeɪndʒd ðə weɪ ju siː ðə wɜːld/
+   *(¿Aprender inglés ha cambiado la forma en que ves el mundo?)*
+   → Present Perfect + resultado.
+
+5. What's the best way to learn a language: studying grammar, watching series, or just talking to people?
+   /wɒts ðə best weɪ tə lɜːn ə ˈlæŋgwɪdʒ ˈstʌdiɪŋ ˈgræmə ˈwɒtʃɪŋ ˈsɪəriːz ɔː dʒʌst ˈtɔːkɪŋ tə ˈpiːpl/
+   *(¿Cuál es la mejor forma de aprender un idioma: estudiar gramática, ver series o simplemente hablar con la gente?)*
+   → Comparación + opinión. Buena para sala grupal porque todos defienden algo distinto.
+
+6. If you could speak any language perfectly overnight, which one would you choose and why?
+   /ɪf ju kʊd spiːk ˈeni ˈlæŋgwɪdʒ ˈpɜːfɪktli ˌəʊvəˈnaɪt wɪtʃ wʌn wʊd ju tʃuːz ənd waɪ/
+   *(Si pudieras hablar cualquier idioma perfectamente de la noche a la mañana, ¿cuál elegirías y por qué?)*
+   → Segundo Condicional. Guárdala para el final.
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "I started because I wanted better job opportunities, but now I just enjoy it."
+   /aɪ ˈstɑːtɪd bɪˈkɒz aɪ ˈwɒntɪd ˈbetər dʒɒb ˌɒpəˈtjuːnətiz bət naʊ aɪ dʒʌst ɪnˈdʒɔɪ ɪt/
+
+2. "For me, the hardest part is speaking without translating everything in my head first."
+   /fə miː ðə ˈhɑːdɪst pɑːt ɪz ˈspiːkɪŋ wɪðˈaʊt trænsˈleɪtɪŋ ˈevrɪθɪŋ ɪn maɪ hed fɜːst/
+
+3. "I used to feel embarrassed, but now I just laugh and try again."
+   /aɪ ˈjuːst tə fiːl ɪmˈbærəst bət naʊ aɪ dʒʌst lɑːf ənd traɪ əˈgen/
+
+4. "Yes, it's opened a lot of doors — I can talk to people I'd never have met otherwise."
+   /jes ɪts ˈəʊpənd ə lɒt əv dɔːz aɪ kən tɔːk tə ˈpiːpl aɪd ˈnevə həv met ˈʌðəwaɪz/
+
+5. "I think a mix of everything works best, but talking to real people is what really pushes you."
+   /aɪ θɪŋk ə mɪks əv ˈevrɪθɪŋ wɜːks best bət ˈtɔːkɪŋ tə rɪəl ˈpiːpl ɪz wɒt ˈrɪəli pʊʃɪz ju/
+
+6. "If I could learn one overnight, I'd choose Japanese, because I love the culture and I'd travel there."
+   /ɪf aɪ kʊd lɜːn wʌn ˌəʊvəˈnaɪt aɪd tʃuːz ˌdʒæpəˈniːz bɪˈkɒz aɪ lʌv ðə ˈkʌltʃər ənd aɪd ˈtrævəl ðeə/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "How long have you been learning English?"
+  /haʊ lɒŋ həv ju bɪn ˈlɜːnɪŋ ˈɪŋglɪʃ/
+  *(¿Cuánto tiempo llevas aprendiendo inglés?)*
+
+- "What do you do when you don't understand a word?"
+  /wɒt də ju du wen ju dəʊnt ˌʌndəˈstænd ə wɜːd/
+  *(¿Qué haces cuando no entiendes una palabra?)*
+
+- "Do you practice with native speakers often?"
+  /də ju ˈpræktɪs wɪð ˈneɪtɪv ˈspiːkəz ˈɒfn/
+  *(¿Practicas seguido con hablantes nativos?)*
+
+
+### Vocabulario útil:
+
+- to make a mistake /tə meɪk ə mɪˈsteɪk/ — *cometer un error* — "Don't be afraid to make mistakes."
+- fluent /ˈfluːənt/ — *fluido, con soltura* — "I'm not fluent yet, but I'm getting there."
+- to get stuck /tə get stʌk/ — *quedarse trabado* — "I get stuck when I can't find the word."
+- mother tongue /ˈmʌðə tʌŋ/ — *lengua materna* — "Spanish is my mother tongue."
+- to pick up a language /tə pɪk ʌp ə ˈlæŋgwɪdʒ/ — *aprender un idioma de forma natural* — "Kids pick up languages so fast."
+- trial and error /ˌtraɪəl ənd ˈerə/ — *ensayo y error* — "Learning a language is mostly trial and error."
+
+
+### Estructuras B1/B2 para practicar:
+
+- "I used to..., but now I..." /aɪ ˈjuːst tə bət naʊ aɪ/ — *Antes..., pero ahora...*
+- "I've been learning... for..." /aɪv bɪn ˈlɜːnɪŋ fə/ — *Llevo aprendiendo... desde hace...*
+- "The hardest part is..." /ðə ˈhɑːdɪst pɑːt ɪz/ — *La parte más difícil es...*
+- "It's opened a lot of doors." /ɪts ˈəʊpənd ə lɒt əv dɔːz/ — *Ha abierto muchas puertas.*
+- "If I could..., I'd..." /ɪf aɪ kʊd aɪd/ — *Si pudiera..., ...*
+
+
+### Frase de rescate:
+
+- "I don't know how to say this in English, but in my language we say something like [frase]."
+  /aɪ dəʊnt nəʊ haʊ tə seɪ ðɪs ɪn ˈɪŋglɪʃ bət ɪn maɪ ˈlæŋgwɪdʒ wi seɪ ˈsʌmθɪŋ laɪk [...]/
+  *(No sé cómo decir esto en inglés, pero en mi idioma decimos algo como [frase].)*
+
+## Día 40 — 2026-11-04: City life or the countryside: where would you rather live? (nivel B1/B2)
+*(La ciudad o el campo: ¿dónde preferirías vivir? — tema de opinión ligero, todos tienen una experiencia que contar)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Do you live in a city, a town or the countryside?
+   /də ju lɪv ɪn ə ˈsɪti ə taʊn ɔː ðə ˈkʌntrisaɪd/
+   *(¿Vives en una ciudad, un pueblo o el campo?)*
+   → Presente simple + descripción.
+
+2. What do you like most about where you live?
+   /wɒt də ju laɪk məʊst əˈbaʊt weə ju lɪv/
+   *(¿Qué es lo que más te gusta de donde vives?)*
+
+3. What's the biggest problem with living there?
+   /wɒts ðə ˈbɪgɪst ˈprɒbləm wɪð ˈlɪvɪŋ ðeə/
+   *(¿Cuál es el problema más grande de vivir ahí?)*
+
+4. Do you think life in the countryside is healthier than life in the city?
+   /də ju θɪŋk laɪf ɪn ðə ˈkʌntrisaɪd ɪz ˈhelθiə ðən laɪf ɪn ðə ˈsɪti/
+   *(¿Crees que la vida en el campo es más saludable que la vida en la ciudad?)*
+   → Comparativos.
+
+5. Have you ever thought about moving somewhere completely different?
+   /həv ju ˈevə θɔːt əˈbaʊt ˈmuːvɪŋ ˈsʌmweə kəmˈpliːtli ˈdɪfrənt/
+   *(¿Alguna vez has pensado en mudarte a un lugar completamente distinto?)*
+   → Present Perfect.
+
+6. If you could live anywhere in the world, where would it be: a big city, a small town or the middle of nowhere?
+   /ɪf ju kʊd lɪv ˈeniweə ɪn ðə wɜːld weə wʊd ɪt bi ə bɪg ˈsɪti ə smɔːl taʊn ɔː ðə ˈmɪdl əv ˈnəʊweə/
+   *(Si pudieras vivir en cualquier lugar del mundo, ¿dónde sería: una gran ciudad, un pueblo pequeño o en medio de la nada?)*
+   → Segundo Condicional. Guárdala para el final.
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "I live in [ciudad], and honestly, it's louder and busier than I expected."
+   /aɪ lɪv ɪn [...] ənd ˈɒnɪstli ɪts ˈlaʊdər ənd ˈbɪziə ðən aɪ ɪkˈspektɪd/
+
+2. "What I like most is the convenience — everything is close and there's always something to do."
+   /wɒt aɪ laɪk məʊst ɪz ðə kənˈviːniəns ˈevrɪθɪŋ ɪz kləʊs ənd ðeəz ˈɔːlweɪz ˈsʌmθɪŋ tə du/
+
+3. "The traffic and the noise, definitely. It wears you down after a while."
+   /ðə ˈtræfɪk ənd ðə nɔɪz ˈdefɪnətli ɪt weəz ju daʊn ˈɑːftər ə waɪl/
+
+4. "In some ways yes, but the countryside can be boring and far from everything."
+   /ɪn sʌm weɪz jes bət ðə ˈkʌntrisaɪd kən bi ˈbɔːrɪŋ ənd fɑː frəm ˈevrɪθɪŋ/
+
+5. "Yes, I've thought about it a few times, but I've never actually done it."
+   /jes aɪv θɔːt əˈbaʊt ɪt ə fjuː taɪmz bət aɪv ˈnevə ˈæktʃuəli dʌn ɪt/
+
+6. "If I could live anywhere, I'd choose a small town near the sea — quiet but not too isolated."
+   /ɪf aɪ kʊd lɪv ˈeniweə aɪd tʃuːz ə smɔːl taʊn nɪə ðə siː ˈkwaɪət bət nɒt tuː ˈaɪsəleɪtɪd/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "Is your city expensive to live in?"
+  /ɪz jə ˈsɪti ɪkˈspensɪv tə lɪv ɪn/
+  *(¿Es caro vivir en tu ciudad?)*
+
+- "Do you know your neighbours well?"
+  /də ju nəʊ jə ˈneɪbəz wel/
+  *(¿Conoces bien a tus vecinos?)*
+
+- "Would you move for a better job?"
+  /wʊd ju muːv fər ə ˈbetə dʒɒb/
+  *(¿Te mudarías por un mejor trabajo?)*
+
+
+### Vocabulario útil:
+
+- a neighbourhood /ə ˈneɪbəhʊd/ — *un barrio* — "My neighbourhood is quiet at night."
+- crowded /ˈkraʊdɪd/ — *lleno de gente, abarrotado* — "The centre is always crowded on weekends."
+- rent /rent/ — *el alquiler* — "The rent here is too high for me."
+- to commute /tə kəˈmjuːt/ — *desplazarse al trabajo* — "I commute for an hour every day."
+- peaceful /ˈpiːsfl/ — *tranquilo, pacífico* — "Life there is slow and peaceful."
+- the middle of nowhere /ðə ˈmɪdl əv ˈnəʊweə/ — *en medio de la nada* — "The house is in the middle of nowhere."
+- cost of living /ˌkɒst əv ˈlɪvɪŋ/ — *costo de vida* — "The cost of living has gone up a lot."
+
+
+### Estructuras B1/B2 para practicar:
+
+- "What I like most is..." /wɒt aɪ laɪk məʊst ɪz/ — *Lo que más me gusta es...*
+- "...than I expected" /ðən aɪ ɪkˈspektɪd/ — *...de lo que esperaba*
+- "In some ways..., but..." /ɪn sʌm weɪz bət/ — *En cierto modo..., pero...*
+- "I've thought about it, but I've never..." /aɪv θɔːt əˈbaʊt ɪt bət aɪv ˈnevə/ — *Lo he pensado, pero nunca...*
+- "If I could..., I'd..." /ɪf aɪ kʊd aɪd/ — *Si pudiera..., ...*
+
+
+### Frase de rescate:
+
+- "I don't know the English word, but it's a place where there are lots of houses and not many people."
+  /aɪ dəʊnt nəʊ ði ˈɪŋglɪʃ wɜːd bət ɪts ə pleɪs weə ðər ə lɒts əv ˈhaʊzɪz ənd nɒt ˈmeni ˈpiːpl/
+  *(No sé la palabra en inglés, pero es un lugar donde hay muchas casas y no mucha gente.)*
+

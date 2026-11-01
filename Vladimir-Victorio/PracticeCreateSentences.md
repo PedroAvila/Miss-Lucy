@@ -61,3 +61,8 @@ Correct: You get what you give
 
 
 - A hero in your life is someone who protects you, teaches you, or inspires you to be better, without seeking anything in return
+
+- in the mid-15th century, during the reign of the Inca Pachacútec.
+
+- Let's catch up tomorrow
+- The temperature has been really high this Summer
