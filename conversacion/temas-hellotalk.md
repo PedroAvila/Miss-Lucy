@@ -3044,3 +3044,201 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
   /aɪ dəʊnt nəʊ ði ˈɪŋglɪʃ wɜːd bət ɪts ə pleɪs weə ðər ə lɒts əv ˈhaʊzɪz ənd nɒt ˈmeni ˈpiːpl/
   *(No sé la palabra en inglés, pero es un lugar donde hay muchas casas y no mucha gente.)*
 
+
+## Día 41 — 2026-11-05: Fashion and personal style (nivel B1)
+*(La moda y el estilo personal — tema ligero: todos tienen una opinión sobre cómo se visten)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Do you care about fashion, or do you just wear whatever is comfortable?
+   /də ju keər əˈbaʊt ˈfæʃn ɔː də ju dʒʌst weə wɒtˈevər ɪz ˈkʌmftəbl/
+   *(¿Te importa la moda o simplemente te pones lo que sea cómodo?)*
+
+2. How would you describe your personal style?
+   /haʊ wʊd ju dɪˈskraɪb jə ˈpɜːsənl staɪl/
+   *(¿Cómo describirías tu estilo personal?)*
+   → "I'd say I'm more of a..." + adjetivo.
+
+3. Do people in your country dress differently from people in other places you've visited?
+   /də ˈpiːpl ɪn jə ˈkʌntri dres ˈdɪfrəntli frəm ˈpiːpl ɪn ˈʌðə ˈpleɪsɪz juːv ˈvɪzɪtɪd/
+   *(¿La gente de tu país se viste diferente a la de otros lugares que has visitado?)*
+   → Comparaciones + Present Perfect.
+
+4. Have you ever bought something just because it was on sale, and never worn it?
+   /həv ju ˈevə bɔːt ˈsʌmθɪŋ dʒʌst bɪˈkɒz ɪt wəz ɒn seɪl ənd ˈnevə wɔːn ɪt/
+   *(¿Alguna vez has comprado algo solo porque estaba en oferta y nunca te lo pusiste?)*
+   → Present Perfect. Pregunta con gancho: casi todos contestan que sí.
+
+5. Do you think what people wear says something about who they are?
+   /də ju θɪŋk wɒt ˈpiːpl weə sez ˈsʌmθɪŋ əˈbaʊt huː ðeɪ ə/
+   *(¿Crees que lo que la gente viste dice algo sobre quién es?)*
+   → Opinión matizada. Genera debate, ideal para sala grupal.
+
+6. If you could only wear one outfit for the rest of your life, what would it be?
+   /ɪf ju kʊd ˈəʊnli weər wʌn ˈaʊtfɪt fə ðə rest əv jə laɪf wɒt wʊd ɪt biː/
+   *(Si solo pudieras usar un conjunto el resto de tu vida, ¿cuál sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "Honestly, comfort comes first. If I'm not comfortable, I can't enjoy anything."
+   /ˈɒnɪstli ˈkʌmfət kʌmz fɜːst ɪf aɪm nɒt ˈkʌmftəbl aɪ kɑːnt ɪnˈdʒɔɪ ˈeniθɪŋ/
+
+2. "I'd say my style is simple — jeans, a plain T-shirt and trainers most days."
+   /aɪd seɪ maɪ staɪl ɪz ˈsɪmpl dʒiːnz ə pleɪn ˈtiː ʃɜːt ənd ˈtreɪnəz məʊst deɪz/
+
+3. "I think so. People here dress a bit more casually than in [place], where they seem more formal."
+   /aɪ θɪŋk səʊ ˈpiːpl hɪə dres ə bɪt mɔː ˈkæʒuəli ðən ɪn [...] weə ðeɪ siːm mɔː ˈfɔːml/
+
+4. "Yes, more than once. I bought it because it was cheap, and then it just sat in my wardrobe."
+   /jes mɔː ðən wʌns aɪ bɔːt ɪt bɪˈkɒz ɪt wəz tʃiːp ənd ðen ɪt dʒʌst sæt ɪn maɪ ˈwɔːdrəʊb/
+
+5. "To some extent, yes — but not as much as we think. It tells you how someone wants to be seen, not who they really are."
+   /tə sʌm ɪkˈstent jes bət nɒt əz mʌtʃ əz wi θɪŋk ɪt telz ju haʊ ˈsʌmwʌn wɒnts tə bi siːn nɒt huː ðeɪ ˈrɪəli ə/
+
+6. "If I had to choose one outfit, I'd pick [jeans and a hoodie], because I could wear it anywhere."
+   /ɪf aɪ həd tə tʃuːz wʌn ˈaʊtfɪt aɪd pɪk [...] bɪˈkɒz aɪ kʊd weər ɪt ˈeniweə/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "What do you usually wear when you want to feel good?"
+  /wɒt də ju ˈjuːʒuəli weə wen ju wɒnt tə fiːl ɡʊd/
+  *(¿Qué sueles llevar cuando quieres sentirte bien?)*
+
+- "Do you spend much on clothes, or do you prefer to save?"
+  /də ju spend mʌtʃ ɒn kləʊðz ɔː də ju prɪˈfɜː tə seɪv/
+  *(¿Gastas mucho en ropa o prefieres ahorrar?)*
+
+- "Is there a piece of clothing you've kept for years and still wear?"
+  /ɪz ðər ə piːs əv ˈkləʊðɪŋ juːv kept fə jɪəz ənd stɪl weə/
+  *(¿Hay alguna prenda que hayas guardado durante años y todavía uses?)*
+
+
+### Vocabulario útil:
+
+- an outfit /ən ˈaʊtfɪt/ — *un conjunto, un look*
+- to try something on /tə traɪ ˈsʌmθɪŋ ɒn/ — *probarte algo*
+- to fit /tə fɪt/ — *quedar bien de talla* — "This shirt doesn't fit me."
+- to suit someone /tə suːt ˈsʌmwʌn/ — *quedar bien (estilo/color)* — "That colour really suits you."
+- casual /ˈkæʒuəl/ — *informal (ropa)*
+- smart /smɑːt/ — *elegante, arreglado*
+- comfortable /ˈkʌmftəbl/ — *cómodo*
+- a bargain /ə ˈbɑːgən/ — *una ganga*
+
+
+### Estructuras B1 para practicar:
+
+- "I'd say I'm more of a..." /aɪd seɪ aɪm mɔːr əv ə/ — *Diría que soy más bien...*
+- "Comfort comes first." /ˈkʌmfət kʌmz fɜːst/ — *La comodidad es lo primero.*
+- "It doesn't fit / it doesn't suit me." /ɪt ˈdʌznt fɪt/ · /ɪt ˈdʌznt suːt miː/ — *No me queda bien de talla / no me favorece.*
+- "To some extent, yes, but..." /tə sʌm ɪkˈstent jes bət/ — *Hasta cierto punto sí, pero...*
+- "If I had to choose, I'd..." /ɪf aɪ həd tə tʃuːz aɪd/ — *Si tuviera que elegir, ...*
+
+
+### Frase de rescate:
+
+- "I don't know the word, but it's the kind of clothes you wear every day, not for a special occasion."
+  /aɪ dəʊnt nəʊ ðə wɜːd bət ɪts ðə kaɪnd əv kləʊðz ju weə ˈevri deɪ nɒt fər ə ˈspeʃl əˈkeɪʒn/
+  *(No sé la palabra, pero es el tipo de ropa que usas todos los días, no para una ocasión especial.)*
+
+
+## Día 42 — 2026-11-06: Neighbours and community (nivel B1)
+*(Los vecinos y la comunidad — tema cotidiano: todos tienen una anécdota con un vecino)*
+
+
+### Preguntas que probablemente te hagan:
+
+1. Do you know your neighbours well?
+   /də ju nəʊ jə ˈneɪbəz wel/
+   *(¿Conoces bien a tus vecinos?)*
+
+2. What makes a good neighbour?
+   /wɒt meɪks ə ɡʊd ˈneɪbə/
+   *(¿Qué hace a un buen vecino?)*
+   → Para abrir: "For me it's..." /fə miː ɪts/
+
+3. Have you ever had a problem with a neighbour? What happened?
+   /həv ju ˈevə həd ə ˈprɒbləm wɪð ə ˈneɪbə wɒt ˈhæpənd/
+   *(¿Alguna vez has tenido un problema con un vecino? ¿Qué pasó?)*
+   → Present Perfect + pasado simple para contar la anécdota.
+
+4. Is there a strong sense of community where you live?
+   /ɪz ðər ə strɒŋ sens əv kəˈmjuːnəti weə ju lɪv/
+   *(¿Hay un fuerte sentido de comunidad donde vives?)*
+
+5. Do you think people today are less connected to their neighbours than before? Why?
+   /də ju θɪŋk ˈpiːpl təˈdeɪ ə les kəˈnektɪd tə ðeə ˈneɪbəz ðən bɪˈfɔː waɪ/
+   *(¿Crees que hoy la gente está menos conectada con sus vecinos que antes? ¿Por qué?)*
+   → Comparación + opinión. Genera desacuerdo, ideal para sala grupal.
+
+6. If you could change one thing about your neighbourhood, what would it be?
+   /ɪf ju kʊd tʃeɪndʒ wʌn θɪŋ əˈbaʊt jə ˈneɪbəhʊd wɒt wʊd ɪt biː/
+   *(Si pudieras cambiar una cosa de tu barrio, ¿qué sería?)*
+   → Segundo Condicional. Guárdala para el final.
+
+
+### Respuestas de ejemplo (adapta a tu caso real):
+
+1. "I know a few of them by name, but we don't really spend time together."
+   /aɪ nəʊ ə fjuː əv ðəm baɪ neɪm bət wi dəʊnt ˈrɪəli spend taɪm təˈɡeðə/
+
+2. "Someone who's friendly but respects your space — that's all I ask for."
+   /ˈsʌmwʌn huːz ˈfrendli bət rɪˈspekts jə speɪs ðæts ɔːl aɪ ɑːsk fə/
+
+3. "Yes, once we had a problem with noise at night. We talked about it calmly and it was fine."
+   /jes wʌns wi həd ə ˈprɒbləm wɪð nɔɪz ət naɪt wi tɔːkt əˈbaʊt ɪt ˈkɑːmli ənd ɪt wəz faɪn/
+
+4. "Not really. People are polite, but everyone keeps to themselves."
+   /nɒt ˈrɪəli ˈpiːpl ə pəˈlaɪt bət ˈevriwʌn kiːps tə ðəmˈselvz/
+
+5. "I think so. People move around more now, so they don't put down roots in one place."
+   /aɪ θɪŋk səʊ ˈpiːpl muːv əˈraʊnd mɔː naʊ səʊ ðeɪ dəʊnt pʊt daʊn ruːts ɪn wʌn pleɪs/
+
+6. "If I could change one thing, I'd add more green spaces where people could meet."
+   /ɪf aɪ kʊd tʃeɪndʒ wʌn θɪŋ aɪd æd mɔː griːn ˈspeɪsɪz weə ˈpiːpl kʊd miːt/
+
+
+### Preguntas para devolver (mantener la charla viva):
+
+- "Do people help each other where you live?"
+  /də ˈpiːpl help iːtʃ ˈʌðə weə ju lɪv/
+  *(¿La gente se ayuda entre sí donde vives?)*
+
+- "Would you invite your neighbours over for dinner?"
+  /wʊd ju ɪnˈvaɪt jə ˈneɪbəz ˈəʊvə fə ˈdɪnə/
+  *(¿Invitarías a tus vecinos a cenar?)*
+
+- "Is your neighbourhood noisy or quiet?"
+  /ɪz jə ˈneɪbəhʊd ˈnɔɪzi ɔː ˈkwaɪət/
+  *(¿Tu barrio es ruidoso o tranquilo?)*
+
+
+### Vocabulario útil:
+
+- a neighbour /ə ˈneɪbə/ — *un vecino*
+- a neighbourhood /ə ˈneɪbəhʊd/ — *un barrio*
+- to get on well with /tə get ɒn wel wɪð/ — *llevarse bien con*
+- to keep to yourself /tə kiːp tə jɔːˈself/ — *ser reservado, no meterse con nadie*
+- to put down roots /tə pʊt daʊn ruːts/ — *echar raíces*
+- a sense of community /ə sens əv kəˈmjuːnəti/ — *sentido de comunidad*
+- to mind your own business /tə maɪnd jɔːr əʊn ˈbɪznəs/ — *no meterse en lo de los demás*
+
+
+### Estructuras B1 para practicar:
+
+- "I know them by name, but..." /aɪ nəʊ ðəm baɪ neɪm bət/ — *Los conozco de nombre, pero...*
+- "We get on well with..." /wi get ɒn wel wɪð/ — *Nos llevamos bien con...*
+- "Everyone keeps to themselves." /ˈevriwʌn kiːps tə ðəmˈselvz/ — *Cada quien se mantiene a lo suyo.*
+- "There's a strong sense of community." /ðeəz ə strɒŋ sens əv kəˈmjuːnəti/ — *Hay un fuerte sentido de comunidad.*
+- "If I could change..., I'd..." /ɪf aɪ kʊd tʃeɪndʒ aɪd/ — *Si pudiera cambiar..., ...*
+
+
+### Frase de rescate:
+
+- "I don't know the word, but it's the person who lives next door to you."
+  /aɪ dəʊnt nəʊ ðə wɜːd bət ɪts ðə ˈpɜːsn huː lɪvz nekst dɔː tə ju/
+  *(No sé la palabra, pero es la persona que vive al lado de tu casa.)*
+

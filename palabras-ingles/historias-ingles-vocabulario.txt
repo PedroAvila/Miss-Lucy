@@ -8311,7 +8311,7 @@
 - She wore a bright yellow dress.
 - He is a bright student.
 
-1663. pick(pɪk) => escoger
+1663. pick(pɪk) => escoger/coger/elegir/recoger
 - Pick a card from the deck.
 - She picked the red shoes.
 - We picked apples in the orchard.
