@@ -2621,37 +2621,3 @@ orchard /ˈɔːʧəd/ => huerto de árboles frutales
 humanity /hjuːˈmænəti/ => humanidad
 deck /dɛk/ => cubierta/piso/decorar/baraja
 blend /blɛnd/ => mezcla
-
-===================== añadidos desde historias-ingles-vocabulario.txt (2026-11-05) =====================
-tolerance /ˈtɒlᵊrᵊns/ => tolerancia [B2]
-  - British people value tolerance, especially in a multicultural society.
-  - Tolerance is essential for a peaceful society, allowing diverse groups to coexist respectfully.
-  - Practising tolerance means accepting differences in beliefs, cultures and opinions without judgment.
-stranger /ˈstreɪnʤə/ => desconocido/desconocida/extraño/extraña [B1]
-  - Don't talk to strangers.
-  - He is a stranger in town.
-  - The stranger helped me.
-candles /ˈkændᵊlz/ => velas [B1]
-  - People put candles in windows in winter.
-  - She lit some scented candles to make the living room feel cosy.
-  - Don't forget to blow out the candles before you go to bed.
-heaters /ˈhiːtəz/ => calentadores [B1]
-  - We need to turn on the heaters because it's freezing inside.
-  - The outdoor heaters at the restaurant kept us warm all night.
-  - Many people use electric heaters to save on gas during the winter.
-bags /bæɡz/ => bolsas [B1]
-  - I have two heavy bags to carry.
-  - She always forgets her reusable bags at home.
-  - The airport lost my bags during the flight.
-walls /wɔːlz/ => muros/paredes [B1]
-  - The walls of the living room are painted light blue.
-  - The ancient city was protected by high stone walls.
-  - He hung several beautiful paintings on his office walls.
-beliefs /bɪˈliːfs/ => creencias [B2]
-  - People in the UK are free to follow their own beliefs.
-  - It is important to stay true to your beliefs, even when others disagree with you.
-  - The festival is a celebration of the diverse cultural beliefs found within the community.
-causes /ˈkɔːzɪz/ => causas/motivos [B2]
-  - People volunteer to support local causes.
-  - Many people donate money to charitable causes that help protect the environment.
-  - The report explains the main causes of the delay.
