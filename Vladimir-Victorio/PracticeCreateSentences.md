@@ -66,3 +66,4 @@ Correct: You get what you give
 
 - Let's catch up tomorrow
 - The temperature has been really high this Summer
+- Hello Fleur, do I need to speak Dutch to work in the Netherlands, or is English sufficient?

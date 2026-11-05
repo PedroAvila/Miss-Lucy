@@ -73,15 +73,15 @@ los temas B2 se irán agregando conforme se cubra el checklist gramatical de B1.
    *(¿Cómo ha cambiado tu rutina comparada con hace unos años?)*
 
 **Respuestas de ejemplo (adapta a tu caso real):**
-1. "I work as a [profession]. I've been doing it for [time]."
+1. "I work as a Software Engineer."
    /aɪ wɜːk əz ə [...] aɪv bɪn ˈduːɪŋ ɪt fə [...]/
-2. "I usually wake up around [hour], then I [get ready / have breakfast], and I start working at [hour]."
+2. "I usually wake up around 7:00 am, then I get ready have breakfast, and I start working at 9:00 am."
    /aɪ ˈjuːʒʊəli weɪk ʌp əˈraʊnd [...] ðen aɪ [...] ənd aɪ stɑːt ˈwɜːkɪŋ ət [...]/
-3. "I've been doing this job for about [X years], so I'm pretty used to it by now."
+3. "I've been doing this job for about more than fifteen years ago, so I'm pretty used to it by now."
    /aɪv bɪn ˈduːɪŋ ðɪs dʒɒb fər əˈbaʊt [...] səʊ aɪm ˈprɪti juːst tə ɪt baɪ naʊ/
 4. "What I like most is [...], but the hardest part is definitely [...]."
    /wɒt aɪ laɪk məʊst ɪz [...] bət ðə ˈhɑːdɪst pɑːt ɪz ˈdefɪnətli [...]/
-5. "If I could change careers, I think I'd try [...], because [...]."
+5. "If I could change careers, I think I'd become a sniper to rid humanity of bad people."
    /ɪf aɪ kʊd tʃeɪndʒ kəˈrɪəz aɪ θɪŋk aɪd traɪ [...] bɪˈkɒz [...]/
 6. "A few years ago I used to [...], but now I [...] instead."
    /ə fjuː jɪəz əˈgəʊ aɪ ˈjuːst tə [...] bət naʊ aɪ [...] ɪnˈsted/
